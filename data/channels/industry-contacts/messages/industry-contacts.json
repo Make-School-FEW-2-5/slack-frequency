@@ -1,0 +1,4329 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554531061.007300", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554408195.004000", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "B3721529-967B-4857-8926-ED6BDB117C73", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF", 
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6XDGCKFF", 
+          "U1HBKMW8Y", 
+          "UCB8YJNBT", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "jeff", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCBHQSTB6", 
+          "U1HBKMW8Y", 
+          "UCB8YJNBT", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "<@UCMTPELBC> belated thanks for organizing mock interviews last week! Really great experience and opportunity to connect with engineers in a more personal setting", 
+    "ts": "1554244971.010400", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBP3BYTW", 
+    "ts": "1553906286.000300", 
+    "text": "<@UCBP3BYTW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1553308165.003000", 
+    "text": "<@U6WMDD6U8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1553307916.002800", 
+    "text": "<@U6X9KPH7C> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1553307674.002600", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHKG1RQ", 
+    "ts": "1553307449.002400", 
+    "text": "<@U6YHKG1RQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307373.002200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2B6Q2SVB", 
+    "ts": "1553307189.002000", 
+    "text": "<@U2B6Q2SVB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XRWEQGY", 
+    "ts": "1553307103.001800", 
+    "text": "<@U6XRWEQGY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YD3BYBD", 
+    "ts": "1553306926.001600", 
+    "text": "<@U6YD3BYBD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1553306887.001400", 
+    "text": "<@U264ANGAE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1553306806.001200", 
+    "text": "<@U6XV0FFEW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1551895848.003200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550549182.016000", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1549476739.002200", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1548871731.007400", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1548790098.006200", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UFHMAU6Q3", 
+    "ts": "1547853745.009800", 
+    "text": "<@UFHMAU6Q3> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1544750779.008400", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650542.005200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1543542113.003500", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1543389053.002300", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1542666176.028100", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1542220448.017900", 
+    "text": "<@U6XCTHTQQ> has left the channel"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1542081172.015100", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1542081172.014900", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1542081172.014700", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1542081172.014400", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1542081172.014200", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1542081172.014000", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1542081104.013400", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1542081104.013000", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1542081104.012700", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1542081104.012300", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1542081104.012000", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1542081104.011800", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1542081104.011600", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1542081104.011400", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1542081104.011000", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1542081103.010400", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1542081103.010200", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1542081103.010000", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1542081103.009600", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1542081103.009300", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1542081103.009000", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1542081103.008700", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBP3BYTW> has joined the channel", 
+    "ts": "1542081103.008500", 
+    "subtype": "channel_join", 
+    "user": "UCBP3BYTW", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1542081103.008300", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1542081103.008100", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1542081103.007900", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1542081103.007600", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1542081102.007300", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1542081102.006800", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1542081102.006600", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1542081102.006300", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1542081102.006100", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1542081102.005900", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB3XNQFJ> has joined the channel", 
+    "ts": "1542081101.005500", 
+    "subtype": "channel_join", 
+    "user": "UCB3XNQFJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> has joined the channel", 
+    "ts": "1542081101.005200", 
+    "subtype": "channel_join", 
+    "user": "UCC4RUF4M", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1542081101.005000", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1542080863.004700", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1542080855.004400", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1542080844.004100", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1542080836.003800", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHMLWEQ> has joined the channel", 
+    "ts": "1542080824.003500", 
+    "subtype": "channel_join", 
+    "user": "UCBHMLWEQ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1542080786.003200", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1542080769.002900", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDDKQ65> has joined the channel", 
+    "ts": "1542080759.002600", 
+    "subtype": "channel_join", 
+    "user": "UCBDDKQ65", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCCRX3BB9> has joined the channel", 
+    "ts": "1542080749.002300", 
+    "subtype": "channel_join", 
+    "user": "UCCRX3BB9", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1542080737.002000", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1542080725.001700", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1542080705.001200", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1541710292.000800", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCMTPELBC> has joined the channel", 
+    "ts": "1541710291.000600", 
+    "subtype": "channel_join", 
+    "user": "UCMTPELBC", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1541710291.000400", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1541710291.000200", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1540326467.000200", 
+    "text": "<@U6XDKSREZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1540315310.000200", 
+    "text": "<@U6YFC7074> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1540241817.000200", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMF5THV", 
+    "ts": "1540089881.000200", 
+    "text": "<@U6YMF5THV> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1539972573.000200", 
+    "text": "<@U8M6VPKUZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4TPF5K", 
+    "ts": "1537202406.000200", 
+    "text": "<@UCC4TPF5K> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1536914977.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1536770447.000200", 
+    "text": "<@U6YCJRXGF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1535462963.000200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1535320460.000200", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1534889307.000200", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1530892311.000323", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "df4301c9-a7e4-4e7f-9e1c-52fe1df7a057", 
+    "text": "Looking for a quick coffee to connect with a junior Lyft engineer this summer?\nBamidele Suarau just signed up to meet YOU. Ping me if you want his email.\n<https://www.linkedin.com/in/bamidelesuarau/>\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1530892310.000355"
+  }, 
+  {
+    "name": "industry-contacts", 
+    "text": "<@U298FAPT7> has renamed the channel from \"mentorship\" to \"industry-contacts\"", 
+    "ts": "1529514691.000628", 
+    "subtype": "channel_name", 
+    "user": "U298FAPT7", 
+    "old_name": "mentorship", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1528760002.000227", 
+    "text": "<@U6WRNH1JM> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6Y6KU78W", 
+          "U6YMU9QCF", 
+          "U1YM6H8MA", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1528127099.000000"
+    }, 
+    "text": "Don\u2019t forget to stay in touch with your mentor(s). They helped you get where you are and will appreciated learning of your summer and work plans. Keep your mentorships alive and well. Find time during the summer to meet for coffee or choose a new mentor at your new place of work or the mentor spreadsheet.", 
+    "ts": "1528047936.000053", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1527041049.000078", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1527030627.000146", 
+    "text": "<@U6YV4A45C> has left the channel"
+  }, 
+  {
+    "text": "ALSO  where ya been?", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1527026235.000286"
+  }, 
+  {
+    "text": "aaaaaaye", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1527026229.000087"
+  }, 
+  {
+    "client_msg_id": "D344913D-A61A-4895-800C-57EE275B08E5", 
+    "text": "I met my first mentor/ internship he is the CTO of <http://Spatially.com|Spatially.com>", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1527025314.000371"
+  }, 
+  {
+    "text": "Nice <@U6YP200VB>! Thanks for the update", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1522180332.000397"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1522179558.000629", 
+    "text": "I met with one of my mentors yesterday in the evening for an hour. She does a lot of the technical interviews at her company. She helped me go through some technical interview problems and gave me some insight into what they look for in candidates."
+  }, 
+  {
+    "text": "Thanks <@U298FAPT7>! Great opportunity to do informational interviews, even if you aren\u2019t interested in working at the company. Just a great way to learn about the working world.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1522172026.000455"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1522146613.000272", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<!here> Remember to invite your mentors to Demo Night and sign up for additional/new ones as desired.  We had a few mentors recently join the list including a product designer from Facebook.\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1522146613.000003"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7", 
+          "U2B6Q2SVB"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1521567399.000505", 
+    "text": "Shout out to <@U2B6Q2SVB> for scheduling 4+ informational interviews with engineers at companies. He\u2019s got a great approach - reach out to him if you want support."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "100", 
+        "users": [
+          "U1YM6H8MA", 
+          "U2C90LDS9", 
+          "U6Y6KU78W", 
+          "U74A620U8", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "make-school", 
+        "users": [
+          "U1YM6H8MA", 
+          "U2C90LDS9", 
+          "U6Y6KU78W", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "clap", 
+        "users": [
+          "U1YM6H8MA", 
+          "U2C90LDS9", 
+          "U6Y6KU78W", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "U1YM6H8MA", 
+          "U2C90LDS9", 
+          "U6Y6KU78W", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1521066995.000167", 
+    "text": "Make use of this opportunity NOW while you are still at Make School."
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> great job making use of the resources at Make School. <@U298FAPT7>, myself, and the Make School staff are all waiting to connect you with professionals for informational interviews - all you have to do is search our mutual connections on LinkedIn and our mentorship list. And ask :wink:", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1521066969.000093"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U6YBN8NJ2", 
+          "U2C90LDS9", 
+          "U6YMU9QCF", 
+          "U1YM6H8MA", 
+          "U72SB0WG6", 
+          "U6Y6KU78W", 
+          "U74A620U8"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1521059168.000548", 
+    "text": "Braus helped me connect with a design technologist at Airbnb for their summer internship program. The design technologist is recommending me and tracking my progress."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7", 
+          "U6XJLPQ9Y", 
+          "U6XV0FFEW", 
+          "U6YMU9QCF", 
+          "U6YMF5THV", 
+          "U6XRWEQGY", 
+          "U6YBN8NJ2"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1520980965.000318", 
+    "text": "Hi everyone, I reached out to a Senior Engineer at Twitter that I met through a non-profit that I am involved with and I am having lunch with them and a few of their colleagues next Tuesday at their HQ.  Thank you so much for the advice that you\u2019ve given us Dan and Susan, it was very instrumental in this happening!   :dancing_penguin:"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "grin", 
+        "users": [
+          "U6YCJRXGF", 
+          "U6YBN8NJ2"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1520980856.000394", 
+    "text": "Shout out to <@U6YCJRXGF> for scheduling an informational interview!"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1520907050.000261", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "On the hunt for a good mentor match? Check out the full list and choose a new one to reach out to. We\u2019ve added a bunch in the past few weeks.\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1520907050.000006"
+  }, 
+  {
+    "client_msg_id": "f1198bb1-706e-4f9b-a2a5-bfe7f344a448", 
+    "thread_ts": "1520606096.000373", 
+    "text": "Twitch!", 
+    "ts": "1520608730.000055", 
+    "user": "U6XV0FFEW", 
+    "parent_user_id": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1520606096.000373", 
+    "latest_reply": "1520608730.000055", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XV0FFEW"
+    ], 
+    "text": "great! what company?", 
+    "ts": "1520606096.000373", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U298FAPT7", 
+    "replies": [
+      {
+        "user": "U6XV0FFEW", 
+        "ts": "1520608730.000055"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "ok_hand::skin-tone-5", 
+        "users": [
+          "U6YBN8NJ2", 
+          "U6YMU9QCF", 
+          "U6YFF5B50", 
+          "U1YM6H8MA", 
+          "U6YV4A45C", 
+          "U6YMF5THV", 
+          "U2C90LDS9", 
+          "U6XJLPQ9Y", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pineapple", 
+        "users": [
+          "U6YMF5THV", 
+          "U2C90LDS9", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1520576532.000010", 
+    "text": "Hey everyone! I reached out to someone at one of my dream companies the other day and he gave me some really valuable information about the company and their internship program! I found him by just looking up the company on LinkedIn and looking for someone who I had a mutual connection with (in this case, Braus) and then asking him if he could connect us. After getting the engineer's email from Braus, I wrote him a brief email with a couple of questions and he got back to me the next day. I really encourage everyone to do the same, I kind of just did it on a whim and it only took ten minutes but I'm really glad I did it!"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WQK3Q73", 
+    "ts": "1520542887.000623", 
+    "text": "<@U6WQK3Q73> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1519339014.000281", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1518483775.000294", 
+    "text": "<@U8M6V7F3K> has left the channel"
+  }, 
+  {
+    "text": "<@U2481KKBM> has joined the channel", 
+    "ts": "1517618076.000059", 
+    "subtype": "channel_join", 
+    "user": "U2481KKBM", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U74A620U8> has joined the channel", 
+    "ts": "1517618076.000048", 
+    "subtype": "channel_join", 
+    "user": "U74A620U8", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "U6YP200VB", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U2C90LDS9", 
+          "U8M6VPKUZ"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1517547394.000170", 
+    "text": "I met with my mentor and did a code review a week ago, he\u2019s the lead IOS engineer at handshake. he inspired me on how to better organize my code and write cleaner code, and made me feel more positive about  job searching."
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6XDV6CVA", 
+        "is_msg_unfurl": true, 
+        "text": "Hey everyone. I met with my mentor who\u2019s a senior PM. Her strong suit is using data in decision-making. She shared how she performed data analysis to gain market insights in her work. She\u2019s very smart and resourceful. We will meet once a month for our mentoring session.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Melody Yang", 
+        "ts": "1516173562.000167", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Melody Yang", 
+        "author_id": "U6XDV6CVA", 
+        "author_icon": "https://avatars.slack-edge.com/2017-09-02/236504471559_00826d4348c1cde234d5_48.jpg", 
+        "fallback": "[January 16th, 2018 11:19 PM] melodyyang: Hey everyone. I met with my mentor who\u2019s a senior PM. Her strong suit is using data in decision-making. She shared how she performed data analysis to gain market insights in her work. She\u2019s very smart and resourceful. We will meet once a month for our mentoring session."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U6X9L8VAN> pinned a message to this channel.", 
+    "ts": "1517431265.000049", 
+    "item_type": "C", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YP200VB", 
+        "is_msg_unfurl": true, 
+        "text": "Hello everyone. I met with my original mentor before Open House. She was really nice and knowledgable, however I got the feeling it wasn\u2019t the right fit for either of us. We had a great discussion about EdTech, and the state of education in general. By the end of the discussion she mentioned a colleague at her company that she thought I should meet. She came to the open house, and to my knowledge is still interested in getting mentees. \n\nToday I reached out to another mentor, and he emailed me back immediately. We scheduled a meeting for next week. Moral of the story, keep trying until you find a mentor that works for you!", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Phyllis Wong", 
+        "ts": "1516149669.000093", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Phyllis Wong", 
+        "author_id": "U6YP200VB", 
+        "author_icon": "https://avatars.slack-edge.com/2017-09-05/235999573840_e7e4bd7db6a597f32e8d_48.png", 
+        "fallback": "[January 16th, 2018 4:41 PM] phyllis: Hello everyone. I met with my original mentor before Open House. She was really nice and knowledgable, however I got the feeling it wasn\u2019t the right fit for either of us. We had a great discussion about EdTech, and the state of education in general. By the end of the discussion she mentioned a colleague at her company that she thought I should meet. She came to the open house, and to my knowledge is still interested in getting mentees. \n\nToday I reached out to another mentor, and he emailed me back immediately. We scheduled a meeting for next week. Moral of the story, keep trying until you find a mentor that works for you!"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U6X9L8VAN> pinned a message to this channel.", 
+    "ts": "1517431242.000138", 
+    "item_type": "C", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U1YM6H8MA", 
+        "is_msg_unfurl": true, 
+        "text": "I met with my mentor a few weeks and wanted to share a few things about the experience.  My mentor is a C++ engineer who has worked at Lucas Arts and Google (Google Earth/Youtube) for the past 15 years and has two companies that make IOT products. \n\nThe first thing we went over were his thoughts on the big picture approach to growing my career as an engineer.  He went through a couple of different career paths that he believes are going to be an endless field of opportunity for burgeoning engineers.\n    1. Machine Learning/AI :nerd_face:\n    2. Blockchain/Cryptocurrencies :thinking_face:\n    3. Advanced marketing and SEO technologies (Yawn :sleeping:)\n    4. Security and Dev Ops (Yawn :sleeping:)\n\nThe next part of our meeting I asked him to look at my resume and LinkedIn for feedback for improvement.  He helped me see places where I had used descriptors of myself and/or involvement on certain projects that were vague, and just general niceities that don\u2019t demonstrate my true abilities or potential as an engineer.  On projects that I worked on where I built something from end to end, it\u2019s better to speak specifically about the measurable value you brought in your working on the project/problem you solved than to just be vague and say you built everything.  He also suggested that I research and use industry jargon for the field I\u2019m going into in my descriptions.  He also suggested that I summarize my portfolio in my bio at the top of my LinkedIn to show what I\u2019m all about right up front rather than making them scroll down. Put what you can do right up front in a neat and concise way.\n\nOverall some great tips.  Hope they are helpful to you as well.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Tassos Lambrou", 
+        "ts": "1517431084.000044", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Tassos Lambrou", 
+        "author_id": "U1YM6H8MA", 
+        "author_icon": "https://avatars.slack-edge.com/2016-12-16/117202520433_b6dd9a6acabc71df2385_48.jpg", 
+        "fallback": "[January 31st, 2018 12:38 PM] tlambrou: I met with my mentor a few weeks and wanted to share a few things about the experience.  My mentor is a C++ engineer who has worked at Lucas Arts and Google (Google Earth/Youtube) for the past 15 years and has two companies that make IOT products. \n\nThe first thing we went over were his thoughts on the big picture approach to growing my career as an engineer.  He went through a couple of different career paths that he believes are going to be an endless field of opportunity for burgeoning engineers.\n    1. Machine Learning/AI :nerd_face:\n    2. Blockchain/Cryptocurrencies :thinking_face:\n    3. Advanced marketing and SEO technologies (Yawn :sleeping:)\n    4. Security and Dev Ops (Yawn :sleeping:)\n\nThe next part of our meeting I asked him to look at my resume and LinkedIn for feedback for improvement.  He helped me see places where I had used descriptors of myself and/or involvement on certain projects that were vague, and just general niceities that don\u2019t demonstrate my true abilities or potential as an engineer.  On projects that I worked on where I built something from end to end, it\u2019s better to speak specifically about the measurable value you brought in your working on the project/problem you solved than to just be vague and say you built everything.  He also suggested that I research and use industry jargon for the field I\u2019m going into in my descriptions.  He also suggested that I summarize my portfolio in my bio at the top of my LinkedIn to show what I\u2019m all about right up front rather than making them scroll down. Put what you can do right up front in a neat and concise way.\n\nOverall some great tips.  Hope they are helpful to you as well."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517431089.000532", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "U72SB0WG6", 
+          "U2C90LDS9", 
+          "U298FAPT7", 
+          "U8NHWGBGW", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "I met with my mentor a few weeks and wanted to share a few things about the experience.  My mentor is a C++ engineer who has worked at Lucas Arts and Google (Google Earth/Youtube) for the past 15 years and has two companies that make IOT products. \n\nThe first thing we went over were his thoughts on the big picture approach to growing my career as an engineer.  He went through a couple of different career paths that he believes are going to be an endless field of opportunity for burgeoning engineers.\n    1. Machine Learning/AI :nerd_face:\n    2. Blockchain/Cryptocurrencies :thinking_face:\n    3. Advanced marketing and SEO technologies (Yawn :sleeping:)\n    4. Security and Dev Ops (Yawn :sleeping:)\n\nThe next part of our meeting I asked him to look at my resume and LinkedIn for feedback for improvement.  He helped me see places where I had used descriptors of myself and/or involvement on certain projects that were vague, and just general niceities that don\u2019t demonstrate my true abilities or potential as an engineer.  On projects that I worked on where I built something from end to end, it\u2019s better to speak specifically about the measurable value you brought in your working on the project/problem you solved than to just be vague and say you built everything.  He also suggested that I research and use industry jargon for the field I\u2019m going into in my descriptions.  He also suggested that I summarize my portfolio in my bio at the top of my LinkedIn to show what I\u2019m all about right up front rather than making them scroll down. Put what you can do right up front in a neat and concise way.\n\nOverall some great tips.  Hope they are helpful to you as well.", 
+    "pinned_info": {
+      "pinned_ts": 1517431089, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1517431084.000044", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6XV0FFEW", 
+        "is_msg_unfurl": true, 
+        "text": "I met with my mentor on Friday and she was very understanding and approachable. We talked about her experience in tech from both an engineering and a business standpoint, and she relieved a lot of my concerns about starting work as an engineer. She mentioned that it's harder to get a job in tech than it actually is to work in tech, which is something I was really concerned about.\n\nIt took a few emails to reach her, so I'm really glad I followed through even though I was hesitant to do so at first. And, not surprisingly, she emphasized the importance of networking in getting your first job!", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Alirie Gray", 
+        "ts": "1517366357.000367", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Alirie Gray", 
+        "author_id": "U6XV0FFEW", 
+        "author_icon": "https://avatars.slack-edge.com/2018-02-26/322131736406_f011566a43a44e805dee_48.jpg", 
+        "fallback": "[January 30th, 2018 6:39 PM] alirie: I met with my mentor on Friday and she was very understanding and approachable. We talked about her experience in tech from both an engineering and a business standpoint, and she relieved a lot of my concerns about starting work as an engineer. She mentioned that it's harder to get a job in tech than it actually is to work in tech, which is something I was really concerned about.\n\nIt took a few emails to reach her, so I'm really glad I followed through even though I was hesitant to do so at first. And, not surprisingly, she emphasized the importance of networking in getting your first job!"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430661.000810", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YP200VB", 
+        "is_msg_unfurl": true, 
+        "text": "I met with my second mentor last week on Thursday. He is a senior UI engineer at Netflix. We had the BEST conversation. He let me know about his career trajectory, and was very open about what it took for him to get where he is today. He is super enthusiastic about mentoring Make School students. By the end of our conversation we agreed to stay in touch and meet on a monthly basis. Even though his main languages are JavaScript, CSS, and HTML, he offered to give me code reviews and user testing feedback on any projects I am working on.\n\nSome key takeaways: all of the jobs he has had as a developer, he got because someone he knew recommended him for an interview. Every night after work, he pushed himself to level up. In the beginning, he offered trades (I build your website, for x-product you are selling). As soon as he had a few quality products in his portfolio, he landed his first developer position.\n\nI feel grateful that we got to meet. If you are having trouble getting a mentor that is a good fit for you, don\u2019t be nervous about reaching out and asking for help.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Phyllis Wong", 
+        "ts": "1517357561.000070", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Phyllis Wong", 
+        "author_id": "U6YP200VB", 
+        "author_icon": "https://avatars.slack-edge.com/2017-09-05/235999573840_e7e4bd7db6a597f32e8d_48.png", 
+        "fallback": "[January 30th, 2018 4:12 PM] phyllis: I met with my second mentor last week on Thursday. He is a senior UI engineer at Netflix. We had the BEST conversation. He let me know about his career trajectory, and was very open about what it took for him to get where he is today. He is super enthusiastic about mentoring Make School students. By the end of our conversation we agreed to stay in touch and meet on a monthly basis. Even though his main languages are JavaScript, CSS, and HTML, he offered to give me code reviews and user testing feedback on any projects I am working on.\n\nSome key takeaways: all of the jobs he has had as a developer, he got because someone he knew recommended him for an interview. Every night after work, he pushed himself to level up. In the beginning, he offered trades (I build your website, for x-product you are selling). As soon as he had a few quality products in his portfolio, he landed his first developer position.\n\nI feel grateful that we got to meet. If you are having trouble getting a mentor that is a good fit for you, don\u2019t be nervous about reaching out and asking for help."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430657.000730", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6XCP1NLU", 
+        "is_thread_root_unfurl": true, 
+        "text": "Managed to talk with two mentors.\nOne used to be a Director of Software Engineering for Google Home + Motorola. Talked about video encoding, then segued to what he looks for in the software engineers he\u2019s managing. Turns out, having them do something they actually care about about does wonders on morale, productivity, and just general growth. Encouragement on things that don\u2019t seem tried and true also goes a long way. Seems like a given, but hey, you\u2019d be surprised. \n\nAnother used to be a mobile instructor for Make School and is now working at Coursera as a front-end dev. Things don\u2019t always go the way you expect, but sometimes it can lead to something you wouldn\u2019t expect to enjoy. Something to take to heart, really.\n\nIntimidating at first to call professionals, but they\u2019re typically pretty chill. Just have at it and remember they were in the same spot we were before.", 
+        "ts": "1517357049.000349", 
+        "author_name": "Ferdinand Cruz", 
+        "channel_name": "industry-contacts", 
+        "channel_id": "C7ZJVPFU3", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Ferdinand Cruz", 
+        "author_id": "U6XCP1NLU", 
+        "author_icon": "https://avatars.slack-edge.com/2018-06-27/389330294482_6123ffc9e6eb50d78207_48.jpg", 
+        "fallback": "[January 30th, 2018 4:04 PM] fcruz: Managed to talk with two mentors.\nOne used to be a Director of Software Engineering for Google Home + Motorola. Talked about video encoding, then segued to what he looks for in the software engineers he\u2019s managing. Turns out, having them do something they actually care about about does wonders on morale, productivity, and just general growth. Encouragement on things that don\u2019t seem tried and true also goes a long way. Seems like a given, but hey, you\u2019d be surprised. \n\nAnother used to be a mobile instructor for Make School and is now working at Coursera as a front-end dev. Things don\u2019t always go the way you expect, but sometimes it can lead to something you wouldn\u2019t expect to enjoy. Something to take to heart, really.\n\nIntimidating at first to call professionals, but they\u2019re typically pretty chill. Just have at it and remember they were in the same spot we were before."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430653.000549", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 39622, 
+        "title": "Three Better Ways To Network In 2018", 
+        "service_name": "Fast Company", 
+        "ts": 1516815023, 
+        "title_link": "https://www.fastcompany.com/40520003/three-better-ways-to-network-in-2018", 
+        "image_height": 250, 
+        "image_url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/01/p-1-three-better-ways-to-network-in-2018.jpg", 
+        "image_width": 444, 
+        "text": "Because \u201clet\u2019s grab a coffee\u201d isn\u2019t the most creative\u2013or scalable\u2013tactic out there.", 
+        "fallback": "Fast Company: Three Better Ways To Network In 2018", 
+        "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=2", 
+        "id": 1
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430647.000701", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U2C90LDS9", 
+        "is_msg_unfurl": true, 
+        "text": "For the seniors - here\u2019s the old template we used to reach out to mentors on the mentorship list:\n\nTemplate:\n\n\u201cHi Jane,\nMy name is Susan and I\u2019m an engineering student at Make School\u2019s Product College. I\u2019m excited you are looking to mentor students in my class. I checked out your LinkedIn Profile and think I\u2019d get a lot out meeting 1:1 for brief coffee and learning more about your work at X Company. I\u2019d love to get your advice on my projects and the start of my job hunt.\n\nI\u2019d be happy to go to you and meet at your offices or nearby. Please let me know what\u2019s convenient for you. I\u2019m typically available Tues and Thurs from 4pm to 7pm.\n\nThank you,\nSusan\n<tel:908-799-7730|908-799-7730>\n[Linkedin]\u201d", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Dan Morse [SPD]", 
+        "ts": "1516818434.000846", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dan Morse [SPD]", 
+        "author_id": "U2C90LDS9", 
+        "author_icon": "https://avatars.slack-edge.com/2017-04-03/163978788900_fea6b2b603e98522a70e_48.jpg", 
+        "fallback": "[January 24th, 2018 10:27 AM] danmorse: For the seniors - here\u2019s the old template we used to reach out to mentors on the mentorship list:\n\nTemplate:\n\n\u201cHi Jane,\nMy name is Susan and I\u2019m an engineering student at Make School\u2019s Product College. I\u2019m excited you are looking to mentor students in my class. I checked out your LinkedIn Profile and think I\u2019d get a lot out meeting 1:1 for brief coffee and learning more about your work at X Company. I\u2019d love to get your advice on my projects and the start of my job hunt.\n\nI\u2019d be happy to go to you and meet at your offices or nearby. Please let me know what\u2019s convenient for you. I\u2019m typically available Tues and Thurs from 4pm to 7pm.\n\nThank you,\nSusan\n<tel:908-799-7730|908-799-7730>\n[Linkedin]\u201d"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430640.000094", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U8NHWRX0W", 
+        "is_msg_unfurl": true, 
+        "text": "Hey guys/gals, I just had THE BEST conversation with a Core UI Engineer at Google. Some good take-aways: \n\nThe work doesn\u2019t stop when you sell out to a corporate giant like Pandora, Facebook, Apple, or Google. That opens up a world of possibilities and may be the beginning, not the end, of your career in software.\n\nDon\u2019t be afraid to learn the culture of those who are around you. You and your team can only benefit by seeking out perspectives on how workplace solutions and your communication may affect others. \n\nBe relentless about what you want, and go get it. There are no half measures.\n\nRemember to reach out to your mentors and have a genuine conversation with them. It will definitely keep you motivated to be great.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Parnell Kelley", 
+        "ts": "1516310292.000866", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Parnell Kelley", 
+        "author_id": "U8NHWRX0W", 
+        "author_icon": "https://avatars.slack-edge.com/2018-01-05/295104584005_e54e710b3438ee6e1117_48.png", 
+        "fallback": "[January 18th, 2018 1:18 PM] parnell.kelley: Hey guys/gals, I just had THE BEST conversation with a Core UI Engineer at Google. Some good take-aways: \n\nThe work doesn\u2019t stop when you sell out to a corporate giant like Pandora, Facebook, Apple, or Google. That opens up a world of possibilities and may be the beginning, not the end, of your career in software.\n\nDon\u2019t be afraid to learn the culture of those who are around you. You and your team can only benefit by seeking out perspectives on how workplace solutions and your communication may affect others. \n\nBe relentless about what you want, and go get it. There are no half measures.\n\nRemember to reach out to your mentors and have a genuine conversation with them. It will definitely keep you motivated to be great."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430634.000178", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U2C90LDS9", 
+        "is_msg_unfurl": true, 
+        "text": "Thanks for the great session! \n1. Template message:", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Dan Morse [SPD]", 
+        "ts": "1516222997.000034", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dan Morse [SPD]", 
+        "author_id": "U2C90LDS9", 
+        "author_icon": "https://avatars.slack-edge.com/2017-04-03/163978788900_fea6b2b603e98522a70e_48.jpg", 
+        "fallback": "[January 17th, 2018 1:03 PM] danmorse: Thanks for the great session! \n1. Template message:"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430628.000372", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U2C90LDS9", 
+        "is_msg_unfurl": true, 
+        "text": "3. Please send your emails by end of day\n4. Message Dan or Susan if you\u2019d like feedback on your message. We\u2019ve sent hundreds of emails like these over the years, so we know a thing or two about effective messaging :slightly_smiling_face:", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Dan Morse [SPD]", 
+        "ts": "1516223226.000581", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dan Morse [SPD]", 
+        "author_id": "U2C90LDS9", 
+        "author_icon": "https://avatars.slack-edge.com/2017-04-03/163978788900_fea6b2b603e98522a70e_48.jpg", 
+        "fallback": "[January 17th, 2018 1:07 PM] danmorse: 3. Please send your emails by end of day\n4. Message Dan or Susan if you\u2019d like feedback on your message. We\u2019ve sent hundreds of emails like these over the years, so we know a thing or two about effective messaging :slightly_smiling_face:"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430621.000384", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned <@U2C90LDS9>\u2019s Plain Text <https://makeschoolstudents.slack.com/files/U2C90LDS9/F8UEH590C/Untitled.txt|Untitled> to this channel.", 
+    "ts": "1517430615.000680", 
+    "item_type": "F", 
+    "user": "U1YM6H8MA", 
+    "item": {
+      "filetype": "text", 
+      "lines_more": 5, 
+      "display_as_bot": false, 
+      "has_rich_preview": false, 
+      "id": "F8UEH590C", 
+      "size": 372, 
+      "title": "Untitled", 
+      "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F8UEH590C/Untitled.txt", 
+      "preview": "Subject: Quick Question\r\n\r\nHi Steve,\r\n\r\nI was wondering if I could interview you for no more than 5-10 minutes?\r", 
+      "external_type": "", 
+      "edit_link": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F8UEH590C/Untitled.txt/edit", 
+      "username": "", 
+      "timestamp": 1516223033, 
+      "public_url_shared": false, 
+      "editable": true, 
+      "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Subject: Quick Question</pre></div>\n<div><pre></pre></div>\n<div><pre>Hi Steve,</pre></div>\n<div><pre></pre></div>\n<div><pre>I was wondering if I could interview you for no more than 5-10 minutes?</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+      "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F8UEH590C/download/Untitled.txt", 
+      "user": "U2C90LDS9", 
+      "is_public": true, 
+      "is_starred": false, 
+      "pretty_type": "Plain Text", 
+      "is_external": false, 
+      "mimetype": "text/plain", 
+      "permalink_public": "https://slack-files.com/T1D4KRBR8-F8UEH590C-8186b4ef1f", 
+      "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F8UEH590C/Untitled.txt", 
+      "name": "Untitled.txt", 
+      "created": 1516223033, 
+      "lines": 10, 
+      "mode": "snippet", 
+      "preview_is_truncated": false
+    }, 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6XDV6CVA", 
+        "is_msg_unfurl": true, 
+        "text": "Hey everyone. I met with my mentor who\u2019s a senior PM. Her strong suit is using data in decision-making. She shared how she performed data analysis to gain market insights in her work. She\u2019s very smart and resourceful. We will meet once a month for our mentoring session.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Melody Yang", 
+        "ts": "1516173562.000167", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Melody Yang", 
+        "author_id": "U6XDV6CVA", 
+        "author_icon": "https://avatars.slack-edge.com/2017-09-02/236504471559_00826d4348c1cde234d5_48.jpg", 
+        "fallback": "[January 16th, 2018 11:19 PM] melodyyang: Hey everyone. I met with my mentor who\u2019s a senior PM. Her strong suit is using data in decision-making. She shared how she performed data analysis to gain market insights in her work. She\u2019s very smart and resourceful. We will meet once a month for our mentoring session."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430607.000200", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YP200VB", 
+        "is_msg_unfurl": true, 
+        "text": "Hello everyone. I met with my original mentor before Open House. She was really nice and knowledgable, however I got the feeling it wasn\u2019t the right fit for either of us. We had a great discussion about EdTech, and the state of education in general. By the end of the discussion she mentioned a colleague at her company that she thought I should meet. She came to the open house, and to my knowledge is still interested in getting mentees. \n\nToday I reached out to another mentor, and he emailed me back immediately. We scheduled a meeting for next week. Moral of the story, keep trying until you find a mentor that works for you!", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Phyllis Wong", 
+        "ts": "1516149669.000093", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Phyllis Wong", 
+        "author_id": "U6YP200VB", 
+        "author_icon": "https://avatars.slack-edge.com/2017-09-05/235999573840_e7e4bd7db6a597f32e8d_48.png", 
+        "fallback": "[January 16th, 2018 4:41 PM] phyllis: Hello everyone. I met with my original mentor before Open House. She was really nice and knowledgable, however I got the feeling it wasn\u2019t the right fit for either of us. We had a great discussion about EdTech, and the state of education in general. By the end of the discussion she mentioned a colleague at her company that she thought I should meet. She came to the open house, and to my knowledge is still interested in getting mentees. \n\nToday I reached out to another mentor, and he emailed me back immediately. We scheduled a meeting for next week. Moral of the story, keep trying until you find a mentor that works for you!"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430600.000465", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned <@U2C90LDS9>\u2019s GSuite Spreadsheet <https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018|PC Industry Contacts List 2018-2019> to this channel.", 
+    "ts": "1517430594.000354", 
+    "item_type": "F", 
+    "user": "U1YM6H8MA", 
+    "item": {
+      "thumb_480_w": 339, 
+      "filetype": "gsheet", 
+      "thumb_800_h": 1132, 
+      "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+      "display_as_bot": false, 
+      "thumb_800_w": 800, 
+      "id": "F7S87GEP5", 
+      "thumb_480_h": 480, 
+      "original_h": 1449, 
+      "thumb_360_w": 254, 
+      "title": "PC Industry Contacts List 2018-2019", 
+      "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+      "thumb_720_h": 720, 
+      "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+      "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+      "thumb_720_w": 509, 
+      "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+      "thumb_360_h": 360, 
+      "size": 69351, 
+      "external_type": "gdrive", 
+      "username": "", 
+      "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+      "timestamp": 1509404563, 
+      "public_url_shared": false, 
+      "editable": false, 
+      "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+      "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+      "user": "U2C90LDS9", 
+      "image_exif_rotation": 1, 
+      "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+      "is_public": true, 
+      "is_starred": false, 
+      "pretty_type": "GSuite Spreadsheet", 
+      "is_external": true, 
+      "mimetype": "application/vnd.google-apps.spreadsheet", 
+      "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+      "name": "PC Mentor List 2017-2018", 
+      "created": 1509404563, 
+      "thumb_1024_h": 1024, 
+      "thumb_960_h": 960, 
+      "original_w": 1024, 
+      "thumb_960_w": 678, 
+      "thumb_1024_w": 724, 
+      "mode": "external", 
+      "has_rich_preview": true, 
+      "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+      "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+      "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+    }, 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6XDGCKFF", 
+        "is_thread_root_unfurl": true, 
+        "text": "Hey everyone, when I first spoke to my mentor I was excited to talk to him he told me about his times at Snapchat and what he did as a test engineer. It was nice talking to someone who is in industry due to it giving me some perspective on where I will be in the upcoming months hopefully. Alongside this he also told me what got him into mobile development as well as just everyday things he does to make him better at his craft!", 
+        "ts": "1515699483.000061", 
+        "author_name": "Matthew Harrilal", 
+        "channel_name": "industry-contacts", 
+        "channel_id": "C7ZJVPFU3", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Matthew Harrilal", 
+        "author_id": "U6XDGCKFF", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-27/425353649718_0b657263cd5c52b44672_48.jpg", 
+        "fallback": "[January 11th, 2018 11:38 AM] matthewharrilal1234: Hey everyone, when I first spoke to my mentor I was excited to talk to him he told me about his times at Snapchat and what he did as a test engineer. It was nice talking to someone who is in industry due to it giving me some perspective on where I will be in the upcoming months hopefully. Alongside this he also told me what got him into mobile development as well as just everyday things he does to make him better at his craft!"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430585.000731", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YMF5THV", 
+        "is_msg_unfurl": true, 
+        "text": "Hi everyone, my initial conversation with my mentor was via phone. We spoke for about an hour and a half. It was great. He is currently a product manager and has been for over 10 years. Since PM is a role I would like to transition to later in my career, I found it extremely valuable to gain useful information on how to best prepare for that transition. He encouraged me to contact him often and assured me I wouldn\u2019t be a bother. We are still in contact as he offers advice with UI design or career choices.", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Erik Perez", 
+        "ts": "1515650281.000246", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Erik Perez", 
+        "author_id": "U6YMF5THV", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-16/418168016082_786b65ce89a6184fb90e_48.jpg", 
+        "fallback": "[January 10th, 2018 9:58 PM] erik: Hi everyone, my initial conversation with my mentor was via phone. We spoke for about an hour and a half. It was great. He is currently a product manager and has been for over 10 years. Since PM is a role I would like to transition to later in my career, I found it extremely valuable to gain useful information on how to best prepare for that transition. He encouraged me to contact him often and assured me I wouldn\u2019t be a bother. We are still in contact as he offers advice with UI design or career choices."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430579.000463", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YHCA79U", 
+        "is_msg_unfurl": true, 
+        "text": "So yesterday I met my mentor and he was very interesting, his name is Nicholas and he is one of head security for Tesla (so besides testing the web browser of Tesla, we also test the new models of the cars that are not even out yet), the coolest thing about our meeting was that besides of hacking conversation we have a common interest is astrophysics, so we also had a long conversation about Spacex and since he works closely with Elon Musk he mention to me that the new falcon will be launch to space today\u2026 Also we talked about having biweekly meeting and keeping in touch with each others progress every week. I\u2019m really excited to continue meeting him and learning more about cyber security\u2026 So I know that some of the mentors have been a flake but a word of advice: \u201cPersist!\u201d", 
+        "channel_id": "C7ZJVPFU3", 
+        "author_name": "Briant (Elliot) Oliveira", 
+        "ts": "1515623498.000255", 
+        "channel_name": "industry-contacts", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Briant (Elliot) Oliveira", 
+        "author_id": "U6YHCA79U", 
+        "author_icon": "https://avatars.slack-edge.com/2019-01-11/522563280935_d4698b80c3fd4666edab_48.jpg", 
+        "fallback": "[January 10th, 2018 2:31 PM] elliotbriant: So yesterday I met my mentor and he was very interesting, his name is Nicholas and he is one of head security for Tesla (so besides testing the web browser of Tesla, we also test the new models of the cars that are not even out yet), the coolest thing about our meeting was that besides of hacking conversation we have a common interest is astrophysics, so we also had a long conversation about Spacex and since he works closely with Elon Musk he mention to me that the new falcon will be launch to space today\u2026 Also we talked about having biweekly meeting and keeping in touch with each others progress every week. I\u2019m really excited to continue meeting him and learning more about cyber security\u2026 So I know that some of the mentors have been a flake but a word of advice: \u201cPersist!\u201d"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1517430573.000325", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1517357049.000349", 
+    "text": "Your last paragraph is gold. Thank you.", 
+    "ts": "1517382074.000280", 
+    "user": "U6YMF5THV", 
+    "parent_user_id": "U6XCP1NLU", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "white_check_mark", 
+        "users": [
+          "U298FAPT7", 
+          "U6YP200VB", 
+          "U6YMU9QCF", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "I met with my mentor on Friday and she was very understanding and approachable. We talked about her experience in tech from both an engineering and a business standpoint, and she relieved a lot of my concerns about starting work as an engineer. She mentioned that it's harder to get a job in tech than it actually is to work in tech, which is something I was really concerned about.\n\nIt took a few emails to reach her, so I'm really glad I followed through even though I was hesitant to do so at first. And, not surprisingly, she emphasized the importance of networking in getting your first job!", 
+    "pinned_info": {
+      "pinned_ts": 1517430662, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1517366357.000367", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6XV0FFEW", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1516212110.000267", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "text": "I haven't gotten around to it, but I am doing it now.", 
+    "ts": "1517357592.000436", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U6YP200VB", 
+      "ts": "1517360818.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7", 
+          "U6XE4NNSZ", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "I met with my second mentor last week on Thursday. He is a senior UI engineer at Netflix. We had the BEST conversation. He let me know about his career trajectory, and was very open about what it took for him to get where he is today. He is super enthusiastic about mentoring Make School students. By the end of our conversation we agreed to stay in touch and meet on a monthly basis. Even though his main languages are JavaScript, CSS, and HTML, he offered to give me code reviews and user testing feedback on any projects I am working on.\n\nSome key takeaways: all of the jobs he has had as a developer, he got because someone he knew recommended him for an interview. Every night after work, he pushed himself to level up. In the beginning, he offered trades (I build your website, for x-product you are selling). As soon as he had a few quality products in his portfolio, he landed his first developer position.\n\nI feel grateful that we got to meet. If you are having trouble getting a mentor that is a good fit for you, don\u2019t be nervous about reaching out and asking for help.", 
+    "pinned_info": {
+      "pinned_ts": 1517430658, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1517357561.000070", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1517357049.000349", 
+    "latest_reply": "1517382074.000280", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YMF5THV"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "make-school", 
+        "users": [
+          "U6YP200VB", 
+          "U6YMU9QCF", 
+          "U298FAPT7", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pineapple", 
+        "users": [
+          "U6YMF5THV", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "Managed to talk with two mentors.\nOne used to be a Director of Software Engineering for Google Home + Motorola. Talked about video encoding, then segued to what he looks for in the software engineers he\u2019s managing. Turns out, having them do something they actually care about about does wonders on morale, productivity, and just general growth. Encouragement on things that don\u2019t seem tried and true also goes a long way. Seems like a given, but hey, you\u2019d be surprised. \n\nAnother used to be a mobile instructor for Make School and is now working at Coursera as a front-end dev. Things don\u2019t always go the way you expect, but sometimes it can lead to something you wouldn\u2019t expect to enjoy. Something to take to heart, really.\n\nIntimidating at first to call professionals, but they\u2019re typically pretty chill. Just have at it and remember they were in the same spot we were before.", 
+    "pinned_info": {
+      "pinned_ts": 1517430653, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1517357049.000349", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6XCP1NLU", 
+    "replies": [
+      {
+        "user": "U6YMF5THV", 
+        "ts": "1517382074.000280"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU", 
+          "U6YMU9QCF", 
+          "U6XJLPQ9Y", 
+          "U6Y6KU78W", 
+          "U6X9KPH7C"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6Y6KU78W", 
+          "U6YMU9QCF", 
+          "U6YP200VB", 
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 39622, 
+        "title": "Three Better Ways To Network In 2018", 
+        "service_name": "Fast Company", 
+        "ts": 1516815023, 
+        "title_link": "https://www.fastcompany.com/40520003/three-better-ways-to-network-in-2018", 
+        "image_height": 250, 
+        "image_url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/01/p-1-three-better-ways-to-network-in-2018.jpg", 
+        "image_width": 444, 
+        "text": "Because \u201clet\u2019s grab a coffee\u201d isn\u2019t the most creative\u2013or scalable\u2013tactic out there.", 
+        "from_url": "https://www.fastcompany.com/40520003/three-better-ways-to-network-in-2018", 
+        "fallback": "Fast Company: Three Better Ways To Network In 2018", 
+        "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=2", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.fastcompany.com/40520003/three-better-ways-to-network-in-2018>", 
+    "pinned_info": {
+      "pinned_ts": 1517430648, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516984351.000266", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "U1YM6H8MA", 
+          "U6WQK3Q73", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1516818831.000107", 
+    "text": "\u2026\nShout out to <@U6WQK3Q73>, <@U6XV0FFEW> and <@U6XCP1NLU> for scheduling meetings with their mentor. #PersistancePaysOff"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "text": "For the seniors - here\u2019s the old template we used to reach out to mentors on the mentorship list:\n\nTemplate:\n\n\u201cHi Jane,\nMy name is Susan and I\u2019m an engineering student at Make School\u2019s Product College. I\u2019m excited you are looking to mentor students in my class. I checked out your LinkedIn Profile and think I\u2019d get a lot out meeting 1:1 for brief coffee and learning more about your work at X Company. I\u2019d love to get your advice on my projects and the start of my job hunt.\n\nI\u2019d be happy to go to you and meet at your offices or nearby. Please let me know what\u2019s convenient for you. I\u2019m typically available Tues and Thurs from 4pm to 7pm.\n\nThank you,\nSusan\n<tel:908-799-7730|908-799-7730>\n[Linkedin]\u201d", 
+    "pinned_info": {
+      "pinned_ts": 1517430640, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516818434.000846", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U8NHWRX0W", 
+      "ts": "1516311739.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "heart", 
+        "users": [
+          "U6YV4A45C", 
+          "U6X9KPH7C", 
+          "U6YP200VB", 
+          "U6YMU9QCF", 
+          "U1YM6H8MA", 
+          "U6ZCE0AKG", 
+          "U6YBN8NJ2", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "raised_hands", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U1YM6H8MA", 
+          "U6ZCE0AKG", 
+          "U6YBN8NJ2", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "100", 
+        "users": [
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6ZCE0AKG", 
+          "U6YBN8NJ2", 
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "Hey guys/gals, I just had THE BEST conversation with a Core UI Engineer at Google. Some good take-aways: \n\nThe work doesn\u2019t stop when you sell out to a corporate giant like Pandora, Facebook, Apple, or Google. That opens up a world of possibilities and may be the beginning, not the end, of your career in software.\n\nDon\u2019t be afraid to learn the culture of those who are around you. You and your team can only benefit by seeking out perspectives on how workplace solutions and your communication may affect others. \n\nBe relentless about what you want, and go get it. There are no half measures.\n\nRemember to reach out to your mentors and have a genuine conversation with them. It will definitely keep you motivated to be great.", 
+    "pinned_info": {
+      "pinned_ts": 1517430634, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516310292.000866", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U8NHWRX0W", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1516227279.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U6YP200VB", 
+          "U8NMLKGDU", 
+          "U6X9KPH7C", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "text": "3. Please send your emails by end of day\n4. Message Dan or Susan if you\u2019d like feedback on your message. We\u2019ve sent hundreds of emails like these over the years, so we know a thing or two about effective messaging :slightly_smiling_face:", 
+    "pinned_info": {
+      "pinned_ts": 1517430621, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516223226.000581", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "text": "2. Tools: <https://clearbit.com/>\u2026 <https://hunter.io/> \u2026 <https://www.skrapp.io/>", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1516223166.000153", 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1516223190.000000"
+    }
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 5, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F8UEH590C", 
+        "size": 372, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F8UEH590C/Untitled.txt", 
+        "preview": "Subject: Quick Question\r\n\r\nHi Steve,\r\n\r\nI was wondering if I could interview you for no more than 5-10 minutes?\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F8UEH590C/Untitled.txt/edit", 
+        "username": "", 
+        "timestamp": 1516223033, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Subject: Quick Question</pre></div>\n<div><pre></pre></div>\n<div><pre>Hi Steve,</pre></div>\n<div><pre></pre></div>\n<div><pre>I was wondering if I could interview you for no more than 5-10 minutes?</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F8UEH590C/download/Untitled.txt", 
+        "user": "U2C90LDS9", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F8UEH590C-8186b4ef1f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F8UEH590C/Untitled.txt", 
+        "name": "Untitled.txt", 
+        "created": 1516223033, 
+        "lines": 10, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1516223047.000000"
+    }, 
+    "text": "", 
+    "upload": true, 
+    "ts": "1516223033.000386", 
+    "display_as_bot": false, 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "text": "Thanks for the great session! \n1. Template message:", 
+    "pinned_info": {
+      "pinned_ts": 1517430628, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516222997.000034", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1YM6H8MA", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1516213735.000352", 
+    "text": "<!here> Susan is really good at unblocking students :slightly_smiling_face:"
+  }, 
+  {
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516212120.000000"
+    }, 
+    "latest_reply": "1517357592.000436", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "thread_ts": "1516212110.000267", 
+    "text": "@here Who hasn\u2019t had any luck meeting with a mentor or finding a fit?  I want to help YOU. Please DM me today.", 
+    "ts": "1516212110.000267", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U298FAPT7", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1517357592.000436"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YP200VB", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pineapple", 
+        "users": [
+          "U6YMF5THV"
+        ]
+      }
+    ], 
+    "text": "Hey everyone. I met with my mentor who\u2019s a senior PM. Her strong suit is using data in decision-making. She shared how she performed data analysis to gain market insights in her work. She\u2019s very smart and resourceful. We will meet once a month for our mentoring session.", 
+    "pinned_info": {
+      "pinned_ts": 1517431265, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U6X9L8VAN"
+    }, 
+    "ts": "1516173562.000167", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6XDV6CVA", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U2C90LDS9", 
+          "U298FAPT7", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U6WRNH1JM", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "pineapple", 
+        "users": [
+          "U6YMF5THV", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U6YMU9QCF", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "Hello everyone. I met with my original mentor before Open House. She was really nice and knowledgable, however I got the feeling it wasn\u2019t the right fit for either of us. We had a great discussion about EdTech, and the state of education in general. By the end of the discussion she mentioned a colleague at her company that she thought I should meet. She came to the open house, and to my knowledge is still interested in getting mentees. \n\nToday I reached out to another mentor, and he emailed me back immediately. We scheduled a meeting for next week. Moral of the story, keep trying until you find a mentor that works for you!", 
+    "pinned_info": {
+      "pinned_ts": 1517431242, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U6X9L8VAN"
+    }, 
+    "ts": "1516149669.000093", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1516133758.000459", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "Hi all, I\u2019ve added a few new mentors to our list, including a sr ui engineer from Netflix.\nPlease make sure your listing and status on the spreadsheet is up to date AND try reaching out to a new mentor! :slightly_smiling_face:\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1516133758.000157"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 18, 
+        "name": "+1", 
+        "users": [
+          "U1YM6H8MA", 
+          "U1T2Q3G81", 
+          "U6XE4NNSZ", 
+          "U6YFC7074", 
+          "U6YCV95L7", 
+          "U6X9MDMC2", 
+          "U2C90LDS9", 
+          "U6YP200VB", 
+          "U6WQK3Q73", 
+          "U6XCTHTQQ", 
+          "U6ZCE0AKG", 
+          "U8NHWRX0W", 
+          "U6YBN8NJ2", 
+          "U8M6VPKUZ", 
+          "U6XDV6CVA", 
+          "U6XRWEQGY", 
+          "U72SB0WG6", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1515784115.000209", 
+    "text": "<!here> We\u2019re thinking about instituting Mentoring Office Hours. Please :+1: if you think it would be beneficial to have regular mentor office hours. For example, a mentor would be in a conf room or floating around the main room for 1-2 hours and you could sign-up for a quick chat, code review, product demo feedback, etc. This would be in addition to the 1:1 outreach you\u2019ve been doing."
+  }, 
+  {
+    "text": "In a core class soon, we\u2019ll help you connect with mentors who work in an industry / with technology aligned to your teams core project. And are _not_ on the MS mentorship list. I\u2019m looking forward to hearing how these conversations go :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1515783639.000209", 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1515786979.000000"
+    }
+  }, 
+  {
+    "thread_ts": "1515699483.000061", 
+    "text": "Good. I recommend you reach out to two people locally.", 
+    "ts": "1515781266.000761", 
+    "user": "U298FAPT7", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1515699483.000061", 
+    "text": "Hey Susan, I am looking for new mentorship because honestly I feel like it would benefit me more if I had someone that is more proactive. He lives in Los Angeles and is pretty busy I'd benefit more from someone who I can meet weekly or bi weekly.", 
+    "ts": "1515712936.000123", 
+    "user": "U6XDGCKFF", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1515699483.000061", 
+    "text": "will you meet again? regularly?", 
+    "ts": "1515712244.000036", 
+    "user": "U298FAPT7", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1515699483.000061", 
+    "latest_reply": "1515781266.000761", 
+    "subscribed": false, 
+    "reply_users": [
+      "U298FAPT7", 
+      "U6XDGCKFF"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "white_check_mark", 
+        "users": [
+          "U298FAPT7", 
+          "U2C90LDS9", 
+          "U6WQK3Q73"
+        ]
+      }
+    ], 
+    "text": "Hey everyone, when I first spoke to my mentor I was excited to talk to him he told me about his times at Snapchat and what he did as a test engineer. It was nice talking to someone who is in industry due to it giving me some perspective on where I will be in the upcoming months hopefully. Alongside this he also told me what got him into mobile development as well as just everyday things he does to make him better at his craft!", 
+    "pinned_info": {
+      "pinned_ts": 1517430585, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1515699483.000061", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6XDGCKFF", 
+    "replies": [
+      {
+        "user": "U298FAPT7", 
+        "ts": "1515712244.000036"
+      }, 
+      {
+        "user": "U6XDGCKFF", 
+        "ts": "1515712936.000123"
+      }, 
+      {
+        "user": "U298FAPT7", 
+        "ts": "1515781266.000761"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U8M6VPKUZ", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "U298FAPT7", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "Hi everyone, my initial conversation with my mentor was via phone. We spoke for about an hour and a half. It was great. He is currently a product manager and has been for over 10 years. Since PM is a role I would like to transition to later in my career, I found it extremely valuable to gain useful information on how to best prepare for that transition. He encouraged me to contact him often and assured me I wouldn\u2019t be a bother. We are still in contact as he offers advice with UI design or career choices.", 
+    "pinned_info": {
+      "pinned_ts": 1517430579, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1515650281.000246", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6YMF5THV", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "sunglasses", 
+        "users": [
+          "U6YHCA79U", 
+          "U1YM6H8MA", 
+          "U8NMLKGDU", 
+          "U6YBN8NJ2", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1515623843.000408", 
+    "text": "Thanks Elliot! Everyone, please post your learnings in this channel after you meet. Shout out to <@U298FAPT7> for sourcing incredible people who want to meet YOU :slightly_smiling_face:"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "white_check_mark", 
+        "users": [
+          "U298FAPT7", 
+          "U8NJD3N7K", 
+          "U6XJLPQ9Y", 
+          "U6YBN8NJ2"
+        ]
+      }
+    ], 
+    "text": "So yesterday I met my mentor and he was very interesting, his name is Nicholas and he is one of head security for Tesla (so besides testing the web browser of Tesla, we also test the new models of the cars that are not even out yet), the coolest thing about our meeting was that besides of hacking conversation we have a common interest is astrophysics, so we also had a long conversation about Spacex and since he works closely with Elon Musk he mention to me that the new falcon will be launch to space today\u2026 Also we talked about having biweekly meeting and keeping in touch with each others progress every week. I\u2019m really excited to continue meeting him and learning more about cyber security\u2026 So I know that some of the mentors have been a flake but a word of advice: \u201cPersist!\u201d", 
+    "pinned_info": {
+      "pinned_ts": 1517430573, 
+      "channel": "C7ZJVPFU3", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1515623498.000255", 
+    "pinned_to": [
+      "C7ZJVPFU3"
+    ], 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "U6YP200VB", 
+          "U2C90LDS9", 
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1515556962.000151", 
+    "text": "I actually just met my mentor :raised_hands::skin-tone-2:"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "U6X9KPH7C", 
+          "U6YP200VB", 
+          "U6YMU9QCF", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1515533484.000494", 
+    "text": "<!here> Persistence pays off. Jeff finally scheduled a meeting with his mentor after not hearing a response for 4 emails. Elliot just made contact too. Reach out to your mentor again - it\u2019s not a \u201cno\u201d until they actively say they _can\u2019t_ meet. \nIf you don\u2019t get a response, pick someone else from the list ( two posts above) and send <@U298FAPT7> and I their name with the  email you will send to them. We\u2019ll send you their contact info. Happy connecting :slightly_smiling_face:"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1515533265.000711", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NHWRX0W> has joined the channel", 
+    "ts": "1515533265.000680", 
+    "subtype": "channel_join", 
+    "user": "U8NHWRX0W", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1515533265.000648", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1515533265.000618", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NJD3N7K> has joined the channel", 
+    "ts": "1515533265.000476", 
+    "subtype": "channel_join", 
+    "user": "U8NJD3N7K", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U264ANGAE> has joined the channel", 
+    "ts": "1515533265.000441", 
+    "subtype": "channel_join", 
+    "user": "U264ANGAE", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8M6V7F3K> has joined the channel", 
+    "ts": "1515533265.000408", 
+    "subtype": "channel_join", 
+    "user": "U8M6V7F3K", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1515533265.000373", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "U1YM6H8MA", 
+          "U6YV4A45C", 
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1512509982.000122", 
+    "text": "Shout out to <@U6WQK3Q73>. I spoke with his mentor last night and she said she was \u201cimpressed with the thoughtfulness of his email.\u201d Hope you have a great meeting with her on Friday, Juan!"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1512499362.000175", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "More mentors have been added.  Please continue to connect with one or more before the end of the month and update the spreadsheet accordingly. Questions? Don\u2019t hesitate to slack Dan or myself.  Thanks all.  <https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1512499361.000290"
+  }, 
+  {
+    "text": "<!here> ^ and thank you Susan for that great answer! I\u2019ll add: think of them as a professional friend and ally.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1512081036.000087"
+  }, 
+  {
+    "text": "*FAQ on Mentorship Meeting:* _I\u2019m having my mentor meeting tomorrow and was wondering what kind of questions I should be asking? Should I start talking about my work or jump straight into questions about their company/ professions/ etc?_\n\u2026\nGreat question. Its flexible. Ultimately, you\u2019re meeting a stranger who you know a little bit about and whom you know wants to meet you and help you in your career path. Start by researching them via LI. You may find commonalities (cities, people in common, companies you know etc.). Start the conversation by thanking them for their time to meet with you to learn more about their career path and the work they are doing today. \nTell them about what your studying, what you\u2019re building, places you think you might want to get an internship of industries and roles in general you\u2019re interested in. Ask them if they have guidance for things they would suggest you focus on to get there. If they are technical, ask them if they\u2019d be open to a quick code review/feedback session\u2026I bet if will all be a very natural conversation. In person is ideal, if you can make that happen on your end.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1512080901.000608", 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1512080923.000000"
+    }
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1512066596.000806", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "FYI We had a senior front end engineer based in sf just added to our available mentor list. \n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1512066596.000425"
+  }, 
+  {
+    "text": "nice", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1512062521.000205"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "seriously", 
+        "users": [
+          "U1YM6H8MA", 
+          "U6X9MDMC2"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "facepalm", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "poo", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "text": "Reminder: tips.", 
+    "ts": "1512061228.000505", 
+    "user": "USLACKBOT", 
+    "type": "message", 
+    "bot_id": "B01"
+  }, 
+  {
+    "text": "If you\u2019ve reached to your mentor and then pinged them with a follow up and still radio silence, consider choosing a new one, reaching out to them and making a note in the spreadsheet that there was \u201cNo response. (student name)\u201c. That will give others a heads up and offer transparency on your own efforts. Thanks all.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1511978810.000313"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1511977962.000123", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<!here> Please change the highlight on your name to green after you\u2019ve made contact with your mentor.  Let me or Dan know if you need support. Lots of ppl have no highlight.\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1511977959.000723"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1511384181.000294", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<!here> I see a lot of names that are not yellow or green on our mentor list. :slightly_smiling_face:\nPlease make sure to reach to your mentors asap, schedule a brief meeting and highlight your name to green once you\u2019ve done so. Please DM <@U2C90LDS9> and me with any questions.\n<https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1511384179.000332"
+  }, 
+  {
+    "thread_ts": "1511289993.000505", 
+    "text": "same", 
+    "ts": "1511294348.000087", 
+    "user": "U6YV4A45C", 
+    "parent_user_id": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1511289993.000505", 
+    "text": "I did", 
+    "ts": "1511292717.000281", 
+    "user": "U6WQK3Q73", 
+    "parent_user_id": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 115, 
+        "thumb_url": "https://tctechcrunch2011.files.wordpress.com/2015/03/helpwanted-e1426002567534.jpg?w=1200&fit=200%2C150", 
+        "thumb_width": 199, 
+        "title": "LinkedIn rolls out its Career Advice mentoring program to US, UK and\u00a0India", 
+        "service_name": "TechCrunch", 
+        "author_name": "Ingrid Lunden", 
+        "title_link": "https://www.google.com/amp/s/techcrunch.com/2017/11/15/linkedin-rolls-out-its-career-advice-mentoring-program-to-us-uk-and-india/amp/", 
+        "service_url": "http://techcrunch.com", 
+        "text": "LinkedIn, the Microsoft-owned social platform for the working world with some 530 million members, has made a big push in the last couple of years to position itself not just as a place to look for new jobs and network, but as a place for professional development &mdash; including services for&nbsp;online learning; steady streams of&nbsp;news and other content to expand your knowledge; and most recently help with building your resume. Today, it&rsquo;s taking the wraps off the latest product in that effort: users in the US, UK and India will now be able to use LinkedIn to connect with mentors to help coach them on how to steer themselves in their careers, free of charge.\nCareer Advice, as the new product is called, is the full roll out of an online mentoring service that LinkedIn launched in a limited format this past summer, in San Francisco and Australia. The idea is to connect users with mentors who can help them figure out anything to do with their career, whether it&rsquo;s ideas on how to find a new job, feedback for why they are not getting ahead or feeling satisfied at work, and maybe even to pivot to a new career altogether.\nIf you are in the three countries in the first wave of the rollout, to start using the service, you can click on this link, or go to your own LinkedIn Profile and look for the Career Advice tab on your dashboard (which sits about halfway down the page and in my opinion is not immediately easy to find).\nYou then go through a short script of questions to set out what it is that you are looking for &mdash; for example, in terms of goals, or whether you want someone in your geography or from your alma mater &mdash; and then you start to get recommendations of people who might fit the bill, who are presented to you in a series of Tinder-style swiping screens for you to choose as a potential match.\n\n    \n\t\t            \n\t\t            Dashboard\n\t\t            \n\t\t            \n\t\t        \n\t\t            \n\t\t            Expanded Card\n\t\t            \n\t\t            \n\t\t        \n\t\t            \n\t\t            Hub\n\t\t            \n\t\t            \n\t\t        \n\t\t            \n\t\t            Preference\n\t\t            \n\t\t            \n\t\t        \n\t        &nbsp;View Slideshow\n\t    \n\t    \n\t        Previous\n\t        Next\n\t        Exit\n\t    \n\t\nOn the mentor side, LinkedIn also asks them to indicate their preferences for what kind of mentoring they would like to provide. For the limited release of Career Advice, LinkedIn has been proactively selecting mentors, although the longer-term plan is to make mentoring an option to anyone on the platform,&nbsp;Hari Srinivasan, head of identity products, told me during the test run.\nOnce you and a mentor match, you can then message each other, and either side can terminate the communication at any point.\nFor LinkedIn, launching this product is important for a few reasons.\nFirst and foremost, it is filling a gap in the wider world of career development online. Today, job hunting has almost completely gone digital, as have many other aspects of our professional careers. While some people and workplaces are very proactive in developing mentoring relationships &lsquo;in real life&rsquo; for the vast majority of us, this doesn&rsquo;t exist.\nAnd ironically, we&rsquo;re probably now at a point as a working society where mentoring and getting advice on how to steer your career needs to exist more than ever before. The idea of a career for life, let alone a job for life, is not the norm for many people in developed economies, due in part to the pace of technological development, and in part to other economic factors like globalization.\nLinkedIn&rsquo;s own survey of 6,000 people aged 25-33 found the majority of them have faced a &ldquo;quarter-life&rdquo; crisis, and job anxiety is the number-one reason for this, with 61 percent putting this at the top of their list above financial or social woes. This is what LinkedIn believes it can address with its online mentoring service.\nOn a pure business level, the mentoring service is also a key development for LinkedIn in its wider strategy as a social network. When the company was still independent, its user growth had been slowing down in its mature markets.\nThe company has, of course, been ramping up its efforts to expand in developing countries (including &mdash; at long last &mdash; the launch of a pared-down Android app), but to grow in another way, it&rsquo;s been tinkering with many more ways to improve engagement with the users it already has. LinkedIn, at its core, still feels like the kind of platform that most people only use when they have to &mdash; that is, when they may be changing jobs. And this is another way of trying to get those users to come to LinkedIn because they want to.\nLast but not least, the third reason LinkedIn needs to start getting a little more creative with its services is because its competition is not sitting still. Google just today updated its own job listings search. And it&rsquo;s not the only one. We reported earlier this year that Facebook, which has been doing a lot more with job ads, also seems to be looking at ways of matching up mentors with those in need of career guidance.\nWith the Facebook network much more geared at people conversing with each other, and already successfully luring people in to look at their Timelines on a regular basis &mdash; it now has over 2 billion monthly active users, and nearly 1.4 billion daily active users &mdash; LinkedIn needs to lock down its place here, before someone else takes on the role for them.", 
+        "from_url": "https://www.google.com/amp/s/techcrunch.com/2017/11/15/linkedin-rolls-out-its-career-advice-mentoring-program-to-us-uk-and-india/amp/", 
+        "fallback": "TechCrunch Link: LinkedIn rolls out its Career Advice mentoring program to US, UK and&nbsp;India", 
+        "service_icon": "https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.google.com/amp/s/techcrunch.com/2017/11/15/linkedin-rolls-out-its-career-advice-mentoring-program-to-us-uk-and-india/amp/>", 
+    "ts": "1511290267.000315", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1511290100.000324", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1511290100.000263", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XDKSREZ> has joined the channel", 
+    "ts": "1511290100.000220", 
+    "subtype": "channel_join", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U72SB0WG6> has joined the channel", 
+    "ts": "1511290100.000160", 
+    "subtype": "channel_join", 
+    "user": "U72SB0WG6", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1511290100.000112", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1511290100.000062", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1511290100.000016", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6Z9LHPEH> has joined the channel", 
+    "ts": "1511290099.000721", 
+    "subtype": "channel_join", 
+    "user": "U6Z9LHPEH", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> has joined the channel", 
+    "ts": "1511290099.000660", 
+    "subtype": "channel_join", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U7U7MS551> has joined the channel", 
+    "ts": "1511290099.000607", 
+    "subtype": "channel_join", 
+    "user": "U7U7MS551", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1511290099.000547", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YFF5B50> has joined the channel", 
+    "ts": "1511290099.000503", 
+    "subtype": "channel_join", 
+    "user": "U6YFF5B50", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1511290099.000472", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1511290099.000411", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6WQK3Q73> has joined the channel", 
+    "ts": "1511290099.000372", 
+    "subtype": "channel_join", 
+    "user": "U6WQK3Q73", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1511290099.000319", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1511290099.000261", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6X9KPH7C> has joined the channel", 
+    "ts": "1511290099.000217", 
+    "subtype": "channel_join", 
+    "user": "U6X9KPH7C", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1511290099.000159", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6X9MDMC2> has joined the channel", 
+    "ts": "1511290099.000107", 
+    "subtype": "channel_join", 
+    "user": "U6X9MDMC2", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1511290099.000060", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YHKG1RQ> has joined the channel", 
+    "ts": "1511290099.000008", 
+    "subtype": "channel_join", 
+    "user": "U6YHKG1RQ", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1511290098.000487", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1511290098.000433", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1511290098.000377", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U2B6Q2SVB> has joined the channel", 
+    "ts": "1511290098.000325", 
+    "subtype": "channel_join", 
+    "user": "U2B6Q2SVB", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6WRNH1JM> has joined the channel", 
+    "ts": "1511290098.000279", 
+    "subtype": "channel_join", 
+    "user": "U6WRNH1JM", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XRWEQGY> has joined the channel", 
+    "ts": "1511290098.000230", 
+    "subtype": "channel_join", 
+    "user": "U6XRWEQGY", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1511290098.000178", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6WL7LX8Q> has joined the channel", 
+    "ts": "1511290098.000112", 
+    "subtype": "channel_join", 
+    "user": "U6WL7LX8Q", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6YD3BYBD> has joined the channel", 
+    "ts": "1511290098.000057", 
+    "subtype": "channel_join", 
+    "user": "U6YD3BYBD", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U70ECUX2T> has joined the channel", 
+    "ts": "1511290097.000722", 
+    "subtype": "channel_join", 
+    "user": "U70ECUX2T", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1511290097.000682", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "thread_ts": "1511289993.000505", 
+    "latest_reply": "1511294348.000087", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6WQK3Q73", 
+      "U6YV4A45C"
+    ], 
+    "text": "<!here> Who\u2019s scheduled their mentoring 1:1?", 
+    "ts": "1511289993.000505", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U298FAPT7", 
+    "replies": [
+      {
+        "user": "U6WQK3Q73", 
+        "ts": "1511292717.000281"
+      }, 
+      {
+        "user": "U6YV4A45C", 
+        "ts": "1511294348.000087"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMF5THV", 
+    "ts": "1510768610.000233", 
+    "text": "<@U6YMF5THV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1510695698.000072", 
+    "text": "<@U6YBN8NJ2> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1510692799.000310", 
+    "text": "<@U6XE4NNSZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1510691461.000121", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1510688634.000549", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1510688203.000132", 
+    "text": "<@U6YFC7074> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1510687066.000745", 
+    "text": "<@U6YV4A45C> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDV6CVA", 
+    "ts": "1510686981.000251", 
+    "text": "<@U6XDV6CVA> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "reactions": [
+          {
+            "count": 10, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U8M6VPKUZ", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U298FAPT7", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W", 
+              "U8NMLKGDU"
+            ]
+          }, 
+          {
+            "count": 7, 
+            "name": "slightly_smiling_face", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U6YBN8NJ2", 
+              "U8NMLKGDU", 
+              "U2C90LDS9", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }, 
+          {
+            "count": 6, 
+            "name": "dancing-dan", 
+            "users": [
+              "U6YMU9QCF", 
+              "U6X9KPH7C", 
+              "U2C90LDS9", 
+              "U6YBN8NJ2", 
+              "U1YM6H8MA", 
+              "U6Y6KU78W"
+            ]
+          }
+        ], 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7S87GEP5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "PC Industry Contacts List 2018-2019", 
+        "url_private": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 69351, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_800.png", 
+        "timestamp": 1509404563, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F7S87GEP5/pc_mentor_list_2017-2018", 
+        "name": "PC Mentor List 2017-2018", 
+        "created": 1509404563, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7S87GEP5-e1da5311d0/pc_mentor_list_2017-2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/u/1/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit?usp=drive_web"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U8M6VPKUZ", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U298FAPT7", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U6YBN8NJ2", 
+          "U8NMLKGDU", 
+          "U2C90LDS9", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6X9KPH7C", 
+          "U2C90LDS9", 
+          "U6YBN8NJ2", 
+          "U1YM6H8MA", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1516831564.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1510686944.000084", 
+    "display_as_bot": false, 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "PC Mentor List: <https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1510686943.000276"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1510686899.000187", 
+    "text": "<@U1YM6H8MA> has joined the channel"
+  }, 
+  {
+    "text": "<@U298FAPT7> set the channel purpose: A home to discuss all things mentoring.", 
+    "ts": "1510686214.000564", 
+    "subtype": "channel_purpose", 
+    "user": "U298FAPT7", 
+    "type": "message", 
+    "purpose": "A home to discuss all things mentoring."
+  }, 
+  {
+    "text": "<@U298FAPT7> has joined the channel", 
+    "ts": "1510617656.000247", 
+    "subtype": "channel_join", 
+    "user": "U298FAPT7", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1510617656.000093", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }
+]

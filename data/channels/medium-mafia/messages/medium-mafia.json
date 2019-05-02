@@ -1,0 +1,673 @@
+[
+  {
+    "client_msg_id": "02c14f52-7701-4d31-aec6-c47344b7daa6", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCBS8JUHH", 
+          "U6YMU9QCF", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "We should have a github stars mafia too. I'd like all the repos pinned to my profile to have a bunch of stars (except my portfolio). Add yours to this thread and I'll star your pinned repos as too!\n\n<https://github.com/lacunahag/BlindSQLi>", 
+    "ts": "1556220975.019100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1555632891.017500", 
+    "text": "<@UCB8YJNBT> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2481KKBM", 
+    "ts": "1555626739.017100", 
+    "text": "<@U2481KKBM> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1555614909.016900", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1555607842.016700", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1555605012.016400", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1555563456.016100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1555562031.015300", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "fdff5a2f-0534-4555-a42e-1008bdacb7e8", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBS8JUHH", 
+          "UCBLQF0R1"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 242291, 
+        "original_url": "https://medium.com/@jaesonbooker/how-to-hunt-a-mammoth-50579302f3a3", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "8 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "How to hunt a Mammoth", 
+        "ts": 1539197348, 
+        "title_link": "https://medium.com/@jaesonbooker/how-to-hunt-a-mammoth-50579302f3a3", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*MQ6cbHHJdiqiIeFmaWuAKg.jpeg", 
+        "image_width": 516, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@jaesonbooker/how-to-hunt-a-mammoth-50579302f3a3", 
+        "fallback": "Medium: How to hunt a Mammoth", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "A Problem of Coordination", 
+        "id": 1
+      }, 
+      {
+        "image_bytes": 188694, 
+        "original_url": "https://medium.com/@jaesonbooker/learning-go-the-language-and-the-game-7373c47ae8e6", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "3 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Learning Go: the Language and the Game", 
+        "ts": 1555560803, 
+        "title_link": "https://medium.com/@jaesonbooker/learning-go-the-language-and-the-game-7373c47ae8e6", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*3jWS6Atjgn9Sjxtn-WpFIg.jpeg", 
+        "image_width": 375, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@jaesonbooker/learning-go-the-language-and-the-game-7373c47ae8e6", 
+        "fallback": "Medium: Learning Go: the Language and the Game", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Coming from the world of Chess in terms of games, and Python when it comes to programming languages, learning Go was difficult. For those\u2026", 
+        "id": 2
+      }, 
+      {
+        "image_bytes": 151941, 
+        "original_url": "https://medium.com/@jaesonbooker/one-ring-signature-to-rule-them-all-ac18964de6d3", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "One Ring Signature To Rule Them All", 
+        "ts": 1541454578, 
+        "title_link": "https://medium.com/@jaesonbooker/one-ring-signature-to-rule-them-all-ac18964de6d3", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*QwsZLQ0Uymn6ovjAaCLRlQ.jpeg", 
+        "image_width": 444, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@jaesonbooker/one-ring-signature-to-rule-them-all-ac18964de6d3", 
+        "fallback": "Medium: One Ring Signature To Rule Them All", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "How blockchains can store your data, without knowing who you are", 
+        "id": 3
+      }, 
+      {
+        "image_bytes": 42513, 
+        "original_url": "https://medium.com/@jaesonbooker/how-not-to-scope-a-project-6425fb90a972", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "How (not) to Scope a Project", 
+        "ts": 1544766986, 
+        "title_link": "https://medium.com/@jaesonbooker/how-not-to-scope-a-project-6425fb90a972", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*wmRAGfilNVlCQHfKNqXHew.jpeg", 
+        "image_width": 281, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@jaesonbooker/how-not-to-scope-a-project-6425fb90a972", 
+        "fallback": "Medium: How (not) to Scope a Project", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Lessons from dreaming too big, when time is too scarce", 
+        "id": 4
+      }, 
+      {
+        "image_bytes": 217398, 
+        "original_url": "https://medium.com/@jaesonbooker/after-the-hunt-how-to-hunt-a-mammoth-part-ii-db969f8cfdb", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "After the Hunt\u200a\u2014\u200aHow to hunt a Mammoth Part II", 
+        "ts": 1539206886, 
+        "title_link": "https://medium.com/@jaesonbooker/after-the-hunt-how-to-hunt-a-mammoth-part-ii-db969f8cfdb", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*ZQWobownYVoFbONY8payLQ.jpeg", 
+        "image_width": 333, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@jaesonbooker/after-the-hunt-how-to-hunt-a-mammoth-part-ii-db969f8cfdb", 
+        "fallback": "Medium: After the Hunt\u200a\u2014\u200aHow to hunt a Mammoth Part II", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "For those who are not familiar with our neanderthal friends, please check out How to Hunt a Mammoth Part I.", 
+        "id": 5
+      }
+    ], 
+    "text": "You give me 50 Claps:clap:, I give you 50 Claps:clap:. It's a dog-eat-dog world, capeesh? :news: If you want to kill giant, extinct mammals, here's how :bow_and_arrow:: <https://medium.com/@jaesonbooker/how-to-hunt-a-mammoth-50579302f3a3> If you want to learn the strategy of defeating a thousand enemies, be they people or coding errors, check this out :crossed_swords::gopher:: <https://medium.com/@jaesonbooker/learning-go-the-language-and-the-game-7373c47ae8e6> If you desire the power to rule all the cryptocurrencies, and in the darkweb, bind them, you better read this :xmr::fire:: <https://medium.com/@jaesonbooker/one-ring-signature-to-rule-them-all-ac18964de6d3> If you want to know exactly how *not* to scope a project, have fun with this :lower_left_ballpoint_pen:: <https://medium.com/@jaesonbooker/how-not-to-scope-a-project-6425fb90a972> And if you've already got some mammoth meat, but don't know how to distribute it, this might just do the trick :meat_on_bone::camping:: <https://medium.com/@jaesonbooker/after-the-hunt-how-to-hunt-a-mammoth-part-ii-db969f8cfdb>", 
+    "ts": "1555561783.015000", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d2b76b9d-1aa1-40b1-a8ef-ce251adc299f", 
+    "thread_ts": "1555557957.005600", 
+    "text": "<@UCC0GL52N> Dont forget to post your articles", 
+    "ts": "1555559790.008200", 
+    "user": "UCBS8JUHH", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1555559747.008000", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "796b2a92-22aa-40a6-ba26-a930bd3c8700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCB58P2V6", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 58660, 
+        "original_url": "https://blog.usejournal.com/easy-tableview-setup-tutorial-swift-4-ad48ec4cbd45", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Easy TableView Setup Tutorial\u200a\u2014\u200aSwift 4", 
+        "ts": 1548216977, 
+        "title_link": "https://blog.usejournal.com/easy-tableview-setup-tutorial-swift-4-ad48ec4cbd45", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*Hy2mLW_I4zkTgfsa-354kw.png", 
+        "image_width": 377, 
+        "service_name": "Noteworthy - The Journal Blog", 
+        "from_url": "https://blog.usejournal.com/easy-tableview-setup-tutorial-swift-4-ad48ec4cbd45", 
+        "fallback": "Noteworthy - The Journal Blog: Easy TableView Setup Tutorial\u200a\u2014\u200aSwift 4", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*WeTZ1IB4SA8IR91PEI_7TQ.png", 
+        "text": "A straight forward step by step guide done programmatically.", 
+        "id": 1
+      }
+    ], 
+    "text": ":smiley::point_up_2::skin-tone-3::point_down::skin-tone-3:\n<https://blog.usejournal.com/easy-tableview-setup-tutorial-swift-4-ad48ec4cbd45>", 
+    "ts": "1555559481.007300", 
+    "user": "UCBLQF0R1", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "16d48910-48a6-4417-ac0a-f0ea21b78d2d", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCB58P2V6", 
+          "UCBQJD3NW", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 39446, 
+        "original_url": "https://medium.com/@sarinyaswift/linked-list-implementation-in-swift-4-caea34cbdada", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Linked List Implementation in Swift 4", 
+        "ts": 1552584606, 
+        "title_link": "https://medium.com/@sarinyaswift/linked-list-implementation-in-swift-4-caea34cbdada", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*iSPziZCPfvqMEQrLD9XPxg.png", 
+        "image_width": 466, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@sarinyaswift/linked-list-implementation-in-swift-4-caea34cbdada", 
+        "fallback": "Medium: Linked List Implementation in Swift 4", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Append, Prepend, Remove, Find, and Replace", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@sarinyaswift/linked-list-implementation-in-swift-4-caea34cbdada>", 
+    "ts": "1555559435.006800", 
+    "user": "UCBLQF0R1", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1555558943.006300", 
+    "text": "<@UCB8WCDTJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCFCGA3C1", 
+    "ts": "1555558673.006100", 
+    "text": "<@UCFCGA3C1> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHNJW822W", 
+        "size": 15359, 
+        "original_h": 371, 
+        "thumb_360_w": 112, 
+        "title": "medium1.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHNJW822W/medium1.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNJW822W-9b34acde60/medium1_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNJW822W-9b34acde60/medium1_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNJW822W-9b34acde60/medium1_80.png", 
+        "thumb_360_h": 360, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555558093, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNJW822W-9b34acde60/medium1_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHNJW822W/download/medium1.png", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHNJW822W-0a0ad16d92", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FHNJW822W/medium1.png", 
+        "name": "medium1.png", 
+        "created": 1555558093, 
+        "original_w": 115, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBS8JUHH"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "grin", 
+        "users": [
+          "UCBS8JUHH", 
+          "UCBKC02JY", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "Well why not?", 
+    "upload": true, 
+    "ts": "1555558095.005700", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "60ee8cca-85c9-4fdb-9882-555f59c681f5", 
+    "thread_ts": "1555557957.005600", 
+    "latest_reply": "1555559790.008200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS8JUHH"
+    ], 
+    "text": "Love this idea! :heart: :bulb: <@UCBS8JUHH>", 
+    "ts": "1555557957.005600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCBS8JUHH", 
+        "ts": "1555559790.008200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555557913.005000", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1555557030.004800", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2e399d55-9e31-40ec-b0c2-e23114915be7", 
+    "edited": {
+      "user": "UCBS8JUHH", 
+      "ts": "1555559930.000000"
+    }, 
+    "text": "I think having more exposure and claps to our articles will be helpful during our job/internship hunts too. When the competition is toe-toe to out there, its game of inches and this small bonuses might be key to your dream job or project", 
+    "ts": "1555556882.004600", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cfd3755d-e627-4ac0-9dd1-3af456644e8a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 50316, 
+        "original_url": "https://medium.com/@makhmud.islamov/the-marriage-of-rideshare-businesses-and-experiential-marketing-3fc45d3bc75c", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "7 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "The Marriage of Rideshare Businesses and Experiential Marketing", 
+        "ts": 1539197299, 
+        "title_link": "https://medium.com/@makhmud.islamov/the-marriage-of-rideshare-businesses-and-experiential-marketing-3fc45d3bc75c", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/0*gNnmhoIo2dLoZn3T.jpg", 
+        "image_width": 417, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@makhmud.islamov/the-marriage-of-rideshare-businesses-and-experiential-marketing-3fc45d3bc75c", 
+        "fallback": "Medium: The Marriage of Rideshare Businesses and Experiential Marketing", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Do you like ads? They annoy me most of the time. Last week I googled tailor shops in SF and now after four days I still see ads about\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@makhmud.islamov/the-marriage-of-rideshare-businesses-and-experiential-marketing-3fc45d3bc75c>", 
+    "ts": "1555556841.003700", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc9f0005-d46c-4247-b8b8-2a2590f0b95b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "UCBLQF0R1"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 50924, 
+        "original_url": "https://medium.com/@makhmud.islamov/persistence-disclaimer-not-a-motivational-article-45fe84915bff", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "PERSISTENCE. Disclaimer: not a motivational article!", 
+        "ts": 1542230277, 
+        "title_link": "https://medium.com/@makhmud.islamov/persistence-disclaimer-not-a-motivational-article-45fe84915bff", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/0*tGGXaFqj0r14eyTC.jpg", 
+        "image_width": 240, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@makhmud.islamov/persistence-disclaimer-not-a-motivational-article-45fe84915bff", 
+        "fallback": "Medium: PERSISTENCE. Disclaimer: not a motivational article!", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "If you ever browsed Amazon, put some items to your cart and left the website and come back later, your items are still in your cart. Where\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@makhmud.islamov/persistence-disclaimer-not-a-motivational-article-45fe84915bff>", 
+    "ts": "1555556836.003400", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "432024b5-3522-4f5d-a39a-caf8b727e07c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 40143, 
+        "original_url": "https://medium.com/@makhmud.islamov/passport-or-500-ways-to-authenticate-127ad3f38fad", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Passport or 500 ways to authenticate", 
+        "ts": 1552002410, 
+        "title_link": "https://medium.com/@makhmud.islamov/passport-or-500-ways-to-authenticate-127ad3f38fad", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*TdslmOUSBAKuj0sY_m_LZw.png", 
+        "image_width": 476, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@makhmud.islamov/passport-or-500-ways-to-authenticate-127ad3f38fad", 
+        "fallback": "Medium: Passport or 500 ways to authenticate", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "This article is from QPS (Quick Project Starter) series by Makhmud Islamov.", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@makhmud.islamov/passport-or-500-ways-to-authenticate-127ad3f38fad>", 
+    "ts": "1555556828.003100", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2c88e544-e3f9-4565-9d85-cc662494dd40", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCBQJD3NW", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 41800, 
+        "original_url": "https://medium.com/@makhmud.islamov/publish-your-vs-code-snippet-extension-in-4-steps-2ed7cc4fccc3", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "3 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Publish Your VS Code Snippet Extension in 4 steps", 
+        "ts": 1553547827, 
+        "title_link": "https://medium.com/@makhmud.islamov/publish-your-vs-code-snippet-extension-in-4-steps-2ed7cc4fccc3", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*lyWb7YS4CsMl17U2fHU5ig.png", 
+        "image_width": 485, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@makhmud.islamov/publish-your-vs-code-snippet-extension-in-4-steps-2ed7cc4fccc3", 
+        "fallback": "Medium: Publish Your VS Code Snippet Extension in 4 steps", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "This article is from QPS (Quick Project Starter) series by Makhmud Islamov.", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@makhmud.islamov/publish-your-vs-code-snippet-extension-in-4-steps-2ed7cc4fccc3>", 
+    "ts": "1555556822.002800", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "74157021-74ae-4957-9257-c9fabc23dcd9", 
+    "text": "Here are my recent articles:", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1555556799.002600"
+  }, 
+  {
+    "client_msg_id": "647562b3-d782-49a3-9c8c-fc57c9927607", 
+    "text": "Hi guys! Welcome to medium-mafia. Lets share each others medium articles and exchange claps", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1555556790.002300"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1555556744.001500", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1555556744.001300", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1555556744.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1555556744.000900", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1555556743.000700", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1555556743.000500", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> set the channel purpose: Let\u2019s share our publications, give feedback and exchange claps.", 
+    "ts": "1555556743.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "purpose": "Let\u2019s share our publications, give feedback and exchange claps."
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1555556743.000200", 
+    "text": "<@UCBS8JUHH> has joined the channel"
+  }
+]

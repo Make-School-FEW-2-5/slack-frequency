@@ -1,0 +1,1872 @@
+[
+  {
+    "client_msg_id": "a75c6fa5-f4b4-4235-bb4e-3a1d48abef36", 
+    "thread_ts": "1556221476.001800", 
+    "text": "Got it.", 
+    "ts": "1556231904.003800", 
+    "user": "UC45RJQ7M", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1f774962-6029-4b8c-9ca3-17aa8a48404c", 
+    "thread_ts": "1556219940.000500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "yea", 
+    "ts": "1556230679.003400", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1f88d7eb-ec19-47bc-8765-1a308ed56c5a", 
+    "thread_ts": "1556219940.000500", 
+    "text": "It should be working now, correct?", 
+    "ts": "1556230469.003000", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UC7PP1PTR> has joined the channel", 
+    "ts": "1556230438.002800", 
+    "subtype": "channel_join", 
+    "user": "UC7PP1PTR", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "text": "<@UC45RJQ7M> has joined the channel", 
+    "ts": "1556230438.002600", 
+    "subtype": "channel_join", 
+    "user": "UC45RJQ7M", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "client_msg_id": "512a68ae-f7fe-45cb-8316-95c9892ada22", 
+    "thread_ts": "1556221476.001800", 
+    "text": "<@UC45RJQ7M> <@UC7PP1PTR>", 
+    "ts": "1556230434.002300", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8908e732-e5b5-4a23-a1c2-b0ad4472c270", 
+    "thread_ts": "1556220394.001300", 
+    "text": "It\u2019d be ideal if it did a 301 redirect straight to the GitHub repo", 
+    "ts": "1556221539.002100", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ0FJ4H8R", 
+        "thumb_480_h": 376, 
+        "original_h": 618, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-25 at 12.42.44 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0FJ4H8R/screen_shot_2019-04-25_at_12.42.44_pm.png", 
+        "thumb_720_h": 564, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_80.png", 
+        "thumb_360_h": 282, 
+        "size": 56668, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556221473, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0FJ4H8R/download/screen_shot_2019-04-25_at_12.42.44_pm.png", 
+        "user": "UCB58P2V6", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ0FJ4H8R-2385e083d7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB58P2V6/FJ0FJ4H8R/screen_shot_2019-04-25_at_12.42.44_pm.png", 
+        "name": "Screen Shot 2019-04-25 at 12.42.44 PM.png", 
+        "created": 1556221473, 
+        "original_w": 789, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0FJ4H8R-f1d0ce3173/screen_shot_2019-04-25_at_12.42.44_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1556221476.001800", 
+    "latest_reply": "1556231904.003800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF", 
+      "UC45RJQ7M"
+    ], 
+    "text": "At the bottom, it says prereq is SPD 1.02 but the class itself is SPD1.02", 
+    "upload": true, 
+    "ts": "1556221476.001800", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1556230434.002300"
+      }, 
+      {
+        "user": "UC45RJQ7M", 
+        "ts": "1556231904.003800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1556221398.001700", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 590, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHVC95RS6", 
+        "thumb_480_h": 354, 
+        "original_h": 1045, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-25, 12:26 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHVC95RS6/image.png", 
+        "thumb_720_h": 531, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_80.png", 
+        "thumb_360_h": 266, 
+        "size": 131024, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_800.png", 
+        "timestamp": 1556220391, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHVC95RS6/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_1024.png", 
+        "user": "UCC0FMXCJ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHVC95RS6-c9fd709909", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0FMXCJ/FHVC95RS6/image.png", 
+        "name": "image.png", 
+        "created": 1556220391, 
+        "thumb_1024_h": 756, 
+        "thumb_960_h": 708, 
+        "original_w": 1416, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHVC95RS6-8f62ae471c/image_720.png"
+      }
+    ], 
+    "thread_ts": "1556220394.001300", 
+    "latest_reply": "1556221539.002100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "link", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "arrow_right", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "github", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "`<http://make.sc|make.sc>` shortlinks should probably be a straight 301 redirect to take advantage of caching", 
+    "upload": true, 
+    "ts": "1556220394.001300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0FMXCJ", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556221539.002100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1556220326.000700", 
+    "text": "<@UCC0FMXCJ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "471ad363-c02e-4574-9c5c-bb4c59e45313", 
+    "thread_ts": "1556219940.000500", 
+    "latest_reply": "1556230679.003400", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF", 
+      "UCC0GD5V0"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "<@U2C90DSLF> the dashboard isn't loading :disappointed:", 
+    "ts": "1556219940.000500", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1556230469.003000"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1556230679.003400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "dd3640ba-692a-426f-ba55-1c9b6479d5cd", 
+    "thread_ts": "1555899512.000200", 
+    "text": "Thank you!", 
+    "ts": "1556119488.000100", 
+    "user": "U7V12NBSR", 
+    "parent_user_id": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7e9311f0-26b8-4eb6-99ce-b008b4ebd09c", 
+    "thread_ts": "1555899512.000200", 
+    "text": "<@U7V12NBSR> haha I wish\u2026\nThis is the link for the tutorial: <https://www.makeschool.com/academy/track/pete-s-pet-emporium---advanced-web-recipes>", 
+    "ts": "1556057434.000300", 
+    "user": "UCB8YJNBT", 
+    "parent_user_id": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cd5a0c0c-21e1-4788-9939-83105630142a", 
+    "thread_ts": "1555899512.000200", 
+    "text": "You\u2019re just THAT good <@UCB8YJNBT>! :stuck_out_tongue_closed_eyes:\n\nIn all seriousness though, thank you for reporting the bug! Can you send me the link of that particular page to make it easier to reproduce when fixing? Thanks again!!", 
+    "ts": "1556052391.000100", 
+    "user": "U7V12NBSR", 
+    "parent_user_id": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f3de8b10-40fe-4f28-bc20-db069df430f7", 
+    "thread_ts": "1555899512.000200", 
+    "text": "<@U2C90DSLF> I've had that second issue as well.", 
+    "ts": "1555901204.000800", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 406, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ4BPA0FR", 
+        "thumb_480_h": 244, 
+        "original_h": 973, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-21 at 7.10.57 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4BPA0FR/screen_shot_2019-04-21_at_7.10.57_pm.png", 
+        "thumb_720_h": 366, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_80.png", 
+        "thumb_360_h": 183, 
+        "size": 109994, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_800.png", 
+        "timestamp": 1555899508, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4BPA0FR/download/screen_shot_2019-04-21_at_7.10.57_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_1024.png", 
+        "user": "UCB8YJNBT", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ4BPA0FR-796e838a57", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8YJNBT/FJ4BPA0FR/screen_shot_2019-04-21_at_7.10.57_pm.png", 
+        "name": "Screen Shot 2019-04-21 at 7.10.57 PM.png", 
+        "created": 1555899508, 
+        "thumb_1024_h": 520, 
+        "thumb_960_h": 488, 
+        "original_w": 1915, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4BPA0FR-6a819f75d8/screen_shot_2019-04-21_at_7.10.57_pm_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCB8YJNBT", 
+      "ts": "1555899686.000000"
+    }, 
+    "latest_reply": "1556119488.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N", 
+      "U7V12NBSR", 
+      "UCB8YJNBT"
+    ], 
+    "thread_ts": "1555899512.000200", 
+    "text": "<@U2C90DSLF> I have had this issue with course tracker. now it shows me 105% is done. I don\u2019t know If I can do that)).\nAnother thing is even I checked \u201cMark as complete\u201d part of each page. the tutorial still not updating my track on page number: 6, 8, 9", 
+    "upload": true, 
+    "ts": "1555899512.000200", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCB8YJNBT", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1555901204.000800"
+      }, 
+      {
+        "user": "U7V12NBSR", 
+        "ts": "1556052391.000100"
+      }, 
+      {
+        "user": "UCB8YJNBT", 
+        "ts": "1556057434.000300"
+      }, 
+      {
+        "user": "U7V12NBSR", 
+        "ts": "1556119488.000100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "49e52d8f-4c4a-4af0-a0e4-178659fbf8d0", 
+    "thread_ts": "1554841664.000700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "star", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "My two cents is that codecademy is good for learning syntax whereas the long written project style is good for learning frameworks. They can both be good for teaching concepts.", 
+    "ts": "1554932694.002000", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e847cd1-3f55-4021-9b40-5c98abb60c41", 
+    "thread_ts": "1554841664.000700", 
+    "text": "Maybe another question is why Make School consciously chose our current styles of tutorials? <@UEPUV52GL> :slightly_smiling_face:", 
+    "ts": "1554928468.001800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3e1e34ac-6c1d-4e95-8786-1ebcbd00eea2", 
+    "thread_ts": "1554841664.000700", 
+    "text": "Adding onto what <@UCC0GD5V0> said the interactive tutorial component of Codeacademy helps me walk through code rather than reading a block of text, then typing out or copy pasting into my code editor and seeing if it works. I really like the controlled learning environment they put you in I guess, not sure exactly what it is tbh.", 
+    "ts": "1554928375.001600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e839930a-f4e9-44c3-a469-8400d776e46e", 
+    "thread_ts": "1554841664.000700", 
+    "text": "I think the core difference is the way they are chunked and the instant feedback. With codecademy style tutorials you know immediately if you got something right or not. It's light gamification that makes it easier to go through a whole bunch in one sitting.", 
+    "ts": "1554843278.001400", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7e8bfa11-7a9f-45eb-9ae6-1dc88e529aee", 
+    "thread_ts": "1554841664.000700", 
+    "text": "Could you describe what the major difference between Codecademy style tutorials versus Make School ones? What is it about them that makes them a better learning experience?", 
+    "ts": "1554842234.001000", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c45b8577-4312-47c0-a898-a3224ea37ee4", 
+    "thread_ts": "1554841664.000700", 
+    "text": "What about Codecademy style? Do u mean having an embedded code editor in the right pane?", 
+    "ts": "1554841836.000800", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cad3419d-b523-4d11-8be0-9679c6e5e300", 
+    "thread_ts": "1554841664.000700", 
+    "latest_reply": "1554932694.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "U1HBKMW8Y", 
+      "UCC0GD5V0", 
+      "UCDAETD5L"
+    ], 
+    "text": "I wonder if a Codeacademy style of tutorials would prove more useful for students to learn through tutorial rather than the current style.. just an idea", 
+    "ts": "1554841664.000700", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1554841836.000800"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1554842234.001000"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1554843278.001400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554928375.001600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554928468.001800"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1554932694.002000"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554404351.015900", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "ee219e4d-8f84-434d-9bc2-c9114e24072c", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1554449194.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF", 
+          "UCC0GD5V0", 
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "<@U2C90DSLF> Feature request: It would be really nice if there was a list of \"recent tutorials\" section at the top of <http://makeschool.com/academy|makeschool.com/academy> or <http://makeschool.com/dashboard|makeschool.com/dashboard> so, as a student, I can easily find the tutorials I am currently working on\n\nThe way that page is currently implemented isn't ideal as a PC students for a couple reasons:\n- Tracks take up most of the screen above the fold but tracks are never used by College\n- Tutorials are not sorted by how recently one has viewed them\n- College sometimes keeps tutorials private, so there's no way to find those tutorials other than the deep-link in our course syllabus markdown files.", 
+    "ts": "1554400286.015200", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "75b8a500-8df7-4a04-93e3-6c864d621706", 
+    "thread_ts": "1554241980.008400", 
+    "text": "This is from <https://www.makeschool.com/academy/track/react-redux-tetris-app-tutorial-o4s>", 
+    "ts": "1554241992.008700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 421, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHB4WGAPK", 
+        "thumb_480_h": 253, 
+        "original_h": 2020, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-02, 2:52 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHB4WGAPK/image.png", 
+        "thumb_720_h": 379, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_80.png", 
+        "thumb_360_h": 189, 
+        "size": 310964, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_800.png", 
+        "timestamp": 1554241976, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHB4WGAPK/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_1024.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHB4WGAPK-f196be060a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FHB4WGAPK/image.png", 
+        "name": "image.png", 
+        "created": 1554241976, 
+        "thumb_1024_h": 539, 
+        "thumb_960_h": 505, 
+        "original_w": 3838, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHB4WGAPK-7855cd5b30/image_720.png"
+      }
+    ], 
+    "client_msg_id": "88650343-945b-4b5d-97e2-eb14c73a7396", 
+    "latest_reply": "1554241992.008700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1554241980.008400", 
+    "text": "<@U2C90DSLF> Small styling glitch --&gt; the tutorial steps appear on top of the navbar when scrolling down (see top of screenshot)", 
+    "upload": true, 
+    "ts": "1554241980.008400", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1554241992.008700"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1554140649.008300", 
+    "text": "<@UCB8YJNBT> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1553996262.007800", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1553967371.007500", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBP4M9C4", 
+    "ts": "1553922782.007300", 
+    "text": "<@UCBP4M9C4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1553922759.007100", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1553919960.006900", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "52bb2f13-dcc4-4137-8a7c-bf23cba3422f", 
+    "edited": {
+      "user": "UCDAKSB7Y", 
+      "ts": "1553919824.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCCTF62ET", 
+          "UCC0GD5V0", 
+          "U2C90DSLF", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<@U2C90DSLF> Could we have functionality added to allow us to drag our projects onto the portfolio page in any order, not just at the bottom or the top? (Or manually enter in the order number of the projects) The current functionality is nice, but it is a hassle to add a new project to middle of the list when I know it\u2019s neither my proudest nor my worst work.", 
+    "ts": "1553919712.006600", 
+    "user": "UCDAKSB7Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1553919076.000400", 
+    "text": "<@UCDAKSB7Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1553900955.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "client_msg_id": "3312dc07-2432-4e29-a50c-f5259d824856", 
+    "thread_ts": "1553561343.005100", 
+    "text": "(Press :arrow_up: to edit your last message)", 
+    "ts": "1553565408.005200", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "321e502d-2408-45a9-b4d9-171bd75020e6", 
+    "thread_ts": "1553561343.005100", 
+    "latest_reply": "1553565408.005200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "text": "(forgot to at <@U2C90DSLF>)", 
+    "ts": "1553561343.005100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1553565408.005200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "5bda6482-c35d-4709-863e-b92f17d7b982", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "The \"Extended Description of yourself (Biography)\" section on the Portfolios should allow you to have paragraphs. Currently mine looks like a disastrous wall of text", 
+    "ts": "1553560014.004700", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1553559952.003900", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "422ac34b-878a-410f-93e3-9e99c16e5595", 
+    "thread_ts": "1552769226.002700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "text": "Thank you for reporting <@U6YCJRXGF>!", 
+    "ts": "1552937843.003500", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "U6YCJRXGF", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "thumb_video": "https://files.slack.com/files-tmb/T1D4KRBR8-FH2KNF7RC-2ec74dc84a/tutorial_thumb_video.jpeg", 
+        "id": "FH2KNF7RC", 
+        "size": 6952724, 
+        "title": "tutorial.mov", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH2KNF7RC/tutorial.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1552769224, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH2KNF7RC/download/tutorial.mov", 
+        "user": "U6YCJRXGF", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "is_external": false, 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH2KNF7RC-29d642b776", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCJRXGF/FH2KNF7RC/tutorial.mov", 
+        "name": "tutorial.mov", 
+        "created": 1552769224, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1552769226.002700", 
+    "latest_reply": "1552937843.003500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "Accidentally found myself in a Make School tutorial while trying to find solutions for a bug in my iOS project but I noticed that the scrolling doesn\u2019t work if your cursor within the margins of the screen.", 
+    "upload": true, 
+    "ts": "1552769226.002700", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YCJRXGF", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1552937843.003500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "77f4987c-481d-4919-a966-27de1eeb3ddf", 
+    "thread_ts": "1551412683.001000", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCBKC02JY", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sleuth_or_spy", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "This is a permissions bug on our end, thanks for raising!", 
+    "ts": "1551458563.001300", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 392, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGMM2EMF0", 
+        "thumb_480_h": 235, 
+        "original_h": 417, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-28, 7:57 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGMM2EMF0/image.png", 
+        "thumb_720_h": 353, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_80.png", 
+        "thumb_360_h": 177, 
+        "size": 26010, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_800.png", 
+        "timestamp": 1551412680, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGMM2EMF0/download/image.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGMM2EMF0-ce198774e8", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FGMM2EMF0/image.png", 
+        "name": "image.png", 
+        "created": 1551412680, 
+        "original_w": 850, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGMM2EMF0-93cf1d52a8/image_720.png"
+      }
+    ], 
+    "thread_ts": "1551412683.001000", 
+    "latest_reply": "1551458563.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF"
+    ], 
+    "text": "hey is it expected that instructors are either `null null` or `TBD` on all courses in the course enrollment tool? I seem to remember seeing instructor names here for past terms", 
+    "upload": true, 
+    "ts": "1551412683.001000", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1551458563.001300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGCACPR7V", 
+        "size": 34394, 
+        "original_h": 220, 
+        "thumb_360_w": 360, 
+        "title": "MS favicons in browser cache.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGCACPR7V/ms_favicons_in_browser_cache.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGCACPR7V-aa3b841bcd/ms_favicons_in_browser_cache_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGCACPR7V-aa3b841bcd/ms_favicons_in_browser_cache_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGCACPR7V-aa3b841bcd/ms_favicons_in_browser_cache_80.png", 
+        "thumb_360_h": 184, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550700263, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGCACPR7V-aa3b841bcd/ms_favicons_in_browser_cache_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGCACPR7V/download/ms_favicons_in_browser_cache.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGCACPR7V-16f64e264a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FGCACPR7V/ms_favicons_in_browser_cache.png", 
+        "name": "MS favicons in browser cache.png", 
+        "created": 1550700263, 
+        "original_w": 430, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1550449324.000300", 
+    "text": "<@U2C90DSLF>: I just noticed I\u2019m getting mixed results for old/new logo favicons on our `/admin` pages", 
+    "upload": true, 
+    "ts": "1550700265.000100", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U6YCJRXGF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "328b4066-b649-4f85-bfc6-ade855e9f68b", 
+    "thread_ts": "1550449324.000300", 
+    "text": "Nice catch. Thanks!", 
+    "ts": "1550589441.001000", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "U6YCJRXGF", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FG8R4RJM7", 
+        "size": 10458, 
+        "original_h": 90, 
+        "thumb_360_w": 322, 
+        "title": "Screen Shot 2019-02-17 at 4.20.33 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG8R4RJM7/screen_shot_2019-02-17_at_4.20.33_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG8R4RJM7-9d439feff9/screen_shot_2019-02-17_at_4.20.33_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG8R4RJM7-9d439feff9/screen_shot_2019-02-17_at_4.20.33_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG8R4RJM7-9d439feff9/screen_shot_2019-02-17_at_4.20.33_pm_80.png", 
+        "thumb_360_h": 90, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550449323, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG8R4RJM7-9d439feff9/screen_shot_2019-02-17_at_4.20.33_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG8R4RJM7/download/screen_shot_2019-02-17_at_4.20.33_pm.png", 
+        "user": "U6YCJRXGF", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG8R4RJM7-865cdd2d36", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCJRXGF/FG8R4RJM7/screen_shot_2019-02-17_at_4.20.33_pm.png", 
+        "name": "Screen Shot 2019-02-17 at 4.20.33 PM.png", 
+        "created": 1550449323, 
+        "original_w": 322, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1550449324.000300", 
+    "latest_reply": "1550700265.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF", 
+      "U1HBKMW8Y"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "og-make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "the-real-og-make-school", 
+        "users": [
+          "UCBKC02JY", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "soon", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Just noticed that the favicon for tutorials is still using the old logo", 
+    "upload": true, 
+    "ts": "1550449324.000300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YCJRXGF", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1550589441.001000"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1550700265.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1550449254.000200", 
+    "text": "<@U6YCJRXGF> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "5B503E7B-4DFF-46B6-AE6E-78312BA873C6", 
+    "thread_ts": "1548723764.009000", 
+    "text": "Thank You! ", 
+    "ts": "1548737335.010200", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCMTPELBC> has joined the channel", 
+    "ts": "1548726555.009900", 
+    "subtype": "channel_join", 
+    "user": "UCMTPELBC", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "client_msg_id": "5ee6c2d6-3f8b-4983-bd52-78d0a56fd8ca", 
+    "thread_ts": "1548723764.009000", 
+    "text": "Added you there now. <@UCMTPELBC> will be going through all students tonight/tomorrow to show them / hide them depending on how filled out their portfolios are.", 
+    "ts": "1548726552.009600", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a3b08de0-d152-4549-8621-4187d8cb35e5", 
+    "thread_ts": "1548723764.009000", 
+    "latest_reply": "1548737335.010200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90DSLF", 
+      "UCB58P2V6"
+    ], 
+    "text": "Hi, I just realized that a bunch of current student profiles aren't here, including myself :slightly_frowning_face:<https://www.makeschool.com/computer-science/community#students>", 
+    "ts": "1548723764.009000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1548726552.009600"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1548737335.010200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ee3d65ef-413f-4c26-9f90-14ecb6144ad6", 
+    "thread_ts": "1548185494.007300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Good to know. I\u2019ll have them take a look at articles regardless to make sure.", 
+    "ts": "1548185578.008100", 
+    "user": "U2C90DSLF", 
+    "parent_user_id": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8b6fb1fc-6e19-4fd9-9501-08cb17503186", 
+    "thread_ts": "1548185494.007300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "Also, just to clarify, this does not happen with article photos as far as I know.", 
+    "ts": "1548185542.007800", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a67ed47f-f0bb-4a7c-a123-f4c00ce7a576", 
+    "thread_ts": "1548185494.007300", 
+    "latest_reply": "1548185578.008100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA", 
+      "U2C90DSLF"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dion-pixel", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Thanks Faith! I\u2019ll make a ticket to take a look at this. Will likely update the CSS for the display so it uses the same rectangular crop since this works for most projects and will make sure all portfolios are compatible.", 
+    "ts": "1548185494.007300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U2C90DSLF", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1548185542.007800"
+      }, 
+      {
+        "user": "U2C90DSLF", 
+        "ts": "1548185578.008100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "6dca95f4-be57-4dda-a296-855efcf3f44a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "gift_heart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U2C90DSLF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dion-pixel", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "Thank you for all you do!", 
+    "ts": "1548184033.004800", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f3245f05-3e36-4992-8bb7-ed6c01334775", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1548184113.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U2C90DSLF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "This makes it a little hard to judge photo that you've selected for the portfolio and can result in some awkward looking final images. My suggestion is that it might make more sense for the fixed crop prior to upload to be the same dimensions as the final displayed image.", 
+    "ts": "1548184027.004600", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 631, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFMJ81C78", 
+        "thumb_480_h": 379, 
+        "original_h": 637, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-22 at 11.03.45 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFMJ81C78/screen_shot_2019-01-22_at_11.03.45_am.png", 
+        "thumb_720_h": 568, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_80.png", 
+        "thumb_360_h": 284, 
+        "size": 137736, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_800.png", 
+        "timestamp": 1548183926, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFMJ81C78/download/screen_shot_2019-01-22_at_11.03.45_am.png", 
+        "user": "UCB8U00KA", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFMJ81C78-5ff914f5a7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8U00KA/FFMJ81C78/screen_shot_2019-01-22_at_11.03.45_am.png", 
+        "name": "Screen Shot 2019-01-22 at 11.03.45 AM.png", 
+        "created": 1548183926, 
+        "original_w": 807, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFMJ81C78-883b71b26b/screen_shot_2019-01-22_at_11.03.45_am_720.png"
+      }
+    ], 
+    "text": "But then, it is displayed on the actual portfolio in a square crop, like this.", 
+    "upload": true, 
+    "ts": "1548183930.002700", 
+    "display_as_bot": false, 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 545, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFLBTRJE9", 
+        "thumb_480_h": 327, 
+        "original_h": 625, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-22 at 11.03.25 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFLBTRJE9/screen_shot_2019-01-22_at_11.03.25_am.png", 
+        "thumb_720_h": 490, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_80.png", 
+        "thumb_360_h": 245, 
+        "size": 103676, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_800.png", 
+        "timestamp": 1548183889, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFLBTRJE9/download/screen_shot_2019-01-22_at_11.03.25_am.png", 
+        "user": "UCB8U00KA", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFLBTRJE9-02c63b8ce3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8U00KA/FFLBTRJE9/screen_shot_2019-01-22_at_11.03.25_am.png", 
+        "name": "Screen Shot 2019-01-22 at 11.03.25 AM.png", 
+        "created": 1548183889, 
+        "original_w": 918, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLBTRJE9-cadec7070c/screen_shot_2019-01-22_at_11.03.25_am_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U2C90DSLF"
+        ]
+      }
+    ], 
+    "text": "The website makes you upload the pictures in a fixed, rectangular crop, like this.", 
+    "upload": true, 
+    "ts": "1548183894.002000", 
+    "display_as_bot": false, 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "94d3a452-d69e-44ee-ad80-beeaae921ef7", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1548184074.000000"
+    }, 
+    "text": "Hi <@U2C90DSLF>! I hope that you enjoyed your MLK weekend :smile:! I want to report something that happens when uploading pictures for portfolio projects.", 
+    "ts": "1548183850.001500", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1548183712.000200", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "688ae7e4-cf48-43cd-85c9-8f6a0f7a1614", 
+    "text": "<@U7V12NBSR> woah, checked and it looks good. Thank you!:smiley:", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1547755056.008300"
+  }, 
+  {
+    "client_msg_id": "f372d690-b2ba-4e19-b0e6-6772c72d8c36", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "spider_web", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "medal", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "And the fix is live! Thanks <@UCB58P2V6> :slightly_smiling_face:", 
+    "ts": "1547754539.007500", 
+    "user": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e8a12e96-13e7-4131-b088-c8101d1c69e5", 
+    "text": "Alena found the issue. Bug shows up when you go to <http://makeschool.com/dashboard|makeschool.com/dashboard> when not logged in. \n\nThanks <@UCB58P2V6>!", 
+    "type": "message", 
+    "user": "U2C90DSLF", 
+    "ts": "1547754330.007200"
+  }, 
+  {
+    "client_msg_id": "4c3cba42-a0e0-42a6-ae6e-ae5742331e75", 
+    "text": "A fix is coming imminently :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U7V12NBSR", 
+    "ts": "1547754281.006200"
+  }, 
+  {
+    "client_msg_id": "1306449b-a6b8-4f9f-8dc0-a4cf2c862ac2", 
+    "text": "second time it has happened", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1547753038.005700"
+  }, 
+  {
+    "client_msg_id": "b7b918a1-ffeb-4a80-a425-dc3c57fcf500", 
+    "text": "<@U2C90DSLF>", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1547752999.005400"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 440, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFFQN32HW", 
+        "thumb_480_h": 264, 
+        "original_h": 792, 
+        "thumb_360_w": 360, 
+        "title": "ms_website.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFFQN32HW/ms_website.png", 
+        "thumb_720_h": 396, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_80.png", 
+        "thumb_360_h": 198, 
+        "size": 81438, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_800.png", 
+        "timestamp": 1547752979, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFFQN32HW/download/ms_website.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_1024.png", 
+        "user": "UCB58P2V6", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFFQN32HW-ac1bd57d77", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB58P2V6/FFFQN32HW/ms_website.png", 
+        "name": "ms_website.png", 
+        "created": 1547752979, 
+        "thumb_1024_h": 563, 
+        "thumb_960_h": 528, 
+        "original_w": 1440, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFFQN32HW-a5aacad982/ms_website_720.png"
+      }
+    ], 
+    "text": "When i try to login, this is how the UI looks... is this normal?", 
+    "upload": true, 
+    "ts": "1547752989.005000", 
+    "display_as_bot": false, 
+    "user": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1547664427.004800", 
+    "text": "<@UCBP5EN5S> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 179, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFEBJTJA0", 
+        "thumb_480_h": 107, 
+        "original_h": 223, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-14 at 3.33.12 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFEBJTJA0/screen_shot_2019-01-14_at_3.33.12_pm.png", 
+        "thumb_720_h": 161, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_80.png", 
+        "thumb_360_h": 80, 
+        "size": 27880, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_800.png", 
+        "timestamp": 1547590599, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFEBJTJA0/download/screen_shot_2019-01-14_at_3.33.12_pm.png", 
+        "user": "U2C90DSLF", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFEBJTJA0-38977efc40", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90DSLF/FFEBJTJA0/screen_shot_2019-01-14_at_3.33.12_pm.png", 
+        "name": "Screen Shot 2019-01-14 at 3.33.12 PM.png", 
+        "created": 1547590599, 
+        "thumb_960_h": 215, 
+        "original_w": 998, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFEBJTJA0-e9d8954a4b/screen_shot_2019-01-14_at_3.33.12_pm_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gift_heart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dion", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "*New feature for Portfolios\u2026*\n\nProjects and articles can now be reversed. When adding a new project or article, you can choose between adding at the top or adding at the bottom.\n\n:dion_pixel: :rewind: :dion:", 
+    "upload": true, 
+    "ts": "1547590604.003500", 
+    "display_as_bot": false, 
+    "user": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6b69770f-3d7e-4e7d-9e80-7c914d740608", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "relieved", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "A button to reverse project and article ordering on Portfolios will be going live tomorrow before open house. Do not stress about manually re-entering them to get the order correct. Tell your friends! :wink:", 
+    "ts": "1547506730.002800", 
+    "user": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1547504209.002000", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1547501139.001800", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1547497510.001600", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "b7bdf535-7578-4728-84eb-26025d53000f", 
+    "attachments": [
+      {
+        "footer": "From a thread in #general", 
+        "author_id": "U6YHCA79U", 
+        "original_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1547495394240900?thread_ts=1547494849.239000&amp;cid=C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "text": "Can we have the MS Dev team fix the order of the portfolio projects? Cuz currently how is working is that as you add new projects to the portfolio the new projects are added to the bottom of the page, meaning that lyft will see our worse projects first and not the most recent ones", 
+        "author_link": "https://product-college.slack.com/team/U6YHCA79U", 
+        "ts": "1547495394.240900", 
+        "author_name": "Elliot Briant", 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1547495394240900?thread_ts=1547494849.239000&amp;cid=C1D3YFP6G", 
+        "author_subname": "Elliot Briant", 
+        "fallback": "[January 14th, 2019 11:49 AM] elliotbriant: Can we have the MS Dev team fix the order of the portfolio projects? Cuz currently how is working is that as you add new projects to the portfolio the new projects are added to the bottom of the page, meaning that lyft will see our worse projects first and not the most recent ones", 
+        "author_icon": "https://avatars.slack-edge.com/2019-01-11/522563280935_d4698b80c3fd4666edab_48.jpg", 
+        "id": 1, 
+        "is_reply_unfurl": true
+      }
+    ], 
+    "text": "<https://product-college.slack.com/archives/C1D3YFP6G/p1547495394240900?thread_ts=1547494849.239000&amp;cid=C1D3YFP6G>", 
+    "ts": "1547496997.001300", 
+    "user": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U7U7MS551> has joined the channel", 
+    "ts": "1547496915.001100", 
+    "subtype": "channel_join", 
+    "user": "U7U7MS551", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "text": "<@U4CEBV4SW> has joined the channel", 
+    "ts": "1547496914.000900", 
+    "subtype": "channel_join", 
+    "user": "U4CEBV4SW", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "text": "<@U7V12NBSR> has joined the channel", 
+    "ts": "1547496914.000700", 
+    "subtype": "channel_join", 
+    "user": "U7V12NBSR", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "text": "<@U90HP2ZT6> has joined the channel", 
+    "ts": "1547496913.000500", 
+    "subtype": "channel_join", 
+    "user": "U90HP2ZT6", 
+    "type": "message", 
+    "inviter": "U2C90DSLF"
+  }, 
+  {
+    "text": "<@U2C90DSLF> set the channel purpose: Report bugs, suggest features, etc", 
+    "ts": "1547496899.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U2C90DSLF", 
+    "type": "message", 
+    "purpose": "Report bugs, suggest features, etc"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90DSLF", 
+    "ts": "1547496899.000200", 
+    "text": "<@U2C90DSLF> has joined the channel"
+  }
+]

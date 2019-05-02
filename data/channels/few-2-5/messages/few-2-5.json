@@ -1,0 +1,616 @@
+[
+  {
+    "client_msg_id": "ca2554d9-1d58-467d-af4f-b633ea8fa457", 
+    "text": "<https://github.com/soggybag/FEW-2-5-Data-Visualization-D3>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556749466.014700"
+  }, 
+  {
+    "client_msg_id": "1ee825db-ab24-442f-8e7a-0ddf091dd3bb", 
+    "text": "<https://github.com/soggybag/FEW-2-5-Data-Visualization-D3/blob/master/svg-bubbles.html>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556744390.014400"
+  }, 
+  {
+    "client_msg_id": "c12d6c99-2d6d-4566-9b50-d96cb4af2393", 
+    "text": "<https://anselb.github.io/visualization-practice/>", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556571088.013800"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ9MJB9L5", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 2.5 Progress Tracker (Term 4 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1dipIhzd09Skz250FTcmjS4gubnjvlli0e81OrhuJbqE/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_80.png", 
+        "thumb_360_h": 360, 
+        "size": 103046, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_800.png", 
+        "timestamp": 1556569948, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FJ9MJB9L5/few_2", 
+        "name": "FEW 2", 
+        "created": 1556569948, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1dipIhzd09Skz250FTcmjS4gubnjvlli0e81OrhuJbqE", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ9MJB9L5-f34b15a54d/few_2_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1dipIhzd09Skz250FTcmjS4gubnjvlli0e81OrhuJbqE/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "56bea152-5f40-4637-a6b2-822723de6951", 
+    "text": "<https://docs.google.com/spreadsheets/d/1dipIhzd09Skz250FTcmjS4gubnjvlli0e81OrhuJbqE/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1556569946.013100", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FJ9MJB9L5"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2D386501-D3EB-400D-B4CB-B30E295696CC", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1556244424.000000"
+    }, 
+    "text": "Same, I don\u2019t remember seeing it", 
+    "ts": "1556244412.012800", 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "90ff8479-c5cf-4263-b477-13616e2018c8", 
+    "text": "i can't find a tracker in the repo or linked anywhere on slack", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1556244109.012300"
+  }, 
+  {
+    "client_msg_id": "0dcb8c5f-babb-406d-8a06-5607185751f1", 
+    "edited": {
+      "user": "U28S64ZJ5", 
+      "ts": "1556243596.000000"
+    }, 
+    "text": "<!channel> No one has filled out the tracker! I need you all to fill in the tracker for each of the visualizations that you have completed so far. I going to submit midterm evaluation tomorrow.", 
+    "ts": "1556243521.011700", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a890211d-9955-498e-995b-f4dd6d28987c", 
+    "text": "Static node server: <https://gist.github.com/amejiarosario/53afae82e18db30dadc9bc39035778e5>", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556143621.011300"
+  }, 
+  {
+    "client_msg_id": "756ba375-62e7-4157-8a83-619826add8ad", 
+    "thread_ts": "1556127036.006900", 
+    "text": "Yeah I found the bug for that. Thanks though!", 
+    "ts": "1556131743.011000", 
+    "user": "U6YFC7074", 
+    "parent_user_id": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "19654acd-6814-4d27-842a-a918e557f2bb", 
+    "thread_ts": "1556127036.006900", 
+    "text": "its working now again", 
+    "ts": "1556131425.010800", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 430, 
+        "filetype": "png", 
+        "thumb_800_h": 893, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ516RFN0", 
+        "thumb_480_h": 480, 
+        "original_h": 1192, 
+        "thumb_360_w": 323, 
+        "title": "Pasted image at 2019-04-24, 11:42 AM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ516RFN0/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_64.png", 
+        "thumb_720_w": 645, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 123157, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_800.png", 
+        "timestamp": 1556131340, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ516RFN0/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_1024.png", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ516RFN0-efb8371286", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FJ516RFN0/image.png", 
+        "name": "image.png", 
+        "created": 1556131340, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1068, 
+        "thumb_960_w": 860, 
+        "thumb_1024_w": 917, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ516RFN0-a69356e218/image_720.png"
+      }
+    ], 
+    "thread_ts": "1556127036.006900", 
+    "text": "picture acting up", 
+    "upload": true, 
+    "ts": "1556131345.010400", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a40be55c-1a02-4d18-b384-163e9dce7565", 
+    "text": "Nice!", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556131305.010300"
+  }, 
+  {
+    "client_msg_id": "ee846ca3-e312-4112-81ef-9f014f957c10", 
+    "text": "<@U28S64ZJ5> <https://www.raygun.live/user/eg5bz5vz5riyE2eFzVpvDFIwxFKcyeIR0-nUPrYUIHc.0pzSrEEzPV2oZdQ8js6TDrSE0P1xG5z13SZAG6TvmJs/dim/71bea755-8047-42e3-acb3-599d0ab20c02>", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1556131258.010000"
+  }, 
+  {
+    "client_msg_id": "9d3ebdf2-095e-4611-8a38-ef7e7e783fd7", 
+    "text": "It will take any vanilla js as far as I know", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1556129542.009800"
+  }, 
+  {
+    "client_msg_id": "1753E6DB-B9BC-4913-9239-57173C96492A", 
+    "text": "Or any vanilla js", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556129477.009400"
+  }, 
+  {
+    "client_msg_id": "51799a4c-dd12-4f84-9e65-30db839c07cf", 
+    "text": "Let me see", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1556129463.009100"
+  }, 
+  {
+    "client_msg_id": "E17704F1-4744-4252-A92D-30AB87F62AF8", 
+    "text": "Yeah ", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556129450.008600"
+  }, 
+  {
+    "client_msg_id": "0662dbf8-1b51-4c3c-93ce-9035b602222e", 
+    "text": "Like the thing I made with Titanic?", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1556129436.008400"
+  }, 
+  {
+    "client_msg_id": "0EAE084F-34F0-4D5F-90DA-1CFEA57905D9", 
+    "text": "Can you host your data visualizations on Raygun?", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556129304.008000"
+  }, 
+  {
+    "client_msg_id": "f39fe457-1408-47bc-8266-16553c6eae96", 
+    "edited": {
+      "user": "U6YFC7074", 
+      "ts": "1556127215.000000"
+    }, 
+    "latest_reply": "1556131743.011000", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCDAF4FV4", 
+      "U6YFC7074"
+    ], 
+    "thread_ts": "1556127036.006900", 
+    "text": "<https://www.raygun.live/>\nHey if any of y\u2019all are interested, I encourage you to try your hand at using RayGun. I made a small tutorial on how to use the current version. Let me know of any feedback or questions you might have. Thanks!", 
+    "last_read": "1556132589.000308", 
+    "ts": "1556127036.006900", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6YFC7074", 
+    "replies": [
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1556131345.010400"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1556131425.010800"
+      }, 
+      {
+        "user": "U6YFC7074", 
+        "ts": "1556131743.011000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "8b329b51-45e5-4700-b125-0519af111ec1", 
+    "text": "<https://github.com/soggybag/data-visualizations>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555970875.002600"
+  }, 
+  {
+    "client_msg_id": "fd18d576-854b-4553-8451-3c0e1dcdefbf", 
+    "text": "<https://nyapal.github.io/>", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555965640.002400"
+  }, 
+  {
+    "client_msg_id": "99600a3f-1fc8-4bdc-945e-d0474c6d49b0", 
+    "text": "Y\u2019all should be able to clone it and view it on the projector.", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1555356774.001400"
+  }, 
+  {
+    "client_msg_id": "f3d85845-5f66-4880-ad2c-529d138287a2", 
+    "text": "<https://github.com/JamieRez/titanic-project-few2.5>", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1555356730.000800"
+  }, 
+  {
+    "client_msg_id": "fb874951-68be-433f-ab7a-62605d93d153", 
+    "text": "Hey Mitchell, I won\u2019t be in class today unfortunately, but here\u2019s a link to my data project.", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1555356730.000600"
+  }, 
+  {
+    "client_msg_id": "9076cf73-4dd4-43dd-8d79-2f6bade72f91", 
+    "attachments": [
+      {
+        "image_bytes": 443873, 
+        "original_url": "https://codeburst.io/how-to-pure-css-pie-charts-w-css-variables-38287aea161e", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "8 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "HOW TO: Pure CSS pie charts w/ CSS variables", 
+        "ts": 1541625752, 
+        "title_link": "https://codeburst.io/how-to-pure-css-pie-charts-w-css-variables-38287aea161e", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*rFj-pms_DAjupqb9N9jSHA.jpeg", 
+        "image_width": 167, 
+        "service_name": "codeburst", 
+        "from_url": "https://codeburst.io/how-to-pure-css-pie-charts-w-css-variables-38287aea161e", 
+        "fallback": "codeburst: HOW TO: Pure CSS pie charts w/ CSS variables", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*mNmxddJJTzkiBfK77mWuGA.png", 
+        "text": "Create customisable pie charts in ~30 lines of CSS :sunglasses:", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://codeburst.io/how-to-pure-css-pie-charts-w-css-variables-38287aea161e>", 
+    "ts": "1554934705.005000", 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 674, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHEVD2L75", 
+        "thumb_480_h": 405, 
+        "original_h": 1202, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-10, 2:43 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHEVD2L75/image.png", 
+        "thumb_720_h": 607, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_80.png", 
+        "thumb_360_h": 303, 
+        "size": 48605, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_800.png", 
+        "timestamp": 1554932743, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHEVD2L75/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_1024.png", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHEVD2L75-89c3f46be6", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FHEVD2L75/image.png", 
+        "name": "image.png", 
+        "created": 1554932743, 
+        "thumb_1024_h": 863, 
+        "thumb_960_h": 809, 
+        "original_w": 1426, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHEVD2L75-7999113a12/image_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554932746.004600", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b180d450-b14f-4cdc-9b0d-ceb486a948a5", 
+    "text": "```&lt;button id=\"button\"&gt;Click&lt;/button&gt;\n\n&lt;button id=\"toggle\"&gt;Toggle&lt;/button&gt;\n\n&lt;div id=\"container\"&gt;&lt;/div&gt;\n\n\n&lt;script&gt;\n\tconst container = document.getElementById('container')\n\tcontainer.style.width = '600px'\n\tcontainer.style.height = '300px'\n\tcontainer.style.border = '3px dashed purple'\n\t\n\tconst data = []\n\tfor (let i = 0; i &lt; 20; i += 1) {\n\t\tlet obj = {}\n\t\tobj.a = Math.random()\n\t\tobj.b = Math.random()\n\t\tobj.c = Math.random()\n\t\tdata.push(obj)\n\t}\n\t\n\t// ---------------------------------------\n\t\n\tconst elements = []\n\t\n\tdata.forEach((item) =&gt; {\n\t\tconst el = document.createElement('div')\n\t\tcontainer.appendChild(el)\n\t\tel.style.height = '15px'\n\t\tel.style.margin = '1px'\n\t\tel.style.backgroundColor = 'green'\n\t\tel.style.transition = '4000ms ease-in-out'\n\t\t\t\n\t\tel.get = (field) =&gt; {\n\t\t\treturn item[field]\n\t\t}\n\t\t\n\t\tel.setWidth = (field) =&gt; {\n\t\t\tel.style.width = `${item[field] * 600}px`\n\t\t}\n\t\t\n\t\tel.setW = function(field) {\n\t\t\tthis.style.width = `${item[field] * 600}px`\n\t\t}\n\t\t\n\t\tel.put = () =&gt; {}\n\t\t\n\t\telements.push(el)\n\t})\n\t\n\tfunction showData(field) {\n\t\telements.forEach((el) =&gt; {\n\t\t\tel.setW(field)\n\t\t})\n\t}\n\t\n\tshowData('a')\n\t\n\t// Challenge: Add a inset pink border...\n\t\n\t// -------------------------------------\n\t\n\tconst button = document.getElementById('button')\n\tconst toggle = document.getElementById('toggle')\n\t\n\tfunction makeToggle(el, callback) {\n\t\tlet state = false\n\t\tel.addEventListener('click', (e) =&gt; {\n\t\t\tstate = !state\n\t\t\tif (state) {\n\t\t\t\tel.style.backgroundColor = '#000'\n\t\t\t\tel.style.color = '#fff'\n\t\t\t} else {\n\t\t\t\tel.style.backgroundColor = '#fff'\n\t\t\t\tel.style.color = '#000'\n\t\t\t}\n\t\t\tcallback(state)\n\t\t})\n\t}\n\t\n\tmakeToggle(toggle, (state) =&gt; {\n\t\tif (state) {\n\t\t\tshowData('b')\n\t\t} else {\n\t\t\tshowData('a')\n\t\t}\n\t})\n\tmakeToggle(button, (state) =&gt; {\n\t\tdocument.querySelector('body').style.flexDirection = state ? 'row' : 'column'\n\t\tdocument.querySelector('body').style.display = 'flex'\n\t})\n\t\n\t\n\t\n&lt;/script&gt;\n```", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554931603.004500"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> set the channel topic: Course Repo: <https://github.com/Make-School-Courses/FEW-2.5-Data-Visualization-and-Web-Graphics>", 
+    "ts": "1554928215.004200", 
+    "topic": "Course Repo: <https://github.com/Make-School-Courses/FEW-2.5-Data-Visualization-and-Web-Graphics>", 
+    "subtype": "channel_topic", 
+    "user": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> set the channel topic: Course Repo: <https://github.com/MakeSchool-Tutorials/FEW-2-5-Data-Visualization-Working-with-Data/tree/master>", 
+    "ts": "1554928177.004100", 
+    "topic": "Course Repo: <https://github.com/MakeSchool-Tutorials/FEW-2-5-Data-Visualization-Working-with-Data/tree/master>", 
+    "subtype": "channel_topic", 
+    "user": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "69d3c8a5-5ad0-45d6-9367-a88a6972143c", 
+    "text": "<https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1554761562.004000"
+  }, 
+  {
+    "client_msg_id": "441eb836-0247-4be8-95c9-d8c5023ddecb", 
+    "text": "<https://github.com/MakeSchool-Tutorials/FEW-2-5-Data-Visualization-Buttons-and-Interaction>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554756666.003700"
+  }, 
+  {
+    "client_msg_id": "69c692dc-c4d4-4b94-98cf-286b010b635f", 
+    "text": "<@U6YFC7074> <@UCB3PRBME>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554755736.003500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1554426486.002900", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "e034c60f-bd68-4101-800d-336c261fa1ff", 
+    "attachments": [
+      {
+        "original_url": "https://datasf.org/opendata/", 
+        "service_name": "DataSF", 
+        "title": "San Francisco Open Data", 
+        "title_link": "https://datasf.org/opendata/", 
+        "text": "Our mission is to empower use of the City and County of San Francisco's data. Our core product is SF OpenData, the official open data portal.", 
+        "from_url": "https://datasf.org/opendata/", 
+        "fallback": "DataSF: San Francisco Open Data", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://datasf.org/opendata/>", 
+    "ts": "1554329841.002600", 
+    "user": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1554237476.002400", 
+    "text": "<@UCBS25XMZ> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "ruby", 
+        "lines_more": 35, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHKL4EFE2", 
+        "size": 1124, 
+        "title": "CountMaleFemale", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHKL4EFE2/countmalefemale.rb", 
+        "preview": "<div id=\"data-display\"></div>\r\n<div id=\"container\"></div>\r\n\r\n<script>\r\n  // Load the titanic data. You must run this from a server.\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U6YCV95L7/FHKL4EFE2/countmalefemale.rb/edit", 
+        "username": "", 
+        "timestamp": 1554154885, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">div</span> <span class=\"cm-variable\">id</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;data-display&quot;</span><span class=\"cm-operator\">&gt;&lt;/</span><span class=\"cm-variable\">div</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">div</span> <span class=\"cm-variable\">id</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;container&quot;</span><span class=\"cm-operator\">&gt;&lt;/</span><span class=\"cm-variable\">div</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">script</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre>  <span class=\"cm-string-2\">//</span> <span class=\"cm-tag\">Load</span> <span class=\"cm-variable\">the</span> <span class=\"cm-variable\">titanic</span> <span class=\"cm-variable\">data</span><span class=\"cm-operator\">.</span> <span class=\"cm-property\">You</span> <span class=\"cm-variable\">must</span> <span class=\"cm-variable\">run</span> <span class=\"cm-variable\">this</span> <span class=\"cm-variable\">from</span> <span class=\"cm-variable\">a</span> <span class=\"cm-variable\">server</span><span class=\"cm-operator\">.</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHKL4EFE2/download/countmalefemale.rb", 
+        "user": "U6YCV95L7", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Ruby", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHKL4EFE2-c046e0f2c1", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCV95L7/FHKL4EFE2/countmalefemale.rb", 
+        "name": "CountMaleFemale.rb", 
+        "created": 1554154885, 
+        "lines": 40, 
+        "mode": "snippet", 
+        "preview_is_truncated": true
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554154885.002000", 
+    "display_as_bot": false, 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cf9711f9-86c5-4e95-83ad-4e4031eb2e85", 
+    "text": "<https://github.com/MakeSchool-Tutorials/FEW-2-5-Data-Visualization-Working-with-Data/tree/master>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554152005.001900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1554151909.001600", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "eb85fed9-71ec-46ce-ac6c-85ae67d23308", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.5-Data-Visualization-and-Web-Graphics>", 
+    "pinned_info": {
+      "pinned_ts": 1554151910, 
+      "channel": "CHK7KCWF9", 
+      "pinned_by": "U28S64ZJ5"
+    }, 
+    "ts": "1554151902.001400", 
+    "pinned_to": [
+      "CHK7KCWF9"
+    ], 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1554151899.001200", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1554151899.001000", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1554151899.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1554151898.000600", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1554151898.000400", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554151898.000200", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }
+]

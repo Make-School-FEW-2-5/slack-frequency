@@ -1,0 +1,3244 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1555043800.000200", 
+    "text": "<@UCCL1R3EZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554244408.001200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1554162481.001000", 
+    "text": "<@UCBS1DSF5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554093357.000800", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1554081530.000600", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1553834225.000400", 
+    "text": "<@UCBQLD4M8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1553825982.000200", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1552928835.028800", 
+    "text": "<@UCBKC02JY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1552716733.028500", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1552635619.028300", 
+    "text": "<@UCBHEGLKB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "9d58d7ad-2626-4d07-8345-4483248b10f9", 
+    "edited": {
+      "user": "UCCTF62ET", 
+      "ts": "1552612964.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "Many of us have experienced the \u201cno-console\u201d error on our Node.js projects using ESLint\n\nSkip to bottom for tldr\n\n ```ESLintESLint\nToggle navigation\nOpen search\ndisallow the use of console (no-console)\nThe \"extends\": \"eslint:recommended\" property in a configuration file enables this rule.\n\nIn JavaScript that is designed to be executed in the browser, it's considered a best practice to avoid using methods on console. Such messages are considered to be for debugging purposes and therefore not suitable to ship to the client. In general, calls using console should be stripped before being pushed to production.\n\nconsole.log(\"Made it here.\");\nconsole.error(\"That shouldn't have happened.\");\nRule Details\nThis rule disallows calls to methods of the console object.\n\nExamples of incorrect code for this rule:\n\n/*eslint no-console: \"error\"*/\n\nconsole.log(\"Log a debug level message.\");\nconsole.warn(\"Log a warn level message.\");\nconsole.error(\"Log an error level message.\");\nExamples of correct code for this rule:\n\n/*eslint no-console: \"error\"*/\n\n// custom console\nConsole.log(\"Hello world!\");\nOptions\nThis rule has an object option for exceptions:\n\n\"allow\" has an array of strings which are allowed methods of the console object\nExamples of additional correct code for this rule with a sample { \"allow\": [\"warn\", \"error\"] } option:\n\n/*eslint no-console: [\"error\", { allow: [\"warn\", \"error\"] }] */\n\nconsole.warn(\"Log a warn level message.\");\nconsole.error(\"Log an error level message.\");\nWhen Not To Use It\nIf you're using Node.js, however, console is used to output information to the user and so is not strictly used for debugging purposes. If you are developing for Node.js then you most likely do not want this rule enabled.```\n\nTLDR: To disable this install the rules as a JSON package instead of the js one and add this ```{\n    \"extends\": \"airbnb-base\",\n    \"rules\": {\n      \"no-console\": \"off\"\n    }\n}```\n\n To the file BOOM no more annoying red dots developing and logging errors debugging\n\n-Happy Coding", 
+    "ts": "1552611822.027200", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 138, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGY75KWJJ", 
+        "size": 5644, 
+        "title": "Study problems", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGY75KWJJ/study_problems.js", 
+        "preview": "# Array problems  \r\n\r\n## Make an Array of letters\r\n\r\nYou're going to make a banner that cycles a message. You need to start with a string but turn it into an array. This will be easier than writing the array from scratch. \r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FGY75KWJJ/study_problems.js/edit", 
+        "username": "", 
+        "timestamp": 1552442227, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-error\"># Array problems  </span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-error\">## Make an Array of letters</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable\">You</span><span class=\"cm-string\">'re going to make a banner that cycles a message. You need to start with a string but turn it into an array. This will be easier than writing the array from scratch. </span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGY75KWJJ/download/study_problems.js", 
+        "user": "U28S64ZJ5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGY75KWJJ-49dd7e471a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FGY75KWJJ/study_problems.js", 
+        "name": "Study_problems.js", 
+        "created": 1552442227, 
+        "lines": 143, 
+        "mode": "snippet", 
+        "preview_is_truncated": true
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552442227.025700", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "098f661b-9dd1-48b9-9af8-73418ffb2aeb", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCBS1DSF5"
+        ]
+      }
+    ], 
+    "text": "<!channel> Study problems for the week.", 
+    "ts": "1552442211.025500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dc5a93f0-bccd-4930-818e-8750944b9726", 
+    "thread_ts": "1552104218.022700", 
+    "text": "Yay! See you tomorrow!", 
+    "ts": "1552359606.024900", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "81d0384d-0e4e-4cb5-930d-4496e8b394f2", 
+    "thread_ts": "1552104218.022700", 
+    "text": "Sounds great, I'll be there Monday and Tuesday from 1-3.", 
+    "ts": "1552173528.024500", 
+    "subtype": "thread_broadcast", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "B6F85652-C84C-4234-AAE5-7D3B13DC550A", 
+      "thread_ts": "1552104218.022700", 
+      "latest_reply": "1552359606.024900", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCB3PRBME", 
+        "U28S64ZJ5", 
+        "UCBS1DSF5", 
+        "UCCTF62ET"
+      ], 
+      "text": "<!channel> over the break I\u2019d like to host a study group. I can meet at the school once or twice a week for one or two hours. I could also share study problems online. \n\nI\u2019d really like to review the final exam with everyone and go over the solutions to any problems you might have missed. \n\nIf you\u2019re interested let me know. ", 
+      "ts": "1552104218.022700", 
+      "type": "message", 
+      "reply_count": 5, 
+      "user": "U28S64ZJ5", 
+      "replies": [
+        {
+          "user": "UCB3PRBME", 
+          "ts": "1552148701.023800"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1552154445.024000"
+        }, 
+        {
+          "user": "UCBS1DSF5", 
+          "ts": "1552171652.024300"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1552173528.024500"
+        }, 
+        {
+          "user": "UCCTF62ET", 
+          "ts": "1552359606.024900"
+        }
+      ], 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "b8821f0e-dd7a-4de7-a573-31272362cd3c", 
+    "thread_ts": "1552104218.022700", 
+    "text": "<@U28S64ZJ5> i would be down for 1-3", 
+    "ts": "1552171652.024300", 
+    "user": "UCBS1DSF5", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8cf9171d-41db-43a2-b9b1-0bf40e8245c3", 
+    "thread_ts": "1552104218.022700", 
+    "text": "Monday or tuesdays. Before lunch 10-12 or after lunch 1-3 work for me.", 
+    "ts": "1552154445.024000", 
+    "subtype": "thread_broadcast", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "B6F85652-C84C-4234-AAE5-7D3B13DC550A", 
+      "thread_ts": "1552104218.022700", 
+      "latest_reply": "1552359606.024900", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCB3PRBME", 
+        "U28S64ZJ5", 
+        "UCBS1DSF5", 
+        "UCCTF62ET"
+      ], 
+      "text": "<!channel> over the break I\u2019d like to host a study group. I can meet at the school once or twice a week for one or two hours. I could also share study problems online. \n\nI\u2019d really like to review the final exam with everyone and go over the solutions to any problems you might have missed. \n\nIf you\u2019re interested let me know. ", 
+      "ts": "1552104218.022700", 
+      "type": "message", 
+      "reply_count": 5, 
+      "user": "U28S64ZJ5", 
+      "replies": [
+        {
+          "user": "UCB3PRBME", 
+          "ts": "1552148701.023800"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1552154445.024000"
+        }, 
+        {
+          "user": "UCBS1DSF5", 
+          "ts": "1552171652.024300"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1552173528.024500"
+        }, 
+        {
+          "user": "UCCTF62ET", 
+          "ts": "1552359606.024900"
+        }
+      ], 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "3EECD74A-317F-4690-B7E2-139EBA2CBF51", 
+    "thread_ts": "1552104218.022700", 
+    "text": "This sounds cool, what day &amp; time over break? ", 
+    "ts": "1552148701.023800", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B6F85652-C84C-4234-AAE5-7D3B13DC550A", 
+    "thread_ts": "1552104218.022700", 
+    "latest_reply": "1552359606.024900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "U28S64ZJ5", 
+      "UCBS1DSF5", 
+      "UCCTF62ET"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCBS1DSF5"
+        ]
+      }
+    ], 
+    "text": "<!channel> over the break I\u2019d like to host a study group. I can meet at the school once or twice a week for one or two hours. I could also share study problems online. \n\nI\u2019d really like to review the final exam with everyone and go over the solutions to any problems you might have missed. \n\nIf you\u2019re interested let me know. ", 
+    "ts": "1552104218.022700", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1552148701.023800"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552154445.024000"
+      }, 
+      {
+        "user": "UCBS1DSF5", 
+        "ts": "1552171652.024300"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552173528.024500"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1552359606.024900"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "b99fb685-3d58-4fb3-ac38-f4865424105b", 
+    "text": "is this open note?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1551996002.016100"
+  }, 
+  {
+    "client_msg_id": "c60e8dd4-39b5-42ae-aba1-1b9e2529e4d6", 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations/blob/master/final-assessment.md>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1551994333.015900"
+  }, 
+  {
+    "client_msg_id": "4df5ade5-46c9-47d3-858f-66d3a23ee412", 
+    "thread_ts": "1551992653.014800", 
+    "text": "I was kind of hoping this was the final :shushing_face:: <https://github.com/jamiejamiebobamie/few1.2_final/blob/master/final_probs.js>", 
+    "ts": "1551992922.015500", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c7ab9d20-aa53-40c3-9e90-c094d176bcc7", 
+    "thread_ts": "1551992653.014800", 
+    "latest_reply": "1551992922.015500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBLQTD7V"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "shopping_trolley", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/alishalabi/few-1.2-coding-problems/blob/master/shopping_cart.js>", 
+    "ts": "1551992653.014800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCL1R3EZ", 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1551992922.015500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "5eae83ac-e4a1-4b4d-8a97-93204d19c0ee", 
+    "text": "Hey - anyone who has been working with us in Stonehedge, here is the Shopping Cart code we wrote", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1551992652.014600"
+  }, 
+  {
+    "client_msg_id": "2a6832ed-c030-40a3-8dd2-b6fa44b5c4ea", 
+    "thread_ts": "1551992361.013100", 
+    "text": "But i don't think that'll be an issue for this test because it'll all be vanilla JS (no node)", 
+    "ts": "1551992544.013900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "db306b5a-fcd9-4f22-8a2c-6241af795d2a", 
+    "thread_ts": "1551992361.013100", 
+    "text": "instead i used\n```module.exports = () =&gt; {\n}```", 
+    "ts": "1551992524.013700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "197126c9-0048-45de-a812-ce155011ccdd", 
+    "thread_ts": "1551992361.013100", 
+    "text": "i was confused i couldn't use standard import/export syntax in node the other day too!", 
+    "ts": "1551992503.013500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "df46e2ce-efcb-40e4-b3ee-7130cce730d2", 
+    "thread_ts": "1551992361.013100", 
+    "latest_reply": "1551992544.013900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "text": "Is anyone else having import/export issues with node.js? Apparently you need to install an npm module ('babel') to use it es6 syntax. This isn't too big of an issue, unless import/export is on the exam... :upside_down_face:", 
+    "ts": "1551992361.013100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551992503.013500"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551992524.013700"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551992544.013900"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "32bda72d-2e00-4b4d-8e36-eaab879e98e5", 
+    "text": "<https://github.com/soggybag/phaser3-demo>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1551824563.011500"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGQ10EMT6", 
+        "size": 6198, 
+        "original_h": 74, 
+        "thumb_360_w": 72, 
+        "title": "particle.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGQ10EMT6/particle.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGQ10EMT6-cc6ba29c94/particle_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGQ10EMT6-cc6ba29c94/particle_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGQ10EMT6-cc6ba29c94/particle_80.png", 
+        "thumb_360_h": 74, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1551822878, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGQ10EMT6-cc6ba29c94/particle_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGQ10EMT6/download/particle.png", 
+        "user": "UCBS1DSF5", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGQ10EMT6-485956e047", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS1DSF5/FGQ10EMT6/particle.png", 
+        "name": "particle.png", 
+        "created": 1551822878, 
+        "original_w": 72, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "sparkles", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBLQTD7V", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "female_fairy", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551822880.010400", 
+    "display_as_bot": false, 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d87a2020-4d5c-487f-a9a8-8a0e0f6e1510", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations/blob/master/project-phaser-rubric.md>", 
+    "ts": "1551813292.010100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A97E5D7D-BD02-4AAE-A342-EF22FF2204E3", 
+    "text": "<@U28S64ZJ5> I can\u2019t seem to find the grading rubric for the phaser assignment on the GitHub.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1551812601.009800"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "peace_symbol", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 500934, 
+        "footer": "Posted using /giphy", 
+        "title": "this is sparta", 
+        "image_width": 500, 
+        "title_link": "https://giphy.com/gifs/mxQUQbIjXMSwo", 
+        "image_height": 187, 
+        "image_url": "https://media3.giphy.com/media/mxQUQbIjXMSwo/giphy.gif?cid=6104955e5c7c8d91316c504967ff05e6", 
+        "fallback": "giphy: https://giphy.com/gifs/mxQUQbIjXMSwo", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1551666582.007700", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "client_msg_id": "CA88E89E-049E-4722-9025-F280EDE51C60", 
+    "text": "I\u2019m ready now! *insert \u201cthis is Sparta\u201d gif*", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1551664190.007500"
+  }, 
+  {
+    "client_msg_id": "b2ce489e-4808-4864-a792-032fe8b07a5c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCCRGTD0X"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "ballot_box_with_ballot", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Thursday would be better, if you're taking votes!", 
+    "ts": "1551664058.006700", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3D20C9BA-7D82-4C5E-911F-2DF66AC02129", 
+    "text": "I think it will be Thursday. ", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1551564385.005500"
+  }, 
+  {
+    "client_msg_id": "f83063fb-5ede-43dd-b6dc-be1ee5503532", 
+    "text": "Is the final on Tuesday or Thursday?", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1551563606.005100"
+  }, 
+  {
+    "client_msg_id": "9B61A755-BD38-4578-A755-BACD2C2AA8BA", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "grinning", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "No but you can use the chrome debugger to help you solve the problems!", 
+    "ts": "1551558051.004700", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7c8737c2-9c58-44ff-b73a-5ab4f7aa8ada", 
+    "text": "It's not on the study guide, but will debugging / Chrome Devtools be on the exam, <@U28S64ZJ5>?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1551552365.003400"
+  }, 
+  {
+    "client_msg_id": "89A6FC3C-B2D0-4813-AACA-22262D40C2F5", 
+    "text": "<!channel> reply with a :white_check_mark: you need help tomorrow. ", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1551494125.002100"
+  }, 
+  {
+    "client_msg_id": "236c4c4e-df6b-4b6a-ab33-e4f6bcab8e43", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCBS25JKD"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations/blob/master/what-you-need-know.md>", 
+    "ts": "1551216988.002900", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d641ff7a-eb17-43ba-a857-25c9f46a5f44", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1550791126.000000"
+    }, 
+    "text": "```const print2DLists = (list) =&gt; {\n  for (let i in list) {\n    if (Array.isArray(list[i])) {\n      // item at index list[i] is an array\n      printList(list[i]);\n    } else {\n      // item at index list[i] is not an array, print it\n      console.log(list[i])\n    }\n  }\n}```", 
+    "ts": "1550790846.002400", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b21647e-03cf-4f95-93c4-034f414eb6a0", 
+    "text": "```const printArray = (arr) =&gt; {\n  console.log(arr.join(' '))\n}\n\nconst print2dArray = (arr) =&gt; {\n  for(let i = 0; i &lt; arr.length; i += 1) {\n    if (Array.isArray(arr[i])) {\n      printArray(arr[i])\n    } else {\n      console.log(arr[i])\n    }\n  }\n  console.log()\n}\n\nprint2dArray([[1,2,3], [4,5,6], [7,8,9]])\nprint2dArray([1,2,3,4,5,6,7,8,9])\nprint2dArray([1,2,[3,4,5],6,[7,8],9])```", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550790672.002200"
+  }, 
+  {
+    "client_msg_id": "4ae10b89-8ed5-4cfa-9fdb-fa1c3ca389aa", 
+    "text": "```const arrayManipulate = () =&gt; {\n  const ar = [33, 12, 74, 8];\n  console.log(ar.join(' '))\n  }\nexport default arrayManipulate\n```", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1550787908.002000"
+  }, 
+  {
+    "client_msg_id": "52e9f709-b0f1-451c-b008-3456b358ed03", 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations/blob/master/what-you-need-know.md>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550787370.001800"
+  }, 
+  {
+    "client_msg_id": "1286864d-2e5e-4d8c-a285-096293a0e792", 
+    "text": "<https://github.com/soggybag/phaser3-project-template>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550785250.001600"
+  }, 
+  {
+    "client_msg_id": "c3d1a276-b210-4455-8aec-a7c73a7d499c", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/GUZ8SsLQKUs/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/webdevilsvideos", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=GUZ8SsLQKUs&amp;list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R", 
+        "video_html_width": 400, 
+        "author_name": "Mitchell Hudson", 
+        "title_link": "https://www.youtube.com/watch?v=GUZ8SsLQKUs", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/GUZ8SsLQKUs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=GUZ8SsLQKUs", 
+        "title": "01 Phaser Install starter project", 
+        "fallback": "YouTube Video: 01 Phaser Install starter project", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=GUZ8SsLQKUs&amp;list=PLoN_ejT35AEhY4icjiEJ5t2qdunwmQj1R>", 
+    "ts": "1550785172.001300", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "99cf7164-680b-467c-838e-2d7342392ad0", 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations/tree/master/class-08>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550785160.001100"
+  }, 
+  {
+    "client_msg_id": "67BCBC1C-41C3-4B51-8F19-1185D7558990", 
+    "text": "Running a few mins late due to boosted board maintenance gone awry, be there ASAP!", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1550784097.000700"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550543551.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "21e97bd9-05ac-468a-ba6a-996610a0dfa8", 
+    "attachments": [
+      {
+        "image_bytes": 63300, 
+        "original_url": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "service_name": "Google Developers", 
+        "title": "Get Started with Debugging JavaScript in Chrome DevTools \u00a0|\u00a0 Tools for Web Developers       \u00a0|\u00a0 Google Developers", 
+        "image_width": 444, 
+        "title_link": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "image_height": 250, 
+        "image_url": "https://developers.google.com/web/images/social-webfu-16x9.png", 
+        "text": "Learn how to use Chrome DevTools to find and fix JavaScript bugs.", 
+        "from_url": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "fallback": "Google Developers: Get Started with Debugging JavaScript in Chrome DevTools \u00a0|\u00a0 Tools for Web Developers       \u00a0|\u00a0 Google Developers", 
+        "service_icon": "https://developers.google.com/_static/998e66c32c/images/touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developers.google.com/web/tools/chrome-devtools/javascript/>", 
+    "ts": "1550182528.001600", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3557ef2-47b4-4cc1-a6b7-e604edb7fda2", 
+    "text": "^^Mitchell's phaser games^^", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1550010632.001100"
+  }, 
+  {
+    "client_msg_id": "4010befb-4a90-4c86-b4b6-318120719b12", 
+    "text": "Oregon Trail example solution <https://github.com/soggybag/adventure-1-solution>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550010627.000900"
+  }, 
+  {
+    "client_msg_id": "655b27b1-f8e6-4f76-bafc-1d2842604bee", 
+    "text": "<https://github.com/soggybag/flappy-bird-webpack>\n<https://github.com/soggybag/doom-bots-webpack>\n<https://github.com/soggybag/phaser3-project-template>", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1550010621.000600"
+  }, 
+  {
+    "client_msg_id": "2fd36a0d-100d-44c2-9f05-412ccc39f244", 
+    "thread_ts": "1549929890.000900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sweat_smile", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "pssh, everybody's doing it today.", 
+    "ts": "1549933607.001600", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A896419C-05FA-4557-96CE-E57F6CA14370", 
+    "thread_ts": "1549929890.000900", 
+    "text": "Wrong class lol", 
+    "ts": "1549932334.001400", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8d411996-7c75-4737-a0cc-9a54dfa377d7", 
+    "thread_ts": "1549929890.000900", 
+    "text": "We don\u2019t have few on monday :slightly_smiling_face:", 
+    "ts": "1549930242.001000", 
+    "user": "UCCL1R3EZ", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8b8a337f-0461-4a14-948e-c06f81cea082", 
+    "thread_ts": "1549929890.000900", 
+    "latest_reply": "1549933607.001600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCCL1R3EZ", 
+      "UCB3PRBME", 
+      "UCBLQTD7V"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Not that this is a priority, but I think I missed signing the attendance sheet today.", 
+    "ts": "1549929890.000900", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCCL1R3EZ", 
+        "ts": "1549930242.001000"
+      }, 
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1549932334.001400"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1549933607.001600"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "b5101f84-1b15-4316-a4b7-48ef44f71b9b", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCB3PRBME", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "*Bug alert!*\n\nInside the `Oregon.UI.fight = function fight()` function (in `UI.js`), you need to check that you have enough firepower to fight. you can do so by adding this at the top of the function\n\n```\n  const { firepower, gold } = this;\n\n  // check we can afford it\n  if (firepower &gt; OregonH.Caravan.firepower) {\n    OregonH.UI.notify('Not enough firepower to fight', 'negative');\n    return false;\n  }\n  \n  // rest of fight() function below\n```", 
+    "ts": "1549581394.012300", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4c41347d-dcd8-42f9-b895-e1abc8abc837", 
+    "text": "<!channel> I have office hours now in the Great Hall", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1549489186.010000"
+  }, 
+  {
+    "client_msg_id": "e2cdea04-44f1-4de0-a983-632f706732bc", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Maybe let me think about it.\n\nP5 is processing while it's written JS the code you write is Processing, which isn't JS. processing is also not a game library it's a tool to create graphic computer generated images and animation, you can create games with it but it's not made specifically for the purpose of making games. Phaser on the other hand is specifically for making games in JS.", 
+    "ts": "1549488831.009500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4537dfa5-e803-4075-8b20-ec11e04cc3b1", 
+    "text": "<@U28S64ZJ5> instead of phaser can we make a game with p5.js?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1549485504.005900"
+  }, 
+  {
+    "client_msg_id": "212122a3-951a-44ba-a86f-a8cba71b7f66", 
+    "thread_ts": "1549409448.001300", 
+    "text": "u can schedule 1-on-1 too if those hours doesn\u2019t work for u", 
+    "ts": "1549409720.003500", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7f94f634-bc72-4cdf-bc6b-f16162cb4fb4", 
+    "thread_ts": "1549409448.001300", 
+    "text": "M+W 5:30pm-7:30pm &amp; T+Th: 11am-1pm, it\u2019s also on <http://make.sc/calendar|make.sc/calendar>", 
+    "ts": "1549409681.003300", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "37192dff-df42-440b-8c2e-13012f3c91b3", 
+    "thread_ts": "1549409448.001300", 
+    "latest_reply": "1549409720.003500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UF83RJTHD"
+    ], 
+    "text": "<@UF83RJTHD> Hey, Can you post all your office hours again/ where can we find them ?", 
+    "ts": "1549409448.001300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB8T1AG0", 
+    "replies": [
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1549409681.003300"
+      }, 
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1549409720.003500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a31fa86b-e9b9-4676-b00f-fec45836f38d", 
+    "attachments": [
+      {
+        "thumb_height": 1658, 
+        "thumb_url": "https://repl.it/public/images/sm.png", 
+        "thumb_width": 1659, 
+        "original_url": "https://repl.it/classroom/invite/UirwpUA", 
+        "service_name": "repl.it", 
+        "title": "Sign Up", 
+        "title_link": "https://repl.it/classroom/invite/UirwpUA", 
+        "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 30+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, PHP, Python3, Nodejs, Enzyme, Go, Java, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil", 
+        "from_url": "https://repl.it/classroom/invite/UirwpUA", 
+        "fallback": "repl.it: Sign Up", 
+        "service_icon": "https://repl.it/public/images/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://repl.it/classroom/invite/UirwpUA>", 
+    "ts": "1549402826.000400", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1549389668.000200", 
+    "text": "<@UCBS25JKD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1548822095.010400", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "9609ce5a-aafb-473d-8d4f-03cd2cae3ce0", 
+    "text": "Weird. It's correct again.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1548699136.008200"
+  }, 
+  {
+    "client_msg_id": "44742bce-66a1-46a1-ac54-7f6211b3c3b5", 
+    "thread_ts": "1548698500.007400", 
+    "text": "Hmm, maybe I need to double check.", 
+    "ts": "1548699111.007900", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC0GL52N> set the channel topic: Progress Tracker:\n<https://docs.google.com/spreadsheets/d/1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI/edit#gid=1456006823>", 
+    "ts": "1548698781.007700", 
+    "topic": "Progress Tracker:\n<https://docs.google.com/spreadsheets/d/1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI/edit#gid=1456006823>", 
+    "subtype": "channel_topic", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fb6268cc-7823-4307-b18a-9767d36d7398", 
+    "thread_ts": "1548698500.007400", 
+    "text": "Only the last two tabs are from last semester right?", 
+    "ts": "1548698729.007500", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "348c4358-1c53-40a2-b93f-e73f7598b0e8", 
+    "thread_ts": "1548698500.007400", 
+    "latest_reply": "1548699111.007900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N", 
+      "UCBLQTD7V"
+    ], 
+    "text": ":male-detective:", 
+    "ts": "1548698500.007400", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1548698729.007500"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1548699111.007900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "b162eea5-a873-4d68-bc41-2d39cef802c0", 
+    "text": "It appears the link to the course tracker is for the last term (term 2), which is odd, because it was correct last week :thinking_face:.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1548698492.007200"
+  }, 
+  {
+    "client_msg_id": "F29E5D6E-BC39-4B98-96C5-4106D0006A89", 
+    "thread_ts": "1548622507.000400", 
+    "text": "We will talk about it in class. I\u2019m going to ask everyone to use the class syntax. ", 
+    "ts": "1548698094.005600", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f8ce6287-fc80-4367-b22c-0800dbc78b9d", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1548625515.000000"
+    }, 
+    "thread_ts": "1548622507.000400", 
+    "text": "No that's cool. It's just one way to go about it", 
+    "ts": "1548624933.004200", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "260AD22F-7A9B-4A49-8F74-9D52C8F783E0", 
+    "thread_ts": "1548622507.000400", 
+    "text": "I made a new file and then defined a class with the syntax: \u201cclass CLASSNAME {\n            constructor(){\n                                 }\n              };\u201d\n\nIf that\u2019s not right, I need to know :)...", 
+    "ts": "1548624892.004000", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "30f5d850-c240-4c88-bf13-612d551c70df", 
+    "thread_ts": "1548622507.000400", 
+    "text": "just asking if it's es5 way or es6 way or does it even matter which way we refactor?", 
+    "ts": "1548624757.001600", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "363DE8DC-B317-4B8F-A5A9-FD28AC0252A4", 
+    "thread_ts": "1548622507.000400", 
+    "text": "I think OOP, but I\u2019m not entirely sure what a functional class is.", 
+    "ts": "1548623785.001400", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6b0e8b7f-8337-4599-b37d-000297f6d462", 
+    "thread_ts": "1548622507.000400", 
+    "latest_reply": "1548698094.005600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBLQTD7V", 
+      "UCC0GL52N", 
+      "U28S64ZJ5"
+    ], 
+    "text": "For refactoring the Brick Breaker, are we supposed to use functional classes or OOP classes?", 
+    "ts": "1548622507.000400", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1548623785.001400"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1548624757.001600"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1548624892.004000"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1548624933.004200"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1548698094.005600"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "dd725a14-5cf2-45e8-b2a9-816db90a59eb", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "The event Object is not really a dependency. Show me your code tomorrow and we can sort it out.", 
+    "ts": "1548393694.004500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8e442dbd-2160-41ec-8f07-abc9fa032337", 
+    "text": "Can 'e' (the event) be dependency injected? I'm trying to pass 'e' to a class function the same way I have with ctx.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1548373340.003400"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1548357021.001500", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1548286605.001100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1548286501.000900", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1548280131.000600", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4TPF5K", 
+    "ts": "1548265823.000400", 
+    "text": "<@UCC4TPF5K> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1548264475.000200", 
+    "text": "<@UCBC9725P> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFLEEF3D1", 
+        "size": 113040, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLEEF3D1-64414100bc/few_1_thumb_pdf.png", 
+        "title": "FEW 1.2 Progress Tracker (Term 3 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI/edit?usp=sharing", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548216561, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U28S64ZJ5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "FEW 1", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FFLEEF3D1/few_1", 
+        "is_external": true, 
+        "created": 1548216561, 
+        "mode": "external", 
+        "external_id": "1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "fd7a43da-8d90-4ec5-9c73-fcf2fec54b62", 
+    "text": "<https://docs.google.com/spreadsheets/d/1pkJx5qSxV40RvlWkOI_q3A6Hw_y-i8B45857UQfgPzI/edit?usp=sharing>", 
+    "pinned_info": {
+      "pinned_ts": 1548797210, 
+      "channel": "CDL7KTSPK", 
+      "pinned_by": "UCCRGTD0X"
+    }, 
+    "upload": false, 
+    "ts": "1548216559.008400", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FFLEEF3D1"
+    ], 
+    "pinned_to": [
+      "CDL7KTSPK"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b195065a-29b4-41de-907a-3fc6735c4190", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0GL52N", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "<https://alishalabi.github.io/breakout/index.html>", 
+    "ts": "1548210645.008000", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1548209190.007800", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "client_msg_id": "010356be-7e9f-4583-974e-5924768ca979", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1548209183.000000"
+    }, 
+    "text": "If anyone  taking FEW 1.2 needs help feel free to ping me whenever :smile: peace channel!", 
+    "ts": "1548209158.007500", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "34fb81ba-23ba-473b-92b3-8fc5007b0efc", 
+    "thread_ts": "1548205857.004700", 
+    "attachments": [
+      {
+        "thumb_height": 316, 
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+        "thumb_width": 316, 
+        "original_url": "https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive", 
+        "service_name": "Stack Overflow", 
+        "title": "How to make canvas responsive", 
+        "title_link": "https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive", 
+        "text": "I use bootstrap. I want the user to be able to choose the canvas size while keeping the design screen responsive within the div. &lt;div class=\"row\"&gt; &lt;div class=\"col-xs-2 col-sm-2\" id=\"bor...", 
+        "from_url": "https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive", 
+        "fallback": "Stack Overflow: How to make canvas responsive", 
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+        "id": 1
+      }
+    ], 
+    "text": "Maybe this:\n<https://stackoverflow.com/questions/34772957/how-to-make-canvas-responsive>", 
+    "ts": "1548208843.006500", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1548208392.006400", 
+    "text": "<@UCC4U4V53> has left the channel"
+  }, 
+  {
+    "client_msg_id": "b416ed85-c3ab-49b2-9bf7-5c51c4369739", 
+    "text": "<@U28S64ZJ5> can you talk about JS Notebook a little bit next class?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1548207847.006200"
+  }, 
+  {
+    "client_msg_id": "57cdf6fe-6efb-4b8e-a950-7df5f994a67a", 
+    "thread_ts": "1548205857.004700", 
+    "text": "I'm curious to know this too. I think the canvas size is fixed.", 
+    "ts": "1548206590.005500", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1548206507.005300", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1548205978.005100", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "e66a4c64-e0d9-456c-9dfe-371db6a7cfd3", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1548205909.000000"
+    }, 
+    "latest_reply": "1548208843.006500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBLQTD7V", 
+      "UCC0GL52N"
+    ], 
+    "thread_ts": "1548205857.004700", 
+    "text": "<@U28S64ZJ5> If canvas only utilizes pixels in their parameters, is there a way to make our canvas heights/widths reactive? (ie `Height = 20% of div`, instead of `Height = 450`)", 
+    "ts": "1548205857.004700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCL1R3EZ", 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1548206590.005500"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1548208843.006500"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1548205774.003200", 
+    "text": "<@UCCL1R3EZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1548196423.003000", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1548194043.002700", 
+    "text": "<@UCBS1DSF5> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4SJBL5", 
+    "ts": "1548193638.002400", 
+    "text": "<@UCC4SJBL5> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1548193362.002200", 
+    "text": "<@UCBS37LKV> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1548193357.002000", 
+    "text": "<@UCDAF4FV4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1548193069.001700", 
+    "text": "<@UCBLQTD7V> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1548192994.001400", 
+    "text": "<@UCH838UC9> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "6f9aaa7b-e67f-4be1-9551-6d8111ea780d", 
+    "text": "<https://github.com/Make-School-Courses/FEW-1.2-JavaScript-Foundations>", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548192929.001200"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548192927.001000", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1548192864.000600", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1548192864.000400", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1548178550.000200", 
+    "text": "<@UCBS25XMZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1547779034.000200", 
+    "text": "<@UCBQLD4M8> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1547019024.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "client_msg_id": "1D29FBA3-0212-4376-A2EA-CF1E33CA0BEE", 
+    "attachments": [
+      {
+        "thumb_height": 537, 
+        "thumb_url": "http://learncssgrid.com/screenshot.png", 
+        "thumb_width": 1201, 
+        "original_url": "https://learncssgrid.com", 
+        "text": "A comprehensive guide to help you understand and learn CSS Grid Layout, by Jonathan Suh.", 
+        "title": "Learn CSS Grid - A Guide to Learning CSS Grid", 
+        "title_link": "https://learncssgrid.com/", 
+        "service_name": "learncssgrid.com", 
+        "from_url": "https://learncssgrid.com/", 
+        "fallback": "Learn CSS Grid - A Guide to Learning CSS Grid", 
+        "service_icon": "https://learncssgrid.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://learncssgrid.com>", 
+    "ts": "1545495917.000200", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9ED59FCF-26DD-4888-B5E5-9F1B2685AFD7", 
+    "attachments": [
+      {
+        "image_bytes": 42554, 
+        "original_url": "https://devhints.io/es6", 
+        "service_name": "Devhints.io cheatsheets", 
+        "title": "ES2015+ cheatsheet", 
+        "image_width": 478, 
+        "title_link": "https://devhints.io/es6", 
+        "image_height": 250, 
+        "image_url": "https://assets.devhints.io/previews/es6.jpg?t=20181206230413", 
+        "text": "One-page guide to ES2015+: usage, examples, and more. A quick overview of new JavaScript features in ES2015, ES2016, ES2017, ES2018 and beyond.", 
+        "from_url": "https://devhints.io/es6", 
+        "fallback": "Devhints.io cheatsheets: ES2015+ cheatsheet", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://devhints.io/es6>", 
+    "ts": "1544893881.000300", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FEDC6F9E-4C49-4824-9254-C8CCB12D734D", 
+    "thread_ts": "1544640225.004800", 
+    "text": "I\u2019ll be there at 1:45! ", 
+    "ts": "1544650193.008100", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2fa2c2fb-01fe-45f0-a15c-92a7537d5015", 
+    "thread_ts": "1544640225.004800", 
+    "text": ":two:", 
+    "ts": "1544644314.007700", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4B03CCEE-0A78-4BC4-A895-2D16EC896A67", 
+    "thread_ts": "1544640225.004800", 
+    "text": ":two: will the retake be questions we didn\u2019t answer? or a whole new set", 
+    "ts": "1544643136.007400", 
+    "user": "UCC4U4V53", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2f56431b-4356-426d-b456-34acf792ea1f", 
+    "thread_ts": "1544640225.004800", 
+    "text": ":two: , but I have coaching starting at 3:15pm followed up by a class at 3:30pm .", 
+    "ts": "1544641616.006300", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1581dbcc-5720-41bb-8243-0e466c3021e2", 
+    "thread_ts": "1544640225.004800", 
+    "text": ":two: ", 
+    "ts": "1544641573.006100", 
+    "user": "UCBHMLWEQ", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3c2e1639-b5f5-4c02-be39-b4826654f06f", 
+    "thread_ts": "1544640225.004800", 
+    "text": "1:30 to 4pm will be longer if people are there.", 
+    "ts": "1544641348.005800", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2a6c6542-7342-4aae-92f4-def28af9c691", 
+    "text": "If did not get an email you passed and do not have to retake the final.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1544641304.005700"
+  }, 
+  {
+    "client_msg_id": "1ad5b764-8ebe-41d8-a4e1-212b79cdbdd2", 
+    "edited": {
+      "user": "UCBDBB3LZ", 
+      "ts": "1544640299.000000"
+    }, 
+    "thread_ts": "1544640225.004800", 
+    "text": "Are both time slots going to be half hour study sessions? or will :two: be an extended one?", 
+    "ts": "1544640279.004900", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e6a1e4d8-03b5-44a4-aea3-509dfe290bcc", 
+    "thread_ts": "1544640225.004800", 
+    "latest_reply": "1544650193.008100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDBB3LZ", 
+      "U28S64ZJ5", 
+      "UCBHMLWEQ", 
+      "UCC4U4V53", 
+      "UCB8T1AG0"
+    ], 
+    "text": "<!channel> I have time to run a study group for anyone who has to retake the final.\n\n:one: 12 to 12:30 in the great hall\n:two: 1:30 to 4pm in the great hall\n\nReply with :one: or :two: if you intend to show up.", 
+    "ts": "1544640225.004800", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1544640279.004900"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1544641348.005800"
+      }, 
+      {
+        "user": "UCBHMLWEQ", 
+        "ts": "1544641573.006100"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1544641616.006300"
+      }, 
+      {
+        "user": "UCC4U4V53", 
+        "ts": "1544643136.007400"
+      }, 
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1544644314.007700"
+      }, 
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1544650193.008100"
+      }
+    ], 
+    "reply_users_count": 5
+  }, 
+  {
+    "client_msg_id": "d9f00765-b264-4517-8624-106350664731", 
+    "attachments": [
+      {
+        "thumb_height": 1658, 
+        "thumb_url": "https://repl.it/public/images/sm.png", 
+        "thumb_width": 1659, 
+        "original_url": "https://repl.it/classroom/invite/3FefbrD", 
+        "service_name": "repl.it", 
+        "title": "Sign Up", 
+        "title_link": "https://repl.it/classroom/invite/3FefbrD", 
+        "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 30+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, PHP, Python, Nodejs, Enzyme, Go, Java, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil", 
+        "from_url": "https://repl.it/classroom/invite/3FefbrD", 
+        "fallback": "repl.it: Sign Up", 
+        "service_icon": "https://repl.it/public/images/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://repl.it/classroom/invite/3FefbrD>", 
+    "ts": "1544571011.004200", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "81e2d719-3199-4b35-b149-61e22b9bbbf4", 
+    "text": "I'll be there in a bit", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1544562082.003900"
+  }, 
+  {
+    "client_msg_id": "0e90dd96-0fdc-44ad-a599-e49981d616da", 
+    "text": "Wrapping an assignment up- Be there at 1:20", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1544561780.003600"
+  }, 
+  {
+    "client_msg_id": "6f755c03-2b51-4f19-ab96-c027e0da4d0f", 
+    "text": "See you soon", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1544559758.003300"
+  }, 
+  {
+    "client_msg_id": "a0b56c12-76b1-481e-9acd-9aa7ff7aa238", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": ":smile:", 
+    "ts": "1544559714.002900", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a72d08c5-16d2-4f8d-9b2b-162e07453c9f", 
+    "edited": {
+      "user": "U6X9L8VAN", 
+      "ts": "1544559738.000000"
+    }, 
+    "text": "FEW Study guide review at 1pm! in Golden Gate", 
+    "ts": "1544559713.002700", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B40FE4C9-DA1D-44D5-8321-AD497D37B7BC", 
+    "text": "Look in the course repo there is a file study-guide.md", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1544459083.002100"
+  }, 
+  {
+    "client_msg_id": "0cc93abf-5d71-472b-9198-3bbad2563767", 
+    "text": "<!here> is there a study guide for FEW1.2?", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1544330276.000600"
+  }, 
+  {
+    "client_msg_id": "93ffaa04-12bb-4217-8e54-f47dfa98d374", 
+    "text": "Added solutions for Flappy Bird and Boom Dots Phaser 3. <https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations/tree/master/solutions>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1543971761.001100"
+  }, 
+  {
+    "client_msg_id": "3c2799f7-cc44-453d-a95c-6f6694f11c58", 
+    "thread_ts": "1542782161.019500", 
+    "text": "Interesting: I see a lot of similarities with the `Draw Tutorial` for `MOB1.1`", 
+    "ts": "1543829550.000700", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e42fb6b-e66b-48fd-91e2-f3c0964d854a", 
+    "text": "<!channel> I reviewed everyone's Oregon Trail project. They look good but only one person has completed this. I updated and color coded the tracker. Green is complete, Yellow is almost complete. If you're orange you have some work to do. If it's red you are far behind.\n\nEveryone is having trouble with attack dialog box. **This is in the tutorial so don't feel bad**. You need to fix this error. To do this you'll need to study the code closely. Key is to find where the listener is added, and then find the location where it is removed. This is the spot where the error is pointing.\n\n**TypeError: Not enough arguments removeEventListener**\n\nThe Error message says that you are not calling removeEventListener with the correct arguments. Before you solve the problem here you'll want examine where the eventListener is added.\n\nLook at the code closely and answer these questions:\n\n1. Is the event listener added each time the attack dialog box is opened?\n2. If so you'll need to remove it each time it is closed. Otherwise you'll be increasing the number of listeners by 1 each time you click the button.\n3. If the event listener is not added each time the dialog box is shown removing it will mean that the second time the dialog box is shown you won't be able to close it!\n\nLook closely at the code study how the listeners implemented. Then decide how to fix this.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1543730431.020700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDLRD1UAW", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 1.2 Progress Tracker (Term 2 2018)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_80.png", 
+        "thumb_360_h": 360, 
+        "size": 105780, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_800.png", 
+        "timestamp": 1540333853, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FDLRD1UAW/few_1", 
+        "name": "FEW 1", 
+        "created": 1540333853, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807"
+      }
+    ], 
+    "client_msg_id": "792ae1d6-9e41-485b-be62-27b1a05e355e", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBS37LKV", 
+          "U6YCV95L7", 
+          "UCBS25XMZ", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<!channel> I need everyone to look at the progress tracker. There are three projects listed there. We just started project 3. You should have competed the first two already and posted a link to your code in the tracker.\n\nI need you all to look at the progress tracker, update it if you have completed work that isn't listed, note the work that isn't completed, reply to this post with a :white_check_mark: when you have done this.\n\n<https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1456006823>", 
+    "upload": false, 
+    "ts": "1543610208.013600", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FDLRD1UAW"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "22d818b1-3746-4c7e-91b4-0735a42212de", 
+    "thread_ts": "1543589644.009800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Schedule time with me for an update on what you have been working on.", 
+    "ts": "1543598028.010600", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "abb341c3-6abd-4dc4-950a-aac8b94c268d", 
+    "thread_ts": "1543589644.009800", 
+    "text": "Let me know if you have any questions about getting started with Phaser or working with the Webpack starter project.", 
+    "ts": "1543597992.010400", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "AB269EE8-09BC-4AB8-94CA-6FA705FE66E7", 
+    "thread_ts": "1543589644.009800", 
+    "text": "Catching up", 
+    "ts": "1543596080.010200", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b109711c-d66b-402b-80be-c14ccddd0786", 
+    "thread_ts": "1543589644.009800", 
+    "latest_reply": "1543598028.010600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "U28S64ZJ5"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "You can take this one step further by breaking the code into multiple files. Imagine each class you define in it's own file.\n\nDo this by moving the MyClass code into a new file inside the src directory. I named the new file my-scene.js. There three changes, find them. Line 1 imports Scene from phaser.  Line 3 uses Scene rather than Phaser.Scene, due to the previous change, the last line exports this class, this allows you to import the class.\n\n```import { Scene } from 'phaser'\n\nclass MyScene extends Scene {\n    constructor() {\n        super()\n\n        this.myVar = 99\n    }\n\n    preload() {\n        this.load.image('logo', 'assets/Alien-1_1.png');\n    }\n\n    create() {\n        var logo = this.add.image(200, 150, 'logo');\n\n        this.tweens.add({\n            targets: logo,\n            y: 350,\n            duration: 2000,\n            ease: 'Power2',\n            yoyo: true,\n            loop: -1\n        });\n    }\n}\n\nexport default MyScene```\n\nNow change index.js. Here you will modify the import statement at the top. To import Game from Phaser, this allows you to change the last line to new Game rather than new Phaser.Game. Also, you'll import your MyClass that you exported in the my-class.js file on line 2.\n\n```import { Game } from 'phaser';\nimport MyScene from './my-scene'\n\nvar config = {\n    type: Phaser.AUTO,\n    parent: 'phaser-example',\n    width: 400,\n    height: 400,\n    scene: new MyScene()\n};\n\nvar game = new Game(config);```", 
+    "ts": "1543589644.009800", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1543596080.010200"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1543597992.010400"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1543598028.010600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "a2d46d7c-e48f-4b12-8c41-1c01e70100f0", 
+    "text": "Notes from class. Extend Phaser.Scene to create a Scene. The original code showing the functions that were used to build the scene are in a comment at the bottom.\n\nLook closely at the config object to see the changes here where a new scene is created from the new MyScene Class.\n\n```import 'phaser';\n\nclass MyScene extends Phaser.Scene {\n    constructor() {\n        super()\n\n        this.myVar = 99\n    }\n\n    preload() {\n        this.load.image('logo', 'assets/Alien-1_1.png');\n    }\n\n    create() {\n        var logo = this.add.image(200, 150, 'logo');\n\n        this.tweens.add({\n            targets: logo,\n            y: 350,\n            duration: 2000,\n            ease: 'Power2',\n            yoyo: true,\n            loop: -1\n        });\n    }\n}\n\nvar config = {\n    type: Phaser.AUTO,\n    parent: 'phaser-example',\n    width: 400,\n    height: 400,\n    scene: new MyScene()\n};\n\nvar game = new Phaser.Game(config);\n\n// function preload ()\n// {\n//     this.load.image('logo', 'assets/Alien-1_1.png');\n// }\n\n// function create ()\n// {\n//     var logo = this.add.image(400, 150, 'logo');\n\n//     this.tweens.add({\n//         targets: logo,\n//         y: 450,\n//         duration: 2000,\n//         ease: 'Power2',\n//         yoyo: true,\n//         loop: -1\n//     });\n\n// }```", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1543588846.002900"
+  }, 
+  {
+    "client_msg_id": "0cf0f619-133a-4da0-ab7a-aca7b8e25652", 
+    "attachments": [
+      {
+        "thumb_height": 400, 
+        "thumb_url": "https://www.valentinog.com/blog/wp-content/uploads/2018/01/tutorial-webpack-4-featured.png", 
+        "thumb_width": 800, 
+        "original_url": "https://www.valentinog.com/blog/webpack-tutorial/", 
+        "service_name": "Valentino Gagliardi", 
+        "title": "Webpack 4 Tutorial: from 0 Conf to Production Mode (Updated)", 
+        "ts": 1516373486, 
+        "title_link": "https://www.valentinog.com/blog/webpack-tutorial/", 
+        "text": "All you need to know about webpack 4, the next generation module bundler. From zero configuration to production mode, this post is a living, breathing introduction to webpack 4.", 
+        "from_url": "https://www.valentinog.com/blog/webpack-tutorial/", 
+        "fallback": "Valentino Gagliardi: Webpack 4 Tutorial: from 0 Conf to Production Mode (Updated)", 
+        "service_icon": "https://www.valentinog.com/blog/wp-content/uploads/2017/10/valentino-gagliardi-web-developer-logo.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.valentinog.com/blog/webpack-tutorial/>", 
+    "ts": "1543539562.001200", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bf65be49-39cf-460a-926a-18d5ec62ad45", 
+    "text": "<http://labs.phaser.io/index.html>", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1543536523.001000"
+  }, 
+  {
+    "client_msg_id": "0ff70ee8-8068-41bf-ab01-2baf0e1a028e", 
+    "text": "<https://github.com/soggybag/phaser3-project-template>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1543534436.000500"
+  }, 
+  {
+    "client_msg_id": "460ba996-2e8a-4b3d-99c0-31098ecc2fa7", 
+    "thread_ts": "1543475432.003700", 
+    "text": "Whoa this is sick - good resource!", 
+    "ts": "1543475994.004200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e538b885-6dd4-44cc-88f9-3eea1a7c4431", 
+    "thread_ts": "1543475432.003700", 
+    "attachments": [
+      {
+        "image_bytes": 28561, 
+        "original_url": "https://codepen.io/vineethtr/pen/XKKEgM", 
+        "service_name": "CodePen", 
+        "title": "Css3 Transform", 
+        "image_width": 427, 
+        "title_link": "https://codepen.io/vineethtr/pen/XKKEgM", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/176986.XKKEgM.f2a3bea3-adbf-4c3b-9cfb-f61d937d3b21.png", 
+        "text": "CSS3 Transform models ...", 
+        "from_url": "https://codepen.io/vineethtr/pen/XKKEgM", 
+        "fallback": "CodePen: Css3 Transform", 
+        "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "also for transforms:\n<https://codepen.io/vineethtr/pen/XKKEgM>", 
+    "ts": "1543475619.003900", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7ea1861d-3935-4f9c-9648-e60778f6aa5f", 
+    "edited": {
+      "user": "U8NMLKGDU", 
+      "ts": "1543475441.000000"
+    }, 
+    "latest_reply": "1543475994.004200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "UCDAETD5L"
+    ], 
+    "thread_ts": "1543475432.003700", 
+    "text": "I know this is from last term but I found this code-pen that really helps refresh flexbox:\n\n<https://codepen.io/enxaneta/pen/adLPwv>", 
+    "ts": "1543475432.003700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U8NMLKGDU", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1543475619.003900"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1543475994.004200"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "40adedfa-9195-447e-8ec8-a51e07c8268a", 
+    "thread_ts": "1543450945.002100", 
+    "text": "Yep! :smile:", 
+    "ts": "1543451036.002500", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8445e675-ce1e-4c48-bf92-f12ddc1ffeea", 
+    "thread_ts": "1543450945.002100", 
+    "latest_reply": "1543451036.002500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6X9L8VAN"
+    ], 
+    "text": "wait, TODAY?", 
+    "ts": "1543450945.002100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8T1AG0", 
+    "replies": [
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1543451036.002500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "bot_message", 
+    "text": ":white_check_mark: Poll successfully deleted.", 
+    "type": "message", 
+    "ts": "1543450535.001700", 
+    "bot_id": "B86U61V4M"
+  }, 
+  {
+    "subtype": "bot_message", 
+    "text": "", 
+    "type": "message", 
+    "ts": "1543450535.001600", 
+    "bot_id": "B86U61V4M"
+  }, 
+  {
+    "client_msg_id": "32b21141-31f6-4c0a-a404-046b9a88b839", 
+    "thread_ts": "1543361480.000400", 
+    "text": "That is not an acceptable excuse. Imagine if  this was a job and you sent that message a few minutes before people were expecting you?", 
+    "ts": "1543425268.001100", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAMHRDL", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 643, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEE5SGW9H", 
+        "thumb_480_h": 386, 
+        "original_h": 904, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEE5SGW9H/image_from_ios.jpg", 
+        "thumb_720_h": 579, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_80.jpg", 
+        "thumb_360_h": 289, 
+        "size": 306261, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_800.jpg", 
+        "timestamp": 1543422584, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEE5SGW9H/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_1024.jpg", 
+        "user": "U8NMLKGDU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEE5SGW9H-c3f8135c55", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FEE5SGW9H/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1543422584, 
+        "thumb_1024_h": 823, 
+        "thumb_960_h": 771, 
+        "original_w": 1125, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE5SGW9H-22588bc20b/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "ts": "1543422589.000800", 
+    "text": "", 
+    "upload_reply_to": "ACA61948-1576-4854-B739-8056790D2BCA", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0081ff10-d00f-479c-a076-c9bdd743a674", 
+    "attachments": [
+      {
+        "thumb_height": 600, 
+        "thumb_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png", 
+        "thumb_width": 600, 
+        "original_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain", 
+        "service_name": "MDN Web Docs", 
+        "title": "Inheritance and the prototype chain", 
+        "title_link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain", 
+        "text": "JavaScript is a bit confusing for developers experienced in class-based languages (like Java or C++), as it is dynamic and does not provide a class implementation per se (the class keyword is introduced in ES2015, but is syntactical sugar, JavaScript remains prototype-based).", 
+        "from_url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain", 
+        "fallback": "MDN Web Docs: Inheritance and the prototype chain", 
+        "service_icon": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain>", 
+    "ts": "1543363622.000600", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6F3405A4-8243-4AAF-934D-D1608AF41950", 
+    "thread_ts": "1543361480.000400", 
+    "latest_reply": "1543425268.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U28S64ZJ5"
+    ], 
+    "text": "I\u2019m going to be out today", 
+    "ts": "1543361480.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAMHRDL", 
+    "replies": [
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1543425268.001100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "0447e664-be0d-48ec-af01-d1923e215ee2", 
+    "thread_ts": "1543044799.000900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Unit Testing and TDD are two different things. There is a class on TDD in BEW. There are also some classes in Unit Testing with Mocha and Chai.", 
+    "ts": "1543256120.000200", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6677326e-b4ba-4a76-8d9f-3ecaab956d55", 
+    "thread_ts": "1542782161.019500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_rolling_eyes", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Hey Mitchell, it would be great if the solution code here had more commenting going on :pray:", 
+    "ts": "1543086680.000500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f6e0ebb0-ea55-45e9-8927-1e2025d632b0", 
+    "thread_ts": "1543044799.000900", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Ive got something for that. For my front end testing i've ben exposed to using mocha and chai as well as Sinon.js. If enough of you are interested , i'll do a small workshop Wednesday", 
+    "ts": "1543082966.000100", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "228b85e7-1e75-4a80-821b-5c26324648ad", 
+    "thread_ts": "1543044799.000900", 
+    "attachments": [
+      {
+        "image_bytes": 10941201, 
+        "original_url": "https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Why TDD\u2019ing your frontend feels pointless \u2013 Haus Engineering Blog", 
+        "ts": 1477321261, 
+        "title_link": "https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*a6yg2ZZ8TpTrIayRV8fPhw.gif", 
+        "image_width": 445, 
+        "service_name": "Haus Engineering Blog", 
+        "from_url": "https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325", 
+        "fallback": "Haus Engineering Blog: Why TDD\u2019ing your frontend feels pointless \u2013 Haus Engineering Blog", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*7KxFYp9RLI5IMIWhPpEiFg.png", 
+        "text": "Before working on our web application at Haus, I had done some frontend work, but not really any frontend engineering. I worked primarily\u2026", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<https://engineering.haus.com/why-tdding-your-frontend-feels-pointless-5f710fea7325>", 
+    "ts": "1543075256.000100", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0cf630a2-d73f-42ee-85d9-5f8ee06c0501", 
+    "thread_ts": "1543044799.000900", 
+    "latest_reply": "1543256120.000200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "U6X9L8VAN", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Can we follow TDD for our frontend JS code? Would love to see examples/learn how that's done, unless people don't do that?", 
+    "ts": "1543044799.000900", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1543075256.000100"
+      }, 
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1543082966.000100"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1543256120.000200"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "0a6fae12-e1f7-47c0-9a26-fbf4175b5b8f", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Here is a solution for the Oregon Trail. While your work may differ from what have made  you ca use the solution for comparison.\n\n<https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations/tree/master/solutions/oregon-trail>", 
+    "ts": "1542787044.021200", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "685b4a3a-b62a-4843-a143-3dff83f41996", 
+    "thread_ts": "1542782161.019500", 
+    "latest_reply": "1543829550.000700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "U8NMLKGDU"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Here is a solution for the Breakout game. Consider this a baseline solution for the OOP challenges. You can use this as a reference. Feel free to implement these ideas in your own work. You can borrow from this.\n\n<https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations/blob/master/solutions/breakout/index.html>", 
+    "ts": "1542782161.019500", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1543086680.000500"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1543829550.000700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "3bea3598-861b-456f-bdd6-1c4625e020de", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "smile", 
+        "users": [
+          "U6X9L8VAN"
+        ]
+      }
+    ], 
+    "text": "This seems to say the capture phase while rarely used happens first! This would make sense. The event would work it's way down (outside in) to the target element, then bubble back up.\n\nSeems like this makes sense an event. you'd want want the target to have the first crack at handling an event. Then pass it on via bubbling to it's ancestors.\n\nCapturing can be ignored. There are probably fewer situations where an ancestor would need an event first before the target.\n\nThat said the event has a target property, and you can use this to identify the target. This would allow an ancestor react based on what the target is.", 
+    "ts": "1542661801.017100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6f0f2240-b6ed-4fb5-9938-0e03a1eb2286", 
+    "text": "Not totally how all browsers handle this.\n\nThat said I think bubbling is the more common model. If I understand correctly, when an event occurs at an element, that element handles the event, then passes the event to it's parent and the process repeats. you could say the event bubbles up.\n\nYou stop events from propagating by calling stopPropagation() on the event.\n\nI thought bubbling was the the system, and there was an option to specify otherwise when the event was created, or was it that events bubbled up first than followed with a capture phase where events worked their way back down?\n\nThis article seems to explain it pretty good. Seems to say:\n\n&gt; There\u2019s another phase of event processing called \u201ccapturing\u201d. It is rarely used in real code, but sometimes can be useful.\n\n<https://javascript.info/bubbling-and-capturing>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1542661423.011800"
+  }, 
+  {
+    "client_msg_id": "3203214d-ed3d-440c-b1f9-a3fc6cfe72a5", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1542658441.000000"
+    }, 
+    "text": "<@U28S64ZJ5> I was reading up on event handling (capturing vs bubbling). I found a source that said some browsers are split between the two.  Was what I was reading legacy? It seems like bubbling is the go to for all browsers now.", 
+    "ts": "1542656941.002000", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8ca40eeb-ebe8-483d-b5bf-2d2256013d7a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "<!channel> We may be having a break, but I will be having afternoon office hours Mon, Wed, Fri this week from 1pm-5pm at Vantaggio's Common area", 
+    "ts": "1542600941.000300", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ec2ed52a-fb09-4483-9187-db2ad24d5168", 
+    "edited": {
+      "user": "U6X9L8VAN", 
+      "ts": "1542326885.000000"
+    }, 
+    "text": "Office hours for FEW students will be MW from 1:30-5 and on request as needed <!channel>", 
+    "pinned_info": {
+      "pinned_ts": 1542325361, 
+      "channel": "CDL7KTSPK", 
+      "pinned_by": "U6X9L8VAN"
+    }, 
+    "ts": "1542325355.004700", 
+    "pinned_to": [
+      "CDL7KTSPK"
+    ], 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8cc66147-be10-4738-a47e-16094762d70f", 
+    "text": "^ The link that we\u2019re supposed to be following", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1542324952.003600"
+  }, 
+  {
+    "client_msg_id": "469f6241-ff2a-42c8-8b46-ff9a8e4960a8", 
+    "attachments": [
+      {
+        "image_bytes": 63300, 
+        "original_url": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "service_name": "Google Developers", 
+        "title": "Get Started with Debugging JavaScript in Chrome DevTools \u00a0|\u00a0 Tools for Web Developers       \u00a0|\u00a0 Google Developers", 
+        "image_width": 444, 
+        "title_link": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "image_height": 250, 
+        "image_url": "https://developers.google.com/web/images/social-webfu-16x9.png", 
+        "text": "Learn how to use Chrome DevTools to find and fix JavaScript bugs.", 
+        "from_url": "https://developers.google.com/web/tools/chrome-devtools/javascript/", 
+        "fallback": "Google Developers: Get Started with Debugging JavaScript in Chrome DevTools \u00a0|\u00a0 Tools for Web Developers       \u00a0|\u00a0 Google Developers", 
+        "service_icon": "https://developers.google.com/_static/886de6be47/images/touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developers.google.com/web/tools/chrome-devtools/javascript/>", 
+    "ts": "1542324933.003000", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fcb96ae9-6884-4b83-bb1d-9ffa20eb5552", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Hello everyone,\nGoing forward <@U28S64ZJ5> and I will be reviewing your code,  and filing issues in your Github on a project by project basis to help you all grow as developers and to check your progress in the course.\nThank you", 
+    "pinned_info": {
+      "pinned_ts": 1542309640, 
+      "channel": "CDL7KTSPK", 
+      "pinned_by": "U6X9L8VAN"
+    }, 
+    "ts": "1542309614.002600", 
+    "pinned_to": [
+      "CDL7KTSPK"
+    ], 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "488D3B41-5F32-4A63-9309-4E6F2C8DD070", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "money_with_wings", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCD53TKCN", 
+          "UCDAMHRDL", 
+          "U6YCV95L7", 
+          "UCBDBB3LZ"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "100", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8T1AG0", 
+          "UCC4U4V53", 
+          "UCD53TKCN", 
+          "UCDAMHRDL", 
+          "UCBDBB3LZ"
+        ]
+      }
+    ], 
+    "text": "<!channel> I noticed a few people did not return after the break yesterday. This is *totally in acceptable*. \n\nI will be taking roll at the *end of class*. If you are *not there* you will be *marked absent*. \n\nIt\u2019s important you all make the most of class time. At the least it should be guaranteed programming time. Beyond that it should be time to ask questions and solve problems with me and your peers. \n\nBeing in class for the full length of class is the best use of your time, effort, and money. \n\n\n\n", 
+    "ts": "1542234049.008400", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "962d9e8b-c4c9-47d6-9e1f-1517ea4c9f39", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "`few.startCodeReview.bind(students)` should fix the issue <@U28S64ZJ5>", 
+    "ts": "1542157994.006300", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8aad56bf-52cb-4b53-9a11-e98efcd519b1", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "jeremy", 
+        "users": [
+          "UCBDBB3LZ", 
+          "UCDAMHRDL", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Thanks for handing out the free boba in class <@U28S64ZJ5>", 
+    "ts": "1542157848.005000", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "56f89729-10fd-429d-846a-349772aef8ed", 
+    "text": "<!channel> Code review has started. Everyone should be in class right now.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1542157789.004300"
+  }, 
+  {
+    "client_msg_id": "e4606707-6ccd-4a80-827b-61f5f11d6d28", 
+    "text": "A bit more on the Object.prototype.bind() method!\n<https://javascript.info/bind>", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1542152551.002900"
+  }, 
+  {
+    "client_msg_id": "c4f73c94-b1d2-4f5a-a655-c6f2ea791e73", 
+    "attachments": [
+      {
+        "thumb_height": 1658, 
+        "thumb_url": "https://repl.it/public/images/sm.png", 
+        "thumb_width": 1659, 
+        "original_url": "https://repl.it/classroom/invite/2KSkPEs", 
+        "service_name": "repl.it", 
+        "title": "Sign Up", 
+        "title_link": "https://repl.it/classroom/invite/2KSkPEs", 
+        "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 30+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, PHP, Python, Nodejs, Enzyme, Go, Java, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil", 
+        "from_url": "https://repl.it/classroom/invite/2KSkPEs", 
+        "fallback": "repl.it: Sign Up", 
+        "service_icon": "https://repl.it/public/images/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://repl.it/classroom/invite/2KSkPEs>\n\nExample illustrating obj.bind()", 
+    "ts": "1542151967.002100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2bffc5b5-9b32-4b02-bf29-d3773de9940a", 
+    "thread_ts": "1542144691.001100", 
+    "text": "Depends. Lower hanging fruit; which sections do you find most challenging?", 
+    "ts": "1542145223.001300", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ff6a8a9c-1179-4f59-a1ba-95d644a3f538", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1542144697.000000"
+    }, 
+    "latest_reply": "1542145223.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6X9L8VAN"
+    ], 
+    "thread_ts": "1542144691.001100", 
+    "text": "What are some sorts of errors people found in their Oregon Trail?", 
+    "ts": "1542144691.001100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1542145223.001300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "E32834E2-FED0-48C1-AFC9-825759E3F5DC", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> we will be issuing midterm grades next week. These will be either pass or at risk. \n\nYou need to have the breakout project and all challenges completed. You should also have the Oregon Trail project started and the first set of challenges completed (through what\u2019s described in class 6)", 
+    "ts": "1541803590.004600", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b3ec33ca-e374-4177-9d03-74e5630c090b", 
+    "text": "Help*", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1541562502.002000"
+  }, 
+  {
+    "client_msg_id": "0dc07c7e-07ef-4313-8464-0e70c86c2c3d", 
+    "text": "Hello is available from 8:05 is until 11pm in vantaggios common room", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1541562497.001800"
+  }, 
+  {
+    "client_msg_id": "45611d10-0ef1-4bab-9ebc-e23825c144a7", 
+    "text": "Hey is anyone available to help me with building the breakout game using OOP? I am struggling to build the classes the way I need to", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541535181.000800"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel topic: Progress Tracker: <https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807>", 
+    "ts": "1540938648.000400", 
+    "topic": "Progress Tracker: <https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807>", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540938516.000300", 
+    "text": "<@UCBS25XMZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "486c8522-2ba2-4b4c-a15b-27061b22ce97", 
+    "thread_ts": "1540856328.001600", 
+    "text": "Thank you for providing these, looking forward to jshero :smile:", 
+    "ts": "1540858276.002200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "83db9c2a-5935-4956-bec8-4cdd941a4851", 
+    "thread_ts": "1540856328.001600", 
+    "latest_reply": "1540858276.002200", 
+    "attachments": [
+      {
+        "thumb_height": 1658, 
+        "thumb_url": "https://repl.it/public/images/sm.png", 
+        "thumb_width": 1659, 
+        "original_url": "https://repl.it/classroom/invite/ZLKqpSw", 
+        "service_name": "repl.it", 
+        "title": "Sign Up", 
+        "title_link": "https://repl.it/classroom/invite/ZLKqpSw", 
+        "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 30+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, PHP, Python, Nodejs, Enzyme, Go, Java, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil", 
+        "from_url": "https://repl.it/classroom/invite/ZLKqpSw", 
+        "fallback": "repl.it: Sign Up", 
+        "service_icon": "https://repl.it/public/images/favicon.ico", 
+        "id": 1
+      }, 
+      {
+        "original_url": "http://www.jshero.net/en/success.html", 
+        "text": "Learn to Code", 
+        "title": "JavaScript Hero", 
+        "title_link": "http://www.jshero.net/en/success.html", 
+        "service_name": "jshero.net", 
+        "from_url": "http://www.jshero.net/en/success.html", 
+        "fallback": "JavaScript Hero", 
+        "id": 2
+      }, 
+      {
+        "thumb_height": 1200, 
+        "thumb_url": "https://www.codecademy.com/assets/logo-codecademy-social-abfd8450722d675bddedde689f8af624.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.codecademy.com/learn/introduction-to-javascript", 
+        "service_name": "Codecademy", 
+        "title": "JavaScript Tutorial: Learn JavaScript For Free | Codecademy", 
+        "title_link": "https://www.codecademy.com/learn/introduction-to-javascript", 
+        "text": "Learn JavaScript and Javascript arrays to build interactive websites and pages that adapt to every device. Add dynamic behavior, store information, and handle requests and responses.", 
+        "from_url": "https://www.codecademy.com/learn/introduction-to-javascript", 
+        "fallback": "Codecademy: JavaScript Tutorial: Learn JavaScript For Free | Codecademy", 
+        "service_icon": "https://www.codecademy.com/favicon.ico", 
+        "id": 3
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "U6YCV95L7", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "pinned_info": {
+      "pinned_ts": 1543228364, 
+      "channel": "CDL7KTSPK", 
+      "pinned_by": "U8NMLKGDU"
+    }, 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1540858276.002200"
+      }
+    ], 
+    "ts": "1540856328.001600", 
+    "pinned_to": [
+      "CDL7KTSPK"
+    ], 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U28S64ZJ5", 
+    "text": "<!channel> Anyone feeling they are behind on their JS can use these resources to get caught up.\n\n- <https://repl.it/classroom/invite/ZLKqpSw>\n- <http://www.jshero.net/en/success.html>\n- <https://www.codecademy.com/learn/introduction-to-javascript>\n\nThe first is a repl classroom I created. I can provide feedback on your solutions. If you like this format let me know and I'll add more classrooms.", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "DB534940-236C-4280-AA0C-6BF7CC8B6FBF", 
+    "thread_ts": "1540687715.001400", 
+    "text": "Seems like the intent is !important is ignored in keyframe animation. \n\nIf this a problem i.e. you have property you can\u2019t animate be cause there is another style rule governing its appearance, try either of these ideas :bulb: \n\nRemove the other rule. If you\u2019re animating the element anyway maybe it doesn\u2019t need the problematic rule?\n\nTry using a more specific selector. Selectors with more specificity over rule less specific selectors. For example:\n\n`p` is less specific than `div p` which is less specific than `div p.bold-copy`", 
+    "ts": "1540745566.009800", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d783104f-1d37-4caf-90b1-755c7234950d", 
+    "thread_ts": "1540687715.001400", 
+    "attachments": [
+      {
+        "thumb_height": 600, 
+        "thumb_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png", 
+        "thumb_width": 600, 
+        "original_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes#When_properties_are_left_out_of_some_keyframes", 
+        "service_name": "MDN Web Docs", 
+        "title": "@keyframes", 
+        "title_link": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes#When_properties_are_left_out_of_some_keyframes", 
+        "text": "The @keyframes CSS at-rule controls the intermediate steps in a CSS animation sequence by defining styles for keyframes (or waypoints) along the animation sequence.", 
+        "from_url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes#When_properties_are_left_out_of_some_keyframes", 
+        "fallback": "MDN Web Docs: @keyframes", 
+        "service_icon": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes#When_properties_are_left_out_of_some_keyframes>", 
+    "ts": "1540687723.001500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7dcb8c94-b71d-4c3a-9ad4-2329570cc9e7", 
+    "thread_ts": "1540687715.001400", 
+    "latest_reply": "1540745566.009800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Was just reading about keyframes and i'm reading this right, !important actually has the opposite affect it typically would, so !important is actually ignored in keyframe? Does anyone know why this is, seems strange lol", 
+    "ts": "1540687715.001400", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1540687723.001500"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1540745566.009800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1540620015.000300", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "6bb83730-77f6-4072-8406-6c42a250b924", 
+    "attachments": [
+      {
+        "original_url": "https://atom.io/packages/color-picker", 
+        "service_name": "Atom", 
+        "title": "color-picker", 
+        "title_link": "https://atom.io/packages/color-picker", 
+        "text": "Right click or press CMD-SHIFT-C/CTRL-ALT-C to open it.", 
+        "from_url": "https://atom.io/packages/color-picker", 
+        "fallback": "Atom: color-picker", 
+        "service_icon": "https://atom.io/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://atom.io/packages/color-picker>", 
+    "ts": "1540507654.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540505132.000200", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "9146ed49-1683-4395-86fb-ebc135aae68a", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1540416970.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCBS37LKV", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pray", 
+        "users": [
+          "UCBS37LKV", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Really like game dev with Javascript or just want to learn more? Here are a couple of books that dive deep into that: <https://drive.google.com/file/d/1M94DbzNNZ2PRodpoOWlrQmM0TgGg71MB/view?usp=sharing>", 
+    "ts": "1540416371.000100", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1540334731.000200", 
+    "text": "<@UCBDBB3LZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c974935e-4cc0-4191-abbc-2baa213fea84", 
+    "attachments": [
+      {
+        "thumb_height": 250, 
+        "thumb_url": "https://avatars0.githubusercontent.com/u/26469999?s=400&v=4", 
+        "thumb_width": 250, 
+        "original_url": "https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations", 
+        "service_name": "GitHub", 
+        "title": "Product-College-Courses/FEW-1.2-JavaScript-Foundations", 
+        "title_link": "https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations", 
+        "text": "Contribute to Product-College-Courses/FEW-1.2-JavaScript-Foundations development by creating an account on GitHub.", 
+        "from_url": "https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations", 
+        "fallback": "GitHub: Product-College-Courses/FEW-1.2-JavaScript-Foundations", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://github.com/Product-College-Courses/FEW-1.2-JavaScript-Foundations>", 
+    "pinned_info": {
+      "pinned_ts": 1540507411, 
+      "channel": "CDL7KTSPK", 
+      "pinned_by": "UCFCFQ7KK"
+    }, 
+    "ts": "1540334315.000100", 
+    "pinned_to": [
+      "CDL7KTSPK"
+    ], 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHMLWEQ", 
+    "ts": "1540334179.000200", 
+    "text": "<@UCBHMLWEQ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540334106.000200", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1540334044.000200", 
+    "text": "<@UCFCFQ7KK> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4TPF5K", 
+    "ts": "1540334012.000200", 
+    "text": "<@UCC4TPF5K> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1540333995.000200", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1540333988.000200", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1540333983.000200", 
+    "text": "<@UCBC9725P> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z5ZDKP1", 
+    "ts": "1540333981.000200", 
+    "text": "<@U6Z5ZDKP1> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1540333958.000200", 
+    "text": "<@UCBS8JUHH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1540333906.000200", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1540333895.000200", 
+    "text": "<@UCBS37LKV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1540333889.000200", 
+    "text": "<@UCDAMHRDL> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1540333883.000200", 
+    "text": "<@UCB8T1AG0> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1540333874.000200", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1540333873.000200", 
+    "text": "<@UCC4U4V53> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDLRD1UAW", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 1.2 Progress Tracker (Term 2 2018)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_80.png", 
+        "thumb_360_h": 360, 
+        "size": 105780, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_800.png", 
+        "timestamp": 1540333853, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FDLRD1UAW/few_1", 
+        "name": "FEW 1", 
+        "created": 1540333853, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLRD1UAW-35471eaa11/few_1_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807"
+      }
+    ], 
+    "client_msg_id": "568f5a94-1d6b-401a-9a2c-520e0a22963f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<https://docs.google.com/spreadsheets/d/1rzFCOZYxt6B9vkUSnQpQkpVGhIO18epNFy0lwe0_LFg/edit#gid=1955777807>", 
+    "upload": false, 
+    "ts": "1540333852.000100", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FDLRD1UAW"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1540333848.000200", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }
+]

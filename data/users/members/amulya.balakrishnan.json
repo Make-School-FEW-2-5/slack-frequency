@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "status_expiration": 0, 
+    "display_name": "Amulya", 
+    "status_emoji": "", 
+    "avatar_hash": "gce917578af2", 
+    "title": "", 
+    "status_text_canonical": "", 
+    "skype": "", 
+    "real_name": "Amulya Balakrishnan", 
+    "image_24": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-24.png", 
+    "phone": "", 
+    "real_name_normalized": "Amulya Balakrishnan", 
+    "image_512": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-512.png", 
+    "display_name_normalized": "Amulya", 
+    "image_32": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-32.png", 
+    "image_48": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-48.png", 
+    "team": "T1D4KRBR8", 
+    "image_72": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png", 
+    "status_text": "", 
+    "email": "amulya.balakrishnan@students.makeschool.com", 
+    "image_192": "https://secure.gravatar.com/avatar/ce917578af22d3a66633296e4ab38789.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-192.png"
+  }, 
+  "updated": 1553306615, 
+  "name": "amulya.balakrishnan", 
+  "presence": "away", 
+  "deleted": true, 
+  "is_app_user": false, 
+  "is_bot": false, 
+  "team_id": "T1D4KRBR8", 
+  "id": "UCW1NS259"
+}

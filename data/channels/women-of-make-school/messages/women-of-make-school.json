@@ -1,0 +1,4502 @@
+[
+  {
+    "client_msg_id": "2a34bf47-0fa3-4963-8c05-c5382cea099c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCBSELQ2F", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hello everyone! I\u2019ve just invited folks to a lunch event next Tuesday. The admissions team would love to connect and brainstorm together with you about ways that we can improve our outreach and admissions process for non-male applicants, to ensure that we are able to meet our goal of boosting the ratio of non-male students in the fall.\n\nPlease RSVP so we can plan for food, and feel free to invite others if I accidentally missed anyone. :slightly_smiling_face:", 
+    "ts": "1556657281.002500", 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3815313c-1547-4338-8ded-bd49dd129daa", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "caroline", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS37LKV", 
+          "UCB3PRBME", 
+          "UCBSELQ2F", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS37LKV", 
+          "UCB8T1AG0", 
+          "U9PA0BZQW", 
+          "UCBSELQ2F", 
+          "U2481KKBM"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "woman-girl-girl", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS37LKV", 
+          "UCC0HC7D0", 
+          "UCBSELQ2F"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS37LKV", 
+          "UCC0HC7D0", 
+          "UCBSELQ2F", 
+          "U2481KKBM"
+        ]
+      }
+    ], 
+    "text": "Hi <!channel>! I just sent  y'all a calendar invite for a Women's Dinner on June 5th from 6-8 :two_women_holding_hands: Save the Date :calendar: Details to follow in the coming weeks :tada:", 
+    "ts": "1556052041.002000", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UHK2P9EPR> has joined the channel", 
+    "ts": "1556051867.000200", 
+    "subtype": "channel_join", 
+    "user": "UHK2P9EPR", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "client_msg_id": "27CD9699-C316-4757-A5C4-85149BE99A77", 
+    "text": "<https://www.neh.gov/article/colonial-dames>", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1555146637.000300"
+  }, 
+  {
+    "client_msg_id": "D7C5A25E-6679-44E0-813F-73C7568B2CF7", 
+    "thread_ts": "1552002853.000200", 
+    "text": "She went to my high school!!", 
+    "ts": "1554489869.000400", 
+    "user": "UCBSELQ2F", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 400, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FH58J1RM1", 
+        "thumb_480_h": 240, 
+        "original_h": 512, 
+        "thumb_360_w": 360, 
+        "title": "Mentorship Image .png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH58J1RM1/mentorship_image_.png", 
+        "thumb_720_h": 360, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__80.png", 
+        "thumb_360_h": 180, 
+        "size": 94201, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__800.png", 
+        "timestamp": 1553120208, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH58J1RM1/download/mentorship_image_.png", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH58J1RM1-2114a534ea", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FH58J1RM1/mentorship_image_.png", 
+        "name": "Mentorship Image .png", 
+        "created": 1553120208, 
+        "thumb_960_h": 480, 
+        "original_w": 1024, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FH58J1RM1-a774ab4125/mentorship_image__720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCJ72FALU", 
+      "ts": "1553120271.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "UCC0GL52N", 
+          "UCC0HC7D0", 
+          "U6YP200VB", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "<!channel>  Below is an email I received from Girl Geek that I wanted to share! I haven't listened to the podcast, but I intend to :slightly_smiling_face:\n\nDid you know that *Girl Geek X* recently launched a brand new podcast?! Well, you do now! And we couldn't be more excited about it! For the first time pretty much ever, the Girl Geek community will get to hear from the women who started it all: Girl Geek X Founder &amp; CEO Angie Chang, plus other core members of the GGX team: Sukrutha Bhadouria and Gretchen DeKnikker, plus podcast producer Rachel Jones! :two_women_holding_hands::two_women_holding_hands:\n\nIn the weekly podcast, we are highlighting and distilling our learnings from across* 200+ dinners, 1000+ speakers, over 5,000 audience questions,* and we're sharing our own collective and individual experiences as women working in the Bay Area tech scene.\n\nWe're tackling the tough issues, the stuff we ALL struggle with, and the topics we most frequently hear discussed at GGX Dinners &amp; events: mentorship, career transitions, management, imposter syndrome, and so much more. We're also pushing ourselves and each other to examine our own weaknesses, biases, and mistakes during our weekly podcast chats -- so we'll be learning right along with you -- and having a ton of fun doing it! :tada::star:\n\nThe first 5 podcast episodes and transcripts are already live across the interwebz and on our website, so you can dig right in and start binge-listening today (or on tomorrow's commute).:train:\n\n- Angie, Sukrutha &amp; Gretchen [the team behind Girl Geek X]", 
+    "upload": true, 
+    "ts": "1553120212.002500", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1553119917.000200", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "client_msg_id": "94dd888c-81e7-4191-82c6-f44f41e9c68c", 
+    "thread_ts": "1552002853.000200", 
+    "latest_reply": "1554489869.000400", 
+    "attachments": [
+      {
+        "service_icon": "https://www.good.is/favicon.ico", 
+        "image_bytes": 88780, 
+        "original_url": "https://www.good.is/articles/nasa-all-female-space-walk", 
+        "service_name": "GOOD", 
+        "title": "The first all-female spacewalk is happening, because even space has a gender gap that needs to be closed.", 
+        "ts": 1551965400, 
+        "image_width": 482, 
+        "image_height": 250, 
+        "image_url": "https://assets.goodstatic.com/s3/magazine/assets/580746/original/KristenAstronaut.jpg=s1200x1200", 
+        "text": "Possibly one of the best real-life instances of women supporting other women.", 
+        "from_url": "https://www.good.is/articles/nasa-all-female-space-walk", 
+        "fallback": "GOOD: The first all-female spacewalk is happening, because even space has a gender gap that needs to be closed.", 
+        "title_link": "https://www.good.is/articles/nasa-all-female-space-walk", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCB8U00KA", 
+          "UCB8T1AG0", 
+          "U2481KKBM", 
+          "UCBSELQ2F"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBSELQ2F"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCBSELQ2F", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCBSELQ2F"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "female-astronaut", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBSELQ2F"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBSELQ2F"
+    ], 
+    "replies": [
+      {
+        "user": "UCBSELQ2F", 
+        "ts": "1554489869.000400"
+      }
+    ], 
+    "ts": "1552002853.000200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC45RJQ7M", 
+    "text": "<https://www.good.is/articles/nasa-all-female-space-walk>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d8d8ef56-7322-4a79-af12-29becd16ffb7", 
+    "thread_ts": "1551533760.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "airplane", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<@UCC0GL52N> I hope you find the time to apply! It would be cool to go together.", 
+    "ts": "1551672417.001600", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13e48b14-d06f-4803-8124-46d299ae7eb9", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1551672504.000000"
+    }, 
+    "thread_ts": "1551533760.000100", 
+    "text": "I would definitely like to but I haven't applied yet.", 
+    "ts": "1551671736.001100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "8EC2B185-A365-42D5-977A-6603A3D30A64", 
+    "thread_ts": "1551533760.000100", 
+    "text": "<@UCC0GL52N> are you applying as well?", 
+    "ts": "1551671166.000600", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d2420ef5-9cd7-42ed-bd95-60aca009370f", 
+    "thread_ts": "1551533760.000100", 
+    "text": "It's going to be in sunny :sunny: Orlando :sun_with_face: Florida this year.", 
+    "ts": "1551643152.000100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9C2C172C-50C2-47EC-9B50-7C35F3CD7166", 
+    "thread_ts": "1551533760.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UC45RJQ7M"
+        ]
+      }
+    ], 
+    "text": "<@UC45RJQ7M> they are actually due on Wednesday March 6th at 5pm and they require a letter of recommendation as well. If you\u2019re applying, contact your coach yesterday.", 
+    "ts": "1551554282.001800", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29CAC3EC-767F-4FD8-ABD7-05EBF850E108", 
+    "edited": {
+      "user": "UC45RJQ7M", 
+      "ts": "1552002868.000000"
+    }, 
+    "latest_reply": "1551672417.001600", 
+    "attachments": [
+      {
+        "thumb_height": 683, 
+        "thumb_url": "https://ghc.anitab.org/wp-content/uploads/sites/2/2018/12/2018-scholars.jpg", 
+        "thumb_width": 1024, 
+        "original_url": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "service_name": "Grace Hopper Celebration", 
+        "title": "GHC 19 Scholarships - Grace Hopper Celebration", 
+        "title_link": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "text": "Scholarship applications are open until\u00a0March 6, 2019 at 5 p.m. PT. Apply Now Our\u00a0GHC Scholarships provide funds for undergraduate students, graduate students, and faculty to attend our three-day Celebration. Scholars who attend GHC gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. Learn more about our GHC Scholarship... Read more \u00bb", 
+        "from_url": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "fallback": "Grace Hopper Celebration: GHC 19 Scholarships - Grace Hopper Celebration", 
+        "service_icon": "https://ghc.anitab.org/wp-content/assets/images/favicons/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "thread_ts": "1551533760.000100", 
+    "text": "Grace Hopper Scholarships applications are due *Wednesday, March 6th*. This conference for women is an excellent place to learn, network and meet a lot of employers!\n\nI know it\u2019s finals week , but I recommend applying!\n\nIf you are interested- reply on this thread. I\u2019ll reserve a session onWednesday to help complete applications and make sure you have the paperwork and recommendations needed from Make School.\n\n<https://ghc.anitab.org/2019-student-academic/scholarships/>", 
+    "reply_users": [
+      "UCB8U00KA", 
+      "UCC0GL52N"
+    ], 
+    "ts": "1551533760.000100", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UC45RJQ7M", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1551554282.001800"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1551643152.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1551671166.000600"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1551671736.001100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1551672417.001600"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "10cf3ca8-be19-434d-ad37-3888ecbdf7cb", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "UCB8U00KA", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rocket", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle::skin-tone-5", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 151361, 
+        "original_url": "https://www.cnbc.com/2019/02/28/bumble-launches-women-only-filter-for-its-professional-networking-tool.html", 
+        "service_name": "CNBC", 
+        "title": "Bumble is launching a women-first networking tool that lets recruiters exclude men", 
+        "ts": 1551370841, 
+        "title_link": "https://www.cnbc.com/2019/02/28/bumble-launches-women-only-filter-for-its-professional-networking-tool.html", 
+        "image_height": 250, 
+        "image_url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/04/05/105112023-GettyImages-929910688.1910x1000.jpg", 
+        "image_width": 478, 
+        "text": "The idea is to help a traditionally underrepresented workforce connect and build support systems outside the office.", 
+        "from_url": "https://www.cnbc.com/2019/02/28/bumble-launches-women-only-filter-for-its-professional-networking-tool.html", 
+        "fallback": "CNBC: Bumble is launching a women-first networking tool that lets recruiters exclude men", 
+        "service_icon": "https://www.cnbc.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Check-this out! :slightly_smiling_face:\n<https://www.cnbc.com/2019/02/28/bumble-launches-women-only-filter-for-its-professional-networking-tool.html>", 
+    "ts": "1551397860.001600", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1551377185.000800", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "client_msg_id": "C1404B03-FF1D-4EB5-81E2-53BDF4AE5C5A", 
+    "thread_ts": "1551326781.003700", 
+    "text": "This card is super cute!", 
+    "ts": "1551373470.000500", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1551331908.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "client_msg_id": "73b07439-bf0e-4e76-8c99-94f5859ed7e6", 
+    "thread_ts": "1551326781.003700", 
+    "text": "It's Perfect :blue_heart:", 
+    "ts": "1551330845.000100", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 468, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGK3ETU66", 
+        "thumb_480_h": 281, 
+        "original_h": 1329, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS (2)", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGK3ETU66/img_0893.jpg", 
+        "thumb_720_h": 422, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_80.jpg", 
+        "thumb_360_h": 211, 
+        "size": 224878, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_800.jpg", 
+        "timestamp": 1551326777, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGK3ETU66/download/img_0893.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_1024.jpg", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGK3ETU66-bc64cfbbc8", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FGK3ETU66/img_0893.jpg", 
+        "name": "IMG_0893.jpg", 
+        "created": 1551326777, 
+        "thumb_1024_h": 600, 
+        "thumb_960_h": 562, 
+        "original_w": 2270, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGK3ETU66-e48e4148b7/img_0893_720.jpg"
+      }
+    ], 
+    "thread_ts": "1551326781.003700", 
+    "latest_reply": "1551373470.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8T1AG0", 
+      "U6YP200VB"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCDAKSB7Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551326781.003700", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1551330845.000100"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1551373470.000500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 283, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1356, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGL5FCZPZ", 
+        "thumb_480_h": 480, 
+        "original_h": 1978, 
+        "thumb_360_w": 212, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGL5FCZPZ/img_0892.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_64.jpg", 
+        "thumb_720_w": 425, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 157417, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_800.jpg", 
+        "timestamp": 1551326773, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGL5FCZPZ/download/img_0892.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_1024.jpg", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGL5FCZPZ-3815acc79c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FGL5FCZPZ/img_0892.jpg", 
+        "name": "IMG_0892.jpg", 
+        "created": 1551326773, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1167, 
+        "thumb_960_w": 566, 
+        "thumb_1024_w": 604, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL5FCZPZ-4367fb307d/img_0892_720.jpg"
+      }
+    ], 
+    "text": "Hey! Here's Miriam's card! Make School alumni", 
+    "upload": true, 
+    "ts": "1551326776.003400", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0bc6ad11-e74a-4877-85de-1009004aeeb5", 
+    "text": "Come join us in Golden Gate! There are snacks", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1551319164.003300"
+  }, 
+  {
+    "client_msg_id": "24edf23e-00e2-4e2a-8af7-37f8fa693850", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "sparkling_heart", 
+        "users": [
+          "UCD1JVCJ3", 
+          "UCJ72FALU", 
+          "UCC0GL52N", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "revolving_hearts", 
+        "users": [
+          "UCD1JVCJ3", 
+          "UCC0GL52N", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "wish I were there! have fun ladies :heart::tada:", 
+    "ts": "1551317308.002600", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0de5cefb-fa3e-4d3e-9788-f83ce7b1d7ba", 
+    "text": "we will miss you too! next time :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1551314646.001900"
+  }, 
+  {
+    "client_msg_id": "F30570D1-41B7-4FBF-97BC-D382DBF10BD6", 
+    "text": "sad i\u2019m missing this one. have fun!!", 
+    "type": "message", 
+    "user": "UFHMAU6Q3", 
+    "ts": "1551313573.001500"
+  }, 
+  {
+    "client_msg_id": "c6e6dbc0-0337-4a27-b7c1-146cc306a093", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "gopher", 
+        "users": [
+          "UCC0GL52N", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "<!channel> Looking forward to seeing you all at *6:00pm* tonight in Golden Gate! :make-school::slightly_smiling_face:", 
+    "ts": "1551313152.001100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "67619a1a-0550-461a-aee9-9314725ef241", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCDAKSB7Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hi!\n\nWe are super excited to get to spend some quality time with you all tomorrow evening :tada::slightly_smiling_face:\n\n*Reminder that we will be discussing the following question:* What does intersectionality mean to you, what does/should it look like in the workplace, and how do you contribute to it? Followed by whatever is top of mind for people.\n\nWe will start at *6:00pm* in Golden Gate :make-school:\n\n*Appetizers and drinks will be provided!* :fork_and_knife:\n\nWe look forward to connecting!\nThe Student Experience Team", 
+    "ts": "1551224189.002200", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1550205757.005400", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f931d6af-80f4-41a7-9765-93fd29f49ba7", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "female-technologist", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "U9PA0BZQW", 
+          "UC45RJQ7M"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB8U00KA", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "<!channel>\nHi!\n\nStudent experience is hosting, along with support from current student Tori Murray, our second Women of Make School Event for the 2018-2019 school year :tada::slightly_smiling_face:\n\n*We will start the evening by discussing the following question:* What does intersectionality mean to you, what does/should it look like in the workplace, and how do you contribute to it? Followed by fluid conversation and anything that is top of mind for people\n\n*When:* Wednesday, February 27th from 6:00pm-8:00pm :calendar:\n*Where:* Make School - 555 Post Street, SF, CA 94114 :make-school:\n\n*Appetizers and drinks will be provided!* :fork_and_knife:\n\nPlease *RSVP* via calendar invite (that was just sent out) no later than *Friday, February 22nd.* :white_check_mark:\n\nLooking forward to connecting with you all!", 
+    "ts": "1550187086.004200", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UC45RJQ7M> has joined the channel", 
+    "ts": "1549645020.000200", 
+    "subtype": "channel_join", 
+    "user": "UC45RJQ7M", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UC36F4P2M> has joined the channel", 
+    "ts": "1549316109.003000", 
+    "subtype": "channel_join", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "inviter": "U9HT8DV8S"
+  }, 
+  {
+    "text": "<@UBZLA95GV> has joined the channel", 
+    "ts": "1549316109.002800", 
+    "subtype": "channel_join", 
+    "user": "UBZLA95GV", 
+    "type": "message", 
+    "inviter": "U9HT8DV8S"
+  }, 
+  {
+    "client_msg_id": "26e4c252-7a0f-44b9-9f2f-ba01e943c486", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 683, 
+        "thumb_url": "https://ghc.anitab.org/wp-content/uploads/sites/2/2018/12/2018-scholars.jpg", 
+        "thumb_width": 1024, 
+        "original_url": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "service_name": "Grace Hopper Celebration", 
+        "title": "GHC 19 Scholarships - Grace Hopper Celebration", 
+        "title_link": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "text": "Scholarship applications are open until\u00a0March 6, 2019 at 5 p.m. PT. Apply Now Our\u00a0GHC Scholarships provide funds for undergraduate students, graduate students, and faculty to attend our three-day Celebration. Scholars who attend GHC gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. Learn more about our GHC Scholarship... Read more \u00bb", 
+        "from_url": "https://ghc.anitab.org/2019-student-academic/scholarships/", 
+        "fallback": "Grace Hopper Celebration: GHC 19 Scholarships - Grace Hopper Celebration", 
+        "service_icon": "https://ghc.anitab.org/wp-content/assets/images/favicons/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Grace Hopper Celebration is the world's largest gathering of women technologists. It is produced by <http://AnitaB.org|AnitaB.org> and presented in partnership with ACM. GHC 19 will be Oct. 2\u20134, 2019 in Orlando, FL. :sunny: :palm_tree: :beach_with_umbrella:\n\nStudents and Faculty (<@UBZLA95GV>, <@UC36F4P2M>) are eligible for scholarships to cover the entire cost of travel and attending :tada::make-school:. The application is due March 6th so just a few weeks away!\n\n*Info here:*\n<https://ghc.anitab.org/2019-student-academic/scholarships/>\n\n*Application here:*\n<https://ssl.linklings.net/conferences/ghc-scholarships/>", 
+    "ts": "1549316106.002500", 
+    "user": "U9HT8DV8S", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1549068627.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "text": "<@UFHMAU6Q3> has joined the channel", 
+    "ts": "1548182354.000200", 
+    "subtype": "channel_join", 
+    "user": "UFHMAU6Q3", 
+    "type": "message", 
+    "inviter": "UCBKC02JY"
+  }, 
+  {
+    "client_msg_id": "0392CF9E-6005-4EB8-BD78-17423AE7D085", 
+    "thread_ts": "1547841312.004300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fist", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "Erick told us about the Oakland march. I think we\u2019re gonna stick to the one in the city but hope y\u2019all have a great time! ", 
+    "ts": "1547849743.006700", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B3107D2E-212E-45D2-9630-0D10D7271B22", 
+    "text": "<@U6YP200VB> Eric told us about it. I didn't know there were different ones", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547849669.005300"
+  }, 
+  {
+    "client_msg_id": "1ac1fdfb-f137-4471-b486-737c2f599089", 
+    "thread_ts": "1547841312.004300", 
+    "latest_reply": "1547849743.006700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<@UCB3PRBME> I\u2019m glad you are going to the march. I have a little crew doing the Oakland version, would love it you joined us.", 
+    "ts": "1547841312.004300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YP200VB", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1547849743.006700"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFGT5NYG0", 
+        "thumb_480_h": 480, 
+        "original_h": 2208, 
+        "thumb_360_w": 203, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFGT5NYG0/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 3391063, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_800.png", 
+        "timestamp": 1547841110, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFGT5NYG0/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_1024.png", 
+        "user": "UCB3PRBME", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFGT5NYG0-22138d97f2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3PRBME/FFGT5NYG0/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1547841110, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGT5NYG0-46596466dd/image_from_ios_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "AC73C9BC-A5C7-4CD3-A7D4-A07501CC532A", 
+    "ts": "1547841118.003200", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFH1MA83T", 
+        "thumb_480_h": 480, 
+        "original_h": 2208, 
+        "thumb_360_w": 203, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFH1MA83T/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 494956, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_800.png", 
+        "timestamp": 1547841031, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFH1MA83T/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_1024.png", 
+        "user": "UCB3PRBME", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFH1MA83T-608f293167", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3PRBME/FFH1MA83T/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1547841031, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH1MA83T-1795c6c646/image_from_ios_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "32D28E8B-A5BC-4B56-8FFE-40D091DC80EA", 
+    "ts": "1547841038.002900", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "57FE369D-0386-4007-8B84-3346D0D17869", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "unicorn_face", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rocket", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Hey guys there\u2019s gonna be a women\u2019s march going on this Saturday. I\u2019ll be going &amp; it would be cool if any of you wanted to come along ", 
+    "ts": "1547841019.002400", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1547840690.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547599862.005000", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "2f93c4df-c96e-4c57-91db-09ddbb3d7a29", 
+    "text": "<@UCD1JVCJ3>", 
+    "type": "message", 
+    "user": "U916G04LB", 
+    "ts": "1547582827.004300"
+  }, 
+  {
+    "client_msg_id": "86eb2921-cdb7-4c6f-a3d4-bf5f57f93c9d", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCBS37LKV", 
+          "UCD1JVCJ3", 
+          "UCB3PRBME", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Great! 12:30 - 2pm is a good time, but you can come anytime\nAlso 5-6 is a mingle time. (But assuming you\u2019ll be busy for your demo :grimacing:)", 
+    "ts": "1547582825.004100", 
+    "user": "U916G04LB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6415119F-98C8-4A29-893F-7D1B4F2AEB2D", 
+    "text": "That would be great! Let us know a good time to come up <@U916G04LB> ", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1547582649.002600"
+  }, 
+  {
+    "client_msg_id": "a35e5afb-b3ab-4a3c-84ab-d4c8d8940d29", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCC0H4UJE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hi ladies! As you noticed, we\u2019re hosting Open House for prospective students. Unfortunately this time, we don\u2019t have many female students. It would be great if you could come up and talk to students when you\u2019re taking break :wink:", 
+    "ts": "1547582555.001900", 
+    "user": "U916G04LB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9fdd9448-bc05-4620-9492-c6583d92101a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "UCBS37LKV"
+        ]
+      }
+    ], 
+    "text": "Oh shoot, did I miss it?", 
+    "ts": "1544646759.013800", 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FETQHH8G6", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Tree Photo # 3.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FETQHH8G6/tree_photo___3.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2650532, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_800.jpg", 
+        "timestamp": 1544645999, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FETQHH8G6/download/tree_photo___3.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_1024.jpg", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FETQHH8G6-80be57d050", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FETQHH8G6/tree_photo___3.jpg", 
+        "name": "Tree Photo # 3.jpg", 
+        "created": 1544645999, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FETQHH8G6-1ce8db50f3/tree_photo___3_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1544646011.013400", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FETE7M8LF", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Tree Photo #2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FETE7M8LF/tree_photo__2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2466740, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_800.jpg", 
+        "timestamp": 1544645978, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FETE7M8LF/download/tree_photo__2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_1024.jpg", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FETE7M8LF-f21f759b9b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FETE7M8LF/tree_photo__2.jpg", 
+        "name": "Tree Photo #2.jpg", 
+        "created": 1544645978, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FETE7M8LF-691cbdda9b/tree_photo__2_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1544645987.013100", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FERQC42N5", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Tree Photo #1 .jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FERQC42N5/tree_photo__1_.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2602306, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__800.jpg", 
+        "timestamp": 1544645956, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FERQC42N5/download/tree_photo__1_.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__1024.jpg", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FERQC42N5-e1838061bc", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FERQC42N5/tree_photo__1_.jpg", 
+        "name": "Tree Photo #1 .jpg", 
+        "created": 1544645956, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FERQC42N5-65cade1b93/tree_photo__1__720.jpg"
+      }
+    ], 
+    "text": "Photos!", 
+    "upload": true, 
+    "ts": "1544645966.012800", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "807d18b3-2174-46aa-b362-48f4b8f9d580", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "UCBS37LKV"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tada", 
+        "users": [
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "UCBS37LKV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "christmas_tree", 
+        "users": [
+          "UCBS37LKV"
+        ]
+      }
+    ], 
+    "text": "<!channel> Please join us for a group photo today at 12:00pm :christmas_tree::girl:\n\n*Where* By the tree in the lobby\n*When* Today at 12:00pm\n\nWe would love to get as many women as possible for the photo! This will be used for our Hackbright invitation :make-school::tada:\n\nSee you soon!", 
+    "ts": "1544636586.011200", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1544500392.007000", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "client_msg_id": "3da1d121-d7a3-4dfd-9402-53266770690d", 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "sparkling_heart", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCB8T1AG0", 
+          "UCB8U00KA", 
+          "UCC0GL52N", 
+          "U9PA0BZQW", 
+          "UCDAKSB7Y", 
+          "U9HT8DV8S", 
+          "U6YV4A45C"
+        ]
+      }
+    ], 
+    "text": "<!channel> I have been remiss in getting another women's dinner (or something like it) on the calendar! :woman-facepalming:I have not forgotten about it, nor the importance of creating a space for us all to connect :girl::make-school:\n\nWe are planning to have an event one evening the week of January 20th (exact date and time TBD) :calendar:I have reached out to some contacts at Hackbright, and hoping that some of their students and faculty can join us, as well :female-student:\n\nWe look forward to connecting with you all more in the New Year, but please feel free to reach out whenever if you need anything. We can also use this channel more to communicate with one another :slightly_smiling_face:\n\nGood luck with finals and presentations this week!! We are thinking of you. :tada::+1:", 
+    "ts": "1544496680.006400", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1e71d6a8-c3eb-4cbf-b607-a798f10c91b2", 
+    "edited": {
+      "user": "UCB8T79UG", 
+      "ts": "1542216187.000000"
+    }, 
+    "text": "For everyone wondering how I was able to attend Chrome Dev Summit, it was from an invitation from a Women Techmakers member. If you're interested, you can join using this link: <https://services.google.com/fb/forms/joinwomentechmakers/>", 
+    "ts": "1542184497.002300", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "20915295-f01a-49c2-9040-15e6b45bfbf0", 
+    "thread_ts": "1542056993.001600", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC4S13NZ", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GD5V0", 
+          "UCC4S13NZ", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC4S13NZ", 
+          "U6YP200VB", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC4S13NZ"
+        ]
+      }
+    ], 
+    "text": "um classic tori moment, y\u2019all this is actually tonight.  also i\u2019ve suddenly been given the opportunity to be in charge of registration at the event now so seriously you\u2019re all in if you show up", 
+    "ts": "1542133641.000100", 
+    "subtype": "thread_broadcast", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "4cc41415-9a50-40da-83c0-23340387b1bc", 
+      "thread_ts": "1542056993.001600", 
+      "latest_reply": "1542133641.000100", 
+      "attachments": [
+        {
+          "image_bytes": 43941, 
+          "original_url": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&amp;fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+          "fields": [
+            {
+              "short": true, 
+              "value": "90 Gold Street, San Francisco, CA 94133", 
+              "title": "Where"
+            }, 
+            {
+              "short": true, 
+              "value": "Tue, Nov 13, 2018 at 6:00 PM", 
+              "title": "When"
+            }
+          ], 
+          "title": "Women of Product Hunt", 
+          "image_width": 500, 
+          "title_link": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+          "image_height": 250, 
+          "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F52057379%2F279459398467%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C0%2C2160%2C1080&s=c38e6c0e7b7457df9127f04789bba2a0", 
+          "service_name": "Eventbrite", 
+          "from_url": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+          "fallback": "Eventbrite: Women of Product Hunt", 
+          "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png", 
+          "text": "15% of US venture dollars in 2017 went to teams with a female founder. We believe that by building a community of women helping women in the tech ecosystem, we can create a more accessible tech community that reflects the diversity of the world around us. Product Hunt and Female Founders Co are proud to present the second \"Women of Product Hunt\" happy hour &amp; panel discussion occurring Tuesday, November 13th at 6:00 PM. Program to be announced! Thank you AngelList and Product Hunt for sponsoring this event! AngelList is where the world meets startups. Find a great startup job, invest in a startup, or raise money.\u00a0Product Hunt\u00a0is a curation of the best new products, every day. **to attend this event you must register via Eventbrite** *This event is for people who identify as women.*", 
+          "id": 1
+        }
+      ], 
+      "subscribed": false, 
+      "reply_users": [
+        "UCBS37LKV"
+      ], 
+      "replies": [
+        {
+          "user": "UCBS37LKV", 
+          "ts": "1542133641.000100"
+        }
+      ], 
+      "ts": "1542056993.001600", 
+      "type": "message", 
+      "reply_count": 1, 
+      "user": "UCBS37LKV", 
+      "text": "<!here> The Women of Product Hunt meetup tonight has no tix left \u2014 but we\u2019re invited, no registration required!  Just roll up and let them know you\u2019re at MS.  Fiona, one of the hosts, is an alum!  Lmk if you want to come and I\u2019ll pass it on to her :slightly_smiling_face:\n\n<https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&amp;fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8>", 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "client_msg_id": "4cc41415-9a50-40da-83c0-23340387b1bc", 
+    "thread_ts": "1542056993.001600", 
+    "latest_reply": "1542133641.000100", 
+    "attachments": [
+      {
+        "image_bytes": 43941, 
+        "original_url": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&amp;fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "90 Gold Street, San Francisco, CA 94133", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Tue, Nov 13, 2018 at 6:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Women of Product Hunt", 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F52057379%2F279459398467%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C0%2C2160%2C1080&s=c38e6c0e7b7457df9127f04789bba2a0", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8", 
+        "fallback": "Eventbrite: Women of Product Hunt", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png", 
+        "text": "15% of US venture dollars in 2017 went to teams with a female founder. We believe that by building a community of women helping women in the tech ecosystem, we can create a more accessible tech community that reflects the diversity of the world around us. Product Hunt and Female Founders Co are proud to present the second \"Women of Product Hunt\" happy hour &amp; panel discussion occurring Tuesday, November 13th at 6:00 PM. Program to be announced! Thank you AngelList and Product Hunt for sponsoring this event! AngelList is where the world meets startups. Find a great startup job, invest in a startup, or raise money.\u00a0Product Hunt\u00a0is a curation of the best new products, every day. **to attend this event you must register via Eventbrite** *This event is for people who identify as women.*", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS37LKV"
+    ], 
+    "replies": [
+      {
+        "user": "UCBS37LKV", 
+        "ts": "1542133641.000100"
+      }
+    ], 
+    "ts": "1542056993.001600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS37LKV", 
+    "text": "<!here> The Women of Product Hunt meetup tonight has no tix left \u2014 but we\u2019re invited, no registration required!  Just roll up and let them know you\u2019re at MS.  Fiona, one of the hosts, is an alum!  Lmk if you want to come and I\u2019ll pass it on to her :slightly_smiling_face:\n\n<https://www.eventbrite.com/e/women-of-product-hunt-tickets-52030323097?aff=efbeventtix&amp;fbclid=IwAR3mhrbfAUxoehhi5Y2_U-zKtv2OCuCCYVJ9Iji0k8N98I3BJ0DDxKfTGx8>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1542056906.000400", 
+    "text": "<@UCBS37LKV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1542056906.000300", 
+    "text": "<@UCBS37LKV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1541281679.000200", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "client_msg_id": "de6814db-c889-4681-93ff-f7d31d7cda00", 
+    "thread_ts": "1538169845.000100", 
+    "text": "I\u2019ve cross posted the above events to the <#CD3HJDNJH|volunteer-mentors> channel - you can RSVP on the threads there as well :slightly_smiling_face:", 
+    "ts": "1538172926.000100", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U916G04LB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e0f66bdb-f8c6-4497-8de0-f3f334549e81", 
+    "edited": {
+      "user": "U916G04LB", 
+      "ts": "1538169943.000000"
+    }, 
+    "latest_reply": "1538172926.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2QTVG278"
+    ], 
+    "thread_ts": "1538169845.000100", 
+    "text": "<!channel> Hi ladies:wave:\nWe have a partner called Ignite, they\u2019re partnering with high schools to inspire more girls in STEM. They\u2019re looking for volunteers who share their stories / help tech workshops in high schools in SF.\nPlease DM me if you\u2019re interested in volunteering!\n<http://www.igniteworldwide.org/>\n\n*Upcoming volunteering opportunities*\n1. 10/24/18 (Wed) 11:45am - 1:20pm\nPlace: Galileo HS (1150 Francisco St San Francisco, CA 94109)\nGalileo High School\u2019s IGNITE chapter is looking for a diverse group of women with to share their personal story with a diverse group of girls. Focus is on technology/software side of STEM.\n\n2. 10/25/18 (Thu) 9:45 - 12:00 pm\nPlace: Washington High School (600 32rd Ave San Francisco, CA, 94121)\nWashington High School\u2019s IGNITE chapter is looking for a diverse group of women for one-on-one coding support as girls participate in a coding workshop! The chapter is also looking for women working on the computer science and robotics side of life sciences to tell their story.\n\nSharing your stories and teaching are amazing opportunities for both of you and them - you will also learn new things and get inspiration from the experiences. And bonus - storytelling &amp; public speaking skills :wink: Let me know!", 
+    "ts": "1538169845.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U916G04LB", 
+    "replies": [
+      {
+        "user": "U2QTVG278", 
+        "ts": "1538172926.000100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "raised_hands::skin-tone-5", 
+        "users": [
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCC0GL52N", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCB8T79UG", 
+          "U916G04LB", 
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d7f930f5-03a8-4e42-9dd5-00d199fa9d46", 
+    "text": "If I were on instagram, I would totally do it", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1538158516.000100"
+  }, 
+  {
+    "client_msg_id": "69AA8CD2-3413-487A-BCD8-AE413FC7D52A", 
+    "text": "Thanks!!!", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1538157984.000100"
+  }, 
+  {
+    "client_msg_id": "621ab852-72e5-46a0-ba4d-e6e3116039ca", 
+    "text": "got you :computer::lipstick:", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1538157618.000100"
+  }, 
+  {
+    "client_msg_id": "7D3635EB-D55B-42FA-894D-06304DA9E1D7", 
+    "text": "Done :)", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1538154331.000100"
+  }, 
+  {
+    "client_msg_id": "D586667A-8FB8-4C77-8C3A-10640999E44E", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "UCC0GD5V0", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GD5V0", 
+          "UCDAKSB7Y", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "Hey y\u2019all! I\u2019m at a women\u2019s conference trying to win a competition on IG. If y\u2019all could take a couple of seconds to like my latest post on Instagram it would be very much appreciated :heartbeat: @melanindotcom", 
+    "ts": "1538144525.000100", 
+    "user": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c453e73b-4b19-4e92-a799-b2ab7708a5e4", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "U916G04LB", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCB8U00KA", 
+          "U916G04LB", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "original_url": "https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/", 
+        "text": "How to teach yourself hard things", 
+        "title": "How to teach yourself hard things - Julia Evans", 
+        "title_link": "https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/", 
+        "service_name": "jvns.ca", 
+        "from_url": "https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/", 
+        "fallback": "How to teach yourself hard things - Julia Evans", 
+        "service_icon": "https://jvns.ca/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Hi! Here is an article that Leslie Kim (the alum who helped organize last week's women's kickoff dinner) shared this article, so I thought I would pass it along. <https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/>", 
+    "ts": "1537315266.000100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A546BB65-D627-4AE2-BE57-C4FC155736E3", 
+    "thread_ts": "1536879405.000100", 
+    "text": "Thanks Phyllis!! ", 
+    "ts": "1536883703.000100", 
+    "user": "UCBS1DSF5", 
+    "parent_user_id": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b758f0c5-6062-43b9-b759-ef475f8e7f81", 
+    "thread_ts": "1536879405.000100", 
+    "text": "I voted for you!!!", 
+    "ts": "1536879492.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "961BF248-DAF9-46D6-894C-99A9E1351577", 
+    "thread_ts": "1536879405.000100", 
+    "latest_reply": "1536883703.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YP200VB", 
+      "UCBS1DSF5"
+    ], 
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "heart", 
+        "users": [
+          "U9PA0BZQW", 
+          "UCBDBLTFB", 
+          "UCD1JVCJ3", 
+          "UCJ72FALU", 
+          "UCB8T1AG0", 
+          "UCC0H4UJE", 
+          "UCC0GL52N", 
+          "UCB8U00KA", 
+          "UCD1Q7J15"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "clap::skin-tone-3", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8U00KA", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle::skin-tone-4", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Hey ladies!! The ballot is out for class representatives. I am not going to campaign against anyone because there are a lot of great ladies on the ballot. Just want to remind everyone to vote and make our voices heard! Let\u2019s try to get some female representation because as we know, it\u2019s easy for females to advocate for everyone regardless of gender but sometimes males don\u2019t do the same for us. Female representation is a great way for us to make our collective voices heard to the administrators and other students! ", 
+    "ts": "1536879405.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBS1DSF5", 
+    "replies": [
+      {
+        "user": "U6YP200VB", 
+        "ts": "1536879492.000100"
+      }, 
+      {
+        "user": "UCBS1DSF5", 
+        "ts": "1536883703.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "77211072-54E3-423C-8496-CEE7892AD0DA", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<!channel> hey, \nI was running some important errands and thought I\u2019d be back in time but I don\u2019t think I will, so I\u2019ll catch y\u2019all next time :sparkles:", 
+    "ts": "1536803501.000100", 
+    "user": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "72a77ec1-dd0d-473a-8ca3-cc38ee2afb6c", 
+    "text": "<!channel> For those of you joining us tonight for the Women's Dinner we will be meeting the classroom downstairs! I can't think of the name of it off hand...", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1536798142.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1Q7J15", 
+    "ts": "1536797282.000200", 
+    "text": "<@UCD1Q7J15> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "92210585-5fd3-41d2-9be7-f783eda89c4f", 
+    "text": "and yes the dress is definitely casual tonight!", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1536771491.000100"
+  }, 
+  {
+    "client_msg_id": "64dda1dc-ecd9-4ef7-aed7-589dd3276638", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "tada", 
+        "users": [
+          "U9PA0BZQW", 
+          "UCC0GL52N", 
+          "UCB8T1AG0", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCDAKSB7Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCDAKSB7Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hi everyone! Reminder that we have our PC Women's Kickoff Dinner tonight :grinning: It is is from 6:00pm-8:00pm tonight at Make School HQ :make-school: Dinner and drinks will be provided.  See you there :thumbsup_all:", 
+    "ts": "1536771450.000100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fa6933a1-44bf-4288-a5fe-7a2179c7eb48", 
+    "thread_ts": "1536721551.000100", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "100", 
+        "users": [
+          "U6YP200VB", 
+          "UCBDBLTFB", 
+          "UCBS1DSF5", 
+          "UCB8T1AG0", 
+          "UCBSELQ2F", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Is my feather boa appropriate? :lipstick:", 
+    "ts": "1536721763.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3163a1e2-bd47-4467-80f7-2ccc571c7ad1", 
+    "thread_ts": "1536721551.000100", 
+    "latest_reply": "1536721763.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA", 
+          "U9PA0BZQW"
+        ]
+      }
+    ], 
+    "text": "Definitely casual, but please dress as fancy as you want!", 
+    "ts": "1536721551.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YP200VB", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1536721763.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1a97c205-c48a-42cf-ba26-4d944f93d0d5", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "high_heel", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS1DSF5", 
+          "U9PA0BZQW", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "<!here> does anyone know if we have to dress up for the dinner tomorrow? Or is it casual?", 
+    "ts": "1536721320.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1536616085.000200", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "client_msg_id": "daf089e7-8399-47e1-97db-15c0ca12c51d", 
+    "text": "<!channel> Hi Women of Make School! :make-school:\n\nCaroline (new member of the Student Experience Team who introduced herself this morning) is planning a Women's Kickoff Dinner which includes students, staff, and alumni! :tada:\n\nDate: Wednesday, September 12th at 6pm :white_check_mark:\nWhere: Make School HQ :star2:\nRSVP via calendar invite! :calendar:\n\nJoin us for dinner, drinks, and good conversation :fork_and_knife::heavy_check_mark:\n\nIf you did not receive a calendar invite, please email Caroline: <mailto:Caroline@makeschool.com|Caroline@makeschool.com>\n\nLooking forward to it! :+1:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1535568263.000100"
+  }, 
+  {
+    "client_msg_id": "72428d65-769d-4e18-8e6a-5a475b40749a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Women who code is awesome! Their events are always really nice.", 
+    "ts": "1535507136.000100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6942f5de-1823-408f-9dcb-a494ea1e1984", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1535513601.000000"
+    }, 
+    "text": "This event happens every Tuesday: <https://www.meetup.com/Women-Who-Code-SF/>", 
+    "ts": "1535502929.000100", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3e0bd896-3a4f-4315-af84-5732d4eb1766", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "pikachu", 
+        "users": [
+          "UCBDBLTFB", 
+          "UCC0GD5V0", 
+          "UCC0H4UJE", 
+          "UCB8T1AG0", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Hi everyone:female-technologist:! We have a student club that is a support group for women students attending Make School. If you would like to check it out and/or join, add yourself to the channel <#CCG9J0CBT|lady-circle> . Happy Tuesday!", 
+    "ts": "1535496569.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c7bc83a7-d1d6-445a-a673-3fe70c4785a3", 
+    "attachments": [
+      {
+        "image_bytes": 55147, 
+        "original_url": "https://medium.com/@maigen/being-an-effective-female-leader-in-tech-means-not-doing-these-3-things-7b0a086b6108", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Being An Effective Female Leader in Tech Means NOT Doing These 3 Things", 
+        "ts": 1534890928, 
+        "title_link": "https://medium.com/@maigen/being-an-effective-female-leader-in-tech-means-not-doing-these-3-things-7b0a086b6108", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*27Q57yyoz6bWV6LgfqWsVw.jpeg", 
+        "image_width": 375, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@maigen/being-an-effective-female-leader-in-tech-means-not-doing-these-3-things-7b0a086b6108", 
+        "fallback": "Medium: Being An Effective Female Leader in Tech Means NOT Doing These 3 Things", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Female leaders in tech have to play by different rules. The hard truth is that women are still in the minority at all levels of tech\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@maigen/being-an-effective-female-leader-in-tech-means-not-doing-these-3-things-7b0a086b6108>", 
+    "ts": "1534966502.000100", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b9b9ed48-589c-4a23-a6f5-09c420187ec2", 
+    "text": "Thanks so much to Nyapal and Colleen for volunteering! There will be many more opportunties for all of us to connect so looking forward to meeting each of you!.", 
+    "type": "message", 
+    "user": "U9HT8DV8S", 
+    "ts": "1534954702.000100"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1534899779.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "client_msg_id": "10be7446-dcfe-4a40-a957-f71c168d26bf", 
+    "text": "<@UCB8T1AG0>", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1534899774.000100"
+  }, 
+  {
+    "client_msg_id": "eb6c27ec-550a-446d-b31c-2af4d77cdc46", 
+    "text": "<@U9HT8DV8S> I'd be happy to talk to her!", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1534892274.000100"
+  }, 
+  {
+    "client_msg_id": "742bf9de-8ea7-4354-8668-63b17702f373", 
+    "thread_ts": "1534890659.000100", 
+    "text": "I\u2019ll be free!", 
+    "ts": "1534892073.000100", 
+    "user": "UCBSELQ2F", 
+    "parent_user_id": "U9HT8DV8S", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1534892006.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UCBDBLTFB"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1534892006.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCBDBLTFB"
+  }, 
+  {
+    "client_msg_id": "75E84FC2-B636-4819-928C-B6870F07E270", 
+    "text": "<@UCBLQF0R1> <@UCB3G0JKS> ", 
+    "type": "message", 
+    "user": "UCBDBLTFB", 
+    "ts": "1534892003.000100"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1534891928.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UCBDBLTFB"
+  }, 
+  {
+    "client_msg_id": "C1675D2C-4CFB-45C3-A0C5-B47D7CC07814", 
+    "text": "<@UCC0HC7D0> ", 
+    "type": "message", 
+    "user": "UCBDBLTFB", 
+    "ts": "1534891925.000100"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1534891790.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "UCBDBLTFB"
+  }, 
+  {
+    "client_msg_id": "EFA7817B-41C7-4DFC-B1DA-B407CE97B594", 
+    "text": "<@UCD1JVCJ3> ", 
+    "type": "message", 
+    "user": "UCBDBLTFB", 
+    "ts": "1534891783.000100"
+  }, 
+  {
+    "text": "<@UCBDBLTFB> has joined the channel", 
+    "ts": "1534891180.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBLTFB", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "430828B8-C16E-4F06-9C71-4F0274E86A99", 
+    "text": "<@UCBDBLTFB> @", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534891177.000100"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1534891137.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "806E8179-2687-4873-8378-1340526A8C73", 
+    "text": "<@UCDAKSB7Y> ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534891134.000100"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1534891071.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "A8794ED2-2CD6-4D24-A833-E463623A62D2", 
+    "text": "<@UCC4S13NZ> ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534891067.000100"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1534891058.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "C33C0130-E95A-4F20-A228-47B90BB9BC00", 
+    "text": "<@UCBSELQ2F> ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534891055.000100"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1534891030.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "2FFED1D6-736D-46CB-97E9-240CE54905CC", 
+    "text": "<@UCBD9KCQH> ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534891025.000100"
+  }, 
+  {
+    "client_msg_id": "3a617012-38c9-400c-895b-f32f99688430", 
+    "thread_ts": "1534890659.000100", 
+    "latest_reply": "1534892073.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBSELQ2F"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBSELQ2F"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "woman-raising-hand", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Second ask - part of my role is to recruit amazing staff to Make School. We have a candidate applying for an Admissions Role here and I'd love to ask for a volunteer from this group to spend 30 minutes talking to her tomorrow over your lunch break and give her some context as to how you found Make School and your admissions experience. Any takers?", 
+    "ts": "1534890659.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U9HT8DV8S", 
+    "replies": [
+      {
+        "user": "UCBSELQ2F", 
+        "ts": "1534892073.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "f7bc6198-e237-46d5-b0c3-4dd3a618fbac", 
+    "text": "Few asks - if you see a neighbor that wasn't invited to this channel and may want to be, go ahead and @ @ them and have them join the group! :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U9HT8DV8S", 
+    "ts": "1534890563.000100"
+  }, 
+  {
+    "client_msg_id": "a6edca52-c1bc-43d1-9df0-af71ecfca359", 
+    "edited": {
+      "user": "U9HT8DV8S", 
+      "ts": "1534890533.000000"
+    }, 
+    "text": "Hey team <!here>! Welcome to Make School! Again, the staff is very excited to have all of you here. But I know I'm particularly excited about the female students here! Tech is a field that undoubtedly needs greater diversity and gender balance. In the past the staff and students have done a number of events together to create a stronger sense of community amongst this group here and I'm looking forward to continuing that this year.", 
+    "ts": "1534890523.000100", 
+    "user": "U9HT8DV8S", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9HT8DV8S", 
+    "ts": "1534889950.000200", 
+    "text": "<@U9HT8DV8S> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1534883384.000200", 
+    "text": "<@UCBS1DSF5> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1534823961.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1534821091.000200", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1534818936.000200", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1534818812.000200", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1534814204.000200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "88411297-04E3-420A-B140-88B16FD61EA6", 
+    "text": "This is an event happening next Monday in Sunnyvale if anyone is interested", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1534804508.000100"
+  }, 
+  {
+    "client_msg_id": "BB09FBEE-403C-4F94-9068-4836195F1EE6", 
+    "attachments": [
+      {
+        "image_bytes": 1123601, 
+        "original_url": "https://googlewomenincloudsvl.splashthat.com/?gz=3a514c89379d1f9c&amp;guest-access-hash=MzA4MDkxNXwxODY5MzU0ODZ8MTUzNDY5OTYzNDs0YTQyYjk5MmY2ZDk0NjA0ZmY2YTkyYzAzMTY0MTdkMjRkMGU1ZDExNmE2NzQzYTdkMzNlMGQ5NTYwMDE5MDY5", 
+        "text": "Google's Cloud Teams are excited to welcome you to our\u00a0Sunnyvale office on Monday,\u00a0August\u00a027th from 5:15 p.m. - 8:45 p.m. PT.You\u2019ll have the opportunity to interact with Cloud Googlers so you can learn about the day to day of our engineers and customer engineers. We\u2019ll open with a fireside chat with one of our Cloud Leaders, Elissa Murphy, VP of Engineering at Google Cloud.\u00a0The event will continue with a Q&amp;A with panelists where we\u2019ll answer questions directly about life at Google followed by an I Am Remarkable workshop. Programming will close with networking where you\u2019ll continue the conversation around Cloud with other attendees and Googlers. And of course, there will be plenty of food, drinks, and swag for you to enjoy!", 
+        "title": "Google Women in Cloud Summer Soir\u00e9e", 
+        "image_width": 179, 
+        "title_link": "https://googlewomenincloudsvl.splashthat.com/?gz=3a514c89379d1f9c&guest-access-hash=MzA4MDkxNXwxODY5MzU0ODZ8MTUzNDY5OTYzNDs0YTQyYjk5MmY2ZDk0NjA0ZmY2YTkyYzAzMTY0MTdkMjRkMGU1ZDExNmE2NzQzYTdkMzNlMGQ5NTYwMDE5MDY5", 
+        "image_height": 250, 
+        "image_url": "https://s3.amazonaws.com/s3.clients.splashthat.com/img/events/splash/splashthat.com/sites/view/googlewomenincloudsvl.splashthat.com%3Fpartial%3D871092%26screenshotHash%3D50897fce156edfcf%26showWorkspace%3D1%26t%3D1533666288%26isTakingScreenshot%3D171.png", 
+        "service_name": "googlewomenincloudsvl.splashthat.com", 
+        "from_url": "https://googlewomenincloudsvl.splashthat.com/?gz=3a514c89379d1f9c&guest-access-hash=MzA4MDkxNXwxODY5MzU0ODZ8MTUzNDY5OTYzNDs0YTQyYjk5MmY2ZDk0NjA0ZmY2YTkyYzAzMTY0MTdkMjRkMGU1ZDExNmE2NzQzYTdkMzNlMGQ5NTYwMDE5MDY5", 
+        "fallback": "Google Women in Cloud Summer Soir\u00e9e", 
+        "service_icon": "https://d24wuq6o951i2g.cloudfront.net/img/events/id/291/2918816/assets/6ef.favicons-1-.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://googlewomenincloudsvl.splashthat.com/?gz=3a514c89379d1f9c&amp;guest-access-hash=MzA4MDkxNXwxODY5MzU0ODZ8MTUzNDY5OTYzNDs0YTQyYjk5MmY2ZDk0NjA0ZmY2YTkyYzAzMTY0MTdkMjRkMGU1ZDExNmE2NzQzYTdkMzNlMGQ5NTYwMDE5MDY5> ", 
+    "ts": "1534804493.000100", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1534804482.000200", 
+    "text": "<@UCB8T79UG> has joined the channel"
+  }, 
+  {
+    "text": "<!channel> Check out this event in SF on Wednesday, April 25th: it is a meetup centered around empowering women working in tech. I have a commitment that night, but I encourage you to attend! Includes networking, breakout sessions, and food/drinks!\n\nRegister for free! <https://www.eventbrite.com/e/empowering-women-in-tech-networking-meetup-tickets-44156439098>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 68951, 
+        "title": "Empowering Women in Tech: Networking Meetup", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Suite 750 South Tower, San Francisco, CA 94107", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Wed, Apr 25, 2018 at 6:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/empowering-women-in-tech-networking-meetup-tickets-44156439098", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F42162207%2F204461562967%2F1%2Foriginal.jpg?w=1000&rect=0%2C23%2C1024%2C512&s=57477ed33c4409fda92fd99ea5dcd494", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/empowering-women-in-tech-networking-meetup-tickets-44156439098", 
+        "fallback": "Eventbrite: Empowering Women in Tech: Networking Meetup", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "Join us for an evening of networking and breakout discussions. We put together an inspiring group of women and allies who will speak on a number of topics related to empowering women in tech.\u00a0 Food and Beverages will be provided Agenda 6:00 pm -\u00a0Networking6:30 pm -\u00a0Welcome6:45 pm -\u00a0Breakout Sessions (attend the talk that most interests you!) Stronger Together: Practicing Allyship Within the Women's CommunityMichelle Kim,\u00a0Co-Founder\u00a0and\u00a0CEO at\u00a0Awaken Confident Communications: Getting Credit for Your Good WorkMaggie Grover, Attorney at Wendel Rosen Recruiting Strategies to Empower women in TechValeriemay Cachola, Sr. Manager, Talent Acquisition at TrueAccord 7:30 pm - Closing About TrueAccord TrueAccord is a data driven debt collection platform powered by machine learning, digital first communications, and delivering great user experiences. Our mission is to reinvent the debt collections space by delivering great consumer experiences that empower consumers to regain control of their financial health and help them to better manage their financial future. We believe that the best work environments are filled with people with different backgrounds, ideas, and beliefs. We support this value by maintaining a diverse workforce, promoting individuality, and ensuring an inclusive work environment. At TrueAccord, we are proud to share that as of August 2017 our team consists of an almost equal gender divide and a 60% multicultural population. We are committed to propelling diversity and inclusion in our workspace by distinct actions, such as appointing a diversity committee, enforcing a zero-tolerance policy for prejudice, and removing unconscious bias during interviews.", 
+        "id": 1
+      }
+    ], 
+    "ts": "1523027757.000109", 
+    "user": "U9PA0BZQW"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "clap", 
+        "users": [
+          "U6YP200VB", 
+          "U6XV0FFEW", 
+          "U6YFF5B50", 
+          "U74A620U8"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "title": "Girl Geek X Box Dinner \u2013 March 28th, 2018 in Redwood City!", 
+        "service_name": "Site Name", 
+        "title_link": "http://girlgeek.io/", 
+        "text": "Girl Geek X", 
+        "from_url": "http://girlgeek.io/", 
+        "fallback": "Site Name: Girl Geek X Box Dinner \u2013 March 28th, 2018 in Redwood City!", 
+        "service_icon": "http://girlgeek.io/wp-content/uploads/2018/01/cropped-girl-geek-x-favicon-1-1-180x180.jpg", 
+        "id": 1
+      }
+    ], 
+    "text": "I am not sure if any of you are familiar with Girl Geek Dinners (based in SF mainly) but it's a cool opportunity to network with other women in tech. Different companies host the events and it includes food, drinks and networking. The tickets are usually a very low cost donation. I've been to a few and would recommend! If anyone is interested, sign up here and I can ping this channel when I am available to go to see if a group wants to go! <http://girlgeek.io/>", 
+    "ts": "1520979114.000431", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1520969428.000156", 
+    "text": "<@U9PA0BZQW> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "10BA0593-BA3B-45CE-9B89-82555F93FA94", 
+    "text": "<@U6XV0FFEW> <@U6YFF5B50>  and I are on our way from 16th bart presently. ", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1520561737.000024"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "woman", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1520558171.000121", 
+    "text": "Happy Women\u2019s Day!! Hopping y\u2019all have gotten spoiled by your loved ones!"
+  }, 
+  {
+    "text": "Perfect.", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1520554660.000115"
+  }, 
+  {
+    "text": "Hey all! Let's meet in the front black couches area @ 6pm to walk over to Sofia's. (Thanks again to Sofia for hosting!)", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1520553907.000386"
+  }, 
+  {
+    "text": "\\", 
+    "type": "message", 
+    "user": "U74A620U8", 
+    "ts": "1519341078.000280"
+  }, 
+  {
+    "text": "Thank you ", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1519340755.000236"
+  }, 
+  {
+    "text": "Not too far away is: <http://womenscommunityclinic.org/>\n\nThey'll talk you through enrollment options", 
+    "type": "message", 
+    "attachments": [
+      {
+        "title": "Home - Women's Community Clinic", 
+        "service_name": "Women's Community Clinic", 
+        "title_link": "http://womenscommunityclinic.org/", 
+        "text": "At Women\u2019s Community Clinic, we provide health care for the community by the community. Since 1999, we have provided a warm and welcoming environment where Bay Area women can access affordable health care and outreach services.", 
+        "from_url": "http://womenscommunityclinic.org/", 
+        "fallback": "Women's Community Clinic: Home - Women's Community Clinic", 
+        "service_icon": "http://womenscommunityclinic.org/wp-content/themes/wcc_customizr/inc/ico/apple-touch-icon-144-precomposed.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1519340690.000278", 
+    "user": "U74A620U8"
+  }, 
+  {
+    "text": "Contact <@U6YHCA79U>", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1519339034.000095"
+  }, 
+  {
+    "text": "does anyone know the name of the place where they do health insurance enrollment close to Makeschool please? Thank you", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1519333506.000133"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U8M6V7F3K"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 114028, 
+        "title": "Quality Speed Mentoring: Women in Tech", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "683 Sutter St, San Francisco, CA 94109", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Wed, Feb 21, 2018 at 6:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/quality-speed-mentoring-women-in-tech-tickets-42221717293", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F39653049%2F7385395399%2F1%2Foriginal.jpg?w=1000&rect=0%2C256%2C2048%2C1024&s=e15248418ed6187509d9cb50eb219d4a", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/quality-speed-mentoring-women-in-tech-tickets-42221717293", 
+        "fallback": "Eventbrite: Quality Speed Mentoring: Women in Tech", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "PyLadies\u00a0and <http://NextPlay.ai|NextPlay.ai>\u00a0bring to you a night of speed mentoring for\u00a0Women in Tech. High caliber business leaders from top tech companies in the bay area will teach you to accelerate your careers, advocate for yourself, expand your network and make informed decisions.\u00a0 Mentors: \u00a0Alice Hill, CEO at Hackbright Academy Rashim Mogha, Senior Director of Product Management at Oracle Sowmiya Chocka Narayanan, Co-Founder and CTO at Lily App Karen Chang, Director of Engineering, IoT at Salesforce S. Alyssa Simpson Rochwerger, Director of Product Management at IBM\u00a0 Nancy MacIntyre, CEO and Co-Founder at Fingerprint Kate Brennan, Founder of Brennan Group Heather Brundage, Director of IoT Business Consulting at Particle Agenda: 6-6:15 pm Networking and snacks 6:15-6:30 Introductions of mentors and Next Play's insights on mentees' goals 6:30-7:30 pm Mentoring rings 7:30-8 pm Debrief exercise and wrap up Note: PyLadiesSF applies the LadyNerds Code of Conduct (<http://www.ladynerds.org/code_of_conduct/>) because we are dedicated to providing a safe, inclusive, welcoming, and harassment-free space and experience for all members and guests, regardless of gender identity and expression, sexual orientation, disability, physical appearance, socioeconomic status, body size, ethnicity, nationality, level of experience, age, or religion (or lack thereof). The Code of Conduct exists because of that dedication. We do not tolerate harassment in any form and we prioritize marginalized people\u2019s safety over privileged people\u2019s comfort. Terms of Participation Agreement You agree that you are responsible for any accidents or damages that you cause. You also agree to not hold Next Play, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident. You agree that Next Play is not responsible for circumstances that may necessitate for substitutions or cancellations of speakers. By Participating at the event, you grant Next Play your permission to capture photo/video of the event. By registering for this event, you also consent to receive email communication from Next Play and its programs about events and updates that may interest you. Tickets to this event are non-refundable and non-transferrable.", 
+        "id": 1
+      }
+    ], 
+    "text": "FYI PyLadies and <http://NextPlay.ai|NextPlay.ai> bring you a night of speed mentoring for women in tech on Wednesday, February 21st in San Francisco. High-caliber business leaders from top tech companies in the Bay Area will teach you to accelerate your careers, advocate for yourself, expand your network, and make informed decisions. Tickets and more details here: <https://www.eventbrite.com/e/quality-speed-mentoring-women-in-tech-tickets-42221717293>", 
+    "ts": "1517873895.000054", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U916G04LB> has joined the channel", 
+    "ts": "1517609690.000224", 
+    "subtype": "channel_join", 
+    "user": "U916G04LB", 
+    "type": "message", 
+    "inviter": "U3PJU203D"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "heart", 
+        "users": [
+          "U7V12NBSR", 
+          "U6XV0FFEW", 
+          "U6YV4A45C", 
+          "U916G04LB", 
+          "U6XDV6CVA", 
+          "U4CEBV4SW", 
+          "U74A620U8"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "make-school", 
+        "users": [
+          "U7V12NBSR", 
+          "U6XV0FFEW", 
+          "U916G04LB", 
+          "U4CEBV4SW"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "+1", 
+        "users": [
+          "U7V12NBSR", 
+          "U916G04LB", 
+          "U6XDV6CVA", 
+          "U8M6V7F3K", 
+          "U4CEBV4SW", 
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U3PJU203D", 
+      "ts": "1517609661.000000"
+    }, 
+    "text": "Thanks <@U7V12NBSR> for organizing ladies\u2019 lunch yesterday, and <@U74A620U8> <@U2481KKBM> <@U4CEBV4SW> <@U2GN4U8GL> <@U916G04LB> for being available to hang out with our students!\n\n<@U6XDV6CVA> <@U8M6V7F3K> <@U6YP200VB> <@U6YV4A45C> <@U6XE4NNSZ> <@U6YFF5B50> <@U8M6V7F3K> - To reiterate Alena\u2019s offer, she is SUPER STOKED to get involved with you more. Talk about an easy mentorship opportunity! Experienced engineer, employed, and totally invested in YOU!\n\nSpeaking of invested, I can confidently say on behalf of all of the Women of Make School staff here, that they are invested in your overall well being as well. If you have a non-technical personal matter that you\u2019d like to air, or have a sounding board, please reach out and share. \n\nI\u2019m so glad to have gotten to know you a bit and spend time with you. I\u2019m going to miss you all and hope you\u2019ll keep in touch!\n\n:dancer: :dancing_penguin: :dancing-dan: :carlton:", 
+    "ts": "1517609211.000250", 
+    "user": "U3PJU203D", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XDV6CVA> has joined the channel", 
+    "ts": "1517608242.000497", 
+    "subtype": "channel_join", 
+    "user": "U6XDV6CVA", 
+    "type": "message", 
+    "inviter": "U3PJU203D"
+  }, 
+  {
+    "text": " Thx u", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517519278.000234"
+  }, 
+  {
+    "client_msg_id": "8246d976-b08b-4050-aa84-951d6fa9142c", 
+    "text": "It's on Folsom &amp; 11th", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517519278.000032"
+  }, 
+  {
+    "client_msg_id": "366a7cb5-eac3-416a-9d2f-f92ffc671283", 
+    "text": "Basil Canteen ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517519267.000225"
+  }, 
+  {
+    "text": "I just arrived to school ", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517519152.000792"
+  }, 
+  {
+    "text": " What is the name of the restaurant?", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517519141.000169"
+  }, 
+  {
+    "text": "Hey sorry I have to work on something, have fun! ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1517518652.000027"
+  }, 
+  {
+    "client_msg_id": "b7e6d19a-a724-4646-a7b1-da6fa57c95c2", 
+    "text": "<@U6YFF5B50> ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517518570.000102"
+  }, 
+  {
+    "client_msg_id": "09096c27-00c0-4f19-9e0a-cc35dc49a54b", 
+    "text": "Ok, we're leaving now so we'll see you there :) ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517518520.000785"
+  }, 
+  {
+    "text": "I'll be there in 10", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517518401.000278"
+  }, 
+  {
+    "text": "we\u2019ll be right there!", 
+    "type": "message", 
+    "user": "U7V12NBSR", 
+    "ts": "1517518167.000037"
+  }, 
+  {
+    "client_msg_id": "e541f97b-15a1-41de-bde4-b43559741337", 
+    "text": "We're at the entrance ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517518149.000337"
+  }, 
+  {
+    "text": "lets head out yall", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1517518098.000225"
+  }, 
+  {
+    "text": "i'll come w yall <@U6XV0FFEW> <@U6YP200VB>", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1517517246.000591"
+  }, 
+  {
+    "client_msg_id": "282ec998-f785-4fa3-adc4-ec08f3045e5f", 
+    "text": "Sounds good! ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517515173.000314"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U74A620U8"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1517515038.000511", 
+    "text": "Sure, want to meet at 12:45? <@U6XV0FFEW>"
+  }, 
+  {
+    "client_msg_id": "04281d95-0961-4e3b-a00b-2ff779f3c789", 
+    "text": "Are we meeting at the entrance and walking? ", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1517514910.000628"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pineapple", 
+        "users": [
+          "U6YP200VB", 
+          "U7V12NBSR"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U74A620U8", 
+      "ts": "1517513439.000000"
+    }, 
+    "text": "The reservation is for 1pm at *Basil Canteen*\n1489 Folsom Street, San Francisco, California 94103\n\n(*we weren't able to get a reservation at thai basil*)\n\nSee you soon!", 
+    "ts": "1517513379.000065", 
+    "user": "U74A620U8", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "cry", 
+        "users": [
+          "U7V12NBSR", 
+          "U4CEBV4SW", 
+          "U2481KKBM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_frowning_face", 
+        "users": [
+          "U8M6V7F3K"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U3PJU203D", 
+    "ts": "1517444729.000206", 
+    "text": "Instruction team meets 12-2p, so I\u2019m afraid I\u2019ll have to miss it! :disappointed:"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "U8M6V7F3K"
+        ]
+      }
+    ], 
+    "text": "Hello, I'm excited to meet you and will be able to come to lunch tomorrow. Thank you!", 
+    "ts": "1517434974.000280", 
+    "user": "U6YFF5B50", 
+    "parent_user_id": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }
+    ], 
+    "text": "I will be going as well, thank you ", 
+    "ts": "1517433685.000011", 
+    "user": "U8M6V7F3K", 
+    "parent_user_id": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U8M6V7F3K", 
+          "U6YFF5B50", 
+          "U74A620U8"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U7V12NBSR", 
+    "ts": "1517430710.000186", 
+    "text": "Perfect, lets meet at Make School entrance at 1pm tmrw and walk there together :slightly_smiling_face:"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517430643.000416", 
+    "text": "<@U8M6V7F3K> has joined the channel"
+  }, 
+  {
+    "text": "Thai Basil sounds great. Looking forward to it. ", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1517323006.000287"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }
+    ], 
+    "text": "I'm available to come as well :slightly_smiling_face:", 
+    "ts": "1517295555.000037", 
+    "user": "U6YV4A45C", 
+    "parent_user_id": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "text": "oh and this will be a treat from Make School of course :slightly_smiling_face: So I hope to see you all there! I think we will go to ThaiBasil unless there are any other suggestions?", 
+    "type": "message", 
+    "user": "U7V12NBSR", 
+    "ts": "1517295502.000126"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "text": "Awesome looking forward to it as well! I will send out the info on the restaurant tomorrow. <@U4CEBV4SW> <@U2GN4U8GL> and Miki will join us too!", 
+    "ts": "1517159988.000028", 
+    "user": "U7V12NBSR", 
+    "parent_user_id": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "U7V12NBSR"
+        ]
+      }
+    ], 
+    "text": "Hi Alena, thx so much for offering this opportunity, I\u2019d love to talk to you about internship and careers with you on Thu.:blush:", 
+    "ts": "1517110582.000044", 
+    "user": "U6XE4NNSZ", 
+    "parent_user_id": "U7V12NBSR", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1517103131.000001", 
+    "latest_reply": "1517434974.000280", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XE4NNSZ", 
+      "U7V12NBSR", 
+      "U6YV4A45C", 
+      "U8M6V7F3K", 
+      "U6YFF5B50"
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "muscle", 
+        "users": [
+          "U3PJU203D", 
+          "U4CEBV4SW", 
+          "U2GN4U8GL", 
+          "U6YP200VB", 
+          "U6YFF5B50"
+        ]
+      }
+    ], 
+    "text": "Hello ladies! For those of you, who don\u2019t know me, I\u2019m the Head of Engineering at Make School and am in San Francisco this week. I wanted to let you know that I\u2019d love to get more involved with you all and that I\u2019m happy to help with mentorship &amp; code reviews &amp; career feedback if you are interested. I was wondering if you would all be available for lunch on Thu from 1-2, so I can get to know you in person? And more ladies from Make School will be joining as well of course!", 
+    "ts": "1517103131.000001", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "U7V12NBSR", 
+    "replies": [
+      {
+        "user": "U6XE4NNSZ", 
+        "ts": "1517110582.000044"
+      }, 
+      {
+        "user": "U7V12NBSR", 
+        "ts": "1517159988.000028"
+      }, 
+      {
+        "user": "U6YV4A45C", 
+        "ts": "1517295555.000037"
+      }, 
+      {
+        "user": "U8M6V7F3K", 
+        "ts": "1517433685.000011"
+      }, 
+      {
+        "user": "U6YFF5B50", 
+        "ts": "1517434974.000280"
+      }
+    ], 
+    "reply_users_count": 5
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U7V12NBSR", 
+    "ts": "1517102890.000082", 
+    "text": "<@U7V12NBSR> has joined the channel"
+  }, 
+  {
+    "thread_ts": "1516309487.000352", 
+    "text": "Oh no\u2026I just forwarded it to you.", 
+    "ts": "1516309934.000957", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1516309487.000352", 
+    "text": "yes", 
+    "ts": "1516309778.000141", 
+    "user": "U6XV0FFEW", 
+    "parent_user_id": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1516309487.000352", 
+    "latest_reply": "1516309934.000957", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XV0FFEW", 
+      "U6YP200VB"
+    ], 
+    "text": "i didn't get the email for that. there is a dinner tonight?", 
+    "ts": "1516309487.000352", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YV4A45C", 
+    "replies": [
+      {
+        "user": "U6XV0FFEW", 
+        "ts": "1516309778.000141"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1516309934.000957"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U3PJU203D", 
+    "ts": "1516298164.000052", 
+    "text": "I\u2019m going and will be walking too!"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6XV0FFEW"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1516297930.000302", 
+    "text": "Hey everyone who is going to the dinner this evening, I am planning to walk to Fritz. I\u2019m guessing it will take 15 mins to walk there, but I want to get there a little early so we don\u2019t keep Leslie waiting. If you want to walk with me meet up in the main area by the couches at 6pm."
+  }, 
+  {
+    "text": "<https://www.artsy.net/artsyeditorial6521>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 491318, 
+        "title": "Two Artists Built a Website to Help Women Illustrators Get More Work", 
+        "service_name": "Artsy", 
+        "ts": 1513030318, 
+        "title_link": "https://www.artsy.net/artsyeditorial6521", 
+        "image_height": 250, 
+        "image_url": "https://artsy-media-uploads.s3.amazonaws.com/HvPmnOFtEW6Ykzkn9-JXbg%2Fsocial+women+who+draw.jpg", 
+        "image_width": 476, 
+        "text": "Artists Julia Rothman and Wendy MacNaughton started Women Who Draw, the online database of over 3,000 women, trans, and gender-nonconforming illustrators.", 
+        "from_url": "https://www.artsy.net/artsyeditorial6521", 
+        "fallback": "Artsy: Two Artists Built a Website to Help Women Illustrators Get More Work", 
+        "service_icon": "https://www.artsy.net/images/icon-152.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1513130183.000199", 
+    "user": "U298FAPT7"
+  }, 
+  {
+    "thread_ts": "1511035587.000032", 
+    "text": "Great and you may want to also give her the one you check most often.", 
+    "ts": "1511050888.000024", 
+    "user": "U298FAPT7", 
+    "parent_user_id": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1511035587.000032", 
+    "latest_reply": "1511050888.000024", 
+    "subscribed": false, 
+    "reply_users": [
+      "U298FAPT7"
+    ], 
+    "text": "I\u2019ll reply to that now ", 
+    "ts": "1511035587.000032", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YV4A45C", 
+    "replies": [
+      {
+        "user": "U298FAPT7", 
+        "ts": "1511050888.000024"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "Oh yes that is my email, sorry I was looking through my make school one. ", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1511033837.000028"
+  }, 
+  {
+    "text": "Is this your email she has been writing to?\n<mailto:tiajaneeking@gmail.com|tiajaneeking@gmail.com>", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1510972799.000054"
+  }, 
+  {
+    "text": "hi <@U298FAPT7> I never received an email", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1510951491.000267"
+  }, 
+  {
+    "text": "<!channel> I've only seen one student reply-all to Leslie. Please respond to her email today. Thanks.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1510951370.000520"
+  }, 
+  {
+    "text": "<!channel> PC students please my email to you just now about your dinner with Leslie. Let me know if you have questions or suggestions. Thanks.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1510859961.000256"
+  }, 
+  {
+    "text": "<@U74A620U8> has joined the channel", 
+    "ts": "1509575734.000402", 
+    "subtype": "channel_join", 
+    "user": "U74A620U8", 
+    "type": "message", 
+    "inviter": "U3PJU203D"
+  }, 
+  {
+    "text": "I signed up for this hackathon in Berkeley for Oct 14-15. Anyone interested in teaming up for this challenge?\n<https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&amp;aff=eios>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 196890, 
+        "title": "Hackaton to build 100 apps that fix 100 real problems in Africa", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Berkeley, Ca 94704", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Sat, Oct 14, 2017 at 11:00 AM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&aff=eios", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35882927%2F97499603957%2F1%2Foriginal.jpg?w=1000&rect=0%2C438%2C1024%2C512&s=7127c9c1a3ecdec245c9585a3eb914a3", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&aff=eios", 
+        "fallback": "Eventbrite: Hackaton to build 100 apps that fix 100 real problems in Africa", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "This is a weekly hackathon Saturday/Sunday.Former Apple engineer Seeking iOS, android developers to build Mobile apps for Africa that fix real issues in Africa since mobile usage and coverage in Africa is over 80% .\u00a0I already have a list of apps to build and would like to release one app every 2 weeks.\u00a0I will be financing the project with my own money and rewarding your effort if fund permitted.\u00a0 Contact me for details and location : 415 609 2306", 
+        "id": 1
+      }
+    ], 
+    "ts": "1506626612.000182", 
+    "user": "U6YP200VB"
+  }, 
+  {
+    "text": "FYI If you're not already a member:\n<https://m.facebook.com/groups/916655231787097>\n", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1506608222.000810"
+  }, 
+  {
+    "text": "they have a bay area group and a lot of good resources for women in tech", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1506560810.000044"
+  }, 
+  {
+    "text": "you can sign up for emails and also join their slack", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1506560799.000281"
+  }, 
+  {
+    "text": "<https://anitaborg.org/systers/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 304, 
+        "thumb_url": "https://anitaborg.org/wp-content/uploads/2013/09/syster-photo.jpg", 
+        "thumb_width": 406, 
+        "title": "Systers - Anita Borg Institute", 
+        "service_name": "Anita Borg Institute", 
+        "title_link": "https://anitaborg.org/systers/", 
+        "text": "Join Systers It\u2019s important to know that you are not alone. Systers is a forum for all women involved in the technical aspects of computing. The community has over 6,000 members from at least 60 countries around the world. We welcome the participation of women technologists of all ages and at any stage of their... Read more \u00bb", 
+        "from_url": "https://anitaborg.org/systers/", 
+        "fallback": "Anita Borg Institute: Systers - Anita Borg Institute", 
+        "service_icon": "https://anitaborg.org/wp-content/themes/abi/library/images/apple-icon-touch.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1506560787.000125", 
+    "user": "U6YFF5B50"
+  }, 
+  {
+    "text": "Hey I\u2019m out sick today. Sorry to miss the mtg. ", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1506371091.000217"
+  }, 
+  {
+    "text": "<!channel> meeting upstairs in 10 minutes :-0\n", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1506369563.000453"
+  }, 
+  {
+    "text": "they only got Js group", 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1506116751.000425"
+  }, 
+  {
+    "text": "nice :+1:", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1506095985.000260"
+  }, 
+  {
+    "text": "I\u2019m RSVP\u2019ing", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1506093851.000676"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U6YP200VB", 
+          "U6YFF5B50", 
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "the_horns", 
+        "users": [
+          "U6YFF5B50", 
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1506049613.000058", 
+    "text": "some1 join me :smile:"
+  }, 
+  {
+    "text": "I'm going to this this: <https://www.meetup.com/Women-Who-Code-SF/events/243289055/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 238, 
+        "thumb_url": "https://secure.meetupstatic.com/photos/event/b/6/9/0/highres_431686736.jpeg", 
+        "thumb_width": 500, 
+        "title": "Women Who Code SF", 
+        "service_name": "Meetup", 
+        "title_link": "https://www.meetup.com/Women-Who-Code-SF/events/243289055/", 
+        "text": "Note: The location of this meetup has recently changed. So make sure you look at the new address info! Overview We're a group of women who want to learn Ja", 
+        "from_url": "https://www.meetup.com/Women-Who-Code-SF/events/243289055/", 
+        "fallback": "Meetup: Women Who Code SF", 
+        "service_icon": "https://secure.meetupstatic.com/s/img/144395054627769971357/logo/swarm/m_swarm_120x120.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1506049607.000111", 
+    "user": "U6XV0FFEW"
+  }, 
+  {
+    "text": "It's set!", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1506034858.000029"
+  }, 
+  {
+    "text": "I can put it on the calendar :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1506034779.000081"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1VD417CP"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1506034765.000120", 
+    "text": "Should we have our meeting again at lunch next monday?"
+  }, 
+  {
+    "edited": {
+      "user": "U2GN4U8GL", 
+      "ts": "1505857705.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 243355, 
+        "title": "Moms Can Code Meet-up &amp; Info Session", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "1547 Mission Street, San Francisco, CA 94103", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Sat, Sep 23, 2017 at 6:30 PM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/moms-can-code-in-sf-tickets-37283623321", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35487745%2F153364959069%2F1%2Foriginal.jpg?w=1000&rect=178%2C0%2C398%2C199&s=3147000fee3c02a4f72a9ffd01013da5", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/moms-can-code-in-sf-tickets-37283623321", 
+        "fallback": "Eventbrite: Moms Can Code Meet-up &amp; Info Session", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "Join us for a fun night out to meet and network other supporters of women in tech!\u00a0 On-site childcare will be available for children ages 2+ at no extra charge.\u00a0 There will be light fare and drinks. Come learn more about <http://MomsCanCode.com|MomsCanCode.com> and meet Founder &amp; CEO, Erica Peterson.", 
+        "id": 1
+      }
+    ], 
+    "text": "Make School is hosting a regional Moms Can Code meetup this Saturday! Could be a great opportunity to meet mentors. \nLet me know if you'd like to attend and I'll add you to the guest list for free :slightly_smiling_face: \n\n<https://www.eventbrite.com/e/moms-can-code-in-sf-tickets-37283623321>", 
+    "ts": "1505857686.000508", 
+    "user": "U2GN4U8GL", 
+    "type": "message"
+  }, 
+  {
+    "text": "wicked! :make-school::octocat:", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505773902.000343"
+  }, 
+  {
+    "text": "the one you added us all to! check the projects tab :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505772564.000253"
+  }, 
+  {
+    "text": "awesome, which repo did you add to?", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505771775.000365"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1VD417CP"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505769248.000153", 
+    "text": "added a github project !"
+  }, 
+  {
+    "text": "Here is the address of the repo:\n<https://github.com/PhyllisWong/Women-of-Make-School>", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505768945.000017", 
+    "edited": {
+      "user": "U6YP200VB", 
+      "ts": "1505768953.000000"
+    }
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "markdown", 
+        "lines_more": 18, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F751KUQGL", 
+        "size": 654, 
+        "title": "make_WICS_mission_statement", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F751KUQGL/make_WICS_mission_statement.md", 
+        "preview": "# Mission Statement for Make School Wics\r\n\r\n## Brainstorm Mission Statement\r\n\r\n- make a community of women\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U6YFF5B50/F751KUQGL/make_WICS_mission_statement.md/edit", 
+        "username": "", 
+        "timestamp": 1505766683, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-header cm-header-1\"># </span><span class=\"cm-header cm-header-1\">Mission</span><span class=\"cm-header cm-header-1\"> </span><span class=\"cm-header cm-header-1\">Statement</span><span class=\"cm-header cm-header-1\"> </span><span class=\"cm-header cm-header-1\">for</span><span class=\"cm-header cm-header-1\"> </span><span class=\"cm-header cm-header-1\">Make</span><span class=\"cm-header cm-header-1\"> </span><span class=\"cm-header cm-header-1\">School</span><span class=\"cm-header cm-header-1\"> </span><span class=\"cm-header cm-header-1\">Wics</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-header cm-header-2\">## </span><span class=\"cm-header cm-header-2\">Brainstorm</span><span class=\"cm-header cm-header-2\"> </span><span class=\"cm-header cm-header-2\">Mission</span><span class=\"cm-header cm-header-2\"> </span><span class=\"cm-header cm-header-2\">Statement</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable-2\">- </span><span class=\"cm-variable-2\">make</span><span class=\"cm-variable-2\"></span><span class=\"cm-variable-2\"> </span><span class=\"cm-variable-2\">a</span><span class=\"cm-variable-2\"> </span><span class=\"cm-variable-2\">community</span><span class=\"cm-variable-2\"> </span><span class=\"cm-variable-2\">of</span><span class=\"cm-variable-2\"> </span><span class=\"cm-variable-2\">women</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F751KUQGL/download/make_WICS_mission_statement.md", 
+        "user": "U6YFF5B50", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Markdown (raw)", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F751KUQGL-754ef5d2b2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFF5B50/F751KUQGL/make_WICS_mission_statement.md", 
+        "name": "make_WICS_mission_statement.md", 
+        "created": 1505766683, 
+        "lines": 23, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "edited": {
+      "user": "U6YFF5B50", 
+      "ts": "1505767371.000000"
+    }, 
+    "text": "initial brainstorm for the club mission statement", 
+    "upload": true, 
+    "ts": "1505766685.000079", 
+    "display_as_bot": false, 
+    "user": "U6YFF5B50", 
+    "type": "message"
+  }, 
+  {
+    "text": "YES!!! Thank you for re-organizing. Shall I create a calendar invitation and invite everyone for the Monday evening mtg? Topics to cover were to include: Mission Statement for the Women of Make School, and group coding. This is an \"opt-in\" that was loosely discussed on our end of the table.", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505508980.000096"
+  }, 
+  {
+    "text": "<@U1GJHRYLE> Thanks Fiona! Oh, I must have missed that topic, I will not be able to attend tonight as well.", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505506372.000312"
+  }, 
+  {
+    "text": "Our women of make school meeting we talked about at dinner last night!  <@U1VD417CP> ", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505506236.000101"
+  }, 
+  {
+    "text": "Hi there <@U1GJHRYLE>, what meeting are you referring to?", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505504934.000058"
+  }, 
+  {
+    "text": "<!channel> hey guys! I have to attend to some family responsibilities tonight, can we move our meeting to monday?", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505504863.000529"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> has joined the channel", 
+    "ts": "1505504810.000316", 
+    "subtype": "channel_join", 
+    "user": "U6XE4NNSZ", 
+    "type": "message", 
+    "inviter": "U1GJHRYLE"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> ", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505504807.000290"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> yo", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505440925.000267"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1505440712.000222", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "U1GJHRYLE"
+  }, 
+  {
+    "text": "<@U6YV4A45C> ", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505440707.000133"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1505440675.000080", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U1GJHRYLE"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> ", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505440670.000156"
+  }, 
+  {
+    "text": "<@U6YFF5B50> has joined the channel", 
+    "ts": "1505440646.000097", 
+    "subtype": "channel_join", 
+    "user": "U6YFF5B50", 
+    "type": "message", 
+    "inviter": "U1GJHRYLE"
+  }, 
+  {
+    "text": "<@U6YFF5B50> ", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505440641.000109"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505440599.000051", 
+    "text": "<@U6YP200VB> has joined the channel"
+  }, 
+  {
+    "text": "<https://www.natashatherobot.com>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 8554, 
+        "title": "The Easiest Way to Get a URL for your Apple Wallet Passkit Pass", 
+        "service_name": "Natasha The Robot", 
+        "image_width": 200, 
+        "title_link": "https://www.natashatherobot.com", 
+        "image_height": 200, 
+        "image_url": "https://s0.wp.com/i/blank.jpg", 
+        "from_url": "https://www.natashatherobot.com", 
+        "fallback": "Natasha The Robot: The Easiest Way to Get a URL for your Apple Wallet Passkit Pass", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505440588.000143", 
+    "user": "U1GJHRYLE"
+  }, 
+  {
+    "text": "<@U6YFF5B50> &amp; I are going to Saleforce's Game Night this upcoming Tuesday if y'all want to join! It'd be a great opportunity to build your tech community in SF :two_hearts:", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1504898349.000164"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U3PJU203D"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1497378658.407583", 
+    "text": "FYI\u2026\nFrom 10:30am - 2:30pm today the WITI Career Fair hosted by the Professional Diversity Network (PDN) is open.  Come sign up to be interview from the following companies;\n\nAmazon \nCA Technologies \nCity of Fremont \nGaurdent Health \nGE Digital \nIntuitive Surgical \nMicrosoft \nMonterey Bay Aquarium \nNetgear \nNGA (National Geospatial-Intelligence Agency) \nPrudential \nStorageCraft \nSugarCRM \nSutter Health \nToyota  \nU.S. Department of State \nVSP Global \nWaste Management (WM)."
+  }, 
+  {
+    "text": "thanks maribel. :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1497287029.496485"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "mask", 
+        "users": [
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1497286936.459955", 
+    "text": "<@U298FAPT7> oh no, I'm sorry to hear. I hope you have a speedy recovery"
+  }, 
+  {
+    "text": "i caught some sort of virus as soon as my body collapsed at the finish line yesterday. i'm 50/50 on going tomorrow. ^ if i don't see y'all there please enjoy! good luck to shannon.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1497234099.484483"
+  }, 
+  {
+    "text": "so great!", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1497234007.476489"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F5SRGQDJA", 
+        "thumb_480_h": 360, 
+        "original_h": 2448, 
+        "thumb_360_w": 360, 
+        "title": "Day 1 Reception!", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F5SRGQDJA/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 1979144, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1497233223, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F5SRGQDJA/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_1024.jpg", 
+        "user": "U1VD417CP", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F5SRGQDJA-48baa149d3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1VD417CP/F5SRGQDJA/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1497233223, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 3264, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F5SRGQDJA-51c831be4a/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "CF6F107C-2430-4AA2-9EC3-57205A2D967E", 
+    "ts": "1497233222.410348", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U1VD417CP", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1497229623.105836", 
+    "text": "Thanks <@U298FAPT7> &amp; <@U1U2T6HT6> for sharing conference passes for WITI! At day 1 of the conference, and it's been great! Lots of helpful talks and coaching sessions"
+  }, 
+  {
+    "text": "fyi  film screening at the internet archive 6/5\n<https://www.facebook.com/events/136291203588002/permalink/136291206921335/> ", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1496190414.369476", 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1496190428.000000"
+    }
+  }, 
+  {
+    "text": "<@U1VLBKK8C> <@U1GJHRYLE> <@U1VD417CP> \nThe WITI conference promo code for your comps is: makewiti17c", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1494335546.427823"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "U1UH6TD7S"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1494017649.647877", 
+    "text": "<@U1VLBKK8C> <@U2DDJSYNQ> <@U1JE2T0MB> <@U1GJHRYLE> <@U1UH6TD7S> <@U1VD417CP> hi ladies, i\u2019d like to have 30 minute 1:1s with each of you starting next thursday thru 5/25 (as long as you haven\u2019t left to start an internship/job). please dm me a time that works for you between 12-4pm.  thanks! susan"
+  }, 
+  {
+    "text": "cc  <@U1U2T6HT6>  ", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1493912821.693607"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1VD417CP", 
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "no_entry_sign", 
+        "users": [
+          "U1UH6TD7S"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "title": "Women in Technology Summit", 
+        "text": "WITI's Web site provides visitors with news, career opportunities, articles and info to empower women through technology.", 
+        "title_link": "https://www.witi.com/conferences/2017/summit/", 
+        "service_name": "witi.com", 
+        "from_url": "https://www.witi.com/conferences/2017/summit/", 
+        "fallback": "Women in Technology Summit", 
+        "service_icon": "https://www.witi.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> \nPC students,\nShannon will be speaking at the \n23RD ANNUAL WOMEN IN TECHNOLOGY SUMMIT JUNE 11-13, 2017 DOUBLETREE BY HILTON SAN JOSE, CA. We have 4 free passes.\nPlease respond with :+1: if you want to go to some or all of it and a :no_entry_sign: if you are not interested/unable to attend. \n<https://www.witi.com/conferences/2017/summit/>", 
+    "ts": "1493842748.170823", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "We\u2019re offering 10 Summer Academy scholarships through this program. ^ Thanks for helping to spread the word, ladies.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1493313093.944118"
+  }, 
+  {
+    "text": "If you know anyone interested in an  coding bootcamp:\n\nThe Lesbians Who Tech Edie Windsor Coding Scholarship Fund is named for LGBTQ and technology legend, Edie Windsor to recognize her heroic victory over the Defense of Marriage Act (DOMA)\u2013and to celebrate her technical leadership as a computer programming pioneer at IBM. Edie Windsor is one of our community\u2019s greatest role models. We tell her story to inspire future generations of LGBTQ technical women. The scholarship covers 50% tuition for students enrolled in coding bootcamps online and across the world.\n \nLearn More: <http://bit.ly/LWTEdie17|bit.ly/LWTEdie17>\nApply Now: <http://lesbianswhotech.org/codingscholarship|lesbianswhotech.org/codingscholarship>", 
+    "type": "message", 
+    "user": "U3PJU203D", 
+    "ts": "1493311038.220689"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 888211, 
+        "title": "Tech and Trump: Will Politics and Tech Collaborate or Collide in 2017?", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "543 Howard St., San Francisco, CA 94105", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Mon, Apr 24, 2017 at 6:30 PM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/tech-and-trump-will-politics-and-tech-collaborate-or-collide-in-2017-tickets-32674422076", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F29145343%2F205238478572%2F1%2Foriginal.jpg?w=1000&rect=188%2C0%2C1666%2C833&s=08e93b430d4c75f1f13c3e4731a05ea4", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/tech-and-trump-will-politics-and-tech-collaborate-or-collide-in-2017-tickets-32674422076", 
+        "fallback": "Eventbrite: Tech and Trump: Will Politics and Tech Collaborate or Collide in 2017?", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "It appears we skipped the presidential honeymoon this cycle! Immediately following the unexpected 2016 election outcome and continuing into President Trump\u2019s first 100 days, Silicon Valley and Washington have chaotically attempted to navigate the new paradigm of how politics and tech will interact. The launch of programs like 18F and United States Digital Service (USDS), along with a progressive policy agenda generally embraced in San Francisco and other tech hubs, enabled significant collaboration between the Obama Administration and tech. Will there be opportunities for collaboration between the Trump Administration and tech in 2017 or should we merely prepare for more nasty collisions? If the latter, will the resistance lead to a reversal of progress achieved by 18F, USDS and other modernization efforts that have done so much work to bring the federal government into the 21st century? Can the groundswell of recent grassroots civic engagement among tech professionals be sustainably channeled into effecting positive change for Americans across the country, even in so called Trump states, or will this moment prove to be another instance of over-hyped, fleeting rhetoric? Schedule of Events: 6:30-7:00pm - VIP Reception 7:00pm Opening Remarks 7:15pm- 8:30\u00a0Panel Discussion Featured Participants:\u00a0 Sam Altman [Y Combinator] Steve Hilton [Crowdpac] Joe Lonsdale [8VC] Katy Steinmetz [Time Magazine]", 
+        "id": 1
+      }
+    ], 
+    "text": "Would you ladies be interested in this event? MS can sponsor us! \n<https://www.eventbrite.com/e/tech-and-trump-will-politics-and-tech-collaborate-or-collide-in-2017-tickets-32674422076>", 
+    "ts": "1492720505.758690", 
+    "user": "U2DDJSYNQ", 
+    "type": "message"
+  }, 
+  {
+    "text": "have any of your tried or plan to start a company?", 
+    "type": "message", 
+    "user": "U264M87A7", 
+    "ts": "1492457163.021830", 
+    "edited": {
+      "user": "U264M87A7", 
+      "ts": "1492457170.000000"
+    }
+  }, 
+  {
+    "text": "add olive oil if too dry", 
+    "type": "message", 
+    "user": "U264M87A7", 
+    "ts": "1492208783.454936"
+  }, 
+  {
+    "text": "yup", 
+    "type": "message", 
+    "user": "U264M87A7", 
+    "ts": "1492208767.452991"
+  }, 
+  {
+    "text": "Is it in tuppaware with a red top?", 
+    "type": "message", 
+    "user": "U2DDJSYNQ", 
+    "ts": "1492208441.413618"
+  }, 
+  {
+    "thread_ts": "1492189959.620998", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U1UH6TD7S"
+        ]
+      }
+    ], 
+    "text": "haha sold", 
+    "ts": "1492193343.445210", 
+    "user": "U1WKV2LUF", 
+    "parent_user_id": "U1WKV2LUF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1492189959.620998", 
+    "text": "nice fancy dinner, when you tell me when you're free", 
+    "ts": "1492191525.997700", 
+    "user": "U264M87A7", 
+    "parent_user_id": "U1WKV2LUF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1492189959.620998", 
+    "latest_reply": "1492193343.445210", 
+    "subscribed": false, 
+    "reply_users": [
+      "U264M87A7", 
+      "U1WKV2LUF"
+    ], 
+    "text": "what did you make me?", 
+    "ts": "1492189959.620998", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U1WKV2LUF", 
+    "replies": [
+      {
+        "user": "U264M87A7", 
+        "ts": "1492191525.997700"
+      }, 
+      {
+        "user": "U1WKV2LUF", 
+        "ts": "1492193343.445210"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@U264M87A7> thank you!! You're so sweet :two_hearts:", 
+    "type": "message", 
+    "user": "U2DDJSYNQ", 
+    "ts": "1492189228.445331"
+  }, 
+  {
+    "text": "Thank you very much <@U264M87A7> !", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1492189131.420321"
+  }, 
+  {
+    "text": "Thank you <@U264M87A7> !", 
+    "type": "message", 
+    "user": "U1UH6TD7S", 
+    "ts": "1492189127.419265"
+  }, 
+  {
+    "text": "Thank you!! ", 
+    "type": "message", 
+    "user": "U1JE2T0MB", 
+    "ts": "1492188997.387691"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "100", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1VD417CP", 
+          "U2DDJSYNQ", 
+          "U1WKV2LUF", 
+          "U3PJU203D"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "heart", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1VD417CP", 
+          "U2DDJSYNQ", 
+          "U1WKV2LUF", 
+          "U298FAPT7", 
+          "U3PJU203D"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U264M87A7", 
+      "ts": "1492188947.000000"
+    }, 
+    "text": "<@U1GJHRYLE> <@U1VD417CP> <@U1JE2T0MB> <@U1UH6TD7S> <@U1VLBKK8C>  <@U2DDJSYNQ> - i made linguine and tilapia with sun dried tomatoes, olives and capers - its on top of the toaster oven in the kitchen for you to enjoy during lunch", 
+    "ts": "1492188938.372942", 
+    "user": "U264M87A7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U4CEBV4SW> has joined the channel", 
+    "ts": "1491522572.864698", 
+    "subtype": "channel_join", 
+    "user": "U4CEBV4SW", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "text": "<@U2481KKBM> has joined the channel", 
+    "ts": "1491522572.864686", 
+    "subtype": "channel_join", 
+    "user": "U2481KKBM", 
+    "type": "message", 
+    "inviter": "U298FAPT7"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "U1UH6TD7S"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1491522266.821954", 
+    "text": "<!here> Plz give my msg above from 9:33am a thumbs up, if you've read it and are working to PM me with your update. A few of you have. Appreciated! "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1JE2T0MB", 
+          "U1VD417CP"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1491498424.119792", 
+    "text": "As many as possible and you can/should ask your hr/recruiting point of contact after your interview(s) for the list of names/emails of ppl you met with if they weren't provided. I tend to just fold it into my thank you note to them! \nAlso, don't be shy connecting with each of them post-interview on LI."
+  }, 
+  {
+    "text": "Should we thank all the interviewers who have interviewed us? The reason I'm asking is that a lot of them didn't give out their emails.", 
+    "type": "message", 
+    "user": "U1JE2T0MB", 
+    "ts": "1491498186.037058"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1GJHRYLE", 
+          "U1VD417CP"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1GJHRYLE", 
+          "U1VD417CP"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U298FAPT7", 
+      "ts": "1491501503.000000"
+    }, 
+    "text": "Hi ladies, \nI am disappointed to say that I've begun to get a steady stream of feedback from partners and allies that they are not experiencing the professional timeliness and good manners (quick thank you note after a call or your meeting) from PC students. This is universal and not specific to one person.\nPlease make this a high priority starting today.\nPlease take a few minutes and send brief thank you emails to all the speakers, mentors, informational interviews, tours, job interviews you have had since January, if you haven't already. \nRemember, it is never too late to say Thank You. If you need email addresses, please ping Jade or me.\nEveryone has their \"thing\". Good manners is mine b/c my network is my professional currency.\nIt's your professional reputation (and ours and sometimes mine or other students/staff) that gets dinged when we don't all show outsiders this common curtesy. \nPlease and thank you will build, maintain your network and be the difference one day in having doors open for you, favors extended and jobs offered. It's free, fast and easy. If you need help or templates let me know. I'm happy to help you.  \nI'm saying this to you as a group because you, as female engineers, are held in the public for better or worse to a higher standard with additional attention and interest in seeing you succeed.  I also am extra vested in YOUR success, as you know. Help me help you.  Please PM by EOD with an update on who you sent thank you notes to. Thanks! :blush:", 
+    "ts": "1491496419.416368", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U2DDJSYNQ> apologies!", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1490048580.574923"
+  }, 
+  {
+    "text": "<@U1GJHRYLE> Jade already posted the opportunity in <#C2D9R88Q0|events> :slightly_smiling_face: I'm seeing which female students are interested so MS has an idea of how much it'll cost", 
+    "type": "message", 
+    "user": "U2DDJSYNQ", 
+    "ts": "1490048543.567774"
+  }, 
+  {
+    "text": "<@U3PJU203D> <@U298FAPT7>", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1490047715.400895"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "U1GJHRYLE", 
+          "U1VD417CP"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "raising_hand::skin-tone-4", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1VD417CP", 
+          "U1VLBKK8C"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 898597, 
+        "title": "Women in Tech Speed Mentoring Event @Lyft, SF", 
+        "fields": [
+          {
+            "short": false, 
+            "value": "185 Berry St. , Lobby 2, 5th Floor  ( Enter through main Lobby, Lobby 4 to check in with security) , San Francisco, CA 94107", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Tue, Mar 28, 2017 at 6:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-lyft-sf-tickets-31541754236?aff=erelexpmlt", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F27757194%2F9608873553%2F1%2Foriginal.jpg?w=1000&rect=0%2C71%2C776%2C388&s=67505a33e29b3f90eff66a40bee756bc", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-lyft-sf-tickets-31541754236?aff=erelexpmlt", 
+        "fallback": "Eventbrite: Women in Tech Speed Mentoring Event @Lyft, SF", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "Are you looking for a mentor to\u00a0maximize your potential and realize your career goals?? Do you want to interact with successful women working in tech and non-tech roles in the tech industry? Have you ever attended tech events hoping to meet and learn from women leaders you admire, only to find that approaching them is just TOO awkward? No matter what point you are in your career, do you know that having a mentor can help you flourish, achieve your goals AND experience new meaning in your work? Join us for The Expat Woman's Women in Tech Mentoring event that helps mentees get actual face time with women working in different roles in the tech industry. The mentors participating in this event have both tech and non-tech backgrounds. The evening will start with networking, followed by a short presentation by each mentor. Mentees and mentors will then meet in a fast-paced group setting, asking and answering questions, with the option of making a longer-term connection. We will have mentors from small and big tech companies, representing both technical and non-technical roles. \u00a0 Mentors Tori Main, Motion Designer, Marketing and Creative Team @Lyft Julia Yu, Software Engineer @Lyft Sara Giardina, Litigation Counsel @Lyft Naisha Silva, Analyst @Google Cinzia Borello,\u00a0SMB Program Manager @Facebook Nina Seth, Senior Product Marketing Manager @VMware Eleni Karahalios,\u00a0Learning &amp; Development @Levi's Sanya Mansoor, Cloud Security @Autodesk Emelia Lartey, Account Executive @ Yelp Thank you to our venue sponsors Lyft Terms of Participation Agreement You agree that you are responsible for any accidents or damages that you cause. You also agree to not hold The Expat Woman, or any of the event supporters liable for any loss, damage, injury, or any other unforeseeable incident. By Participating at the event, you grant The Expat Woman permission to capture photo/video of the event. By registering for this event, you also consent to receive email communication from The Expat Woman and its programs about events and updates that may interest you. Tickets to this event are non-refundable. If you are unable to attend, you have the option of giving it to a friend or team member to attend in your place.", 
+        "id": 1
+      }
+    ], 
+    "text": "hi! Who is interested in attending this event (if the price is covered by MS)? Reply by EOD please! <https://www.eventbrite.com/e/women-in-tech-speed-mentoring-event-lyft-sf-tickets-31541754236?aff=erelexpmlt>", 
+    "ts": "1490047058.251107", 
+    "user": "U2DDJSYNQ", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U298FAPT7> Thanks! We had a great time!", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1486498660.000002"
+  }, 
+  {
+    "text": "Have fun and tell Dom and Leanne Hi for me.^", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1486439958.000006"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "U3PJU203D", 
+          "U298FAPT7"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 500, 
+        "thumb_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F27755715%2F54575136362%2F1%2Foriginal.jpg?w=1000&rect=0%2C203%2C768%2C384&s=1c3968ea1edadb64acd4ba73739c5123", 
+        "thumb_width": 1000, 
+        "title": "Lesbians Who Tech (and friends) San Francisco || Summit Kick-Off Happy Hour", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "2925 16th St San Francisco, CA  94103", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Mon, Feb 6, 2017 at 6:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "title_link": "https://www.eventbrite.com/e/lesbians-who-tech-and-friends-san-francisco-summit-kick-off-happy-hour-tickets-31540540606?utm_source=eb_email&utm_medium=email&utm_campaign=reminder_attendees_48hour_email&utm_term=eventname", 
+        "text": "Lesbians Who Tech\u00a0is a global community of over 30,000 queer women (and allies) in tech. To learn more go to\u00a0<http://Lesbianswhotech.org|Lesbianswhotech.org> Lesbians Who Tech is a community of queer women in tech (and allies) that started in San Francisco in December 2012. Since then, we\u2019ve built a community of over 30,000 queer women in 35cities, including 5 international cities. \u00a0Lesbians Who Tech Press //\u00a0 If Every Tech Conference Were Like Lesbians Who Tech,\u00a0Tech Would Be A Much Better Place\u00a0// BuzzFeed\u00a0 What it\u2019s like to be a Lesbian in Tech // Fortune\u00a0 Second Annual \u201cLesbians Who Tech\u201d Summit Ups the Ante\u00a0// Autostraddle\u00a0 At Lesbians Who Tech, Silicon Valley is here and it's queer // DailyDot", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/lesbians-who-tech-and-friends-san-francisco-summit-kick-off-happy-hour-tickets-31540540606?utm_source=eb_email&utm_medium=email&utm_campaign=reminder_attendees_48hour_email&utm_term=eventname", 
+        "fallback": "Eventbrite: Lesbians Who Tech (and friends) San Francisco || Summit Kick-Off Happy Hour", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Miriam &amp; I are going to a Lesbians Who Tech event tonight if anyone else is interested? \n<https://www.eventbrite.com/e/lesbians-who-tech-and-friends-san-francisco-summit-kick-off-happy-hour-tickets-31540540606?utm_source=eb_email&amp;utm_medium=email&amp;utm_campaign=reminder_attendees_48hour_email&amp;utm_term=eventname>", 
+    "ts": "1486418460.000002", 
+    "user": "U1GJHRYLE", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U3PJU203D", 
+    "ts": "1484094257.000002", 
+    "text": "<@U3PJU203D> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U298FAPT7", 
+          "U1WKV2LUF", 
+          "U1GJHRYLE", 
+          "U1VD417CP"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tulip", 
+        "users": [
+          "U1UH6TD7S"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2DDJSYNQ", 
+    "ts": "1478562714.000003", 
+    "text": "It was great! Glad we have the time to spend time with each other outside of school :slightly_smiling_face:"
+  }, 
+  {
+    "text": "hi ladies, how was the friday hang/meal with leslie?", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1478550329.000002"
+  }, 
+  {
+    "text": "<http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 616, 
+        "thumb_url": "http://blog.interviewing.io/wp-content/uploads/2016/11/Screenshot-2016-10-16-20.40.05.png", 
+        "thumb_width": 1185, 
+        "title": "You can\u2019t fix diversity in tech without fixing the technical interview", 
+        "service_name": "interviewing.io blog", 
+        "ts": 1478115804, 
+        "title_link": "http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/", 
+        "text": "In the last few months, several large players, including Google and Facebook, have released their latest and ultimately disappointing diversity numbers. Even with increased effort and resources pou\u2026", 
+        "from_url": "http://blog.interviewing.io/you-cant-fix-diversity-in-tech-without-fixing-the-technical-interview/", 
+        "fallback": "interviewing.io blog: You can\u2019t fix diversity in tech without fixing the technical interview", 
+        "service_icon": "http://blog.interviewing.io/wp-content/uploads/2016/07/favicon-32x32.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1478155298.000002", 
+    "user": "U2DDJSYNQ"
+  }, 
+  {
+    "text": "<!channel> Ping ^ Update DM a few good days between now and the winter break. I\u2019m confirmed with one of you so far.  Thanks.", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1477587385.000002"
+  }, 
+  {
+    "text": "Hi ladies, I'd love to go out for a 30min 1:1 coffee with each of you between next week and when we break for thanksgiving. Please DM some good dates/times, if you're interested. I wanna get to know each of you!:blush:", 
+    "type": "message", 
+    "user": "U298FAPT7", 
+    "ts": "1476975061.000002"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1476811141.000002", 
+    "text": "<@U2QTVG278> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U2DDJSYNQ", 
+    "ts": "1476730694.000004", 
+    "text": "yesss we out! This and the Maya Angelou film!"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1UH6TD7S", 
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 165595, 
+        "title": "Queen of Katwe (2016)", 
+        "service_name": "IMDb", 
+        "image_width": 131, 
+        "title_link": "http://www.imdb.com/title/tt4341582/", 
+        "image_height": 250, 
+        "image_url": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzQ0MDg2NTY4N15BMl5BanBnXkFtZTgwOTk2NzU3OTE@._V1_UY1200_CR90,0,630,1200_AL_.jpg", 
+        "text": "Directed by Mira Nair. With Madina Nalwanga, David Oyelowo, Lupita Nyong'o, Martin Kabanza. A Ugandan girl sees her world rapidly change after being introduced to the game of chess.", 
+        "from_url": "http://www.imdb.com/title/tt4341582/", 
+        "fallback": "IMDb: Queen of Katwe (2016)", 
+        "service_icon": "http://www.imdb.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "FYI saw this awesome film last night: <http://www.imdb.com/title/tt4341582/>", 
+    "ts": "1476729198.000002", 
+    "user": "U298FAPT7", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U298FAPT7> has joined the channel", 
+    "ts": "1476467720.000004", 
+    "subtype": "channel_join", 
+    "user": "U298FAPT7", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U2GN4U8GL> has joined the channel", 
+    "ts": "1476467720.000003", 
+    "subtype": "channel_join", 
+    "user": "U2GN4U8GL", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U264M87A7> has joined the channel", 
+    "ts": "1476467720.000002", 
+    "subtype": "channel_join", 
+    "user": "U264M87A7", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1WKV2LUF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 185300, 
+        "title": "Lady Problems Hackathon - San Francisco", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "44 Tehama St,, San Francisco, CA 94105", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Sat, Oct 22, 2016 at 9:00 AM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/lady-problems-hackathon-san-francisco-tickets-27478190006", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F24351347%2F136983293532%2F1%2Foriginal.jpg?w=1000&rect=0%2C0%2C1000%2C500&s=e81a74d42e7ec01869f8d13a35cd0033", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/lady-problems-hackathon-san-francisco-tickets-27478190006", 
+        "fallback": "Eventbrite: Lady Problems Hackathon - San Francisco", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "We talk a lot about the lack of women in technology. What\u2019s keeping them out? The Lady Problem Global Hackathon Series, presented by AngelHack, is launching in a city near you!The Lady Problems Global Hackathon Series is setting out to answer that question. We\u2019re challenging our community of 100,000+ women and men, developers, designers, entrepreneurs to create technology that will address the problems that prevent female entrepreneurship.And course, male allies are welcome too!Why is this an issue?Women represent half of the global population, reinvest 90% of their income into their families and communities, but earn just 10% of the world\u2019s income. Studies have shown that advancing women\u2019s equality can add between $12-28 trillion to global economic growth.According to UN Women, companies with 3 or more women in senior management functions score higher in all dimensions of organizational effectiveness, yet just 4% of Fortune 500 companies are led by women. In startup-land, you\u2019ll find the same results. First Round Capital\u2019s analysis of 300 portfolio companies over ten years showed that startup teams with at least one female founder performed 63% better than all male teams, yet around only 4% of women are backed by VC funding.It\u2019s proven that investing in women creates a better world, and yet they\u2019re not even close to meeting their potential. So what can we do to solve these problems?Hack a solution that will help women access health resources to ensure that they can have successful careers, regardless of whether or not they choose to have children.Hack a solution that ensures that women can be safe when they go to, are at, and come home from work.Hack a solution that helps women gain access to the financial resources, training and support they need to grow their businesses.Hack a solution that helps women succeed and feel confident in the workplace and that they are supported in their careers by their families and communities.Social Good Accelerator: The winning team from each city will be inducted into AngelHack\u2019s first-ever social good accelerator, a 12-week mentorship and acceleration program.Women Who Code: The winning team from each city in an Applaud Her spot in the CODE Review, a featured placement in their global community newsletter.Challenge:Best use of HPE Haven OnDemand in any of the main Lady Problems challenges.Prize:\u00a0The winning team of this challenge will receive the following:Invitation to promote their app/solution and tell the world how they are tackling Lady Problems on the HPE Haven OnDemand blog and LinkedIn group, with promotion via various HPE social media channels.Submitted as candidates for an upcoming press article and could also feature in a video production.All participating teams are also being invited to apply to participate in the HPE Haven Startup Accelerator, with participants benefiting from free/substantially discounted software access to help teams take their solutions to market with fewer technology barriers.One Month is giving away a free 30-day trial to all attendees:Go to:\u00a0<https://onemonth.com/?free_trial_code=LadyProblemsSelect> \"Enroll Now\"Select membership levelAt checkout, receive a 30-day free trialEnjoy!Getty Images API:\u00a0Getty Images encourages the use of diverse imagery in your products! Check out their LeanIn collection here to learn more \u00a0about how you can share powerful depictions of women, girls and the people who support them! Leverage their API to pull images for your products here \u00a0and select the \u201cGetty Test\u201d key option.Day 109:00 AM : Doors Open to Attendees / Breakfast of Champions10:30 AM : Opening Ceremony and Sponsor Talks11:30 AM : Team-building and networking session 12:00 PM : Coding Begins01:00 PM : Lunch02:00 PM : Cisco Breakout Session06:30 PM : Dinner07:00 PM : CODE: Debugging the Gender Gap documentary screening, sponsored by Capital OneVenue will be open if you choose to hack overnight.Day 208:00 AM : Breakfast12:00 PM : Lunch01:00 PM : Hackathon Ends / Submissions due on hackathon.io.02:00 PM : Demos Begin / Demos only / No Slide Decks(If your demo doesn\u2019t work, take us through the code of what you did and where you got stuck. It\u2019s about showing what you\u2019ve learned and not about pitching an idea)04:00 PM: Winners are Announced / Prize-a-thon!Schedule subject to awesome changes. Stay Tuned!Not-So-Fresh Code:You are welcome to start working on your hack before the event. You can present pre-existing projects, but they must be relevant to the hackathon challenges. You also must demo live at the hackathon on Sunday in-person, or via Google Hangout.We highly encourage all participants to attend the hackathon in-person, to meet other like-minded hackers and gain valuable insights from our sponsors about building amazing products!Ownership and IP:Teams have full ownership of everything they build at our events and are free to do with it as they wish.Team Size:Teams of up to 5 humans are allowed. You can also add 1 Cyborg, Furby, drone, or Sphero.Submission:Each hackathon has its individual <http://hackathon.io|hackathon.io> page, which projects should be submitted on. Submissions take place after 24 hours of pure hacking.Demo Your Hack:You must demo your hack in order to present. No slide-decks or Powerpoint will be allowed. Two minute presentation and one minute Q&amp;A from Judges, live during the event in-person or via a Google Hangout.Code of Conduct:You must abide by the Code of Conduct. We have a zero-tolerance policy for harassment. If you\u2019re making others feel unsafe in anyway, we\u2019ll kick you out. End of story.Let\u2019s be honest, y\u2019all can do better than Powerpoints. Which is why we rock with live DEMOS only! No exceptions. To win an AngelHack hackathon, you will have to demo your product for at least 30 seconds, but no more than 2 minutes. Don\u2019t worry if your project is still not 100% perfected. Projects will be judged based on the following criteria:Impact: How impactful will this solution be for its target audience? Is it scalable?Creativity: How original is this solution?Design: How well designed is this solution, from front end through to UI/UX?Execution: How well executed is this solution from start to finish?Related to Challenge: Is the solution relevant to the themes of lady problems around supporting female entrepreneurs through health, education, safety and culture?\u00a0 \u00a0Minnie Ingersoll\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Neha Sampat\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Renata George\u00a0 \u00a0 COO at Shift \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 CEO, <http://Built.io|Built.io> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Managing Director,\u00a0 \u00a0Technologies, Inc. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Zenmen Venture Fund\u00a0\u00a0 \u00a0 \u00a0Rekha Pai\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Annika Peterson\u00a0 \u00a0 Member Board of \u00a0 \u00a0Software Engineer,\u00a0 \u00a0Directors at Fast \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Cisco Meraki\u00a0Forward, New Business Incubation at Juniper \u00a0 \u00a0 Networks\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Mansi ParikhCEO,KindWhale\u00a0 \u00a0 \u00a0 \u00a0Cyrus Gil\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Sahil JainAre all genders welcome? Yes! We invite everyone from across the gender spectrum to this hackathon.How much does it cost to attend?It costs $10 to attend the Lady Problems hackathon. Discounts are available for nonprofits, students and other local advocacy groups. All ticket proceeds will be donated to a local nonprofit supporting girls and women in your city.Who is attending?Anyone and everyone! Our attendees typically consist of junior developers looking to improve their skills, senior developers looking to expand their horizons, designers of all skill-sets, and serious entrepreneurs that can add value to teams. Bring your idea and let\u2019s go! If hackathon has sold out, we\u2019ll allow in those with tickets first, and waitlisters IF there is still room.How are teams formed?Teams can be formed prior-to the event on <http://hackathon.io|hackathon.io>, via a dedicated event slack community, or onsite at the event. Team-building activities and networking\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.eventbrite.com/e/lady-problems-hackathon-san-francisco-tickets-27478190006>", 
+    "ts": "1476434204.000002", 
+    "user": "U1GJHRYLE", 
+    "type": "message"
+  }, 
+  {
+    "text": "Hi Everyone, I won't be able to make it this time too. I forgot that I had hospitality at my place tonight and I have to be there to take care of stuff. Sorry and have fun!", 
+    "type": "message", 
+    "user": "U1JE2T0MB", 
+    "ts": "1475865187.000010"
+  }, 
+  {
+    "text": "Hello!  Reminder for the Women\u2019s PA Dinner tonight with Leslie.  She just sent an email with a link to order dinner, so check that out and place your order.  I\u2019m out today but have a great time and can\u2019t wait for the next one!", 
+    "type": "message", 
+    "user": "U1WKV2LUF", 
+    "ts": "1475864391.000009"
+  }, 
+  {
+    "text": "<@U1JE2T0MB> has joined the channel", 
+    "ts": "1475864298.000008", 
+    "subtype": "channel_join", 
+    "user": "U1JE2T0MB", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U1VD417CP> has joined the channel", 
+    "ts": "1475864298.000007", 
+    "subtype": "channel_join", 
+    "user": "U1VD417CP", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U1VLBKK8C> has joined the channel", 
+    "ts": "1475864297.000006", 
+    "subtype": "channel_join", 
+    "user": "U1VLBKK8C", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U2DDJSYNQ> has joined the channel", 
+    "ts": "1475864297.000005", 
+    "subtype": "channel_join", 
+    "user": "U2DDJSYNQ", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U1UH6TD7S> has joined the channel", 
+    "ts": "1475864297.000004", 
+    "subtype": "channel_join", 
+    "user": "U1UH6TD7S", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "text": "<@U1GJHRYLE> has joined the channel", 
+    "ts": "1475864297.000003", 
+    "subtype": "channel_join", 
+    "user": "U1GJHRYLE", 
+    "type": "message", 
+    "inviter": "U1WKV2LUF"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1WKV2LUF", 
+    "ts": "1475864297.000002", 
+    "text": "<@U1WKV2LUF> has joined the channel"
+  }
+]

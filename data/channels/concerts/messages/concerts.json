@@ -1,0 +1,329 @@
+[
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ47M7X7Y", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ47M7X7Y/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 815921, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_800.jpg", 
+        "timestamp": 1555773562, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ47M7X7Y/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_1024.jpg", 
+        "user": "UCBLQTD7V", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ47M7X7Y-13bb869b29", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBLQTD7V/FJ47M7X7Y/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555773562, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ47M7X7Y-36d06e0f57/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "BE22364C-5232-47EC-B542-770BB5DA9191", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "star-struck", 
+        "users": [
+          "UCB3PRBME", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555773565.000100", 
+    "display_as_bot": false, 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DDFED43E-A09D-4239-94CD-4BA2C03F28F3", 
+    "thread_ts": "1555696483.001100", 
+    "text": ":heart_eyes:", 
+    "ts": "1555734721.006300", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1555731206.006100", 
+    "text": "<@UCDPM021J> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1555724978.005900", 
+    "text": "<@UCHK87XEJ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "C07DDA86-5F66-434A-B7EF-CB6DC2FC4011", 
+    "attachments": [
+      {
+        "thumb_height": 1634, 
+        "thumb_url": "https://image-ticketfly.imgix.net/00/03/17/29/24-og.jpg?w=1200&h=1634", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.rickshawstop.com/event/1844302-yacht-san-francisco/", 
+        "service_name": "Rickshaw Stop", 
+        "title": "YACHT - Tickets - Rickshaw Stop - San Francisco, CA - May 10th, 2019", 
+        "title_link": "https://www.rickshawstop.com/event/1844302-yacht-san-francisco/", 
+        "text": "YACHT began as the solo project of Jona Bechtolt, a musician and multimedia artist who dropped out of high school in the 90s to play drums in a touring punk band with his older brother. In the latter", 
+        "from_url": "https://www.rickshawstop.com/event/1844302-yacht-san-francisco/", 
+        "fallback": "Rickshaw Stop: YACHT - Tickets - Rickshaw Stop - San Francisco, CA - May 10th, 2019", 
+        "service_icon": "https://cdn.ticketfly.com/wp-content/themes/rickshawstop-v3/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Next show I\u2019m going to: <https://www.rickshawstop.com/event/1844302-yacht-san-francisco/>", 
+    "ts": "1555721808.005100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1555718090.004600", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c34b9f26-79ff-4fac-bedf-6ac924a5c6e6", 
+    "thread_ts": "1555696483.001100", 
+    "text": "pls are you trying to go to a Beyonce concert??", 
+    "ts": "1555712020.003800", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB8U00KA> set the channel purpose: Finding people who want to go to concerts with you", 
+    "ts": "1555707515.003300", 
+    "subtype": "channel_purpose", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "purpose": "Finding people who want to go to concerts with you"
+  }, 
+  {
+    "client_msg_id": "7260F5ED-FC54-4D27-919F-FD43EBEBD945", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "telephone_receiver", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calling", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "shrug::skin-tone-4", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Carly Rae Jepsen in June, anyone?", 
+    "ts": "1555706180.003100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1555704984.002500", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1555704303.002300", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "star-struck", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<@UCB8U00KA> set the channel purpose: Finding people who want to go to Beyonce concerts with you", 
+    "ts": "1555704146.001900", 
+    "subtype": "channel_purpose", 
+    "purpose": "Finding people who want to go to Beyonce concerts with you", 
+    "type": "message", 
+    "user": "UCB8U00KA"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1555703990.001800", 
+    "text": "<@U6XDGCKFF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1555697950.001600", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555697731.001300", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "thread_ts": "1555696483.001100", 
+    "latest_reply": "1555734721.006300", 
+    "attachments": [
+      {
+        "image_bytes": 1203918, 
+        "footer": "Posted using /giphy", 
+        "title": "beyonce", 
+        "image_width": 480, 
+        "title_link": "https://giphy.com/gifs/homecoming-a-film-by-beyonc-3dgi74xLNASxWvuaG7", 
+        "image_height": 270, 
+        "image_url": "https://media0.giphy.com/media/3dgi74xLNASxWvuaG7/giphy.gif?cid=6104955e5cba0b5f533843424150b176", 
+        "fallback": "giphy: https://giphy.com/gifs/homecoming-a-film-by-beyonc-3dgi74xLNASxWvuaG7", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "UCB8U00KA"
+    ], 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555712020.003800"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1555734721.006300"
+      }
+    ], 
+    "ts": "1555696483.001100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB8U00KA", 
+    "text": "", 
+    "reply_users_count": 2, 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "client_msg_id": "745ed7bb-57c4-4b74-ba11-4da6d5a20a00", 
+    "text": ":studio_microphone:", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555696470.000900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555696464.000700", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "ecdd602e-eb56-42fb-be24-d0afcfd22e26", 
+    "text": ":guitar::microphone:", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555696279.000500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555696264.000200", 
+    "text": "<@UCBLQTD7V> has joined the channel"
+  }, 
+  {
+    "text": "<@UCB3PRBME> set the channel purpose: Finding people who want to go to concerts with you", 
+    "ts": "1555694569.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "purpose": "Finding people who want to go to concerts with you"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555694569.000200", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }
+]

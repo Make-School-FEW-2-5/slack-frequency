@@ -1,0 +1,33 @@
+{
+  "profile": {
+    "first_name": "Info", 
+    "status_expiration": 0, 
+    "display_name": "Abdelrahman", 
+    "status_emoji": "", 
+    "avatar_hash": "g4477cd0048d", 
+    "title": "", 
+    "status_text_canonical": "", 
+    "skype": "", 
+    "real_name": "Abdelrahman Ibrahim", 
+    "image_24": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-24.png", 
+    "phone": "", 
+    "real_name_normalized": "Abdelrahman Ibrahim", 
+    "image_512": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-512.png", 
+    "display_name_normalized": "Abdelrahman", 
+    "image_32": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-32.png", 
+    "image_48": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-48.png", 
+    "team": "T1D4KRBR8", 
+    "image_72": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-72.png", 
+    "status_text": "", 
+    "email": "info@jetpe.com", 
+    "image_192": "https://secure.gravatar.com/avatar/4477cd0048d2c21aecca600fc1cd3900.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0006-192.png"
+  }, 
+  "updated": 1554277452, 
+  "name": "info", 
+  "presence": "away", 
+  "deleted": true, 
+  "is_app_user": false, 
+  "is_bot": false, 
+  "team_id": "T1D4KRBR8", 
+  "id": "UA3KCG5HD"
+}

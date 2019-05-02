@@ -1,0 +1,1540 @@
+[
+  {
+    "client_msg_id": "7BCDA1BB-5B27-4C50-BCC5-606AD7AE3ED4", 
+    "text": "I\u2019ll be about 7 minutes late to huddles today", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556728072.002400"
+  }, 
+  {
+    "client_msg_id": "79d60215-092a-47fb-af9e-44296252653e", 
+    "text": "Not feeling well so won't make it to huddles", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1556726333.001900"
+  }, 
+  {
+    "client_msg_id": "09967D8B-5CD4-4CC3-A2B7-3304DFCA7C55", 
+    "text": "I will be really late to huddles this morning", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556641155.001000"
+  }, 
+  {
+    "client_msg_id": "37326ee2-ee39-4836-b4ee-a1a9abc027a3", 
+    "text": "Won't make it to huddles this morning", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1556641028.000300"
+  }, 
+  {
+    "client_msg_id": "31344CB7-833F-42EB-9573-1FB9CE1C1AFC", 
+    "text": "I will be about 15 minutes late to huddles this morning.", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556296347.000600"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1556209878.003600", 
+    "text": "<@UCC0FMXCJ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "C2417B90-C3AC-4133-82B0-9383A2881D27", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCCL1R3EZ", 
+          "UCBQH1P6E", 
+          "UCC0HC7D0", 
+          "UCDAETD5L", 
+          "UCBHS9M3N"
+        ]
+      }
+    ], 
+    "text": "<!channel> many of you have called out for huddles today due to health form requirements and immunizations, so i'm informally cancelling huddles for just today. please come ready tomorrow to learn a cool backend web technique that <@UCDAETD5L> requested!", 
+    "ts": "1556208780.003200", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "56DD983D-75F8-48CA-A270-B7B205837485", 
+    "text": "yup!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556124236.004400"
+  }, 
+  {
+    "client_msg_id": "1B3C3736-FD67-4798-A10E-F6ADB505494A", 
+    "text": "<@UC36F4P2M> can we do the session where you code the content block shenanigans in front of us tomo!?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1556123697.004200"
+  }, 
+  {
+    "client_msg_id": "704a24dd-203c-44e2-b222-a2e77b012960", 
+    "text": "I'm running late, on the phone with my health insurance for jen", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1556123667.003300"
+  }, 
+  {
+    "client_msg_id": "8728e0db-1f93-4ef2-b03b-844e1b70d572", 
+    "text": "Long line at Starbucks.. gonna be a bit late", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1556123178.002800"
+  }, 
+  {
+    "client_msg_id": "9BF0E5AB-42DA-4046-B404-C028029876B1", 
+    "text": "and please take attendance and dm me", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556122111.002300"
+  }, 
+  {
+    "client_msg_id": "35DF7AD4-2DEB-4FBF-8F78-C64821CD9AC6", 
+    "text": "<!channel> could I get one of yall to lead huddle this morning while I prep for class? thank you :grin: use our bag of ideas if you need to get started!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556122095.001800"
+  }, 
+  {
+    "client_msg_id": "33686ff5-583c-4f5d-a182-0c5f586f1670", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Megan's Behavioral Interview Presentation: <https://docs.google.com/presentation/d/1B7NElogYNBRvqPe_QEuuBWnt2xn6j9ftsvhrIWGA5gY/edit?ts=5c40feac#slide=id.g4c1bfbc9fe_0_15>", 
+    "ts": "1556038969.001900", 
+    "user": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "key", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ62KAFJB", 
+        "size": 2394564, 
+        "title": "Behavioral Interview and Elevator Pitch.key", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ62KAFJB/behavioral_interview_and_elevator_pitch.key", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556038805, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ62KAFJB/download/behavioral_interview_and_elevator_pitch.key", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Keynote Document", 
+        "name": "Behavioral Interview and Elevator Pitch.key", 
+        "mimetype": "application/x-iwork-keynote-sffkey", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ62KAFJB-0901d7557f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FJ62KAFJB/behavioral_interview_and_elevator_pitch.key", 
+        "is_external": false, 
+        "created": 1556038805, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556038806.001500", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1A2B5660-51A1-403D-9421-D3D17E206666", 
+    "text": "Hey <@UC36F4P2M>, I\u2019m going to be running 10mins late.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1556036604.001300"
+  }, 
+  {
+    "client_msg_id": "e9e3247b-c742-4d81-8a66-7c55999ec294", 
+    "text": "Running late - working up a coding storm since early with jet-lagged roommate", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1556035720.000500"
+  }, 
+  {
+    "client_msg_id": "dfcad19d-a0f2-442a-9073-b03a1d02b2b9", 
+    "text": "Getting there late hella sore did an 11 mile ruck hike...", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1555950798.001000"
+  }, 
+  {
+    "client_msg_id": "A327282E-77D8-4734-AB41-A2DCB0B84CE6", 
+    "text": "Going to be slightly late to get food", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1555950354.000500"
+  }, 
+  {
+    "client_msg_id": "8EBC2F03-2F58-4489-95F4-394826F092C4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "<@UC36F4P2M> , I wanted to let you know that I will be missing huddles this morning.", 
+    "ts": "1555691537.001100", 
+    "user": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D8EEB22D-6B46-47A0-B1A4-970D92BE550F", 
+    "thread_ts": "1555603431.001300", 
+    "text": "thank you Ansel :pray::raised_hands:", 
+    "ts": "1555605700.004600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cd313890-4441-4c8d-a0a4-83c3fd6eeb9f", 
+    "thread_ts": "1555603431.001300", 
+    "text": "We decided to do some coding time. I can send you the attendance after huddles.", 
+    "ts": "1555605381.004100", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FE522980-E3AB-4832-B63D-AD25E41F1A9E", 
+    "text": "Missing huddles to pick up medicine - will be there at 10", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1555605255.004000"
+  }, 
+  {
+    "client_msg_id": "845BA80C-6F31-4E8D-9912-07881E840331", 
+    "text": "Running late i dropped my earpods somewhere :grimacing:", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1555604985.003100"
+  }, 
+  {
+    "client_msg_id": "fb0348c9-2ae9-4e9a-971e-f747c06fd1df", 
+    "text": "I won't make it to huddles this morning either", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1555604908.002800"
+  }, 
+  {
+    "client_msg_id": "1467DC71-E2AD-44EC-84AE-AB45322531BF", 
+    "text": "also attendance plz ", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1555604899.002500"
+  }, 
+  {
+    "client_msg_id": "5F511DC3-35D9-4CA5-B3C7-46DB2524832A", 
+    "thread_ts": "1555603431.001300", 
+    "latest_reply": "1555605700.004600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UC36F4P2M"
+    ], 
+    "text": "<!channel> can someone volunteer to lead a coding challenge for huddles today? \n\n:ferry: running behind but will make it for programming lab!", 
+    "ts": "1555603431.001300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1555605381.004100"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1555605700.004600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "F2627FEC-EB18-4A01-8336-2BBD9DFABE80", 
+    "text": "Won\u2019t make to huddles today", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1555518389.006300"
+  }, 
+  {
+    "client_msg_id": "BAD69643-B040-4E99-9152-F1C3388D2E12", 
+    "text": "slow lyft - 5 minutes behind but will be there asap", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1555518293.005900"
+  }, 
+  {
+    "client_msg_id": "7f610e6d-9bed-4b2e-9295-156cf8b72ab6", 
+    "text": "running a little behind today", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1555518043.005100"
+  }, 
+  {
+    "client_msg_id": "e6f7784a-9de5-4375-807f-3124685d6aeb", 
+    "text": "Won't make it to huddles", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1555513880.004800"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "xml", 
+        "lines_more": 28, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHLF0KK8S", 
+        "size": 1202, 
+        "title": "My notes on Dani's responses", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHLF0KK8S/my_notes_on_dani_s_responses.xml", 
+        "preview": "1. What information would you have to ingest?\r\n- What is being returned from the API\r\n\r\n2. How would you obtain this information from the other company?\r\n- Docs\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCC0HC7D0/FHLF0KK8S/my_notes_on_dani_s_responses.xml/edit", 
+        "username": "", 
+        "timestamp": 1555434925, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>1. What information would you have to ingest?</pre></div>\n<div><pre>- What is being returned from the API</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>2. How would you obtain this information from the other company?</pre></div>\n<div><pre>- Docs</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHLF0KK8S/download/my_notes_on_dani_s_responses.xml", 
+        "user": "UCC0HC7D0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "XML", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHLF0KK8S-7870f92db9", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0HC7D0/FHLF0KK8S/my_notes_on_dani_s_responses.xml", 
+        "name": "My_notes_on_Dani_s_responses.xml", 
+        "created": 1555434925, 
+        "lines": 33, 
+        "mode": "snippet", 
+        "preview_is_truncated": true
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555434925.004100", 
+    "display_as_bot": false, 
+    "user": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 8, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHX97JEUU", 
+        "size": 820, 
+        "title": "Yelp Problem Solving", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHX97JEUU/yelp_problem_solving.txt", 
+        "preview": "You have an array of nodes.  Each node referenced in the array can point to other nodes. These nodes may or may not be referenced in subsequent elements of this array. You must return the number of separate graphs/trees that are in this array. \r\n\r\n\r\n\r\nNote that each node has a property \u201cdata\u201d which is a string that you can set to any value you like, as well as an array of other nodes that it points to. \r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHX97JEUU/yelp_problem_solving.txt/edit", 
+        "username": "", 
+        "timestamp": 1555433331, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>You have an array of nodes.  Each node referenced in the array can point to other nodes. These nodes may or may not be referenced in subsequent elements of this array. You must return the number of separate graphs/trees that are in this array. </pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n<div><pre>Note that each node has a property \u201cdata\u201d which is a string that you can set to any value you like, as well as an array of other nodes that it points to. </pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHX97JEUU/download/yelp_problem_solving.txt", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHX97JEUU-06e3d022aa", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHX97JEUU/yelp_problem_solving.txt", 
+        "name": "Yelp_Problem_Solving.txt", 
+        "created": 1555433331, 
+        "lines": 13, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555433331.003600", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "xml", 
+        "lines_more": 0, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ1NP21AS", 
+        "size": 63, 
+        "title": "Yelp Problem solving", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1NP21AS/yelp_problem_solving.xml", 
+        "preview": "\r\nImplement a class that behaves as a generator for generators.", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FJ1NP21AS/yelp_problem_solving.xml/edit", 
+        "username": "", 
+        "timestamp": 1555433271, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>&#8203;</pre></div>\n<div><pre>Implement a class that behaves as a generator for generators.</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1NP21AS/download/yelp_problem_solving.xml", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "XML", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ1NP21AS-16ec0c3b7c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FJ1NP21AS/yelp_problem_solving.xml", 
+        "name": "Yelp_Problem_solving.xml", 
+        "created": 1555433271, 
+        "lines": 2, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555433271.003200", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 0, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHXQ3V89K", 
+        "size": 258, 
+        "title": "Yelp Problem Solving", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHXQ3V89K/Yelp_Problem_Solving.txt", 
+        "preview": "You have an origin on an X,Y axis on which there are an arbitrary number of points. Write a function to retrieve the closest 20 points from the origin. Assume you are already given a function for calculating the distance from the origin to a given point.\r\n\r\n", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHXQ3V89K/Yelp_Problem_Solving.txt/edit", 
+        "username": "", 
+        "timestamp": 1555433207, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>You have an origin on an X,Y axis on which there are an arbitrary number of points. Write a function to retrieve the closest 20 points from the origin. Assume you are already given a function for calculating the distance from the origin to a given point.</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHXQ3V89K/download/Yelp_Problem_Solving.txt", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHXQ3V89K-9cb0f74eb5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHXQ3V89K/Yelp_Problem_Solving.txt", 
+        "name": "Yelp_Problem_Solving.txt", 
+        "created": 1555433207, 
+        "lines": 3, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555433207.002900", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 12, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHRGTFT25", 
+        "size": 936, 
+        "title": "Yelp Architecture Interview", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHRGTFT25/Yelp_Architecture_Interview.txt", 
+        "preview": "Solving this question requires thinking about several topics that you will have to tackle during an architecture interview.\r\n\r\n\r\nYou own a movie browsing app. You want to design a feature where you can share the critical score of a movie on your app. You rely on another company for getting data for these scores. \r\n\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHRGTFT25/Yelp_Architecture_Interview.txt/edit", 
+        "username": "", 
+        "timestamp": 1555432958, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Solving this question requires thinking about several topics that you will have to tackle during an architecture interview.</pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n<div><pre>You own a movie browsing app. You want to design a feature where you can share the critical score of a movie on your app. You rely on another company for getting data for these scores. </pre></div>\n<div><pre></pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHRGTFT25/download/Yelp_Architecture_Interview.txt", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHRGTFT25-fdbe0b4707", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHRGTFT25/Yelp_Architecture_Interview.txt", 
+        "name": "Yelp_Architecture_Interview.txt", 
+        "created": 1555432958, 
+        "lines": 17, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555432958.002600", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1555432912.002500", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "786a1abe-e8a4-41e4-b01f-f753a687ece6", 
+    "text": "Running a bit late, but will be in Make School today", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1555432780.002300"
+  }, 
+  {
+    "client_msg_id": "1ec5dedd-934a-4469-a71d-3f813017fa8c", 
+    "text": "Wont be making it today, doctors appointment", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1555431851.001700"
+  }, 
+  {
+    "client_msg_id": "D4080EB7-5A8B-4F6F-882D-6B43767113D0", 
+    "text": "I\u2019m gonna be a little late to huddles this morning", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1555431100.001000"
+  }, 
+  {
+    "client_msg_id": "d465fd4f-c4ea-4417-994c-fd0e1629a5e1", 
+    "text": "Won't make it to huddles, but I'll be there for spd", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1555345459.000500"
+  }, 
+  {
+    "client_msg_id": "009B65E9-4D28-4F5F-A7BE-5FF89B440645", 
+    "text": "Hey <@UC36F4P2M> I\u2019m on the way but I\u2019m gonna be a little late this morning ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555085714.001300"
+  }, 
+  {
+    "client_msg_id": "7388049d-0709-4d62-9593-e764d6dece23", 
+    "text": "Not feeling well, will not be at huddles today", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1555085386.000500"
+  }, 
+  {
+    "client_msg_id": "d20bb737-e801-458c-b4ea-3696c645c5ed", 
+    "thread_ts": "1555002744.008700", 
+    "attachments": [
+      {
+        "thumb_height": 350, 
+        "thumb_url": "https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_cover.jpg", 
+        "thumb_width": 1100, 
+        "original_url": "https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/", 
+        "service_name": "HackerEarth", 
+        "title": "Merge Sort Tutorials &amp; Notes | Algorithms | HackerEarth", 
+        "title_link": "https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/", 
+        "text": "Detailed tutorial on Merge Sort to improve your understanding of Algorithms. Also try practice problems to test &amp; improve your skill level.", 
+        "from_url": "https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/", 
+        "fallback": "HackerEarth: Merge Sort Tutorials &amp; Notes | Algorithms | HackerEarth", 
+        "service_icon": "https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_identity.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Some thoughts: <https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/tutorial/>", 
+    "ts": "1555003128.008900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b8caebed-b599-4c13-8637-7e06068d2cb7", 
+    "thread_ts": "1555002744.008700", 
+    "latest_reply": "1555003128.008900", 
+    "attachments": [
+      {
+        "image_bytes": 139567, 
+        "original_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/", 
+        "text": "Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.", 
+        "title": "Loading...", 
+        "image_width": 481, 
+        "title_link": "https://leetcode.com/problems/median-of-two-sorted-arrays/", 
+        "image_height": 250, 
+        "image_url": "https://leetcode.com/static/images/LeetCode_Sharing.png", 
+        "service_name": "LeetCode", 
+        "from_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/", 
+        "fallback": "Loading...", 
+        "service_icon": "https://leetcode.com/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1555003128.008900"
+      }
+    ], 
+    "ts": "1555002744.008700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQH1P6E", 
+    "text": "The leetcode problem from this morning <@U6ZCE0AKG> <@UCB8U00KA>: <https://leetcode.com/problems/median-of-two-sorted-arrays/>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "F7BB2F89-5101-4E9D-B0CE-4762573C9402", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rainbow", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "thanks team :raised_hands: feel better those of you who are out today!", 
+    "ts": "1555000124.008000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A4DBFF7A-8107-45E4-8EC4-BC6A58112220", 
+    "text": "Dont think ill be at huddles either", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1554999827.007300"
+  }, 
+  {
+    "client_msg_id": "CEEB7112-344F-472D-A7BE-C2F11A09CAF0", 
+    "text": "Hey <@UC36F4P2M> I\u2019m not feeling well, so I will not be in huddles or programming lab today.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1554998653.006800"
+  }, 
+  {
+    "client_msg_id": "398D11CC-73C8-4AEB-802C-89A0BF5E285C", 
+    "edited": {
+      "user": "UCC0HC7D0", 
+      "ts": "1554997837.000000"
+    }, 
+    "thread_ts": "1554996834.002400", 
+    "text": "Thanks for being a helping hand and sharing your wealth of experience at the workshop last night. I can lead huddles into coding time.", 
+    "ts": "1554997748.004100", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ac5f643c-572e-4e62-a9a8-b29e71da5baf", 
+    "text": "<@UC36F4P2M> I can do that", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554997671.003300"
+  }, 
+  {
+    "client_msg_id": "750C2FF3-C9AB-4510-9A8C-0DF6C839C976", 
+    "thread_ts": "1554996834.002400", 
+    "latest_reply": "1554997748.004100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0"
+    ], 
+    "text": "<!channel> soldering workshop ran late last night so I'll be in for programming lab and not huddles. can I get a volunteer to lead the group on a CS / hacker rank problem? or yall can have some coding time :grin:", 
+    "ts": "1554996834.002400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1554997748.004100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "9a1b0ccd-5713-40f7-9798-b53b5f205304", 
+    "attachments": [
+      {
+        "thumb_height": 720, 
+        "thumb_url": "https://media.licdn.com/dms/image/C5105AQHhE12JeLS1xA/feedshare-thumbnail_720_1280/0?e=1555002000&v=beta&t=U5-SiZAFmfhmiWRkcCbCiohqco_cS-y1FZI5fXZwexo", 
+        "thumb_width": 1280, 
+        "original_url": "https://www.linkedin.com/feed/update/urn:li:activity:6517832075867983872", 
+        "text": "March 30, 2019: Soumik Rakshit posted on LinkedIn", 
+        "title": "Soumik Rakshit on LinkedIn: \"Completed the #computervision project on Game Control using Hand Gesture Recognition. Many thanks to Abhik Biswas, Souranil De and Srinjoy Saha for collaborating with me.  Special Mentions: Sujoy Datta and Kaushik Banerjee  Project Link: https://lnkd.in/f4SV6SX  \"", 
+        "title_link": "https://www.linkedin.com/feed/update/urn:li:activity:6517832075867983872", 
+        "service_name": "linkedin.com", 
+        "from_url": "https://www.linkedin.com/feed/update/urn:li:activity:6517832075867983872", 
+        "fallback": "Soumik Rakshit on LinkedIn: \"Completed the #computervision project on Game Control using Hand Gesture Recognition. Many thanks to Abhik Biswas, Souranil De and Srinjoy Saha for collaborating with me.  Special Mentions: Sujoy Datta and Kaushik Banerjee  Project Link: https://lnkd.in/f4SV6SX  \"", 
+        "service_icon": "https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.linkedin.com/feed/update/urn:li:activity:6517832075867983872>", 
+    "ts": "1554914691.000500", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "EF5E9A58-A600-4369-B9F1-54BEDF2D9AD0", 
+    "text": "Running 10 min late", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1554913948.000300"
+  }, 
+  {
+    "client_msg_id": "0876DBE4-50A3-4ECB-AED4-3BC74018E327", 
+    "text": "Hey <@UC36F4P2M>,  I\u2019m going to be 10mins late to huddles.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1554827326.003900"
+  }, 
+  {
+    "client_msg_id": "350a8ab2-b195-474a-9def-47bcdaeebcb7", 
+    "thread_ts": "1554826815.001800", 
+    "text": "Of course! Thank you!", 
+    "ts": "1554826994.002900", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "75085C0A-4078-430C-ACB1-1D5B11435EF4", 
+    "thread_ts": "1554826815.001800", 
+    "text": "thx for having my back yall! commuting is hard :sweat_smile:", 
+    "ts": "1554826910.002700", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "34892978-de1e-4b14-a8b4-50eb71f10636", 
+    "thread_ts": "1554826815.001800", 
+    "text": "goooo dylan!!", 
+    "ts": "1554826879.002100", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "321a5e6e-2d2e-4ef8-99d9-522924234b79", 
+    "thread_ts": "1554826815.001800", 
+    "text": "I volunteer as tribute", 
+    "ts": "1554826864.001900", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "defe75f4-d2e6-41dc-a69a-dee39140c8f0", 
+    "thread_ts": "1554826815.001800", 
+    "latest_reply": "1554826994.002900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDPE94Z", 
+      "UC36F4P2M", 
+      "UCC0HC7D0"
+    ], 
+    "text": "<!channel> - 7:45 ferry filled up so had to take the 8:30! can i get a volunteer to show off something cool that is code or art related? or a volunteer to bring up a hacker rank / cs problem and have the group work on it? :slightly_smiling_face: thanks team! see you at lab!", 
+    "ts": "1554826815.001800", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1554826864.001900"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554826879.002100"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554826910.002700"
+      }, 
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1554826994.002900"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "c931b0c1-e59a-45c7-86e3-d0e212bbb581", 
+    "thread_ts": "1554740419.015400", 
+    "text": "Hahaha. Np!", 
+    "ts": "1554740516.016800", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0A18F369-73E1-4B34-AE55-AAC10CA0AB80", 
+    "edited": {
+      "user": "UCFCFQ7KK", 
+      "ts": "1554740512.000000"
+    }, 
+    "thread_ts": "1554740419.015400", 
+    "text": "Ohhhhhhh well now this is awk thanks :+1:", 
+    "ts": "1554740487.016500", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cab18af4-cdcf-43e0-853a-f8714ce3ec26", 
+    "thread_ts": "1554740419.015400", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "And in other situations where you need to get in, there's a sticky note with the code on the door", 
+    "ts": "1554740458.015700", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a0378542-5dc3-4064-8ecf-7802dfac3588", 
+    "thread_ts": "1554740419.015400", 
+    "text": "Today's all hands", 
+    "ts": "1554740435.015500", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4E5697A3-B17A-4670-9676-580216ECAD74", 
+    "thread_ts": "1554740419.015400", 
+    "latest_reply": "1554740516.016800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC4S13NZ", 
+      "UCFCFQ7KK"
+    ], 
+    "text": "The upstairs door is locked? Where are we meeting?", 
+    "ts": "1554740419.015400", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1554740435.015500"
+      }, 
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1554740458.015700"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1554740487.016500"
+      }, 
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1554740516.016800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0d169ee3-eeb0-4e60-b3b4-ee10578cbe37", 
+    "thread_ts": "1554478634.010200", 
+    "text": "I hope you have a good day off!", 
+    "ts": "1554511236.014300", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E6E5CFB6-5C8F-48F0-A40E-9F91C314559A", 
+    "thread_ts": "1554478634.010200", 
+    "text": "Feel better <@UCCRGTD0X> :pray::skin-tone-3::pray::skin-tone-3:", 
+    "ts": "1554482209.013900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "67d29f62-4549-46d0-8d27-d528afdc745e", 
+    "thread_ts": "1554478634.010200", 
+    "text": "I wont be able to make it as i am ill", 
+    "ts": "1554480767.013400", 
+    "user": "UCCRGTD0X", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "EE4D9BF0-582C-4F66-B9D5-5CC23DC9503A", 
+    "thread_ts": "1554478634.010200", 
+    "text": "thx asim! :pray:", 
+    "ts": "1554480070.013200", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B432698D-40E8-4730-8517-05379D7B413B", 
+    "thread_ts": "1554478634.010200", 
+    "text": "Yeah I\u2019ll be there on time ", 
+    "ts": "1554480040.012600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2ff3b02e-c4af-4fbb-bea5-cad04481cfbc", 
+    "text": "Well, I'll be late. Trying to get my immunization records from the Broward county school district. :weary:", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1554478970.012300"
+  }, 
+  {
+    "client_msg_id": "7054745D-D709-4A93-B91D-96A178C4190F", 
+    "text": "and make sure attendence is taken :blush:", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554478660.010700"
+  }, 
+  {
+    "client_msg_id": "56BD3DAD-EE89-4951-9373-7D3DEFD1B8A6", 
+    "thread_ts": "1554478634.010200", 
+    "latest_reply": "1554511236.014300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UC36F4P2M", 
+      "UCCRGTD0X", 
+      "UCC0HC7D0"
+    ], 
+    "text": "I have the day off folks --- can someone volunteer to lead our huddle?", 
+    "ts": "1554478634.010200", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554480040.012600"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554480070.013200"
+      }, 
+      {
+        "user": "UCCRGTD0X", 
+        "ts": "1554480767.013400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554482209.013900"
+      }, 
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1554511236.014300"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "10506CD6-2A1E-4D07-AD26-0D8BCCD32C7B", 
+    "thread_ts": "1554476489.004500", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBS4EW59", 
+          "UCB91TXS4"
+        ]
+      }
+    ], 
+    "text": "No. This isn't a scalable thing to keep track of, and would violate the attendence policy. See any make school syllabus for the policy.", 
+    "ts": "1554478587.009100", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A88582D0-C7A5-4637-AB69-B8D89A6F1EE5", 
+    "text": "Hey <@UC36F4P2M>, just wanted to let you know I will not be in huddles today due to me having a  doctors appointment this morning.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1554478377.006200"
+  }, 
+  {
+    "client_msg_id": "9af506f3-46bb-41ce-8624-67ae87a5eb2e", 
+    "thread_ts": "1554476489.004500", 
+    "latest_reply": "1554478587.009100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "text": "Hey <@UC36F4P2M>, if you don't have an s&amp;l class, are you excused from school on Fridays? :thinking_face:", 
+    "ts": "1554476489.004500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS4EW59", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554478587.009100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "f2efe413-3f1f-48e7-9148-f9f2b0d53639", 
+    "thread_ts": "1554395072.000900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "zap", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Okay! Thanks for the heads up.", 
+    "ts": "1554395170.001000", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5C0EB85D-4B35-4EC8-8521-5635B810C37E", 
+    "thread_ts": "1554395072.000900", 
+    "latest_reply": "1554395170.001000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "ok_hand", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCB8U00KA", 
+          "UCBHS9M3N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dani", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel> gonna be 5 minutes late :sweat_smile: slow lyft ", 
+    "ts": "1554395072.000900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1554395170.001000"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1554303500.000200", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "f5352ed0-3ed8-47aa-a540-52860d9334ed", 
+    "text": "Love the name :100:", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554226769.008600"
+  }, 
+  {
+    "client_msg_id": "C4508B83-49A9-4691-BBB7-4879B9EC25D3", 
+    "thread_ts": "1554224433.005800", 
+    "text": "Hey I\u2019m coming back to SF today. I\u2019ll be at the huddles tomorrow :wink:", 
+    "ts": "1554226672.008000", 
+    "user": "U6YFC7074", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "18B5AD67-95BB-4523-B7F1-F55A8C6A92CF", 
+    "thread_ts": "1554224433.005800", 
+    "text": "yay thx folks!", 
+    "ts": "1554226486.007000", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ce2ab2f9-530d-4fde-a8a5-e7cfb9fec743", 
+    "thread_ts": "1554224433.005800", 
+    "text": "i had to stay in for a redelivery, i spoke to caroline about this yesterday", 
+    "ts": "1554226429.006600", 
+    "user": "UCCRGTD0X", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab3c0ef9-fae5-4266-b760-5004b7f3045a", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1554225796.000000"
+    }, 
+    "attachments": [
+      {
+        "author_id": "UCJ72FALU", 
+        "original_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1554218741099000", 
+        "is_thread_root_unfurl": true, 
+        "text": "<!channel> Reminder to  meet at 9:30 am in the Great Hall to find out your new Huddle group :grinning::make-school:", 
+        "footer": "Thread in #general", 
+        "ts": "1554218741.099000", 
+        "author_link": "https://makeschoolstudents.slack.com/team/UCJ72FALU", 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "author_name": "Caroline Virani [StuEx]", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1554218741099000", 
+        "author_subname": "Caroline Virani [StuEx]", 
+        "fallback": "[April 2nd, 2019 8:25 AM] caroline: <!channel> Reminder to  meet at 9:30 am in the Great Hall to find out your new Huddle group :grinning::make-school:", 
+        "author_icon": "https://avatars.slack-edge.com/2018-09-10/432109607616_2887d187c5077af4ec75_48.jpg", 
+        "id": 1
+      }
+    ], 
+    "thread_ts": "1554224433.005800", 
+    "text": "I saw Edwin post that he won\u2019t make it in a thread in <#C1D3YFP6G|general>: <https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1554218741099000>", 
+    "ts": "1554225759.006200", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "8744ea92-9b9b-4db1-93a1-56bf6bbce10e", 
+    "thread_ts": "1554224433.005800", 
+    "latest_reply": "1554226672.008000", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCCRGTD0X", 
+      "UC36F4P2M", 
+      "U6YFC7074"
+    ], 
+    "text": "unexcused: rohan, james, ali, connor, edwin, thomas, henry, kj", 
+    "ts": "1554224433.005800", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1554225759.006200"
+      }, 
+      {
+        "user": "UCCRGTD0X", 
+        "ts": "1554226429.006600"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554226486.007000"
+      }, 
+      {
+        "user": "U6YFC7074", 
+        "ts": "1554226672.008000"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHLFLHXNK", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHLFLHXNK/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 738588, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_800.jpg", 
+        "timestamp": 1554224325, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHLFLHXNK/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_1024.jpg", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHLFLHXNK-ead4dfcbaf", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FHLFLHXNK/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1554224325, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLFLHXNK-7922631da3/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "C84724A6-76B2-4570-B5F5-2609E550C9AF", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554224331.005200", 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1f575d0e-ccf0-473a-bd7d-b06f90193a8e", 
+    "text": "thx ansel!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554224287.005000"
+  }, 
+  {
+    "client_msg_id": "B95F8E9D-EF7F-4A97-A525-CB456FF8878D", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1554224300.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "Huddle things: <https://docs.google.com/document/d/107FFecP1NHtaQxFgKDTHqOtBHhHAl9ns2NH9PXQZCfU>", 
+    "pinned_info": {
+      "pinned_ts": 1555604757, 
+      "channel": "CHH0EU6N4", 
+      "pinned_by": "UCC0HC7D0"
+    }, 
+    "ts": "1554224284.004700", 
+    "pinned_to": [
+      "CHH0EU6N4"
+    ], 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHKCA26CC", 
+        "thumb_480_h": 480, 
+        "original_h": 1035, 
+        "thumb_360_w": 278, 
+        "title": "Huddle Grab Bag Ideas", 
+        "url_private": "https://docs.google.com/document/d/1_bBMEWAKoLyrRr_l3UqHREOpcvEzke1_VUAX--bRXd4/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_80.png", 
+        "thumb_360_h": 360, 
+        "size": 2201, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_800.png", 
+        "timestamp": 1554224024, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/FHKCA26CC/huddle_grab_bag_ideas", 
+        "name": "Huddle Grab Bag Ideas", 
+        "created": 1554224024, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1_bBMEWAKoLyrRr_l3UqHREOpcvEzke1_VUAX--bRXd4", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKCA26CC-3b5f67dcb3/huddle_grab_bag_ideas_720.png", 
+        "external_url": "https://docs.google.com/document/d/1_bBMEWAKoLyrRr_l3UqHREOpcvEzke1_VUAX--bRXd4/edit"
+      }
+    ], 
+    "client_msg_id": "0b09424a-d075-4b53-9468-692ff63ce414", 
+    "text": "<https://docs.google.com/document/d/1_bBMEWAKoLyrRr_l3UqHREOpcvEzke1_VUAX--bRXd4/edit>", 
+    "upload": false, 
+    "ts": "1554224272.003900", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "x_files": [
+      "FHKCA26CC"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1554223996.003700", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1554223996.003500", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCL1R3EZ> has joined the channel", 
+    "ts": "1554223995.003300", 
+    "subtype": "channel_join", 
+    "user": "UCCL1R3EZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1554223971.003100", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1554223971.002900", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1554223955.002700", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1554223955.002500", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1554223954.002300", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1554223936.002100", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1554223936.001900", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1554223936.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1554223936.001500", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1554223936.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1554223936.001100", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1554223935.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1554223935.000700", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "21d9a991-a8ca-4c33-a81d-28520fd3b039", 
+    "text": "```Ansel Bridgewater\nRohan Mishra\nJames Rezendes\nAli Shalabi\nCherish Kim\nConnor Cahill\nDylan Finn\nEdwin Cloud\nKeoni Murray\nLuc Boettner\nMarianna Campbell\nThomas Lee\nFaith Chikwekwe\nHenry Bowe, Jr.\nKJ Wilson```", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554223846.000500"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: the protocol buffers!", 
+    "ts": "1554223462.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "the protocol buffers!"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554223462.000200", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }
+]

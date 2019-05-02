@@ -1,0 +1,3514 @@
+[
+  {
+    "client_msg_id": "62416EA4-4836-45D2-AB05-396B76B026A1", 
+    "attachments": [
+      {
+        "original_url": "https://diceenvy.com", 
+        "service_name": "Dice Envy", 
+        "title": "Dice Envy | DND Dice Sets | Dungeons and Dragons Dice", 
+        "title_link": "https://diceenvy.com/", 
+        "text": "Dice for Pathfinder, Dungeons and Dragons and other tabletop RPG. These polyhedral dice sets will help you score a critical role in your dice tower, dice tray or dice box. Try a DND Dice set like our metal dice and see Dungeons &amp; Dragons, Pathfinder, or any other role playing game come to life.", 
+        "from_url": "https://diceenvy.com/", 
+        "fallback": "Dice Envy: Dice Envy | DND Dice Sets | Dungeons and Dragons Dice", 
+        "service_icon": "https://diceenvy.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Rainbow dice <https://diceenvy.com>", 
+    "ts": "1555716646.000300", 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5cab910-7e70-4dcb-bbb9-03836e08830b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Hey yeah, go ahead and start, I'll be there in about 30", 
+    "ts": "1554506188.002200", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "162189FC-D2F6-4ECF-94C0-5864EB6D25F2", 
+    "text": "<@UCBS4EW59> hey are you coming?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1554505791.002100"
+  }, 
+  {
+    "text": "<@UC7PP1PTR> has joined the channel", 
+    "ts": "1554505644.001600", 
+    "subtype": "channel_join", 
+    "user": "UC7PP1PTR", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "EC7D463C-F448-4654-9B2A-9922220FE1E3", 
+    "text": "I think this was the one <@UCBS25XMZ> <@UCC0GD5V0> <@U6YCV95L7> <@UC7PP1PTR> ", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1554505585.001200"
+  }, 
+  {
+    "client_msg_id": "9C8ABEAF-5BD4-4028-B668-CB7852BAD2B8", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/fKY1ORCSICY/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/Campster", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/fKY1ORCSICY", 
+        "video_html_width": 400, 
+        "author_name": "Errant Signal", 
+        "title_link": "https://youtu.be/fKY1ORCSICY", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/fKY1ORCSICY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/fKY1ORCSICY", 
+        "title": "What Does It Mean To Player Character?", 
+        "fallback": "YouTube Video: What Does It Mean To Player Character?", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://youtu.be/fKY1ORCSICY>", 
+    "ts": "1554505552.000200", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "667fdac7-f335-4211-9fc4-f4f30c39f55f", 
+    "thread_ts": "1553874859.000700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "We're in the same one I think", 
+    "ts": "1553883643.001300", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "466036BA-A180-46CC-ABF8-E0BA184CC790", 
+    "text": "Nvm saw this was addressed", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1553874895.001100"
+  }, 
+  {
+    "client_msg_id": "027382F8-F537-4146-A30A-45F68C75A99F", 
+    "thread_ts": "1553874859.000700", 
+    "latest_reply": "1553883643.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0"
+    ], 
+    "text": "I have my mock interview at 3pm", 
+    "ts": "1553874859.000700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8U00KA", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1553883643.001300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "ba68448e-738b-4cac-90fc-4b37e0dfb7a1", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1553880952.000000"
+    }, 
+    "thread_ts": "1553816014.001600", 
+    "text": "Just got some fresh intel:\n*Some folks have Mock Interviews tomorrow*\n\nI was under the impression they would have been completed today. D&amp;D will be started later, at the earliest 3:30pm.\n\nOffer still stands for Avalon!", 
+    "ts": "1553817900.002500", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "427681aa-885f-4fbf-bb5c-33e7aff9c816", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Maybe we can even get some Avalon in earlier on for those who don't play D&amp;D", 
+    "ts": "1553816034.002100", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5d8738e4-410a-495f-b6c9-1caaf87d7674", 
+    "thread_ts": "1553816014.001600", 
+    "latest_reply": "1553817900.002500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Hey team! Tomorrow there's no S&amp;L courses. Was thinking we could meet earlier for D&amp;D!!\n\nI can start as early as 1:00pm. What's best for everyone? Any qualms about timing? Post here or in discord!", 
+    "ts": "1553816014.001600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS25XMZ", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1553817900.002500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1553307673.000800", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1553306886.000600", 
+    "text": "<@U264ANGAE> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "sob", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "<@U6XV0FFEW> has left the channel", 
+    "ts": "1553306805.000400", 
+    "subtype": "channel_leave", 
+    "user": "U6XV0FFEW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3f9d572d-6ccd-4dd7-8f4f-2e41b272340f", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "d20", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 62018, 
+        "original_url": "https://discord.gg/UrQ7KsV", 
+        "service_name": "Discord", 
+        "title": "Discord - Free voice and text chat for gamers", 
+        "image_width": 476, 
+        "title_link": "https://discord.gg/UrQ7KsV", 
+        "image_height": 250, 
+        "image_url": "https://discordapp.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png", 
+        "text": "Step up your game with a modern voice &amp; text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more. Get your free server now!", 
+        "from_url": "https://discord.gg/UrQ7KsV", 
+        "fallback": "Discord: Discord - Free voice and text chat for gamers", 
+        "service_icon": "https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "For those interested: I am hosting two D&amp;D sessions over the spring break. Visit our Discord Channel for more information!\n&gt; <https://discord.gg/UrQ7KsV>", 
+    "ts": "1552280556.000800", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 533, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGFFYCNSG", 
+        "thumb_480_h": 320, 
+        "original_h": 1333, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-24, 7:25 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGFFYCNSG/image.png", 
+        "thumb_720_h": 480, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_80.png", 
+        "thumb_360_h": 240, 
+        "size": 4186127, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_800.png", 
+        "timestamp": 1551065156, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGFFYCNSG/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_1024.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGFFYCNSG-959e2263e9", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGFFYCNSG/image.png", 
+        "name": "image.png", 
+        "created": 1551065156, 
+        "thumb_1024_h": 682, 
+        "thumb_960_h": 640, 
+        "original_w": 2000, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFFYCNSG-e1c717fdcf/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heavy_check_mark", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551065163.002700", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1550871146.002600", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UCBS4EW59"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1550871146.002400", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UCBS4EW59"
+  }, 
+  {
+    "client_msg_id": "cc5a31bb-ee45-4136-bf41-f7ef8adeae46", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1550870041.000000"
+    }, 
+    "text": "Hey <!channel> \u2014 D&amp;D _will be returning_ tonight once again if you are interested! We will be in Stonehenge @5:00pm once again.\n\nNew players welcome!", 
+    "ts": "1550870034.002100", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "30C3B5C0-343B-4993-9640-1F8EF544CFE4", 
+    "thread_ts": "1549227115.001700", 
+    "text": "I won\u2019t be there. Have fun y\u2019all", 
+    "ts": "1549230930.003300", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8c405f3b-9e7a-4cff-95c0-2789ae2fe564", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1549227160.000000"
+    }, 
+    "thread_ts": "1549227115.001700", 
+    "text": "It's important that we know how many people are coming, so please tell us if you are coming or not!\n\nMessage here or in the Discord Channel.", 
+    "ts": "1549227142.001800", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e47896d4-2fb7-48d6-916b-79849bec9d87", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1549227188.000000"
+    }, 
+    "latest_reply": "1549230930.003300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "UCB8U00KA"
+    ], 
+    "thread_ts": "1549227115.001700", 
+    "text": "<!channel> Luc &amp; I are hosting a D&amp;D game today @ 3:30pm, his place. Details in Discord.", 
+    "ts": "1549227115.001700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBS25XMZ", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1549227142.001800"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1549230930.003300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1548378639.000200", 
+    "text": "<@UCC4S13NZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1548122803.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547599884.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "b5095e52-b4d3-45ce-95f8-d16b8f976c9f", 
+    "thread_ts": "1544818684.005400", 
+    "text": "Also more drinking games when we play again", 
+    "ts": "1544853905.006300", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c1e74ed7-a71b-422d-a470-49619817289c", 
+    "thread_ts": "1544818684.005400", 
+    "text": "It\u2019s okay <@UCC0KLBPU> \u2014 they killed the lich baby and found the legendary obsidian sword. What you all do with it next is up to you\u2026", 
+    "ts": "1544853888.006100", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "937e5c96-0ac8-45cb-a608-75a8fde53cb8", 
+    "thread_ts": "1544818684.005400", 
+    "text": "No worries. Apparently a little rain is enough to cancel a flight here lol. My flight got cancelled and my new one directly overlaps with DnD. Have fun fighting that monster though!", 
+    "ts": "1544823031.005900", 
+    "user": "UCC0KLBPU", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "316d55fa-1387-4001-b8ff-6066f691bad7", 
+    "thread_ts": "1544818684.005400", 
+    "text": "Yeah sure!! Id like someone else to handle the tech though since I've got my hands full", 
+    "ts": "1544818913.005700", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "faf276b7-0656-4200-8bd9-3887c6764111", 
+    "thread_ts": "1544818684.005400", 
+    "latest_reply": "1544853905.006300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "UCC0KLBPU"
+    ], 
+    "text": "oh man we stopped at such a good point! Can I call in or something? Going on a plane to LA in a bit", 
+    "ts": "1544818684.005400", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1544818913.005700"
+      }, 
+      {
+        "user": "UCC0KLBPU", 
+        "ts": "1544823031.005900"
+      }, 
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1544853888.006100"
+      }, 
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1544853905.006300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "f7dd0765-ae46-4fda-a175-ea0432784de4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "Okie dokie!", 
+    "ts": "1544813698.003800", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bee12505-683a-438e-a44d-9df46b7fc287", 
+    "text": "Yep!", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1544813690.003600"
+  }, 
+  {
+    "client_msg_id": "9c1419ef-01d9-422c-932c-b0538a9d397a", 
+    "text": "So we're doing this at MS today?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1544813683.003400"
+  }, 
+  {
+    "client_msg_id": "cc4a326d-f3f8-443a-be43-470c4c04125c", 
+    "text": "Yep! We still are!\n\nIt\u2019s going to be happening at 3:00pm, assuming people start trickling out of their S&amp;L classes early. We\u2019re playing early so Jen can make it out on time for a friend\u2019s bday!\n\nAlso, the plan is to play until around 6:30. We can go later if there\u2019s interest, since make school is not closing early today.", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1544813656.003100"
+  }, 
+  {
+    "client_msg_id": "a4b859cc-e0ad-42e2-bb7d-f3d252644e5e", 
+    "text": "<!here> <@UCBS25XMZ> are we doing D&amp;D today? If so, what time?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1544813375.000400"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650591.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEQ6G7HDL", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEQ6G7HDL/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1125062, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_800.jpg", 
+        "timestamp": 1544235677, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEQ6G7HDL/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_1024.jpg", 
+        "user": "U6YCV95L7", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEQ6G7HDL-89f1f25eea", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCV95L7/FEQ6G7HDL/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1544235677, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEQ6G7HDL-07cac4091e/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "droplet", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "ts": "1544235677.000100", 
+    "text": "<@U6YP200VB> and any other magic players, look at all this land!", 
+    "upload_reply_to": "DB0D1A33-288A-484B-AB9E-66793826E503", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3A0E88A3-CFD2-4CAD-B56E-F3133639DB18", 
+    "thread_ts": "1543881999.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "\u201cAh! The warlock Foo Bar welcomes you with open arms.\u201d", 
+    "ts": "1543885658.002000", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEJMGLJTF", 
+        "size": 2238, 
+        "original_h": 34, 
+        "thumb_360_w": 123, 
+        "title": "Pasted image at 2018-12-03, 4:57 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJMGLJTF/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJMGLJTF-92b5c996f1/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJMGLJTF-92b5c996f1/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJMGLJTF-92b5c996f1/image_80.png", 
+        "thumb_360_h": 34, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543885075, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJMGLJTF-92b5c996f1/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJMGLJTF/download/image.png", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJMGLJTF-b32254d8eb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEJMGLJTF/image.png", 
+        "name": "image.png", 
+        "created": 1543885075, 
+        "original_w": 123, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1543881999.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "musical_keyboard", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "this is my drow bard, Exmaple", 
+    "upload": true, 
+    "ts": "1543885078.000800", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ecc70267-8855-4211-a978-ffcb13085c33", 
+    "thread_ts": "1543881999.000100", 
+    "text": "foon-si-ton-shiUHn", 
+    "ts": "1543882993.000600", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1ba63201-eae3-4383-a1d1-71f8eb7a40a1", 
+    "thread_ts": "1543881999.000100", 
+    "text": "How is that pronounced??", 
+    "ts": "1543882124.000400", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEJLN8945", 
+        "size": 8534, 
+        "original_h": 36, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2018-12-03, 4:06 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJLN8945/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJLN8945-d5d5f756d5/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJLN8945-d5d5f756d5/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJLN8945-d5d5f756d5/image_80.png", 
+        "thumb_360_h": 30, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543881997, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJLN8945-d5d5f756d5/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJLN8945/download/image.png", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJLN8945-ae9b45f7bf", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEJLN8945/image.png", 
+        "name": "image.png", 
+        "created": 1543881997, 
+        "original_w": 426, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1543881999.000100", 
+    "latest_reply": "1543885658.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "UCC0GD5V0", 
+      "UCBLQTD7V"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "female_mage", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "my next dnd character is going to be named", 
+    "upload": true, 
+    "ts": "1543881999.000100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1543882124.000400"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1543882993.000600"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1543885078.000800"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1543885658.002000"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "82fa55ec-931b-4c9e-81be-614e430553c5", 
+    "text": "can we play a live action rpg one of these days where our physical location and interactions are part of the campaign. (\"you get a plus two to energy having eaten that twinkie but a -5 to physique)?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1542429811.008700"
+  }, 
+  {
+    "client_msg_id": "f327a866-b2cb-45a8-b42f-54c89b2ddcbd", 
+    "attachments": [
+      {
+        "original_url": "https://fate-srd.com/fate-core/default-skill-list", 
+        "service_name": "Fate SRD", 
+        "title": "Default Skill List", 
+        "ts": 1377571097, 
+        "title_link": "https://fate-srd.com/fate-core/default-skill-list", 
+        "text": "Here is the default list of skills for Fate Core, with example stunts for each.", 
+        "from_url": "https://fate-srd.com/fate-core/default-skill-list", 
+        "fallback": "Fate SRD: Default Skill List", 
+        "service_icon": "https://fate-srd.com/sites/default/files/favicon_0.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://fate-srd.com/fate-core/default-skill-list> these are the skills you can have. You get 4 +1 skills, 3 +2, skills, 2 +3 skills, and one +4 skills.", 
+    "ts": "1542426021.007300", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f53a8c1a-c9ec-4404-aed5-f7cef0a95654", 
+    "text": "k", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1542417594.006200"
+  }, 
+  {
+    "client_msg_id": "65ac5c05-4d68-4be6-9625-48c0d06019ab", 
+    "text": "Sorry, for some reason I thought we were starting at 5:30. I\u2019m at olume right now, but I will be there at 5:40.", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1542417535.006000"
+  }, 
+  {
+    "client_msg_id": "8135540d-e90e-45f8-91b0-a21508c3302a", 
+    "text": "We can finish early too btw", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1542416586.004500"
+  }, 
+  {
+    "client_msg_id": "4626404b-a15c-454d-a72f-c86493ba8c17", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "cry", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "I'm sorry, I'm gonna have to flake last minute. Not feeling super. Hope ya'll have fun though!", 
+    "ts": "1542416473.003700", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f39110a9-aff0-4af0-87ce-7e9cc4428d64", 
+    "text": "I'll be a little late to the game", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1542414078.003200"
+  }, 
+  {
+    "client_msg_id": "41ab06d6-02db-4258-835a-5ffa8e916aaf", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "umbrella", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "going to take a rain check. Something bad happened today and I want time to process. Definitely interested for the next round though.", 
+    "ts": "1542408634.002700", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e58cd847-4252-4b9c-bed6-2638d1fdcfca", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "game_die", 
+        "users": [
+          "UCC0GD5V0", 
+          "U6YCV95L7", 
+          "UCC0H4UJE", 
+          "UCB8U00KA", 
+          "UCBS4EW59", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "d20", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "<!channel> Fate game starting at 5pm at Vantaggio, going until 9pm. Emoji if you're coming!", 
+    "ts": "1542404862.001500", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e11c32d8-0884-4be4-9939-eab1f7906ffa", 
+    "text": "It's going to be an experimental world building session and we'll see where we want to take it from there. I anticipate we'll take longer than we have to actually play a one-shot but if we get to actual play we can do that as well.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1542314646.019800"
+  }, 
+  {
+    "client_msg_id": "41398590-b926-4b7f-a8cd-9e83994da0e4", 
+    "thread_ts": "1542313866.015200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Now I\u2019m jealous lol! I\u2019d like to play this Friday :sob:", 
+    "ts": "1542314220.017300", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fff42919-84b7-4437-af41-17791bc11c04", 
+    "edited": {
+      "user": "U6XCP1NLU", 
+      "ts": "1542314198.000000"
+    }, 
+    "text": "Oh, were you planning on doing more than a one-shot?\n\nI played a derivative of it based on the Dresden Files, and will say it\u2019s SIGNIFICANTLY heavier on roleplaying elements, creativity and the theatre-of-the-mind. There\u2019s also a lot more creativity involved, a lot less constraints. Would very much recommend.", 
+    "ts": "1542314191.017100", 
+    "user": "U6XCP1NLU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b18a061-e7f3-43d0-be0a-a9c70d7d224f", 
+    "thread_ts": "1542313866.015200", 
+    "latest_reply": "1542314220.017300", 
+    "attachments": [
+      {
+        "original_url": "https://fate-srd.com/fate-core/character-creation", 
+        "service_name": "Fate SRD", 
+        "title": "Character Creation", 
+        "ts": 1377569979, 
+        "title_link": "https://fate-srd.com/fate-core/character-creation", 
+        "text": "The moment you sit down to make the game and characters, you\u2019re playing Fate. Character creation tells part of the characters\u2019 stories, sets the stage for more stories, and is collaborative.", 
+        "from_url": "https://fate-srd.com/fate-core/character-creation", 
+        "fallback": "Fate SRD: Character Creation", 
+        "service_icon": "https://fate-srd.com/sites/default/files/favicon_0.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBS25XMZ"
+    ], 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1542314220.017300"
+      }
+    ], 
+    "ts": "1542313866.015200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "text": "Ok the more I read about it the more excited I am to play fate with you all. For the experimental session we'll just be doing world building and maybe get to character creation.\n\nIn preparation, you can think about genres in fiction you like and what elements you think are important. We could play in a D&amp;D-like fantasy land, a cyberpunk dystopia, treasure planet universe, a western with cowboys and train chases, or anything you can come up with. For example, the last time I played fate my group decided we really like space operas and had to decide if we wanted aliens in our world, how sophisticated AI is, and what kind of government structure we wanted our galactic society to have.\n\nAlso think about what kind of characters you enjoy playing: what kind of hero do you want to be? what role do you like playing in a party? what kind of trouble do you like to make? In fate you basically have infinite flexibility on what type of character you can play. The only restrictions are the ones we decide on as a group. My party ended up being a genetically constructed superhuman with a brain injury, a broken military AI who cannot harm humans under any circumstance, one accidental clone (out of thousands) of a random college girl from the rich people planet, and a 12 year old street rat computer prodigy.\n\n<https://fate-srd.com/fate-core/character-creation>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "085142ae-68d9-414c-b7cd-f0ff83bae58f", 
+    "text": "^^", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1542237481.003800"
+  }, 
+  {
+    "client_msg_id": "56ffc85c-c115-451d-a5ca-87638ff3d7bb", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "I'm down.", 
+    "ts": "1542233967.003300", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FE36RRLSC", 
+        "size": 20186223, 
+        "title": "FateCore.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE36RRLSC/fatecore.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1542231447, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE36RRLSC/download/fatecore.zip", 
+        "user": "UCC0GD5V0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "FateCore.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE36RRLSC-1736f43b2c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FE36RRLSC/fatecore.zip", 
+        "is_external": false, 
+        "created": 1542231447, 
+        "mode": "hosted"
+      }
+    ], 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1542231465.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "airplane_departure", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U6YCV95L7", 
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "Yo everyone so Nolan won't be here Friday. How would you all feel about trying the Fate system? As opposed to DnD it's more of a group story telling tabletop rpg where we all collectively decide what the world is like and then create characters to place into it. I've played it once before and had a great time.\n\nThe rules are simple yet kinda weird but easy to learn if you take it step by step. I can explain them all on the day of but if anyone wants to read through the rules beforehand see the attached PDF.\n\nAnyhoo, emoji up this post if you're interested.", 
+    "upload": true, 
+    "ts": "1542231449.002600", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "43ac6061-b24a-4b0a-9cfc-b6b33fe2b9d1", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "camera", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "frame_with_picture", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "missing this week's DnD. My time got eaten up by headshots", 
+    "ts": "1541808515.000600", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6f494ba2-7948-4a79-a0fa-1249674807b0", 
+    "text": "But for now I'm at the talks ", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540596932.008000"
+  }, 
+  {
+    "client_msg_id": "0dc7035a-3cd6-431e-b0fa-fb2576e57cbc", 
+    "text": "I definately can", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540596921.007700"
+  }, 
+  {
+    "client_msg_id": "00797e86-8ce3-450e-accc-262eacd9348d", 
+    "text": "But if enough people want to start like NOW", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540596916.007500"
+  }, 
+  {
+    "client_msg_id": "4401c3e9-67e8-4e85-9384-83f9063fe89a", 
+    "text": "I'm not sure how many people will be in lightning talks but I'm right up by the podium. ", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540596907.007100"
+  }, 
+  {
+    "client_msg_id": "3062eaa1-2070-49f5-9311-d7c48187f0af", 
+    "text": "Hey all!! I'm in the great hall right now ", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1540596888.006400"
+  }, 
+  {
+    "client_msg_id": "68479514-8766-4759-87bb-7a9381910ab8", 
+    "text": "<!here> I've been coding like a madman today and may in fact be able to go to DnD tonight. When does it start?", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1540596624.006000"
+  }, 
+  {
+    "client_msg_id": "061cad47-c1de-4cf8-90d4-0d1d05f2139d", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1540576881.000000"
+    }, 
+    "thread_ts": "1540574590.002900", 
+    "text": "I think we're the last two lightning talks too. Each one is ~5 minutes and there are maybe 6-8 people lined up. I would not be too sad if you started without me.", 
+    "ts": "1540576865.004700", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dd63b0d7-dcb3-45d1-92e3-e4df8b3bb752", 
+    "thread_ts": "1540574590.002900", 
+    "text": "<@UCB8U00KA> <@UCC0GD5V0>\nWell, we have some options.\n- Play some other game up until the point where you two come\n- Start without you and just play it by ear\n\nIts up to what everyone wants. If more people are interested in the lightning talks, then I\u2019m inclined to join them myself at that point!", 
+    "ts": "1540576611.004300", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5bed2d10-1204-49ca-9446-6ba0083a77a6", 
+    "text": "^ ditto", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1540574723.003500"
+  }, 
+  {
+    "client_msg_id": "4fd46440-9a41-441b-96a4-721c35615f13", 
+    "text": "Also, I'm doing a lightning talk so I'll be late anyway", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1540574603.003300"
+  }, 
+  {
+    "client_msg_id": "e32ce786-ec1a-45d3-b333-e3e9402483af", 
+    "thread_ts": "1540574590.002900", 
+    "latest_reply": "1540576865.004700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "UCC0GD5V0"
+    ], 
+    "text": "<@UCBS25XMZ> They're doing lightning talks in the great hall until 5:45pm. Are we gonna wait until after the talks?", 
+    "ts": "1540574590.002900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB8U00KA", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1540576611.004300"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1540576865.004700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "d0a1a722-2c50-4eb6-af83-859dc9ac6fd9", 
+    "thread_ts": "1540530643.000500", 
+    "text": "But yep! We are doing dnd for everyone else wondering. Depending on if Jen will be joining us today, we will be in the great hall", 
+    "ts": "1540571252.002000", 
+    "subtype": "thread_broadcast", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "6774e5a9-5824-45c4-a3f7-8cb9d5af4ed3", 
+      "thread_ts": "1540530643.000500", 
+      "latest_reply": "1540571252.002000", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCBS25XMZ"
+      ], 
+      "text": "if we're doing DnD tomorrow I'm going to take a rain check. Got a very busy weekend", 
+      "ts": "1540530643.000500", 
+      "type": "message", 
+      "reply_count": 2, 
+      "user": "UCC0KLBPU", 
+      "replies": [
+        {
+          "user": "UCBS25XMZ", 
+          "ts": "1540571089.001400"
+        }, 
+        {
+          "user": "UCBS25XMZ", 
+          "ts": "1540571252.002000"
+        }
+      ], 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "client_msg_id": "7a62a1ae-fafd-4f2f-979c-4f15ee29dbf6", 
+    "thread_ts": "1540530643.000500", 
+    "text": "No problem! Just be here next week if you can - I've got something special planned :D", 
+    "ts": "1540571089.001400", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6774e5a9-5824-45c4-a3f7-8cb9d5af4ed3", 
+    "thread_ts": "1540530643.000500", 
+    "latest_reply": "1540571252.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ"
+    ], 
+    "text": "if we're doing DnD tomorrow I'm going to take a rain check. Got a very busy weekend", 
+    "ts": "1540530643.000500", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1540571089.001400"
+      }, 
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1540571252.002000"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "460b043f-3052-4ee8-a40b-27207644822f", 
+    "text": "Realized startup weekend starts tonight so I'll be joining you late if at all.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539995509.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1539993317.000200", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2f22b42d-bf7e-4c0b-a8cf-6fd89695ea3a", 
+    "text": "Not going to be able to make it. Ticco spent all his Avalon money on salmon for Micco's grave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1539986279.000100"
+  }, 
+  {
+    "client_msg_id": "6adc0ac0-650a-499e-8feb-f3eeb77e6162", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1539985855.000000"
+    }, 
+    "text": "Speaking of \u2014 we\u2019ll be doing Avalon after we do some quick level-ups in D&amp;D! If anyone would like to join us, feel free to.", 
+    "ts": "1539985832.000100", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aa4897d1-6763-4854-bdf6-5047dfbd3389", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "<!channel> members of Nolan's game, we will be meeting at Vantaggio today after product pitches. I will be late, but go on without me.", 
+    "ts": "1539984612.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "97F3E1CC-F67C-4B97-8FD8-D6280F70B394", 
+    "text": "Yeah it\u2019s crazy. It\u2019s so specific how can you doubt me though.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1538782904.000100"
+  }, 
+  {
+    "client_msg_id": "c59d5625-209f-470a-b483-49d0391212e9", 
+    "text": "_You got bodied by a one armed man?_", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1538782733.000100"
+  }, 
+  {
+    "client_msg_id": "577A1CE3-8EC5-450C-9DB0-80B6A2F1B4F8", 
+    "text": "Have a good game!", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1538782442.000100"
+  }, 
+  {
+    "client_msg_id": "1C336524-F5CA-40ED-BBAB-2663C0D71F50", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "one", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hey, guys I won\u2019t be in attendance, because my legs are broken. Someone broke my legs. A one armed man actually. But yeah I\u2019ll see you guys next week. I should up and running by then (super fast healer).", 
+    "ts": "1538782421.000100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bf3ca392-0d88-4c6e-b0b8-8bfb33f83c67", 
+    "text": "<@U6YCV95L7> <@U6XCP1NLU> <@UCBLQTD7V> <@UCC0H4UJE> <@UCC0H4UJE> <@UCDAMHRDL> <@UCC0GD5V0> <@UCC0KLBPU> <@UCC0GL52N>", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1538769703.000100"
+  }, 
+  {
+    "client_msg_id": "e3acf62c-c525-4545-be97-765caf00752e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "hole", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dragon", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "d20", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": "Hi everyone! Nolan's game IS going to be at Make School today. Don't leave Make School if you are here. If you're not here, we'll start round 4:30pm", 
+    "ts": "1538769639.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ccafb22e-0875-4483-804a-75f3dccc3bc9", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "baby::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "baby_bottle", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/0sFmt_kIUbg/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/channel/UCpvwuQXsXPpa6Mc4w-bYg-w", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/0sFmt_kIUbg", 
+        "video_html_width": 400, 
+        "author_name": "The Fun Police", 
+        "title_link": "https://youtu.be/0sFmt_kIUbg", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/0sFmt_kIUbg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/0sFmt_kIUbg", 
+        "title": "Babies &amp; Boomers | Sketch Comedy", 
+        "fallback": "YouTube Video: Babies & Boomers | Sketch Comedy", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://youtu.be/0sFmt_kIUbg>", 
+    "ts": "1538539907.000100", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab49320f-39df-443b-a727-6c9ebf07a71c", 
+    "text": "fun times! :+1:", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1538193137.000100"
+  }, 
+  {
+    "client_msg_id": "9914ac67-f106-4994-8c23-34146b5788b1", 
+    "text": "Jen will be joining us next week", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1538177313.000100"
+  }, 
+  {
+    "client_msg_id": "23ce2971-1897-463e-a97d-4ebf6b9fe33f", 
+    "text": "My dnd will still be in the dorms after all, still ventaggio :) ", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1538177305.000100"
+  }, 
+  {
+    "client_msg_id": "d9333a7a-2594-4360-82ec-4301df949146", 
+    "text": "Lost mines starting at 4:45 in the great hall. Lmk if you want to play and don't have a character sheet.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1538177141.000100"
+  }, 
+  {
+    "client_msg_id": "a6b56f26-ff02-4976-b8e5-214bd8403dbe", 
+    "thread_ts": "1538169594.000100", 
+    "text": "Sorry will :sob:", 
+    "ts": "1538175810.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "433c98c8-11c8-4492-88ce-be1429a3d624", 
+    "thread_ts": "1538169594.000100", 
+    "text": "We're doing it back at Vantaggio again", 
+    "ts": "1538175801.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "68efe39b-7125-4b36-bf7e-fb529e221f3c", 
+    "thread_ts": "1538169594.000100", 
+    "text": "Stop!", 
+    "ts": "1538175790.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "31d19ed0-1e98-4002-b0f6-ada79d9ae724", 
+    "thread_ts": "1538169594.000100", 
+    "text": "Wait!", 
+    "ts": "1538175787.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E1B846E6-FAA7-4D6A-81C0-5863B0571E3B", 
+    "thread_ts": "1538169594.000100", 
+    "text": "On my way, Willert is still at his 9-5 right now :joy:", 
+    "ts": "1538175306.000100", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a6cc5c7d-6312-459a-bfe6-def2fe532547", 
+    "thread_ts": "1538169594.000100", 
+    "text": "Yeah, we're doing it at MS today", 
+    "ts": "1538174884.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6C1615C8-955A-4271-8BCB-10B275B65A6A", 
+    "thread_ts": "1538169594.000100", 
+    "text": "Is this concrete yet, Should I make my way back to MS? ", 
+    "ts": "1538174756.000100", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "649a84e3-bca1-4793-ae59-c99594587528", 
+    "thread_ts": "1538169594.000100", 
+    "latest_reply": "1538175810.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAMHRDL", 
+      "UCB8U00KA"
+    ], 
+    "text": "We might be playing Nolan's game at Make School today, so if you are here, DONT LEAVE YET!", 
+    "ts": "1538169594.000100", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCB8U00KA", 
+    "replies": [
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1538174756.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538174884.000100"
+      }, 
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1538175306.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538175787.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538175790.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538175801.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538175810.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "12bfb227-7d23-425e-bfed-0672819ce595", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1537547955.000000"
+    }, 
+    "thread_ts": "1537545367.000100", 
+    "text": "I\u2019ll still be running mine \u2014 so if you created your own character with me, we will be in the ventagio again this evening at 4:00pm for D&amp;D !!", 
+    "ts": "1537547937.000100", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "crossed_swords", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GD5V0"
+        ]
+      }
+    ]
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1537547561.000200", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "1c8db6bd-9f08-45f0-8720-994815ff3094", 
+    "thread_ts": "1537545367.000100", 
+    "latest_reply": "1537547937.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ"
+    ], 
+    "text": "For anyone wanting to play pick up D&amp;D this week: I won't be running my game today. Come play next week!", 
+    "ts": "1537545367.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1537547937.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "b0431917-548e-415d-8c00-67b74484c287", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS25XMZ", 
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "magic", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "female_elf", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "grin", 
+        "users": [
+          "UCD9FM8GN"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "world_map", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 900, 
+        "thumb_url": "https://i.redditmedia.com/llmnMOvqhvCmBeTN8hlThGENjxkv1V2IrU1FTBHrJzk.gif?fm=jpg&s=0d7ac1b0ae6cd2955c0c666676619b16", 
+        "thumb_width": 1440, 
+        "original_url": "https://www.reddit.com/r/DnD/comments/9gdkw1/oc_i_couldnt_find_the_perfect_worldbuilding_tool/", 
+        "service_name": "reddit", 
+        "title": "r/DnD - [OC] I couldn't find the perfect world-building tool for me, so I made one! Introducing LegendKeeper!", 
+        "title_link": "https://www.reddit.com/r/DnD/comments/9gdkw1/oc_i_couldnt_find_the_perfect_worldbuilding_tool/", 
+        "text": "2,066 votes and 69 comments so far on Reddit", 
+        "from_url": "https://www.reddit.com/r/DnD/comments/9gdkw1/oc_i_couldnt_find_the_perfect_worldbuilding_tool/", 
+        "fallback": "reddit: r/DnD - [OC] I couldn't find the perfect world-building tool for me, so I made one! Introducing LegendKeeper!", 
+        "service_icon": "https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.reddit.com/r/DnD/comments/9gdkw1/oc_i_couldnt_find_the_perfect_worldbuilding_tool/>", 
+    "ts": "1537148400.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2066dafb-5f9d-4977-aa3a-2b408a25d3dd", 
+    "text": "People in my game: We will be in the dorm :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1536969021.000100"
+  }, 
+  {
+    "client_msg_id": "775d7a88-df75-4cf1-b3bf-d6f8b87c506f", 
+    "text": "People in my game: we're actually playing here at make school", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1536969010.000100"
+  }, 
+  {
+    "client_msg_id": "2aff5e6e-4b00-4d07-b67d-3e142ba25c8e", 
+    "text": "Yeah! I\u2019ll be going soon", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1536969001.000100"
+  }, 
+  {
+    "client_msg_id": "596f6565-5c12-40d9-a15f-a3458ff9255c", 
+    "text": "<@UCBS25XMZ> should I wait for you guys here at Vantaggio or are you starting there?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536968899.000100"
+  }, 
+  {
+    "client_msg_id": "0393c9d6-e414-42b2-bd9f-33ec4abc2774", 
+    "text": "Yeah, we probably could have communicated about this better and earlier.", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536968497.000100"
+  }, 
+  {
+    "client_msg_id": "6BF9B017-6990-4C05-B425-87F1FE27619F", 
+    "text": "I dunno what\u2019s going on ", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536968475.000100"
+  }, 
+  {
+    "client_msg_id": "b9f17483-6cb6-4d59-b609-378875dc33fb", 
+    "text": "are you guys at the school?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536968460.000200"
+  }, 
+  {
+    "client_msg_id": "befc7e3a-4af4-4dbe-aeb4-6f99c4a444cb", 
+    "text": "Oh, no. I thought we were meeting over here today", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536968451.000100"
+  }, 
+  {
+    "client_msg_id": "D5904737-D68A-4D47-8AF7-5DC5665783AE", 
+    "text": "Are you running your own group Faith?", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536967864.000100"
+  }, 
+  {
+    "client_msg_id": "a40e4f31-e563-4557-9167-471aac5b3a7c", 
+    "text": "For anyone coming to D&amp;D today, we are at Vantaggio in the rec room.", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536967126.000100"
+  }, 
+  {
+    "client_msg_id": "440d1329-2ddd-45a5-b85c-98ac2832586c", 
+    "thread_ts": "1536593709.000100", 
+    "text": "It would be better if they were dogs thoooooo.....", 
+    "ts": "1536593932.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1131, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FCQFC0NBC", 
+        "thumb_480_h": 480, 
+        "original_h": 4961, 
+        "thumb_360_w": 255, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FCQFC0NBC/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_64.jpg", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1281022, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_800.jpg", 
+        "timestamp": 1536593699, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FCQFC0NBC/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_1024.jpg", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FCQFC0NBC-26f7446264", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FCQFC0NBC/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1536593699, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3508, 
+        "thumb_960_w": 679, 
+        "thumb_1024_w": 724, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FCQFC0NBC-546b18de79/image_from_ios_720.jpg"
+      }
+    ], 
+    "thread_ts": "1536593709.000100", 
+    "upload_reply_to": "97627B6B-3F3D-439E-B8E1-7176DD244A1E", 
+    "latest_reply": "1536593932.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "cat2", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBLQTD7V", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "smiley_cat", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1536593709.000100", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0H4UJE", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1536593932.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "9D2178E6-2F1F-49C1-A10B-1EB743F81365", 
+    "text": "Did D&amp;D start at the vant yet? ", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1536371766.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCFRMA9V1", 
+    "ts": "1536364546.000200", 
+    "text": "<@UCFRMA9V1> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f9f2dad3-4ed1-4db1-81af-eb27ee1f907c", 
+    "text": ":wave::grin:", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1536362837.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1536362831.000200", 
+    "text": "<@UCBS4EW59> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "CE109ABA-964E-4B05-88A0-3296AC172F51", 
+    "text": "<@UCC0KLBPU> remind me :)?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536294246.000100"
+  }, 
+  {
+    "client_msg_id": "789A9495-6132-4336-9D2A-0E4AE089F7AA", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "notes", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Yes! I\u2019ll bring it! :grin:", 
+    "ts": "1536294105.000100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "628ad311-588b-4aae-8b6b-3eef27c342a4", 
+    "text": "Also <@UCBLQTD7V> are you able to bring your ukulele tomorrow? I haven't played in a while, but I can try since I'm a bard :smile:", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536292909.000100"
+  }, 
+  {
+    "client_msg_id": "3aec0a25-b6fd-44e0-8f2b-50c916e2cd82", 
+    "text": "I think its 4pm. Since we haven't found another place yet, I believe we're meeting at school during board games time again.", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536292870.000100"
+  }, 
+  {
+    "client_msg_id": "EACFEC56-8EC1-4906-9984-11A8212CE2DB", 
+    "text": "What time tomorrow?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536292127.000100"
+  }, 
+  {
+    "client_msg_id": "132417f4-96c8-48ad-a67a-c611a6d8dc9f", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "magic", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBLQTD7V", 
+          "UCBS25XMZ", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "star-struck", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 393440, 
+        "original_url": "https://www.dnd-spells.com", 
+        "text": "Dungeons and Dragons 5e D&amp;D - Spells, Tools, Spell cards, Spellbooks, PDF, Print", 
+        "title": "Spell cards, PDF. Spells index and Spellbooks for D&amp;D | DND-Spells, The tool for Dungeons and Dragons 5e", 
+        "image_width": 720, 
+        "title_link": "https://www.dnd-spells.com/", 
+        "image_height": 250, 
+        "image_url": "https://www.dnd-spells.com/images/2.jpg", 
+        "service_name": "dnd-spells.com", 
+        "from_url": "https://www.dnd-spells.com/", 
+        "fallback": "Spell cards, PDF. Spells index and Spellbooks for D&amp;D | DND-Spells, The tool for Dungeons and Dragons 5e", 
+        "service_icon": "https://www.dnd-spells.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "I\u2019ve found <https://www.dnd-spells.com> to be a very useful reference. You can select spells and make spellcards", 
+    "ts": "1536184181.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5f304953-a197-4e8e-acb6-0204d5dac781", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Yeah. I think I finally figured it out about why its kicking people.\n&gt;Enabling the temporary membership option means that members who join are automatically kicked when they disconnect unless a role is assigned.\nSo, I\u2019ve *disabled* temporary membership, and updated the invite in the previous post! That discord link should now work properly :thumbsup:", 
+    "ts": "1536175350.000100", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4926f5ae-8a95-42bf-9eab-ac6795f2e814", 
+    "edited": {
+      "user": "U6XCP1NLU", 
+      "ts": "1536173650.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "http://5etools.com/", 
+        "text": "A suite of tools for players and DMs of D&amp;D 5e.", 
+        "title": "5etools", 
+        "title_link": "http://5etools.com/", 
+        "service_name": "5etools.com", 
+        "from_url": "http://5etools.com/", 
+        "fallback": "5etools", 
+        "service_icon": "https://5etools.com/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Recently just joined up. Looks like the discord needs permissions.\nAlso useful if we\u2019re doing\u2026 assuming 5e?\n<http://5etools.com/>", 
+    "ts": "1536173633.000100", 
+    "user": "U6XCP1NLU", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1536173496.000200", 
+    "text": "<@U6XCP1NLU> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1536086326.000200", 
+    "text": "<@UCC0KLBPU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2501b3eb-9b9f-4992-91c4-c348b7152281", 
+    "thread_ts": "1536018591.000100", 
+    "text": "Dropping files will always say this. You can ignore it. We don't have a paid Slack", 
+    "ts": "1536025455.000100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "855a8d38-e689-40c4-8280-8d39c4913a09", 
+    "thread_ts": "1536018438.000100", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "grin", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "I'm sort of like beetlejuice", 
+    "ts": "1536021778.000100", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b3c4c545-d5f7-474d-9e15-367350705ccc", 
+    "text": "hmm, i'll try on my phone.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536021001.000100"
+  }, 
+  {
+    "client_msg_id": "e3631540-e618-45b9-b2f8-3535d080b3ea", 
+    "text": "ah", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536020994.000200"
+  }, 
+  {
+    "client_msg_id": "f8694ebb-697c-4176-9136-388303afe58c", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1536019255.000000"
+    }, 
+    "thread_ts": "1536018438.000100", 
+    "text": "Hey Jamie, I think you are already in the discord channel under \u2018jamiejamiejamie\u2019. Maybe you can login in the web browser\u2026 try <https://discordapp.com/channels/@me>", 
+    "ts": "1536019250.000100", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "393eaa51-61e1-447e-9aca-3398f10ac976", 
+    "text": "the link is supposed to open up in the discord app", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536018860.000100"
+  }, 
+  {
+    "client_msg_id": "5431c0e4-4173-4a4b-be41-6295b1482c55", 
+    "text": "yeah i can see them", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536018691.000100"
+  }, 
+  {
+    "client_msg_id": "a350960a-041e-48d7-8fb2-74bc0d212396", 
+    "thread_ts": "1536018591.000100", 
+    "latest_reply": "1536025455.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N"
+    ], 
+    "text": "\"slackbot [4:49 PM]\nYour file was uploaded \u2014 it\u2019s safe and sound in Slack. Unfortunately your workspace doesn\u2019t have any storage space left. To get more space, you can upgrade to a paid account or delete some of your older files.\"", 
+    "ts": "1536018591.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1536025455.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "7b60749b-f55b-478d-8dac-727f84020377", 
+    "text": "(not sure if you guys can see those pics)", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536018569.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 500, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FCKKTLCGG", 
+        "thumb_480_h": 300, 
+        "original_h": 2400, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2018-09-03 at 4.46.28 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FCKKTLCGG/screen_shot_2018-09-03_at_4.46.28_pm.png", 
+        "thumb_720_h": 450, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_80.png", 
+        "thumb_360_h": 225, 
+        "size": 2862192, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_800.png", 
+        "timestamp": 1536018550, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FCKKTLCGG/download/screen_shot_2018-09-03_at_4.46.28_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_1024.png", 
+        "user": "UCBLQTD7V", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FCKKTLCGG-6440a1b53f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBLQTD7V/FCKKTLCGG/screen_shot_2018-09-03_at_4.46.28_pm.png", 
+        "name": "Screen Shot 2018-09-03 at 4.46.28 PM.png", 
+        "created": 1536018550, 
+        "thumb_1024_h": 640, 
+        "thumb_960_h": 600, 
+        "original_w": 3840, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FCKKTLCGG-09e8af4794/screen_shot_2018-09-03_at_4.46.28_pm_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1536018558.000100", 
+    "display_as_bot": false, 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fe210213-c6a2-45d1-bead-52ac22c78316", 
+    "text": "but then i accept the invite and...", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1536018508.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 500, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FCLBMRBCJ", 
+        "thumb_480_h": 300, 
+        "original_h": 2400, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2018-09-03 at 4.46.35 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FCLBMRBCJ/screen_shot_2018-09-03_at_4.46.35_pm.png", 
+        "thumb_720_h": 450, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_80.png", 
+        "thumb_360_h": 225, 
+        "size": 7419571, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_800.png", 
+        "timestamp": 1536018488, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FCLBMRBCJ/download/screen_shot_2018-09-03_at_4.46.35_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_1024.png", 
+        "user": "UCBLQTD7V", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FCLBMRBCJ-4504da014c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBLQTD7V/FCLBMRBCJ/screen_shot_2018-09-03_at_4.46.35_pm.png", 
+        "name": "Screen Shot 2018-09-03 at 4.46.35 PM.png", 
+        "created": 1536018488, 
+        "thumb_1024_h": 640, 
+        "thumb_960_h": 600, 
+        "original_w": 3840, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FCLBMRBCJ-a873ecb756/screen_shot_2018-09-03_at_4.46.35_pm_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1536018495.000100", 
+    "display_as_bot": false, 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fadf6150-5b4c-4a1a-8f21-ea24f244f26f", 
+    "thread_ts": "1536018438.000100", 
+    "latest_reply": "1536021778.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "UCBLQTD7V"
+    ], 
+    "text": "it could be the vantaggio, but you're link brings me here:", 
+    "ts": "1536018438.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1536019250.000100"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1536021778.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "5b828686-507a-40c8-bc9a-3830ccee0c6e", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1536174645.000000"
+    }, 
+    "text": "_Hi all!_ For those of you that are participating in D&amp;D, I have a couple of things to ask each of you about your characters for next session\u2026.\n\n\n\n*_\u2026.But first things\u2019 first -- please join Discord if you haven\u2019t yet!!_*\nDiscord is like Slack, but geared towards gamers.\n\nIts available as a desktop app, a phone app, and a web app.\n\n&gt;_Here is an invitation to my D&amp;D Discord server._\n*&gt; <https://discord.gg/HQEgzTU> *\n\n\n\nI would like to separate my education from D&amp;D\u2026\n\n\u2026so, I\u2019m dictating that all matters for my game must be discussed on Discord, lest our Slack Messages be filled with distracting information! _(especially mine - with many direct messages)_\n\n\n\n\n\nI\u2019ll DM each of you within Discord about your personal character customization soon.", 
+    "pinned_info": {
+      "pinned_ts": 1536021040, 
+      "channel": "C2QJ4CN21", 
+      "pinned_by": "UCBS25XMZ"
+    }, 
+    "ts": "1536017348.000100", 
+    "pinned_to": [
+      "C2QJ4CN21"
+    ], 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e218ff07-1e29-47c1-bfcb-cd433baa49d7", 
+    "text": "That's what my character is going to be!", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1535939603.000100"
+  }, 
+  {
+    "client_msg_id": "9b5565e1-0197-483c-bc15-1d74feb4e800", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS25XMZ", 
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Love the ghostwise halflings!", 
+    "ts": "1535848072.000100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC6K65P", 
+    "ts": "1535765654.000200", 
+    "text": "<@UCBC6K65P> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "9eb9d776-f2dd-4bb6-bfe8-0eb891b96a74", 
+    "text": "My Google Drive for Homebrew Rules &amp; Extra Content:\n<https://drive.google.com/drive/u/0/folders/11jtehL8khrpezxEuzoRY0TaOpWw6mL37>", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1535759552.000100"
+  }, 
+  {
+    "client_msg_id": "dc2b558e-f74e-4bce-9539-6f60cd59827a", 
+    "text": "<https://homebrewery.naturalcrit.com/share/HJmyjn5rqG> &lt;&lt;&lt; Racial Abilities", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1535758674.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1535758655.000200", 
+    "text": "<@UCBLQTD7V> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "44ff0c4e-d57f-4a89-b581-f5e5122f4220", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1550772035.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 62018, 
+        "original_url": "https://discord.gg/x7UnFv", 
+        "service_name": "Discord", 
+        "title": "Discord - Free voice and text chat for gamers", 
+        "image_width": 476, 
+        "title_link": "https://discord.gg/x7UnFv", 
+        "image_height": 250, 
+        "image_url": "https://discordapp.com/assets/ee7c382d9257652a88c8f7b7f22a994d.png", 
+        "text": "Step up your game with a modern voice &amp; text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more. Get your free server now!", 
+        "from_url": "https://discord.gg/x7UnFv", 
+        "fallback": "Discord: Discord - Free voice and text chat for gamers", 
+        "service_icon": "https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://discord.gg/HQEgzTU> &lt;&lt;&lt; Discord Channel", 
+    "ts": "1535758585.000100", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1535748447.000200", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c206e432-078e-4be4-8ba3-5193e35a2f1a", 
+    "text": "Just wanted to mention more about what we\u2019re doing in D&amp;D today. It\u2019s an introductory session, where we\u2019ll go over the basic rules, create characters, and talk about the fantasy setting \u2014 so everyone is invited!!\n\nThis time, there is no limit to the number of players, since we are just doing the basics. This is a good way for people to get a feel for the game and my DM style without committing to a long-term campaign.\n\nIn the future there will be a limited number of spots, but we\u2019ll play it by ear!", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1535743262.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1535738041.000200", 
+    "text": "<@UCD9FM8GN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1535737612.000200", 
+    "text": "<@UCDPM021J> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "11987087-FC54-4DCC-86F9-3A7228BA0F96", 
+    "text": "Present ", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1535606583.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1535606566.000200", 
+    "text": "<@UCDAMHRDL> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1535595984.000200", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1535593866.000200", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1535592757.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "183ff3de-bc3d-4c3b-b361-c6b19a58a74b", 
+    "text": "eyyyy", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1535591783.000100"
+  }, 
+  {
+    "client_msg_id": "b6cceeab-b5ad-4871-9ea0-750c188801dd", 
+    "text": "yoooooooooooooooo", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1535591698.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1535591692.000200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel topic: Friday Evening games anyone? ", 
+    "ts": "1535591588.000200", 
+    "topic": "Friday Evening games anyone? ", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel purpose: Dungeons and Dragons, Avalon, Exploding Kittens, Smallworld and more!", 
+    "ts": "1535591588.000100", 
+    "subtype": "channel_purpose", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "purpose": "Dungeons and Dragons, Avalon, Exploding Kittens, Smallworld and more!"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1534962839.000200", 
+    "text": "<@UCBS25XMZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1524709381.000221", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1522870564.000520", 
+    "text": "<@U6XCTHTQQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z2W3BH9", 
+    "ts": "1505149678.000236", 
+    "text": "<@U6Z2W3BH9> has joined the channel"
+  }, 
+  {
+    "text": "probably in the upcoming couple of weeks", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1505097515.000028"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1505097497.000089", 
+    "text": "hey everyone! I'm DMing a game at 851 and wanted to put out an open invitation to join :smile:"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1505097439.000148", 
+    "text": "<@U6XV0FFEW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1505084783.000058", 
+    "text": "<@U6XE4NNSZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1505077432.000018", 
+    "text": "<@U6YFC7074> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1505007411.000010", 
+    "text": "<@U6XCTHTQQ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1505005878.000002", 
+    "text": "<@U6XJLPQ9Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1504999547.000035", 
+    "text": "<@U6YFF5B50> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1D5KQLRJ", 
+    "ts": "1485818268.000002", 
+    "text": "<@U1D5KQLRJ> has left the channel"
+  }, 
+  {
+    "text": "Haven't heard much about it, so I can't say for sure. It seems pretty neat, but I'd have to research it a bit to see if it is mechanically sound and fun.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1479937530.000003"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> <https://www.amazon.com/gp/product/1616619902> thoughts on this?", 
+    "type": "message", 
+    "user": "U2G4NJC0H", 
+    "ts": "1479937413.000002"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1478737678.000002", 
+    "text": "<@U1D5LANSZ> has left the channel"
+  }, 
+  {
+    "text": "<!channel> Made a separate channel for the rpg game. Check out <#C2VUZ9H5M|openlegendrpg> for details on the game if you're interested in joining at any time!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477774385.000034"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1D5BDLAC"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477597997.000033", 
+    "text": "<!channel>: I'll be in the main room in about 5 minutes if anyone wants to go over their character."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "robot_face", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1E8XGEK1", 
+      "ts": "1477538156.000000"
+    }, 
+    "text": "Down if you're funding my robot suit", 
+    "ts": "1477537968.000029", 
+    "user": "U1E8XGEK1", 
+    "type": "message"
+  }, 
+  {
+    "text": "Brave enough sure,but I don't have any utensils to actually ress up, so I'll have to see about that", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477502576.000028"
+  }, 
+  {
+    "text": "Depends", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477502538.000027"
+  }, 
+  {
+    "text": "Anybody brave enough to dress as their character for Friday?", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1477496869.000026"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F2U9YG9RP", 
+        "size": 1686245, 
+        "title": "Open_Legend_Character_Sheet_Fillable.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F2U9YG9RP/open_legend_character_sheet_fillable.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1477463590, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F2U9YG9RP/download/open_legend_character_sheet_fillable.pdf", 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "Open_Legend_Character_Sheet_Fillable.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F2U9YG9RP-fcca4a37c6", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2U9YG9RP/open_legend_character_sheet_fillable.pdf", 
+        "is_external": false, 
+        "created": 1477463590, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "<!channel> Found a form0fillable pdf for you all to write down character information. Use it. Love it. Learn it.", 
+    "upload": true, 
+    "ts": "1477463591.000025", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "text": "If ya backstorys aint ya thang. A backstory for your character can be as long and detailed or simple and mysterious as you want, imagine your characters ultimate form.. what's driving you to get there?  Or maybe what past events have got them to where they are now. in the midst of a band of misfits, facing certain peril but fighting to make their dream come true. Or roll low int and speak in the third person.", 
+    "type": "message", 
+    "user": "U1E8XGEK1", 
+    "ts": "1477456570.000024"
+  }, 
+  {
+    "text": "<!channel>: Wait, shit. I have to go get my car key made tomorrow during lunch. Thursday!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477449858.000023"
+  }, 
+  {
+    "text": "<!channel>: Let\u2019s meet during lunch/maker time/core time some day this week. Everyone who wants to play on Sunday needs to find me, schedule a time, and make their character. We need to do your stats, then you need to send me your backstory. It can be as simple or as elaborate as you want. If we can all meet together at lunch one or two days this week, I can probably make all of the characters so we don\u2019t have to go over the same questions 5 times. lol How does tomorrow at lunch sound for you guys?", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477449821.000022"
+  }, 
+  {
+    "text": "Yeah I would love to play on Sunday if that's possible! ", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1477448248.000021"
+  }, 
+  {
+    "text": "Make Character till Sunday, PLAY ON  SUNDAY :game_die:", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477444277.000020"
+  }, 
+  {
+    "text": "<!channel>: Also! If you haven't already filled out the doodle, and are interested in joining, fill out he doodle! It helps me plan for the game better and let's me make sure I pick a time that works best for everyone!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477442415.000019"
+  }, 
+  {
+    "text": "<!channel>: At this time, it looks like Saturday or Sunday afternoon is best for everyone. For me, Sunday afternoon would probably be best, but if we want to meet before Sunday to make characters, we can actually play on Sunday. If you all have you characters ready by then (I can help! Just ask!), I can have an adventure planned for you.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477442333.000018"
+  }, 
+  {
+    "text": "<!channel> TL;DR Fill in the doodle so we can get started!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477420135.000017"
+  }, 
+  {
+    "text": "Alright, after doing some research, new plan: Switching over to Open Legend because it allows us to not worry about racial or class bonuses. Open Legend Character Creation is much easier and provides even more avenues for customization and awesome stuff. I apologize for the confusion. I didn\u2019t know about Open Legend until yesterday, but I can tell you that it fits our campaign and the various skill levels of our group even better than Fantasy AGE. Sorry to confuse everyone with that. Last time it\u2019s changing, I promise. \n\nWe need to schedule a time to go over the rules, character creation, and gameplay mechanics with everyone at some point. If you could fill out the doodle with times/dates that work for you, I can meet with everyone at once, or a couple groups of people if that\u2019s easier. \n\n<http://doodle.com/poll/i7xm8uquqhd77md8>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "title": "Doodle: Let's Play Tabletop!", 
+        "text": "Seems like we've lost a lot of momentum since the world-building on Friday, but I don't want that to be the case! Fill out the doodle so I can meet with all of you to talk about your characters, how to play the game, and how to get the most out of your play!", 
+        "image_width": 300, 
+        "title_link": "http://doodle.com/poll/i7xm8uquqhd77md8", 
+        "image_height": 200, 
+        "image_url": "http://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "Doodle", 
+        "from_url": "http://doodle.com/poll/i7xm8uquqhd77md8", 
+        "fallback": "Doodle: Let's Play Tabletop!", 
+        "service_icon": "http://doodle.com/dist/normal/i/650dd6854eeca2499449e1a762978fc2.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1477420103.000015", 
+    "user": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<!channel> For a more customized experience, there\u2019s also the Open Legend system, just newly released, that uses lots of dice and a cool \u201cexploding dice\u201d mechanic that lets you reroll and add any die that rolls max value. It allows for much more character customization, so there\u2019s a bit more information, but it, like Fantasy AGE, is designed to allow new players to jump in fairly easily. I\u2019m researching it a bit more now to see which might be better for the group, but feel free to check out the website (<http://www.openlegendrpg.com/>) for more inspiration for your characters!", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 208805, 
+        "title": "Open Legend RPG", 
+        "text": "An Open-Source Tabletop RPG (Role-Playing Game) built with flexibility, community contribution, and continuous evolution in mind. Join the community, try the game, and share your story.", 
+        "image_width": 247, 
+        "title_link": "http://www.openlegendrpg.com/", 
+        "image_height": 250, 
+        "image_url": "http://www.openlegendrpg.com/assets/img/open_legend_saryth_navigator_night_in_forest.jpg", 
+        "service_name": "openlegendrpg.com", 
+        "from_url": "http://www.openlegendrpg.com/", 
+        "fallback": "Open Legend RPG", 
+        "service_icon": "http://www.openlegendrpg.com/assets/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1477416267.000013", 
+    "user": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<!channel> One last note for those of you concerned about how many options there can be in a game like this: Fantasy AGE makes this really REALLY simple: there are only 3 starting classes: Mage, Rogue, Warrior. Specializations evolve from there, and character customization options are nearly limitless. Beyond the options in the book, there may be opportunities for players to earn additional skills, stat boosts, and bonuses outside the normal methods for acts of great roleplay, Really Cool Shit (RCS)(TM), and other scenarios events! The rule of cool lives here!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477377747.000012"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F2TNQJGV8", 
+        "size": 503756, 
+        "title": "Titans Grave Player Information.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F2TNQJGV8/titans_grave_player_information.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1477376831, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F2TNQJGV8/download/titans_grave_player_information.pdf", 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "Titans Grave Player Information.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F2TNQJGV8-7fddab1dbe", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2TNQJGV8/titans_grave_player_information.pdf", 
+        "is_external": false, 
+        "created": 1477376831, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1477376832.000011", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F2TNK9L81", 
+        "size": 4632223, 
+        "title": "Fantasy AGE Player Information.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F2TNK9L81/fantasy_age_player_information.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1477376830, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F2TNK9L81/download/fantasy_age_player_information.pdf", 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "Fantasy AGE Player Information.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F2TNK9L81-d8dca27caf", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2TNK9L81/fantasy_age_player_information.pdf", 
+        "is_external": false, 
+        "created": 1477376830, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "Read it! Learn it! Love it!", 
+    "upload": true, 
+    "ts": "1477376831.000010", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "text": "<!channel> Alright you tabletop RPG nerds! Listen up! From what I\u2019ve gathered, we\u2019re pretty much over creating the world and most people are ready to play. This is great! I\u2019m excited that you are excited! \n\nHowever, only a couple of people have approached me and asked about their characters or asked questions about the game! I take this to mean that only a couple people are really seriously interested in playing. This is fine! I don\u2019t expect everyone to play, nor do I think I could successfully guide everyone who expressed interest without some help! I just need to know who wants to play, who wants to spectate, and who wants to just jump in every once in a while to play a recurring character. If you want to play, and can commit to playing frequently (once every 1-2 weeks) then you will be part of the core group. Anyone not part of the core group is welcome to join whenever they are available! And people may come and go from the core group over time. That\u2019s fine! I just need to know who actually wants to play! \n\nTo that end, I\u2019m providing 2 pdfs below that include all of the necessary information for players to learn everything you want to know about the system we\u2019re going to be playing. Do I expect you to read all of it? Of course not, but the more you do read, the better prepared you will be. I\u2019m happy to answer any questions you might have, and many questions will surely be asked in the first few sessions of play. \n\nLuckily, the Fantasy AGE system is incredibly easy (specifically designed to be playable even for people who are completely new to RPGs) to make characters with, so the number one thing I need everyone to do is simply figure out who you want to play! There are several races and classes available in the books! Pick a combination that seems cool to you and makes sense and we will make it work! (Obviously, any mention to \u201ccomputers\u201d or \u201cblasters\u201d or other future tech will be replaced with an equivalent version in our own campaign). \n\nFor those of you who are a little more advanced or who want to take it a step further, if there is a specific race or class that does not exist in these books that you would like to explore, talk to me! If you are willing to put in the effort to make it happen, I am absolutely willing to make that happen for you! I want you to have fun just as much (if not more!) than you do! That\u2019s my entire job as your Game Master, and I couldn\u2019t be more excited!\n\n\nSo get pumped! Be excited! AND LET\u2019S ROLL THOSE DICE!!!!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477376785.000009"
+  }, 
+  {
+    "text": "I AM A PRIVATE PERSON", 
+    "type": "message", 
+    "user": "U1E8XGEK1", 
+    "ts": "1477341298.000008"
+  }, 
+  {
+    "text": "Github repo for shared documents. Anything you want public (character images, inventory lists, notes, artwork you\u2019ve made\u2026etc.) goes here.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477339642.000007"
+  }, 
+  {
+    "text": "<https://github.com/Hassurunous/MakeSchoolRPGGroup>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 400, 
+        "thumb_url": "https://avatars3.githubusercontent.com/u/14242863?v=3&s=400", 
+        "thumb_width": 400, 
+        "title": "Hassurunous/MakeSchoolRPGGroup", 
+        "service_name": "GitHub", 
+        "title_link": "https://github.com/Hassurunous/MakeSchoolRPGGroup", 
+        "text": "MakeSchoolRPGGroup - Collection of notes, resources, and tools that are available to the Make School RPG group that will be playing a form of Dungeons and Dragons or other tabletop RPG, led by me.", 
+        "from_url": "https://github.com/Hassurunous/MakeSchoolRPGGroup", 
+        "fallback": "GitHub: Hassurunous/MakeSchoolRPGGroup", 
+        "service_icon": "https://github.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1477339601.000005", 
+    "user": "U1T2Q3G81"
+  }, 
+  {
+    "text": ":game_die: With dming details, I don't think we need another entire session dedicated to worldbuilding", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477333165.000004"
+  }, 
+  {
+    "text": "I\u2019m probably going to use the Fantasy AGE system (linked the pdf above), with a few custom modifications.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477329873.000003"
+  }, 
+  {
+    "text": "Have we decided on the System yet?", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477329617.000002"
+  }, 
+  {
+    "text": "Shoot me character ideas, questions, concerns, or anything else you are curious about! I\u2019ve already had a couple requests for custom classes/races, including some pretty neat ability options, and we\u2019ve discussed ways to make sure that nobody feels over/under-powered. I can meet with everyone individually to talk about their characters, if you\u2019d like, I just need you to set a time that works for you and send me a calendar invite. If you bring some research you\u2019ve done about the idea you have, all the better, but if not, we can certainly look it up together! My calendar should be publicly viewable, and pretty much the same as everyone else\u2019s, so feel free to come see me if you have any questions at all!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477296150.000018"
+  }, 
+  {
+    "text": "<!channel> Hey guys! Today didn\u2019t end up happening, but that\u2019s alright! I still want to give everyone the opportunity to contribute to the world creation, so I\u2019ve put together another doodle to find a time/day that works for everyone. If we\u2019d rather just stop the exercise now, you can instead vote here (use the :game_die: to vote for this option) and I can instead have everyone who still wants to contribute pm me their ideas instead. Fill out the doodle and/or vote here with :game_die: to move past the world-building group game.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477295764.000017"
+  }, 
+  {
+    "text": "I'm down for now lol, tbh just forgot lol", 
+    "type": "message", 
+    "user": "U2G4NJC0H", 
+    "ts": "1477268903.000016"
+  }, 
+  {
+    "text": "same, working on code in the castro right now :rainbow:", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1477266010.000015"
+  }, 
+  {
+    "text": "count me out for today", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477264732.000014"
+  }, 
+  {
+    "text": "<!channel> meeting on whenever you guys get here.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477264514.000013"
+  }, 
+  {
+    "text": "Down for 4pm", 
+    "type": "message", 
+    "user": "U2G4NJC0H", 
+    "ts": "1477256481.000012"
+  }, 
+  {
+    "text": "<!channel> Another note! Although the PDF I linked is the system we will be using, don\u2019t feel like you are limited to what is in the PDF! Custom races, classes, abilities, spells\u2026etc. are all up for grabs! Just run them by me first so I can look into them to find something similar that has been playtested a bit, and we can work out a way to implement it. If you want to be a gunslinger, if you want to channel divine energies, if you want to channel demons, if you want to be a necromancer\u2026etc. it\u2019s all possible! Just send me a message, or come talk to me in 505 and we\u2019ll figure out some way to do it! Feel free to scour the internet for inspiration or build something completely new!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477249939.000011"
+  }, 
+  {
+    "text": "<@U1T2Q3G81>: 4 is fine for me! Thanks for putting in so much effort!", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1477249031.000010"
+  }, 
+  {
+    "text": "The description, from the document is: Going around the group, each player will create one \u201cEra\u201d or one \u201cEvent\u201d. An Era describes a time period for the world, while an event describes some notable event within an Era. After everyone has had a turn, the next player in the order becomes the \u201cLens\u201d and drafts a \u201cFocus\u201d for this round of play. \n\nThe \u201cFocus\u201d describes what you want the group to focus on describing during this round of play. It can be as wide or narrow in scope as you want. You\u2019re the \u201cLens\u201d! The \u201cLens\u201d, after determining the \u201cFocus\u201d, can take a \u201cnested\u201d action, meaning he/she can place two Eras, Events, or Questions, but must post their second inside the first (i.e. An Era and an Event, an Event and a Question). \u201cQuestions\u201d are questions about a particular Event that the person can answer themselves, or they can ask for an answer from the group, or even a particular member. A \u201cQuestion\u201d can also be acted out as a \u201cScene\u201d, in which the players will all get involved in a particular story within the timeline to determine the direction of events! Once the round has completed, and it comes back to the \u201cLens\u201d\u2019s turn, he/she can make another nested action, a single action, or pass their turn.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477248234.000009"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gdoc", 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "F2SPUU7EZ", 
+        "size": 3832, 
+        "thumb_360_w": 360, 
+        "title": "World-Building Template", 
+        "url_private": "https://docs.google.com/a/students.makeschool.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit?usp=drivesdk", 
+        "thumb_360": "https://a.slack-edge.com/b008f/img/files/gdraw_360.png", 
+        "thumb_64": "https://a.slack-edge.com/6f1e1/img/files/gdraw_64.png", 
+        "thumb_360_h": 167, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1477089475, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2SPUU7EZ/world-building_template", 
+        "name": "World-Building Template", 
+        "created": 1477089475, 
+        "mode": "external", 
+        "external_id": "1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ", 
+        "external_url": "https://docs.google.com/a/students.makeschool.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit?usp=drivesdk"
+      }
+    ], 
+    "edited": {
+      "user": "U1T2Q3G81", 
+      "ts": "1509910160.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1477248206.000008", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1D5GPACX> If you check out the document I linked above (which I\u2019ll link again here), it\u2019s a part of the game we were playing to build the world of the game we\u2019ll be playing. <https://docs.google.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit#>", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477248206.000007"
+  }, 
+  {
+    "text": "Also, if you guys want to use cool miniatures (or even just card stock miniatures) let me know! I know several places where I can buy dozens of cool minis for both your own characters and for the monsters and baddies we will face. I\u2019ve also found a cool campaign setting that I can adapt to the game, but I have to buy it first, so that\u2019s another expense that I\u2019d like to ask for help with. If you guys want to chip in, just shoot me a message, or send me few bucks on Venmo with \u201ctabletop games\u201d in the comments, and I\u2019ll start setting money aside for cool props, including maps, miniatures, books, music, and more!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477248155.000006"
+  }, 
+  {
+    "text": "What's a lens?", 
+    "type": "message", 
+    "user": "U1D5GPACX", 
+    "ts": "1477248081.000005"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F2T362X2N", 
+        "size": 8787645, 
+        "title": "mgdihs.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F2T362X2N/mgdihs.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1477247985, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F2T362X2N/download/mgdihs.pdf", 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "mgdihs.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F2T362X2N-a7d195690e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2T362X2N/mgdihs.pdf", 
+        "is_external": false, 
+        "created": 1477247985, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "This is probably the system we are going to use. I have a ton of other resources for it, including character sheets, cheat sheets, cool dungeon- and world-making tools, and more.", 
+    "upload": true, 
+    "ts": "1477247986.000004", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1GJHRYLE> has joined the channel", 
+    "ts": "1477247156.000003", 
+    "subtype": "channel_join", 
+    "user": "U1GJHRYLE", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<!channel> Going to start setting up at 4. We\u2019ll start as soon as we have enough people. <@U1GJHRYLE> was our next Lens, then ross, me, enzo, nemo, bob. (I think I might be missing one of the people who was there at the end, but I\u2019m not sure). We don\u2019t have to make it through everybody if we decide as a group that it is enough, but I want to at least make sure that everyone has their say, gets to create their own Legend/Icon, and is engaged with the story. \n\nGiven how many people have decided to join, we will probably have to run two groups, unless the \u201ccore group\u201d (the group that shows up every time/nearly every time) is small enough. We\u2019ll deal with that when the time comes. \n\nIf you have a cool idea for a character, great! Send me your ideas! I can help you build something fun and engaging! Or, if you don\u2019t have an idea for a character, or you want to let Fate decide what kind of character you want to play, you can do that as well. Fate characters will have the potential to be stronger than built characters, but can also be weaker. They are a gamble! PM me if you are interested!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477247148.000002"
+  }, 
+  {
+    "text": "Don\u2019t forget guys! Tomorrow afternoon (I\u2019m thinking around 4) we\u2019re going to be finishing up the creation of the world. You\u2019re welcome to send ideas after that, and I will incorporate them if they make sense, but I\u2019m already filled to the brim with cool, fun, awesome ideas that I can\u2019t wait to share with the group! Let me know if 4 works for you. If so, we\u2019ll probably meet in the common area. See you there!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477210751.000002"
+  }, 
+  {
+    "text": "<@U2G4NJC0H> I\u2019mma star without you", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477097989.000019"
+  }, 
+  {
+    "text": "<@U28QF6CTZ> I brought board games and stuff if you guys want to play. I invited everybody, but I\u2019m not sure who all plans on hanging out.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477096712.000018"
+  }, 
+  {
+    "text": "<!channel>: don't forget, if you want to participate in the rpg game, we're doing world-building after lightning talks today. Come find me in the main room and we'll figure out where to meet.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477092889.000017"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gdoc", 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "F2SPUU7EZ", 
+        "size": 3832, 
+        "thumb_360_w": 360, 
+        "title": "World-Building Template", 
+        "url_private": "https://docs.google.com/a/students.makeschool.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit?usp=drivesdk", 
+        "thumb_360": "https://a.slack-edge.com/b008f/img/files/gdraw_360.png", 
+        "thumb_64": "https://a.slack-edge.com/6f1e1/img/files/gdraw_64.png", 
+        "thumb_360_h": 167, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1477089475, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "user": "U1T2Q3G81", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1T2Q3G81/F2SPUU7EZ/world-building_template", 
+        "name": "World-Building Template", 
+        "created": 1477089475, 
+        "mode": "external", 
+        "external_id": "1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ", 
+        "external_url": "https://docs.google.com/a/students.makeschool.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit?usp=drivesdk"
+      }
+    ], 
+    "edited": {
+      "user": "U1T2Q3G81", 
+      "ts": "1509910160.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1477089475.000016", 
+    "display_as_bot": false, 
+    "user": "U1T2Q3G81", 
+    "type": "message"
+  }, 
+  {
+    "text": "Here is the instructions we\u2019ll be using to do the world-building today, for those of you playing D&amp;D. I\u2019ll explain it more when we get started, and I\u2019ll be taking notes for it. <https://docs.google.com/document/d/1-VIkz94sbjUzfzC_9xs5v9H2KE_2j-ML0OdNW39AIdQ/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477089474.000015"
+  }, 
+  {
+    "text": "Same tbh", 
+    "type": "message", 
+    "user": "U2G4NJC0H", 
+    "ts": "1477071587.000014"
+  }, 
+  {
+    "text": "After Lightning Talks it is", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1477070805.000013"
+  }, 
+  {
+    "text": "Yeah after lighting talks is good for me!", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1477068423.000012"
+  }, 
+  {
+    "text": "Also, anyone else who wants to play some tabletop rpg (such as d&amp;d) is welcome to join.", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477067837.000011"
+  }, 
+  {
+    "text": "<@U264ANGAE>  <@U1T7DPKJP> <@U1D5LANSZ>  <@U2G4NJC0H> Let me know what you guys are thinking. ", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477067807.000010"
+  }, 
+  {
+    "text": "After LT's sounds good to me. Eithers fine", 
+    "type": "message", 
+    "user": "U1E8XGEK1", 
+    "ts": "1477062646.000009"
+  }, 
+  {
+    "text": "<!channel> Anyone playing D&amp;D: I'm going to try to have us meet either tonight after lightning talks or Sunday afternoon for our first session, just to discuss rules, what game system we're going to use...etc. and also to build the lore for our campaign. I'm going to be writing the adventures myself, but I want to get everyone together for a really cool exercise I found that will allow you all to be a part of building the world we play in. Ali has invited us to hang out after lightning talks, so if that works for you, then fantastic! If not, let me know, and, depending on how many people will be absent, we may postpone it to the original plan of Sunday. See you guys there!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477062537.000008"
+  }, 
+  {
+    "name": "tabletop_games", 
+    "text": "<@U1T2Q3G81> has renamed the channel from \"851_tabletop_games\" to \"tabletop_games\"", 
+    "ts": "1477062004.000007", 
+    "subtype": "channel_name", 
+    "user": "U1T2Q3G81", 
+    "old_name": "851_tabletop_games", 
+    "type": "message"
+  }, 
+  {
+    "text": "I'll bring my stuff! If we want to do it tomorrow, I'll be prepared!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477029646.000006"
+  }, 
+  {
+    "text": "How\u2019s about tomorrow after lightning talks?", 
+    "type": "message", 
+    "user": "U28QF6CTZ", 
+    "ts": "1477021836.000005"
+  }, 
+  {
+    "text": "<@U1T2Q3G81>: any dates in the works for the first session yet?", 
+    "type": "message", 
+    "user": "U2G4NJC0H", 
+    "ts": "1477013132.000004"
+  }, 
+  {
+    "text": ":+1: We\u2019ll go wherever is easiest for you all!", 
+    "type": "message", 
+    "user": "U1WKV2LUF", 
+    "ts": "1477009220.000003"
+  }, 
+  {
+    "text": "<@U1WKV2LUF> Also, if staff want to play and are okay with it, we can organize to meet after class at Make School instead (if a staff member with the code is staying) so there is more space and accessibility for anyone who wants to be involved. Totally up to you guys though!", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1477008683.000002"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1WKV2LUF", 
+          "U1D5BDLAC"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1476828067.000013", 
+    "text": "<@U1WKV2LUF> Of Course! We\u2019d love to have you guys join!"
+  }, 
+  {
+    "text": "<@U22NDRMGA> has joined the channel", 
+    "ts": "1476827738.000012", 
+    "subtype": "channel_join", 
+    "user": "U22NDRMGA", 
+    "type": "message", 
+    "inviter": "U1E8XGEK1"
+  }, 
+  {
+    "text": "Keep us posted on dates and we\u2019ll have staff swing by (if you\u2019ll have us :slightly_smiling_face:)!", 
+    "type": "message", 
+    "user": "U1WKV2LUF", 
+    "ts": "1476827211.000011"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1WKV2LUF", 
+    "ts": "1476827138.000010", 
+    "text": "<@U1WKV2LUF> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "scream", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1476822944.000009", 
+    "text": "Absolutely! Avalon, Ultimate Werewolf\u2026etc. That\u2019s what the channel is for!"
+  }, 
+  {
+    "text": "<@U1T2Q3G81>  Are you open for this channel to be hijacked for organizing games of Avalon as well?", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1476822917.000008"
+  }, 
+  {
+    "text": "Ive never played it either, but I know a lot of the basics of the game. Ive heard from friends who play that Pathfinder is a lot better  experience then the current version of D&amp;D because its based of an earlier version that was more popular.", 
+    "type": "message", 
+    "user": "U1D5GPACX", 
+    "ts": "1476818408.000007"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1D5GPACX", 
+    "ts": "1476818275.000006", 
+    "text": "<@U1D5GPACX> has joined the channel"
+  }, 
+  {
+    "text": "Never played it, but I read through some of the books back at home, some friends had a round some time ago", 
+    "type": "message", 
+    "user": "U1D5LANSZ", 
+    "ts": "1476815695.000005"
+  }, 
+  {
+    "text": "Has anyone every played the DC 20 RPG version of Star Wars?", 
+    "type": "message", 
+    "user": "U28QF6CTZ", 
+    "ts": "1476810835.000004"
+  }, 
+  {
+    "text": "Yo - I have never played but I could be very down!", 
+    "type": "message", 
+    "user": "U28QF6CTZ", 
+    "ts": "1476810821.000003"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28QF6CTZ", 
+    "ts": "1476810796.000002", 
+    "text": "<@U28QF6CTZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1476770277.000011", 
+    "text": "<@U1YM6H8MA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1D5BDLAC", 
+    "ts": "1476761491.000010", 
+    "text": "<@U1D5BDLAC> has joined the channel"
+  }, 
+  {
+    "text": "<@U1D5LANSZ> has joined the channel", 
+    "ts": "1476758470.000009", 
+    "subtype": "channel_join", 
+    "user": "U1D5LANSZ", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<@U264ANGAE> has joined the channel", 
+    "ts": "1476758470.000008", 
+    "subtype": "channel_join", 
+    "user": "U264ANGAE", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<@U1E8XGEK1> has joined the channel", 
+    "ts": "1476758470.000007", 
+    "subtype": "channel_join", 
+    "user": "U1E8XGEK1", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<@U2G4NJC0H> has joined the channel", 
+    "ts": "1476758470.000006", 
+    "subtype": "channel_join", 
+    "user": "U2G4NJC0H", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<@U1D5KQLRJ> has joined the channel", 
+    "ts": "1476758470.000005", 
+    "subtype": "channel_join", 
+    "user": "U1D5KQLRJ", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> set the channel purpose: Dungeons and Dragons, Exploding Kittens, Smallworld and more! Join us for tabletop gaming nights at 851!", 
+    "ts": "1476758470.000004", 
+    "subtype": "channel_purpose", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "purpose": "Dungeons and Dragons, Exploding Kittens, Smallworld and more! Join us for tabletop gaming nights at 851!"
+  }, 
+  {
+    "text": "<@U1T7DPKJP> has joined the channel", 
+    "ts": "1476758469.000003", 
+    "subtype": "channel_join", 
+    "user": "U1T7DPKJP", 
+    "type": "message", 
+    "inviter": "U1T2Q3G81"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1476758469.000002", 
+    "text": "<@U1T2Q3G81> has joined the channel"
+  }
+]

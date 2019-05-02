@@ -1,0 +1,973 @@
+[
+  {
+    "client_msg_id": "E05102A6-6C11-4EA3-A2B4-5E7E604AEF60", 
+    "text": "Gonna be 10 minutes late ", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1556728172.002800"
+  }, 
+  {
+    "client_msg_id": "66B9B8A0-8DF1-45AE-B342-95B3CF15332F", 
+    "text": "Will be at docker con!!!!", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1556728048.002500"
+  }, 
+  {
+    "client_msg_id": "599CC394-ADED-40F0-9B4B-69F3087DD1BF", 
+    "text": "Will be @ docker con today ", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1556726091.002000"
+  }, 
+  {
+    "client_msg_id": "2AFF501D-966D-4BA0-906E-110A1431F6F6", 
+    "text": "Running late and won\u2019t be at huddles this morning. ", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1556725992.001500"
+  }, 
+  {
+    "client_msg_id": "96EFDABF-84D4-43AF-909A-55E8C0CFF357", 
+    "text": "Wont be @ huddles today", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1556641231.001000"
+  }, 
+  {
+    "client_msg_id": "e9f1e8bc-c3e2-4419-b165-34aaa2e4ff77", 
+    "text": "won\u2019t be at huddles really bad migraines", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1556640328.000500"
+  }, 
+  {
+    "client_msg_id": "553D0D42-D93D-4FD8-9B9E-7E0A917D815F", 
+    "text": "Running late today for huddles!", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1556295476.000400"
+  }, 
+  {
+    "text": "I\u2019m going to be late for huddles today.", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1556122902.002800"
+  }, 
+  {
+    "client_msg_id": "A5DA3866-8FE9-42B2-AD19-DB2BB387BBC9", 
+    "text": "on route,  but experiencing \u201cinbound delays\u201d. \nsee you soon", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1556122889.002700"
+  }, 
+  {
+    "client_msg_id": "50bf1d62-4b80-4252-a807-1863f7478106", 
+    "text": "Can't make it to huddles", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1556122550.001900"
+  }, 
+  {
+    "client_msg_id": "8B694348-A378-4068-96A1-41E94AC6C931", 
+    "text": "I will not be attending school today due to me feeling under the weather :( ", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1556122445.001700"
+  }, 
+  {
+    "client_msg_id": "6B014537-54E4-4AFB-8962-0ECE591DD3B2", 
+    "text": "Not feeling well won\u2019t be in class today ", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1556121623.001400"
+  }, 
+  {
+    "client_msg_id": "20ddb457-072d-4113-af7b-7d97ede6f8bf", 
+    "text": "Going to be a few minutes late to huddles", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1556036907.001000"
+  }, 
+  {
+    "client_msg_id": "16B205B8-9F09-480D-8E3C-B2BDCB70B41D", 
+    "text": "Won\u2019t be @ huddles this morning!", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1556036411.000600"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1555606556.001800", 
+    "text": "<@U6YFC7074> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "d26385a3-3735-4c8b-9d3f-0434d8e1d422", 
+    "attachments": [
+      {
+        "image_bytes": 14072, 
+        "original_url": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "service_name": "Meetup", 
+        "title": "Upcoming events | React - In a Modern Way (San Francisco, CA)", 
+        "image_width": 445, 
+        "title_link": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/e/8/7/0/600_474779504.jpeg", 
+        "text": "Upcoming events for React - In a Modern Way in San Francisco, CA. A Meetup group with over 221 Members.", 
+        "from_url": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "fallback": "Meetup: Upcoming events | React - In a Modern Way (San Francisco, CA)", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Sign Up for React Meetup\n\n<https://www.meetup.com/React-In-a-Modern-Way/events/>", 
+    "ts": "1555606380.001500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "959fe980-1008-44b1-b372-6622ffc15a23", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 54443, 
+        "original_url": "https://www.meetup.com/UX-Speed-Dating-San-Francisco/", 
+        "service_name": "Meetup", 
+        "title": "UX Speed Dating - San Francisco (San Francisco, CA)", 
+        "image_width": 404, 
+        "title_link": "https://www.meetup.com/UX-Speed-Dating-San-Francisco/", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/2/2/2/6/600_416288742.jpeg", 
+        "text": "UX Speed Dating (<http://www.meetup.com/UX-Speed-Dating-San-Francisco/>) is a monthly event where tech professionals get to present a product to three users for in-person feedback. It's formatted like a", 
+        "from_url": "https://www.meetup.com/UX-Speed-Dating-San-Francisco/", 
+        "fallback": "Meetup: UX Speed Dating - San Francisco (San Francisco, CA)", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Sign up for UX Speed Dating Meetup\n\n<https://www.meetup.com/UX-Speed-Dating-San-Francisco/>", 
+    "ts": "1555606306.000900", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8868BD7E-DDFD-4348-B30A-A1AFDE37EC53", 
+    "text": "Will unfortunately be missing huddles today. ", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1555605117.000500"
+  }, 
+  {
+    "client_msg_id": "23084f4a-8143-48a9-9f09-b5f8ecc10f8e", 
+    "attachments": [
+      {
+        "thumb_height": 709, 
+        "thumb_width": 1024, 
+        "original_url": "https://scaleofuniverse.com/", 
+        "service_name": "Scale of the Universe", 
+        "title": "Scale of the Universe | The Universe in Perspective | Small to Big Fun!", 
+        "title_link": "https://scaleofuniverse.com/", 
+        "text": "The Scale of The Universe shows everything from the smallest to largest things in our universe. Check out the Scale of The Universe right now! Amazing to see", 
+        "from_url": "https://scaleofuniverse.com/", 
+        "fallback": "Scale of the Universe: Scale of the Universe | The Universe in Perspective | Small to Big Fun!", 
+        "thumb_url": "https://scaleofuniverse.com/wp-content/uploads/2016/12/history-of-space-exploration-1024x709.jpg", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://scaleofuniverse.com/>", 
+    "ts": "1555530657.005300", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "482204c8-638d-4247-81fb-8f3eb4ccb04e", 
+    "text": "The Scale of the Universe :star:", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1555530656.005100"
+  }, 
+  {
+    "client_msg_id": "478D7A7D-17F9-4745-B1A7-03EA08C6F952", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "<!channel> anyone interested in helping organize the React Meetup talk to me on slack. ", 
+    "ts": "1555529061.004000", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8dcc286d-5b37-4b66-8fd6-e48d5c8d3e2a", 
+    "text": "I'll be a little late - part of the road on my bus route was closed", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1555518827.002200"
+  }, 
+  {
+    "client_msg_id": "7D4E4FA2-94FE-4F87-BD4A-B2D133479476", 
+    "text": "I won\u2019t be at huddles today", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1555518721.000400"
+  }, 
+  {
+    "client_msg_id": "5e737e1f-9261-44eb-b93e-7496812a8fb4", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "recycle", 
+        "users": [
+          "UCDAMHRDL", 
+          "UCBS25XMZ", 
+          "UCB8T1AG0", 
+          "UCHK87XEJ", 
+          "UCBS1DSF5", 
+          "U703HM5PY"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "lock", 
+        "users": [
+          "UCDAMHRDL", 
+          "UCB8T1AG0", 
+          "UCC37PD6D", 
+          "UCBS1DSF5", 
+          "UCBDBB3LZ"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "telescope", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8T1AG0", 
+          "UCBS1DSF5", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Huddle Topics for Wed\n\n- Recursion :recycle:\n-  Scope :telescope:\n- SSH :lock:\n\nRespond with an icon for the topic you are interested in. Respond with :smiley: if you're interested in leading discussion.", 
+    "ts": "1555434050.004500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "481b16ae-a92a-4cdb-b0bd-6bcff065d26e", 
+    "text": "Running pretty late, will hopefully make it by the end of huddles", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1555432137.002700"
+  }, 
+  {
+    "client_msg_id": "85AA630F-63CE-4912-900C-8649FC25804E", 
+    "text": "Muni is held up by my place \ud83e\udd7a\nWill be 5 or 10 late ", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1555430598.000800"
+  }, 
+  {
+    "client_msg_id": "641ea3e8-4207-43da-873f-e8c866e86e66", 
+    "thread_ts": "1555087067.002800", 
+    "text": "two popular 3D javascript libraries:\n- three.js\n- babylon.js\n\nphysics libraries are often needed:\n- cannon.js", 
+    "ts": "1555087830.003500", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aa1ec8af-629a-4681-9d16-4efe4b5abbeb", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1555088260.000000"
+    }, 
+    "latest_reply": "1555087830.003500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ"
+    ], 
+    "thread_ts": "1555087067.002800", 
+    "text": "_Is anyone here interested 3D stuff with Javascript &amp; WebGL? Here's some tutorials:_\n1. <https://github.com/schteppe/cannon.js/wiki/Hello-Cannon.js%21>\n2. <http://javascriptjamie.weebly.com/blog/part-0-cannonjs-object-basics>\n3. <https://gamedevelopment.tutsplus.com/tutorials/creating-a-simple-3d-physics-game-using-threejs-and-physijs--cms-29453>\n4. <https://gamedevacademy.org/create-wonderful-interactive-games-for-the-web-using-webgl-and-a-physics-engine-babylon-js-cannon-js/>\n5. <https://www.javascripting.com/view/cannon-js>", 
+    "ts": "1555087067.002800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS25XMZ", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1555087830.003500"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "ok_hand", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBS1DSF5", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "E46951CB-236F-4698-B48C-26A2C8FE600F", 
+    "text": "Will also be missing huddle", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1555086244.001300"
+  }, 
+  {
+    "client_msg_id": "4e6f3f1b-6b69-4760-9c9f-e7da1b7c1570", 
+    "text": "Also missing huddles today", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1555086238.001100"
+  }, 
+  {
+    "client_msg_id": "1A10865D-0EAD-4A47-8652-4BD9DC0EC5CF", 
+    "text": "Will be missing huddles. I have a doc appt", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1555085965.000600"
+  }, 
+  {
+    "client_msg_id": "30e8a733-d5bb-4a97-9bff-4b8ff3caf1ee", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "I would love to do that! (it was the topic in FEW 2.5 on Wed!) What if I show an example and we all discuss the example?", 
+    "ts": "1555013761.005600", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a27bdb77-60e9-46ac-af99-18e3568f4ddd", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1555013493.000000"
+    }, 
+    "text": "<@U28S64ZJ5> We can also have non-whiteboard questions like\n&gt; What is a closure? Can you give a useful example of one?", 
+    "ts": "1555013477.004300", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FED0045E-8CDE-4F03-856F-4E5B294C1371", 
+    "text": "I overslept for Huddles today but I'll be at Programming Lab", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555001545.002500"
+  }, 
+  {
+    "client_msg_id": "04B789FB-CE04-4729-948F-E7C91AFD4F81", 
+    "text": "Wasn\u2019t feeling well this morning going to be late to huddles ", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1554999686.001400"
+  }, 
+  {
+    "client_msg_id": "02AFA36A-877B-44EE-ACDC-2A41DB1FF1CB", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "sandwich", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "taco", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "green_salad", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "egg", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fried_egg", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "<!channel> slack your ideas for huddle topics", 
+    "ts": "1554924978.013900", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8d492024-8a08-427d-886f-77ed0e8c6254", 
+    "thread_ts": "1554909344.012500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCHK87XEJ"
+        ]
+      }
+    ], 
+    "text": "GET WELL SOON.", 
+    "ts": "1554921168.012600", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCHK87XEJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A5E8234E-F52A-40A2-9CA6-1D6A1B80ABC8", 
+    "thread_ts": "1554909344.012500", 
+    "latest_reply": "1554921168.012600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAMHRDL"
+    ], 
+    "text": "<@U28S64ZJ5> I injured my knee last night and will not be in huddles today", 
+    "ts": "1554909344.012500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCHK87XEJ", 
+    "replies": [
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1554921168.012600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 600, 
+        "id": "FHA0XPB18", 
+        "thumb_480_h": 480, 
+        "original_h": 1000, 
+        "thumb_360_w": 270, 
+        "title": "flat,1000x1000,075,f.u8.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHA0XPB18/flat_1000x1000_075_f.u8.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 92654, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_800.jpg", 
+        "timestamp": 1554478389, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHA0XPB18/download/flat_1000x1000_075_f.u8.jpg", 
+        "user": "UCB8T1AG0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHA0XPB18-0d022b3b6a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8T1AG0/FHA0XPB18/flat_1000x1000_075_f.u8.jpg", 
+        "name": "flat,1000x1000,075,f.u8.jpg", 
+        "created": 1554478389, 
+        "thumb_960_h": 960, 
+        "original_w": 750, 
+        "thumb_960_w": 720, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHA0XPB18-da4e415e6f/flat_1000x1000_075_f.u8_720.jpg"
+      }
+    ], 
+    "client_msg_id": "1ef7eb91-b037-428c-8542-27750fcd0809", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCBHLEZEY", 
+          "UCDAMHRDL", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBHLEZEY", 
+          "UCDAMHRDL", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCBHLEZEY", 
+          "U703HM5PY", 
+          "UCDAMHRDL", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCDAMHRDL", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "bee", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "black_square_button", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC4U4V53"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554478392.009500", 
+    "display_as_bot": false, 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "099b94f6-715f-4d1b-9410-fe577c540e46", 
+    "text": "*See Y'all at Hudds*", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1554478330.009400"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554423282.008800", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "client_msg_id": "2B62AE49-3D99-403E-914F-CD3BF3483935", 
+    "text": "I\u2019m kinda sick and running late but I\u2019ll try to be there <@U28S64ZJ5> ", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1554394694.007500"
+  }, 
+  {
+    "client_msg_id": "e6f6cbd0-b7b1-4da1-a1d7-64dc2505bf60", 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "+1", 
+        "users": [
+          "UCBC9725P", 
+          "UCDAMHRDL", 
+          "UCBS1DSF5", 
+          "U703HM5PY", 
+          "UCHK87XEJ", 
+          "UCC0GL52N", 
+          "UCB8T1AG0", 
+          "UCBS25JKD"
+        ]
+      }
+    ], 
+    "text": "<!channel> Thanks for showing up. I really appreciate everyone's participation.\n\nTo help you get the most out of huddle time, I'd like to get your feedback. Respond to this message :+1: if thought this morning's huddle went well and you'd like to do more like this.\n\nYou can respond to me directly if there was something you didn't like or if you have a suggestion for another activity.", 
+    "ts": "1554311596.005200", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4584b980-a2a5-4907-8e1c-7d0f04d096f0", 
+    "attachments": [
+      {
+        "image_bytes": 50201, 
+        "original_url": "https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial", 
+        "service_name": "Unity", 
+        "title": "2D Roguelike tutorial - Unity", 
+        "image_width": 873, 
+        "title_link": "https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial", 
+        "image_height": 250, 
+        "image_url": "https://unity3d.com/sites/default/files/2droguelike_projectheader.png", 
+        "text": "Learn how to make a 2D Roguelike game with this project.", 
+        "from_url": "https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial", 
+        "fallback": "Unity: 2D Roguelike tutorial - Unity", 
+        "service_icon": "https://unity3d.com/profiles/unity3d/themes/unity/images/ui/favicons/apple-touch-icon-152x152.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial>", 
+    "ts": "1554309505.000300", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cb6d7653-ba44-49db-b5b2-786457a8eef5", 
+    "text": "Maybe we shoulda kept the name as Baggy Socks :arrow_up:", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554266347.013200"
+  }, 
+  {
+    "client_msg_id": "cecc92bf-3c41-4d56-9a83-059d9d60d60f", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "gotta_run", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<https://www.sffr.org/>", 
+    "ts": "1554233057.011600", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0d353844-0f34-4bf1-adfa-4d24c76a09fc", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rainbow", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 8, 
+        "name": "rocket", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCC0GL52N", 
+          "UCHK87XEJ", 
+          "UCB8T1AG0", 
+          "UCBHLEZEY", 
+          "UCC4U4V53", 
+          "UCBC9725P", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "dog2", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCDAF4FV4", 
+          "UCBHLEZEY", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "bowl_with_spoon", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCC0GL52N", 
+          "UCHK87XEJ", 
+          "UCBHLEZEY", 
+          "UCBS1DSF5", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 8, 
+        "name": "gear", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCC0GL52N", 
+          "UCHK87XEJ", 
+          "UCB8T1AG0", 
+          "UCBHLEZEY", 
+          "UCDAF4FV4", 
+          "UCBC9725P", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 8, 
+        "name": "scream", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCHK87XEJ", 
+          "UCB8T1AG0", 
+          "UCBHLEZEY", 
+          "UCC4U4V53", 
+          "UCBC9725P", 
+          "UCC0GL52N", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "pikachu", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCC0GL52N", 
+          "UCBHLEZEY", 
+          "UCDAF4FV4", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "muscle", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCHK87XEJ", 
+          "UCDAF4FV4"
+        ]
+      }
+    ], 
+    "text": "Everyone should vote for huddle activities. Here is a list of ideas that we talked about. I've given each an emoji, reply with the emoji for topics you are interested in.\n\n- :rainbow: split into subgroups\n- :rocket: Interview questions\n- :dog2: Casual Topics\n- :bowl_with_spoon: Breakfast\n- :gear: Tech Discussion\n- :scream: Simple programming problems\n- :pikachu: Teach each other things\n- :muscle: Agile Style Stand Up", 
+    "ts": "1554229572.008600", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "mitchell", 
+        "users": [
+          "UCBS1DSF5", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "<@UCDAF4FV4> set the channel topic: Boggy Sags", 
+    "ts": "1554226220.005600", 
+    "topic": "Boggy Sags", 
+    "subtype": "channel_topic", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b616b3a8-e083-4386-a6e2-69aa4fe3fd60", 
+    "text": "Welcome to the Front Runners huddle group! We meet Tues through Fri at 9:30 sharp.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554225955.004700"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1554225906.003800", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1554225905.003600", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1554225905.003400", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1554225905.003200", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1554225905.003000", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1554225905.002800", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1554225905.002600", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1554225905.002400", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1554225905.002200", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1554225905.002000", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1554225904.001800", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1554225904.001600", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1554225904.001400", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1554225904.001200", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1554225904.001000", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1554225904.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1554225903.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1554225903.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554225903.000200", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }
+]

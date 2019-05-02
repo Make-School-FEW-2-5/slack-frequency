@@ -1,0 +1,1473 @@
+[
+  {
+    "client_msg_id": "712c8a8a-442f-4848-8adc-30b38c635603", 
+    "text": "Hey, I'm thinking of changing our time, since Make School now has better hours. What times work best for you guys?", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1549560932.000900"
+  }, 
+  {
+    "client_msg_id": "9d6d9cf1-7e9d-453a-a5c7-d5f75f7b47b5", 
+    "thread_ts": "1548964941.001000", 
+    "text": "Will be a few minutes, heading there now", 
+    "ts": "1548966818.001200", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3ab8c638-7a6c-4727-8e50-0ab316ca0874", 
+    "thread_ts": "1548964941.001000", 
+    "latest_reply": "1548966818.001200", 
+    "attachments": [
+      {
+        "thumb_height": 384, 
+        "thumb_url": "https://lh5.googleusercontent.com/p/AF1QipM5vUNrEwKC851B-fUY1YbiJZk6GmV003mjP4GU", 
+        "thumb_width": 512, 
+        "original_url": "https://www.google.com/maps/place/Tacorea/@37.7898057,-122.4107015,15z/data=!4m2!3m1!1s0x0:0xff4e742170511358?ved=2ahUKEwi9xdPU55jgAhVSJ30KHUZAAZ4Q_BIwCnoECAMQCA", 
+        "text": "\u2605\u2605\u2605\u2605\u2605 \u00b7 Mexican restaurant \u00b7 809 Bush St", 
+        "title": "Tacorea", 
+        "title_link": "https://www.google.com/maps/place/Tacorea/@37.7898057,-122.4107015,15z/data=!4m2!3m1!1s0x0:0xff4e742170511358?ved=2ahUKEwi9xdPU55jgAhVSJ30KHUZAAZ4Q_BIwCnoECAMQCA", 
+        "service_name": "google.com", 
+        "from_url": "https://www.google.com/maps/place/Tacorea/@37.7898057,-122.4107015,15z/data=!4m2!3m1!1s0x0:0xff4e742170511358?ved=2ahUKEwi9xdPU55jgAhVSJ30KHUZAAZ4Q_BIwCnoECAMQCA", 
+        "fallback": "Tacorea", 
+        "service_icon": "https://www.google.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1548966818.001200"
+      }
+    ], 
+    "ts": "1548964941.001000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQJD3NW", 
+    "text": "Meeting today at 12:30 at Tacorea restaurant, on Bush and Mason <https://www.google.com/maps/place/Tacorea/@37.7898057,-122.4107015,15z/data=!4m2!3m1!1s0x0:0xff4e742170511358?ved=2ahUKEwi9xdPU55jgAhVSJ30KHUZAAZ4Q_BIwCnoECAMQCA>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1548882507.000200", 
+    "text": "<@UCDAKSB7Y> has left the channel"
+  }, 
+  {
+    "client_msg_id": "bfc424c4-490f-455e-b111-f94a9b3b9379", 
+    "thread_ts": "1548361222.001200", 
+    "text": "Sounds good!", 
+    "ts": "1548722419.000300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "984f31cd-0457-4122-a13f-9697d5bef222", 
+    "thread_ts": "1548361222.001200", 
+    "text": "<@UCBQJD3NW> Lets do this Thursday during club meeting time. Tacorea is in bush and mason.", 
+    "ts": "1548697521.000100", 
+    "user": "UCBS8JUHH", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a68cc6d1-1af1-4ac8-abb7-0229a6f66077", 
+    "thread_ts": "1548361222.001200", 
+    "text": "What day works best for you guys?", 
+    "ts": "1548672739.000300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1548639540.000200", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "client_msg_id": "c48bca98-d40b-4230-9c2a-e570791558c5", 
+    "thread_ts": "1548361222.001200", 
+    "text": "I'm down.  Make a calendar event!", 
+    "ts": "1548438478.000100", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8d3c5235-4f73-4ac9-a16d-892c4bf5fc6d", 
+    "thread_ts": "1548361222.001200", 
+    "text": "my bad missed. Lets have a discussion over a lunch next week somehwere at chipotle or tacorea at bush and mason. we can eat and chat. <@UCBDPE94Z> <@UCD1J9LDV> and whoever wants to come. What do you guys think", 
+    "ts": "1548386840.001800", 
+    "user": "UCBS8JUHH", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3G0JKS", 
+    "ts": "1548380203.001700", 
+    "text": "<@UCB3G0JKS> has left the channel"
+  }, 
+  {
+    "client_msg_id": "c1678728-1114-4072-9642-9982f38990c5", 
+    "thread_ts": "1548361222.001200", 
+    "text": "Willow Waffle", 
+    "ts": "1548362119.001300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "209fafbc-47de-4587-b2f9-6ba73b8f7009", 
+    "thread_ts": "1548361222.001200", 
+    "latest_reply": "1548722419.000300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCBS8JUHH", 
+      "UCBDPE94Z"
+    ], 
+    "text": "Meeting at 12:30 to discuss club future", 
+    "ts": "1548361222.001200", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1548362119.001300"
+      }, 
+      {
+        "user": "UCBS8JUHH", 
+        "ts": "1548386840.001800"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1548438478.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1548672739.000300"
+      }, 
+      {
+        "user": "UCBS8JUHH", 
+        "ts": "1548697521.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1548722419.000300"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "83753097-4657-4ed6-bfb4-3aefba156602", 
+    "thread_ts": "1547150368.000800", 
+    "text": "Got it!", 
+    "ts": "1547233740.001100", 
+    "user": "UCBS8JUHH", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d615a985-0574-4e27-817a-1a85a1032f5e", 
+    "thread_ts": "1547150368.000800", 
+    "text": "Willow Waffle is taken, I'm in the room next to it, if anyone wants to talk", 
+    "ts": "1547154099.000900", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "21cf16a9-aeac-4c40-978d-2b101b56c36f", 
+    "thread_ts": "1547150368.000800", 
+    "latest_reply": "1547233740.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCBS8JUHH"
+    ], 
+    "text": "For anyone who wants to give input for what direction they want the club to move in, I'll be in Willow Waffle at 12:30", 
+    "ts": "1547150368.000800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1547154099.000900"
+      }, 
+      {
+        "user": "UCBS8JUHH", 
+        "ts": "1547233740.001100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "66873755-39e9-4f53-a4d9-80a765ccfa14", 
+    "thread_ts": "1547080832.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBS8JUHH"
+        ]
+      }
+    ], 
+    "text": "Hey, thanks for your input! If you can make it to the meeting tomorrow, we can discuss our plans for the club moving forward", 
+    "ts": "1547086440.004900", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6917eb2b-6a81-4bc9-b55a-74bebb4581b7", 
+    "edited": {
+      "user": "UCBS8JUHH", 
+      "ts": "1547080884.000000"
+    }, 
+    "latest_reply": "1547086440.004900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "thread_ts": "1547080832.004700", 
+    "text": "that sounds good but lets finish what we started and try to make business model etc for what are we building - which I think also aligns with your proposal <@UCBQJD3NW>. I can be our  tentative COO and handle setting deadlines and some logistics. Lets have fun with it. The best way of learning is doing, wouldn\u2019t you agree?", 
+    "ts": "1547080832.004700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS8JUHH", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1547086440.004900"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1f1908dd-fe33-4dca-806b-64c0359fb127", 
+    "text": "Hi, I've been thinking about taking the club's course in a different direction this term. Since most of us were pretty busy last term, it was very difficult to find time to do the work needed for launching an actual startup. I'm thinking this club will instead be a platform to discuss various startup tactics, networking, and support anyone who wishes to launch a startup with the resources they need. Please tell me what you think!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1547010460.002700"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1546906367.000200", 
+    "text": "<@UCC4RHFU5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650583.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "f4b5973b-8948-4af3-8aa1-f1350520562e", 
+    "text": "I'll be meeting an industry contact at noon, and I imagine we're all swamped in work, so there won't be a meeting today", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1544118001.001100"
+  }, 
+  {
+    "client_msg_id": "8155ce44-102c-464d-9c5f-1715d0508161", 
+    "text": "Sorry, I meant to post an announcement. A lot of us, including myself, are in Tulsa for the weekend", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1543540026.001600"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1543528549.000900", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "9641cb4a-e44f-43cb-bcec-d5238125410c", 
+    "text": "Hey guys.  I came but no one was there.  Ill be downstairs in the computer lab if anyone wants to have a meeting", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1543523550.000700"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1543441849.000200", 
+    "text": "<@UCB91TXS4> has left the channel"
+  }, 
+  {
+    "client_msg_id": "cda57009-a5f5-48ac-8f36-eb443178096a", 
+    "edited": {
+      "user": "UCBQJD3NW", 
+      "ts": "1542313812.000000"
+    }, 
+    "text": "MakesGiving's a thing, so there won't be a meeting today", 
+    "ts": "1542313797.000200", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "368744EB-5787-4AC0-8ABF-2930E85BA0E9", 
+    "edited": {
+      "user": "UCBS8JUHH", 
+      "ts": "1541709750.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "on my way", 
+    "ts": "1541709286.001700", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "feb03a0d-4991-4dfa-b86c-ac3f4ae93901", 
+    "text": "Sounds good", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541702189.001000"
+  }, 
+  {
+    "client_msg_id": "d4dbe6fc-2026-4f58-8f73-f77a61886de2", 
+    "text": "<!channel> Meeting at 12:30 today in Willow Waffle!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1541699063.000700"
+  }, 
+  {
+    "client_msg_id": "9459a064-f564-490f-ae25-0e78ac82a159", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sunglasses", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Sounds great! Lets do things step by step. See you guys next time", 
+    "ts": "1541397901.003300", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "48018f3f-08b3-4de0-b5e5-5bf0d56ba887", 
+    "edited": {
+      "user": "UCBQJD3NW", 
+      "ts": "1541357473.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "UCBSELQ2F", 
+          "UCD9FM8GN", 
+          "UCD1J9LDV", 
+          "UCBDPE94Z", 
+          "UCB91TXS4"
+        ]
+      }
+    ], 
+    "text": "Hey, at Cal Hacks, I spoke with a security researcher working at Avast. He said there is basically no security protocol or universal solution to iOT yet. He also said he felt a personal blockchain could actually solve some of these problems, and said he didn't know of anyone in the field yet who was doing it. Though the path may be difficult to figure out, after speaking with him, I really think this idea has a great amount of potential", 
+    "ts": "1541357440.002400", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8e1c5634-8372-404e-9d31-8557986c2949", 
+    "text": "sorry guys missed it\u2019", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541104493.001000"
+  }, 
+  {
+    "client_msg_id": "128cb194-f25c-45a3-9e5d-70de863089da", 
+    "text": "<!channel> Club Meeting in Willow Waffle at 12:30!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1541099489.000600"
+  }, 
+  {
+    "client_msg_id": "8155ba46-1a1f-4c06-a8e1-415c6447d2cc", 
+    "attachments": [
+      {
+        "image_bytes": 569500, 
+        "original_url": "https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "How To: Create Your Own Private Ethereum Blockchain", 
+        "ts": 1512751525, 
+        "title_link": "https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*tBaiZrAVBW6XyXcM5nHIkg.png", 
+        "image_width": 510, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f", 
+        "fallback": "Medium: How To: Create Your Own Private Ethereum Blockchain", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*J2lmKHnb-HadefWK7XMyJg@2x.jpeg", 
+        "text": "Dev highlights of this week", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f>", 
+    "ts": "1540497146.000100", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4d676673-5d1b-408e-9020-961991a9a229", 
+    "attachments": [
+      {
+        "original_url": "https://poa.network/", 
+        "text": "An open network based on Ethereum protocol with Proof of Authority consensus by independent actors. Public notaries with known identity serve as private validators to secure the network.", 
+        "title": "POA Network", 
+        "title_link": "https://poa.network/", 
+        "service_name": "poa.network", 
+        "from_url": "https://poa.network/", 
+        "fallback": "POA Network", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://poa.network/>", 
+    "ts": "1540496824.000200", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "49427080-29ec-4443-a6f7-791029188611", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 512, 
+        "thumb_width": 512, 
+        "original_url": "https://altheamesh.com/", 
+        "text": "Incentivized mesh networks.", 
+        "title": "Althea", 
+        "title_link": "https://altheamesh.com/", 
+        "service_name": "altheamesh.com", 
+        "from_url": "https://altheamesh.com/", 
+        "fallback": "Althea", 
+        "thumb_url": "http://altheamesh.com/images/bird.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://altheamesh.com/>", 
+    "ts": "1540496744.000100", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6f84356f-8723-4028-b807-05bf86d74dad", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "might be late but will be there", 
+    "ts": "1540491870.000100", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1540488954.000200", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "client_msg_id": "787b6009-1d1d-44a3-a8fa-66d5f58af851", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "<!channel> Meeting at 12:30 in Willow Waffle! We'll be going over what we want to accomplish during Term 2, so it'd be great if you can come by", 
+    "ts": "1540487509.000100", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "89edc268-1126-41e8-9e0c-112faff9b80d", 
+    "text": "No meeting this week, we'll be looking at resources and technology for the MVP next week, good luck on your intensives!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1539880575.000100"
+  }, 
+  {
+    "client_msg_id": "2a391029-b6f9-495c-ab43-1f49e3f4a34f", 
+    "text": "Our meeting will probably begin around 12:45, Club Leadership meeting started late", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1539285465.000100"
+  }, 
+  {
+    "client_msg_id": "5070ff2a-bf50-40f5-8d19-ac67fffccf8b", 
+    "thread_ts": "1539277544.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "No problem, Make School comes first :slightly_smiling_face:", 
+    "ts": "1539279421.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "954ADDAE-9743-487A-94C7-4E4A39B31CEF", 
+    "thread_ts": "1539277544.000100", 
+    "text": "I\u2019m going to have to study for back end. Sorry!", 
+    "ts": "1539278555.000100", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "71fae06c-69a8-4325-a630-c8ac420a3207", 
+    "thread_ts": "1539277544.000100", 
+    "latest_reply": "1539279421.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D", 
+      "UCBQJD3NW"
+    ], 
+    "text": "<!channel> Don't forget we have a meeting at 12:30 in Willow Waffle, after \"End of Term Feedback\". If you're swamped with work, that's totally fine. But if you have time, it'd be great for you to come by", 
+    "ts": "1539277544.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1539278555.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1539279421.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD7DYEPJ8", 
+        "thumb_480_h": 480, 
+        "original_h": 1035, 
+        "thumb_360_w": 278, 
+        "title": "Beginner Resources", 
+        "url_private": "https://docs.google.com/document/d/17FK6sFBibJjKcuwpfRnKS996iCucKQvYF7nUKtL_b7w/edit?usp=sharing", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_80.png", 
+        "thumb_360_h": 360, 
+        "size": 230, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_800.png", 
+        "timestamp": 1538687695, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_1024.png", 
+        "user": "UCBQJD3NW", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQJD3NW/FD7DYEPJ8/beginner_resources", 
+        "name": "Beginner Resources", 
+        "created": 1538687695, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "17FK6sFBibJjKcuwpfRnKS996iCucKQvYF7nUKtL_b7w", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7DYEPJ8-e330a88d72/beginner_resources_720.png", 
+        "external_url": "https://docs.google.com/document/d/17FK6sFBibJjKcuwpfRnKS996iCucKQvYF7nUKtL_b7w/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "ebaa0cdf-ebe0-4273-9296-6e01e9fe9373", 
+    "thread_ts": "1538685386.000100", 
+    "text": "Hey, I've added a file in Google Drive to better understand blockchains <https://docs.google.com/document/d/17FK6sFBibJjKcuwpfRnKS996iCucKQvYF7nUKtL_b7w/edit?usp=sharing>", 
+    "upload": false, 
+    "ts": "1538687694.000100", 
+    "display_as_bot": false, 
+    "user": "UCBQJD3NW", 
+    "x_files": [
+      "FD7DYEPJ8"
+    ], 
+    "parent_user_id": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD8LMARPH", 
+        "thumb_480_h": 480, 
+        "original_h": 1035, 
+        "thumb_360_w": 278, 
+        "title": "UbIOT", 
+        "url_private": "https://docs.google.com/document/d/1JzP175mUfuzIaaOnyqBTrSU2Nuggyyp0P3v7Vh9TQd8/edit?usp=sharing", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_80.png", 
+        "thumb_360_h": 360, 
+        "size": 583, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_800.png", 
+        "timestamp": 1538687357, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_1024.png", 
+        "user": "UCBQJD3NW", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQJD3NW/FD8LMARPH/ubiot", 
+        "name": "UbIOT", 
+        "created": 1538687357, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1JzP175mUfuzIaaOnyqBTrSU2Nuggyyp0P3v7Vh9TQd8", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD8LMARPH-ffce21ad49/ubiot_720.png", 
+        "external_url": "https://docs.google.com/document/d/1JzP175mUfuzIaaOnyqBTrSU2Nuggyyp0P3v7Vh9TQd8/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "b45f6f7f-6099-48b7-ad82-5d8fb79b7b5f", 
+    "text": "Here is a snippet of the idea in the concept folder, which can be added to and improved on: <https://docs.google.com/document/d/1JzP175mUfuzIaaOnyqBTrSU2Nuggyyp0P3v7Vh9TQd8/edit?usp=sharing>", 
+    "upload": false, 
+    "ts": "1538687356.000100", 
+    "display_as_bot": false, 
+    "user": "UCBQJD3NW", 
+    "x_files": [
+      "FD8LMARPH"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d23c1e7-bf76-49fa-bde1-cdeed3c1c700", 
+    "text": "Thanks, everyone who came out today! I've created a Google Drive for us to store things in. Currently it's pretty empty, but this way we have a place to store it all. For those who don't understand blockchain too well, there's a Resource folder where we can add various articles and tutorials. I'll probably start a file containing links for beginners, which anyone can add to. <https://drive.google.com/drive/folders/1A2092l8C1ZH5UvPlSux4Ws7ixT_B8sCQ?usp=sharing>", 
+    "pinned_info": {
+      "pinned_ts": 1538687794, 
+      "channel": "CCWTP1YJJ", 
+      "pinned_by": "UCBQJD3NW"
+    }, 
+    "ts": "1538687241.000100", 
+    "pinned_to": [
+      "CCWTP1YJJ"
+    ], 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7b146c5-fce8-4bcb-945c-1a81af5c7242", 
+    "text": "thanks", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538685491.000100"
+  }, 
+  {
+    "client_msg_id": "86e24813-9c1e-4e05-9f86-0bbffe511126", 
+    "text": "in", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538685489.000200"
+  }, 
+  {
+    "client_msg_id": "0c3e2e23-dc66-4b41-adcd-3e4cdbaf1ab0", 
+    "text": "Could you add me to that channel?", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538685470.000100"
+  }, 
+  {
+    "client_msg_id": "15be5da3-1913-427a-b022-09a38b3fd8ee", 
+    "text": "if this isn't sufficient let me know.  I personally have resources to share", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1538685457.000100"
+  }, 
+  {
+    "client_msg_id": "8cecf703-6cd1-4ec7-b55e-ab5c3d387b19", 
+    "text": "There is a whole slack channel dedicated to blockchain!  I recommend joining <#CCMPNFPFH|blockchain>", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1538685431.000100"
+  }, 
+  {
+    "client_msg_id": "80c9e6cb-85c8-4180-a3b8-df714e37eaef", 
+    "thread_ts": "1538685386.000100", 
+    "latest_reply": "1538687694.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "text": "<@UCBDPE94Z> do you have any recommended source for getting idea of what blockchain is? any links?", 
+    "ts": "1538685386.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS8JUHH", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1538687694.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1538685150.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "client_msg_id": "62975ce5-3ea5-42e2-b7a5-f86ee48242ce", 
+    "text": "for the beginning lets keep our stuff there", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538684121.000100"
+  }, 
+  {
+    "client_msg_id": "88362c20-9e54-43e2-935d-f458c18601e9", 
+    "text": "google drive I mean", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538684110.000100"
+  }, 
+  {
+    "client_msg_id": "ee985d6f-df95-47c7-8b28-680eaa196d76", 
+    "text": "Who is creating our google docs", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538684096.000100"
+  }, 
+  {
+    "client_msg_id": "2d6a459e-ae7b-4cce-84a0-9a59887db575", 
+    "text": "we are making progress from day one", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538684083.000100"
+  }, 
+  {
+    "client_msg_id": "cbfa7d5f-87db-4d7c-ae54-704d30c1b675", 
+    "text": "great meeting today guys", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1538684078.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 601, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD7EYFSR1", 
+        "thumb_480_h": 361, 
+        "original_h": 2320, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD7EYFSR1/image_from_ios.jpg", 
+        "thumb_720_h": 541, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3906033, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_800.jpg", 
+        "timestamp": 1538684058, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD7EYFSR1/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_1024.jpg", 
+        "user": "UCBS8JUHH", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD7EYFSR1-7ee45c6f6d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS8JUHH/FD7EYFSR1/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538684058, 
+        "thumb_1024_h": 769, 
+        "thumb_960_h": 721, 
+        "original_w": 3088, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD7EYFSR1-ae71e3fff3/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "the_horns", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "ts": "1538684063.000100", 
+    "text": "", 
+    "upload_reply_to": "850F12A4-2AAB-432F-9F26-09EE8A68D84A", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a8a790b0-772e-4213-9ed1-2c997791760a", 
+    "text": "Meeting now in Willow Waffle! All are welcome to attend", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538681511.000100"
+  }, 
+  {
+    "client_msg_id": "fbd02512-6a29-465a-895a-21b0af5e0937", 
+    "text": "I won't be able to make it today.", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1538675471.000100"
+  }, 
+  {
+    "client_msg_id": "db202b09-888c-476d-9be9-4edabeec4013", 
+    "text": "<!channel> Hi, everyone! We'll be meeting today at 12:30 in Willow Waffle! (It's one of the rooms in the Great Hall) We'll be going over ideas and a potential MVP to develop. Participation in the idea is completely voluntary, and I encourage anyone who's interested in entrepreneurship to attend!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538673758.000100"
+  }, 
+  {
+    "client_msg_id": "67faf430-3509-4bb6-9be8-33bfe80dc229", 
+    "thread_ts": "1538099685.000100", 
+    "text": "If you're not sure about your commitment, you can say that too. We're just trying to get an idea of how big our group is going to be.", 
+    "ts": "1538197162.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "22590a61-9561-4131-bbc4-a6b7fb908e13", 
+    "thread_ts": "1538099685.000100", 
+    "text": ":+1: Like this, guys", 
+    "ts": "1538179940.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1538159458.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "client_msg_id": "ab758550-955e-4fec-ac9b-3d47d58464c7", 
+    "thread_ts": "1538099685.000100", 
+    "latest_reply": "1538197162.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "text": "Hey everyone, <!channel> We had a great first meeting today. everyone that attended gave us a lot of feedback of what everyone wants to get out of the club. Today I and <@UCBQJD3NW> were expecting 25 club members to show up today but only 5 attended. We understand that everyone is very busy, but it would really help us move forward with the club if we all have a good idea of who is committed to attending and who is not.  So I ask everyone who plans on attending to leave a thumbs up if you are committed to attending and a thumbs down if you are not in the comment section.\n\nThanks !!!!!", 
+    "ts": "1538099685.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBHS9M3N", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1538179940.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1538197162.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1538085262.000200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "client_msg_id": "9fbe546c-d380-426a-889c-81169003f495", 
+    "text": "Thanks to everyone who came out to our first meeting! I've attached a Google Doc of the ideas and industries proposed. If the idea was your own, feel free to change its description. I also encourage everyone to add any ideas or domains you are interested in tackling, and next meeting we can try to converge on a single one. I'll also attach notes for what we went over at the first meeting, for anyone who missed it. For those who want to be part of the club, but are not interested in building a collaborate product, we'll also be providing entrepreneurship resources, and looking into startup events, mentorship, and networking. <https://docs.google.com/document/d/1hNj96iJU9FCBoIXitaPgvTlYVHxwPA3-d3gN2q8KijE/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538082038.000100"
+  }, 
+  {
+    "client_msg_id": "3e5f2f83-6f73-46ff-9377-bd438126eb9a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "original_url": "https://blog.dharma.io/dharma-ethsf-wishlist-c51daa1228bc", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Dharma\u2019s ETHSanFrancisco Wishlist \u2013 The Dharma Protocol Blog", 
+        "ts": 1538072835, 
+        "title_link": "https://blog.dharma.io/dharma-ethsf-wishlist-c51daa1228bc", 
+        "text": "Some ideas for hackers to get your creative #DeFi juices flowing", 
+        "service_name": "The Dharma Protocol Blog", 
+        "from_url": "https://blog.dharma.io/dharma-ethsf-wishlist-c51daa1228bc", 
+        "fallback": "The Dharma Protocol Blog: Dharma\u2019s ETHSanFrancisco Wishlist \u2013 The Dharma Protocol Blog", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*0lrW2OSdsGNFJ_l2aVyWHw.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Blockchain Ideas from Dharma Protocol <https://blog.dharma.io/dharma-ethsf-wishlist-c51daa1228bc>", 
+    "ts": "1538079870.000100", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "96e4b048-6e7b-4a9e-85cb-ee31af94c7f2", 
+    "thread_ts": "1538077829.000100", 
+    "text": "Thanks for the head's up, I'll make sure to update everyone on what we went over", 
+    "ts": "1538077867.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6629696C-77B8-48E4-A5E7-A6F89DC46514", 
+    "thread_ts": "1538077829.000100", 
+    "latest_reply": "1538077867.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "text": "Hey Jason, \nSorry I couldn\u2019t joined today...something came up and I got caught up...but I will definitely next time.", 
+    "ts": "1538077829.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC4SUSHK", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1538077867.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "9c3081f5-4159-4c06-9fd0-704ed6fc32d6", 
+    "text": "<!channel> Meeting now in Stonehenge Room, Second Floor", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538076971.000100"
+  }, 
+  {
+    "client_msg_id": "ae991ad9-ffb7-4fa2-b2c3-4beaf8a9f612", 
+    "text": "Don't forget, we'll be meeting at 12:30 today!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538075411.000100"
+  }, 
+  {
+    "client_msg_id": "0ce70e1d-ae2c-459d-94ea-ffc21ca0fd80", 
+    "text": "We will be meeting in the Stonehenge Room on the 2nd Floor, tomorrow at 12:30, hope to see you all there!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1538007328.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1537911667.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "dacfb638-56fb-4d91-8066-406acc9e1646", 
+    "text": "Hey! We'll be having our first meeting this Thursday, at 12;30! We'll be meeting at Make School, and I'll let you know as soon as I can what room it will be in. If you didn't receive the Google Calendar invite, please message me. Hope to see you all there!", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1537861234.000100"
+  }, 
+  {
+    "client_msg_id": "b0c7e9c7-06c4-41bf-b43b-01fd5a527426", 
+    "attachments": [
+      {
+        "original_url": "https://www.surveymonkey.com/r/FNZD6VQ", 
+        "text": "Web survey powered by <http://SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.", 
+        "title": "Make School Startup Club Survey", 
+        "title_link": "https://www.surveymonkey.com/r/FNZD6VQ", 
+        "service_name": "surveymonkey.com", 
+        "from_url": "https://www.surveymonkey.com/r/FNZD6VQ", 
+        "fallback": "Make School Startup Club Survey", 
+        "service_icon": "https://www.surveymonkey.com/favicon1.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> Hi, everyone! Please fill out this quick survey regarding what you hope to get out of this club. Your feedback will help us form what this organization will be about. Thanks to <@UCBHS9M3N> for his input on the questions. Also, if you haven't responded to the Doodle poll on meeting times, please do so ASAP.  We'll be setting up our first meeting soon! <https://www.surveymonkey.com/r/FNZD6VQ>", 
+    "ts": "1537807622.000100", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1537550492.000200", 
+    "text": "<@UCBHEGLKB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "4efd0133-9cd1-4aa0-84b6-208a1f36e561", 
+    "thread_ts": "1537474597.000100", 
+    "text": "And if there are other times you think would work better to meet, please mention them in the comments.", 
+    "ts": "1537476730.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "907d7a40-a8ea-43e0-ac87-c7d7219a3878", 
+    "edited": {
+      "user": "UCBQJD3NW", 
+      "ts": "1537481734.000000"
+    }, 
+    "latest_reply": "1537476730.000100", 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "original_url": "https://doodle.com/poll/2hv3e4vxbnmd94m2", 
+        "text": "Please select the time(s) that work for you to attend our weekly meetings", 
+        "title": "Doodle: Startup Meeting Time", 
+        "image_width": 300, 
+        "title_link": "https://doodle.com/poll/2hv3e4vxbnmd94m2", 
+        "image_height": 200, 
+        "image_url": "https://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "doodle.com", 
+        "from_url": "https://doodle.com/poll/2hv3e4vxbnmd94m2", 
+        "fallback": "Doodle: Startup Meeting Time", 
+        "service_icon": "https://cdn2.doodle.com/dist/i/7479b568749fca315a2969e30cbee4f5.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "thread_ts": "1537474597.000100", 
+    "text": "<!channel> Hi everyone, please fill out this quick poll for time(s) that work best for you. If there is a time you can attend, but is not ideal, you can click the option twice to indicate it is not preferred. We will try to get our meetings to suit as many student schedules as possible. We will also be sending out a quick survey regarding what students want to get out of this club. <https://doodle.com/poll/2hv3e4vxbnmd94m2>", 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "ts": "1537474597.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1537476730.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "268507a0-38f5-4201-9dba-f2691f2424b7", 
+    "thread_ts": "1537298422.000100", 
+    "text": "That sucks :slightly_frowning_face: I'll talk with the staff on Thursday and see when the closing hours are changing at Make School. Maybe they can work something out", 
+    "ts": "1537300154.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d98c615-128c-4a4f-ae58-75d355a087db", 
+    "thread_ts": "1537298422.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "That's during unconferences and board games which doesn't work for me", 
+    "ts": "1537299257.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "87ed94e4-4336-45ae-ad99-b9bc0904b3cf", 
+    "thread_ts": "1537298422.000100", 
+    "latest_reply": "1537300154.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "UCBQJD3NW"
+    ], 
+    "text": "Hey guys, we're thinking about having our meetings from 4:30-5:30 on Fridays. This seems to be the best time, since it'll be hard to find time on weekdays when all students are free (since the school closes at 6). If this time doesn't work for you, please let us know in the comments, and we can try to find a better time.", 
+    "ts": "1537298422.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1537299257.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1537300154.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "a314d87c-3810-4e43-8c45-d1e5ccd5ea84", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCBDBLTFB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands::skin-tone-5", 
+        "users": [
+          "UCD4Y1DCN"
+        ]
+      }
+    ], 
+    "text": "Hi, this is the beginning of what I hope will be a great group of students passionate about entrepreneurship, new ideas, and innovation. I've been very interested in entrepreneurship for several years, spurring me to pursue an MBA and then cofound a startup and be part of two others. I think Make School is potentially the ideal environment to start something big, since we have a network of different mentors, can take classes that are product-driven, and don't have to be distracted by \"day jobs\". I'm very excited to hear what all of you hope to get out of this club, so that me and <@UCBHS9M3N> can make this a great organization for everyone here!", 
+    "ts": "1537251495.000100", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1537250742.002000", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1537250742.001800", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1537250742.001600", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBDBLTFB> has joined the channel", 
+    "ts": "1537250742.001400", 
+    "subtype": "channel_join", 
+    "user": "UCBDBLTFB", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1537250742.001200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1537250742.001000", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1537250742.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1537250742.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1537250742.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1537250742.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1537250741.001200", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@U847W48V6> has joined the channel", 
+    "ts": "1537250741.001000", 
+    "subtype": "channel_join", 
+    "user": "U847W48V6", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1537250741.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1537250741.000600", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1537250741.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1537250741.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1537250740.001400", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1537250740.001200", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1537250740.001000", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1537250740.000800", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1537250740.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1537250740.000400", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1537250740.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1537250739.000500", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UCBQJD3NW"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> set the channel purpose: For those interested in starting tech companies", 
+    "ts": "1537250739.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "purpose": "For those interested in starting tech companies"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1537250739.000200", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }
+]

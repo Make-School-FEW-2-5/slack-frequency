@@ -1,0 +1,675 @@
+[
+  {
+    "client_msg_id": "fdc84acb-0ef0-4221-9ac6-6d73e04110cd", 
+    "edited": {
+      "user": "UCC37PD6D", 
+      "ts": "1556763527.000000"
+    }, 
+    "text": "Is there another way to do this? I think react is not liking that I\u2019m calling createAppContainer : ```const App = () =&gt; (\n  &lt;Provider store={store}&gt;\n    {createAppContainer(MainNavigator)}\n  &lt;/Provider&gt;\n)``` (error: Functions are not valid as a React child.)", 
+    "ts": "1556763453.003800", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel topic: *Repo:* <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>\n*Tracker: * <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "ts": "1556642586.002900", 
+    "topic": "*Repo:* <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>\n*Tracker: * <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel topic: **Repo:** <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>\n**Tracker: ** <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "ts": "1556642564.002800", 
+    "topic": "**Repo:** <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>\n**Tracker: ** <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f26f58d5-0498-43d7-b190-c0f3503dfffb", 
+    "text": "<!channel> Looks like less than half of you have defined your final project according to the progress trac ker. Today you should be completing the first milestone. Be prepared to show me your list of milestones and your project definition today in class.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556640546.002700"
+  }, 
+  {
+    "client_msg_id": "72e7245f-393d-4f0f-a8c0-c0d64e60ea1b", 
+    "text": "<https://github.com/oblador/react-native-vector-icons>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1556225833.000200"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 2, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHT3LM4AF", 
+        "size": 147, 
+        "title": "navigationOptions on functional component", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHT3LM4AF/navigationOptions_on_functional_component.js", 
+        "preview": "const DetailScreen = (props) => {\r\n  ...\r\n}\r\n\r\nDetailScreen.navigationOptions = ({ navigation }) => ({\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U6YCV95L7/FHT3LM4AF/navigationOptions_on_functional_component.js/edit", 
+        "username": "", 
+        "timestamp": 1556057531, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-variable\">DetailScreen</span> <span class=\"cm-operator\">=</span> (<span class=\"cm-variable\">props</span>) <span class=\"cm-operator\">=&gt;</span> {</pre></div>\n<div><pre>  ...</pre></div>\n<div><pre>}</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable\">DetailScreen</span>.<span class=\"cm-variable\">navigationOptions</span> <span class=\"cm-operator\">=</span> ({ <span class=\"cm-variable\">navigation</span> }) <span class=\"cm-operator\">=&gt;</span> ({</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHT3LM4AF/download/navigationOptions_on_functional_component.js", 
+        "user": "U6YCV95L7", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHT3LM4AF-5849d06880", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCV95L7/FHT3LM4AF/navigationOptions_on_functional_component.js", 
+        "name": "navigationOptions_on_functional_component.js", 
+        "created": 1556057531, 
+        "lines": 7, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCBS4EW59", 
+          "UCBKC02JY", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556057531.007300", 
+    "display_as_bot": false, 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 395, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ4FSPQLV", 
+        "thumb_480_h": 237, 
+        "original_h": 644, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-23 at 3.01.42 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4FSPQLV/screen_shot_2019-04-23_at_3.01.42_pm.png", 
+        "thumb_720_h": 356, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_80.png", 
+        "thumb_360_h": 178, 
+        "size": 89923, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_800.png", 
+        "timestamp": 1556056940, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4FSPQLV/download/screen_shot_2019-04-23_at_3.01.42_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_1024.png", 
+        "user": "UCC37PD6D", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ4FSPQLV-6307fdebc1", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC37PD6D/FJ4FSPQLV/screen_shot_2019-04-23_at_3.01.42_pm.png", 
+        "name": "Screen Shot 2019-04-23 at 3.01.42 PM.png", 
+        "created": 1556056940, 
+        "thumb_1024_h": 506, 
+        "thumb_960_h": 474, 
+        "original_w": 1304, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4FSPQLV-7633919c15/screen_shot_2019-04-23_at_3.01.42_pm_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY", 
+          "UCBS4EW59", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556056944.006800", 
+    "display_as_bot": false, 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "419ece99-f341-42f1-869f-65b736dced12", 
+    "text": "<https://github.com/soggybag/navigation-list-starter>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556054703.006700"
+  }, 
+  {
+    "client_msg_id": "bd84ac82-dc05-4714-9d56-24843b6b0314", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/react-navigation-transitions", 
+        "service_name": "npm", 
+        "title": "react-navigation-transitions", 
+        "title_link": "https://www.npmjs.com/package/react-navigation-transitions", 
+        "text": "Custom transitions for react-navigation", 
+        "from_url": "https://www.npmjs.com/package/react-navigation-transitions", 
+        "fallback": "npm: react-navigation-transitions", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.npmjs.com/package/react-navigation-transitions>", 
+    "ts": "1556054019.006400", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b6e724c6-7e17-4acc-8f5f-e2776990923e", 
+    "text": "<https://github.com/soggybag/navigation-starter>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556052964.006200"
+  }, 
+  {
+    "client_msg_id": "3CCC3385-91DD-4F87-8CDE-33257F56D1F9", 
+    "text": "<@U28S64ZJ5> I am running a 5-10 mins late, sorry. Please start without me. ", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1556051045.006000"
+  }, 
+  {
+    "client_msg_id": "1b620b71-b877-4a45-bd80-ef8d05888508", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Hey <@UCC37PD6D>! Sorry about that, I had missed adding the link earlier. I just pushed a fix now so you (and everyone else) should be able to fill it out now!", 
+    "ts": "1555687782.004700", 
+    "user": "UEPUV52GL", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UEPUV52GL", 
+    "ts": "1555687749.004000", 
+    "text": "<@UEPUV52GL> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "de167454-b2f5-4ef7-afd0-1ed98070612b", 
+    "text": "The link for the tutorial feedback form for the weather api app on the tutorial won\u2019t work for me. Does anyone have the right link?", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1555651183.003800"
+  }, 
+  {
+    "client_msg_id": "e2ed7eb5-814a-4c3a-bd0c-37fe8493de90", 
+    "attachments": [
+      {
+        "image_bytes": 14072, 
+        "original_url": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "service_name": "Meetup", 
+        "title": "Upcoming events | React - In a Modern Way (San Francisco, CA)", 
+        "image_width": 445, 
+        "title_link": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/e/8/7/0/600_474779504.jpeg", 
+        "text": "Upcoming events for React - In a Modern Way in San Francisco, CA. A Meetup group with over 224 Members.", 
+        "from_url": "https://www.meetup.com/React-In-a-Modern-Way/events/", 
+        "fallback": "Meetup: Upcoming events | React - In a Modern Way (San Francisco, CA)", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Sign up to this Meetup group:\n\n<https://www.meetup.com/React-In-a-Modern-Way/events/>", 
+    "ts": "1555619975.002400", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "71748221-2df5-4c80-80e3-76f0ccaf928d", 
+    "text": "```\nimport React from 'react'\nimport { View, Text, StyleSheet, Dimensions } from 'react-native'\n\nconst BreedCell = ({breed, data}) =&gt; {\n  const keys = Object.keys(data).filter(key =&gt; key != 'breed')\n  const desc = keys.map(key =&gt; `${key}: ${data[key]}`)\n  return (\n    &lt;View style={styles.container}&gt;\n      &lt;Text style={styles.breed}&gt;{breed}&lt;/Text&gt;\n      &lt;Text&gt;{desc.join(',')}&lt;/Text&gt;\n    &lt;/View&gt;\n  )\n}\n\nexport default BreedCell\n\nconst { width, height } = Dimensions\n\nconst styles = StyleSheet.create({\n  container: {\n    flex: 1, \n    borderBottomWidth: 1,\n    borderBottomColor: '#000',\n    padding: 18,\n    width: width - 20,\n    marginLeft: 10,\n    marginRight: 10\n  },\n  breed: {\n    fontSize: 24\n  }\n})```", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555450673.001700"
+  }, 
+  {
+    "client_msg_id": "db344afa-9c63-4789-8a1f-3751fd18977d", 
+    "text": "<https://github.com/zetachang/react-native-dotenv/issues/39>", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1555449069.001400"
+  }, 
+  {
+    "client_msg_id": "ca4ef875-2a45-47f6-b368-7f111d1ea5b2", 
+    "text": "@maxbeech", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1555449066.001200"
+  }, 
+  {
+    "client_msg_id": "85732e82-decf-4b2d-a79e-f591a3202b71", 
+    "text": "<https://github.com/Make-School-Labs/by-breed-starter>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555448926.001000"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCC4TPF5K> set the channel topic: Repo: <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript> Tracker: <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "ts": "1555020593.008000", 
+    "topic": "Repo: <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript> Tracker: <https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "subtype": "channel_topic", 
+    "user": "UCC4TPF5K", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "028b86cd-7b83-4373-8b06-bea841d56ff0", 
+    "text": "<https://www.makeschool.com/academy/track/standalone/wthr-native-tutorial-mvs/getting-started>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555019356.007900"
+  }, 
+  {
+    "client_msg_id": "be96d093-d5a4-485e-90a5-d1f24c9cc8c3", 
+    "text": "<https://facebook.github.io/react-native/docs/getting-started>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555016205.007700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHMKKAZFT", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 2.4 Progress Tracker (Term 4 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_80.png", 
+        "thumb_360_h": 360, 
+        "size": 108922, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_800.png", 
+        "timestamp": 1555015243, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FHMKKAZFT/few_2", 
+        "name": "FEW 2", 
+        "created": 1555015243, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMKKAZFT-550f4c8227/few_2_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807"
+      }
+    ], 
+    "client_msg_id": "fc02b26c-d32e-483a-933f-11ec0420ab44", 
+    "text": "<https://docs.google.com/spreadsheets/d/1jFFqB9xxH2vlNorww9-4mkBPzlZfqJIzQnSnQgUlQrU/edit#gid=1955777807>", 
+    "upload": false, 
+    "ts": "1555015240.007000", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FHMKKAZFT"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6d01bf53-6081-4914-a58d-e32cdb9dbaa5", 
+    "attachments": [
+      {
+        "image_bytes": 234781, 
+        "original_url": "https://medium.com/@chunchuanlin/android-vs-ios-compare-20-ui-components-patterns-part-1-ad33c2418b45", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "17 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Android VS. iOS: Compare 20 UI Components &amp; Patterns (Part 1)", 
+        "ts": 1514065188, 
+        "title_link": "https://medium.com/@chunchuanlin/android-vs-ios-compare-20-ui-components-patterns-part-1-ad33c2418b45", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*6Yod6uglJG6BUZ0swm2ZJg.png", 
+        "image_width": 648, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@chunchuanlin/android-vs-ios-compare-20-ui-components-patterns-part-1-ad33c2418b45", 
+        "fallback": "Medium: Android VS. iOS: Compare 20 UI Components &amp; Patterns (Part 1)", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "20 differences between Android and iOS you should know when designing for cross-platform apps", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@chunchuanlin/android-vs-ios-compare-20-ui-components-patterns-part-1-ad33c2418b45>", 
+    "ts": "1555015216.006700", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d199d806-6a97-4237-b731-57a65e927abb", 
+    "text": "Do we have a project tracker for the class?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1555013485.006500"
+  }, 
+  {
+    "client_msg_id": "f2f74424-43b6-4e1e-a58a-5b96b5517df0", 
+    "attachments": [
+      {
+        "thumb_height": 512, 
+        "thumb_url": "https://d30j33t1r58ioz.cloudfront.net/static/brand/square-512x512.png", 
+        "thumb_width": 512, 
+        "original_url": "https://expo.io", 
+        "text": "A free and open source toolchain built around React Native to help you build native iOS and Android apps using JavaScript and React.", 
+        "title": "Expo", 
+        "title_link": "https://expo.io/", 
+        "service_name": "expo.io", 
+        "from_url": "https://expo.io/", 
+        "fallback": "Expo", 
+        "service_icon": "https://d30j33t1r58ioz.cloudfront.net/static/brand/square-228x228.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://expo.io>", 
+    "ts": "1554846759.006100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a077491f-eca8-4aad-9e16-06ed1cc950ab", 
+    "text": "<https://facebook.github.io/react-native/docs/getting-started>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554846740.005900"
+  }, 
+  {
+    "client_msg_id": "2121ac95-ec4e-4102-9bf1-354af9f1447d", 
+    "text": "<https://www.makeschool.com/academy/track/standalone/react-redux-tetris-app-tutorial-o4s/tetris-introduction>", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1554242918.005600"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> set the channel topic: Repo: <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>", 
+    "ts": "1554241660.005400", 
+    "topic": "Repo: <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>", 
+    "subtype": "channel_topic", 
+    "user": "UCC4TPF5K", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2146df13-99a9-4773-8094-8fc462dce699", 
+    "attachments": [
+      {
+        "image_bytes": 39176, 
+        "original_url": "https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/", 
+        "service_name": "TechCrunch", 
+        "title": "Mark Zuckerberg: Our Biggest Mistake Was Betting Too Much On HTML5", 
+        "image_width": 376, 
+        "title_link": "https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/", 
+        "image_height": 250, 
+        "image_url": "https://techcrunch.com/wp-content/uploads/2012/09/zuck-2-2.jpg?w=600", 
+        "text": "Today, Mark Zuckerberg revealed that Facebook's mobile strategy relied too much on HTML5, rather than native applications. Not only was this a big mistake with mobile, but Zuckerberg says that its biggest mistake period was the focus on HTML5. This is the first time that the Facebook CEO has ope\u2026", 
+        "from_url": "https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/", 
+        "fallback": "TechCrunch: Mark Zuckerberg: Our Biggest Mistake Was Betting Too Much On HTML5", 
+        "service_icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/>", 
+    "ts": "1554238296.005200", 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fc6d7484-aac1-45b0-8ade-dc46c2bdb431", 
+    "attachments": [
+      {
+        "image_bytes": 252568, 
+        "original_url": "http://letsplay.ouigo.com/", 
+        "text": "Jouez au flipper OUIGO - Let's play et tentez de battre tous les scores ! <http://letsplay.ouigo.com|letsplay.ouigo.com>", 
+        "title": "OUIGO - Let's play !", 
+        "image_width": 476, 
+        "title_link": "http://letsplay.ouigo.com/", 
+        "image_height": 250, 
+        "image_url": "http://storage.googleapis.com/mm-ouigopinball.appspot.com/assets/20180314_161524/img/static/share.png", 
+        "service_name": "OUIGO", 
+        "from_url": "http://letsplay.ouigo.com/", 
+        "fallback": "OUIGO - Let's play !", 
+        "service_icon": "http://storage.googleapis.com/mm-ouigopinball.appspot.com/assets/20180314_161524/img/static/icons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://letsplay.ouigo.com/> using <https://threejs.org/> All on the web / using a javascript library", 
+    "ts": "1554238287.004900", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "592a0c3b-e1a4-4caa-aac9-5fb8a02fad6c", 
+    "text": "haw yee", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1554238284.004800"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1554237927.004200", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "5804b4eb-55cb-4600-9460-ef4843e19876", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554237799.003800"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> set the channel purpose: <https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>", 
+    "ts": "1554237764.003600", 
+    "subtype": "channel_purpose", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "purpose": "<https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>"
+  }, 
+  {
+    "client_msg_id": "11300cca-fd3a-49e5-ae45-9364007a1757", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.4-Native-Development-with-JavaScript>", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1554237759.003500"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1554237686.003000", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1554237686.002800", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1554237686.002600", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1554237686.002400", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1554237685.002200", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1554237685.002000", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1554237685.001800", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1554237685.001600", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1554237685.001400", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1554237684.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1554237684.001000", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1554237684.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1554237684.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1554237684.000400", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554237683.000200", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }
+]

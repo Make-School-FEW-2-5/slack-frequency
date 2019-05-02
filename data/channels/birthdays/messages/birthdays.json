@@ -1,0 +1,636 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1555468252.000200", 
+    "text": "<@UCB8YJNBT> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1554150951.000200", 
+    "text": "<@UCB8Y9ZQ8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1553307832.000200", 
+    "text": "<@UCBD9KCQH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1549930165.000200", 
+    "text": "<@UCC4RHFU5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1549749531.000400", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1549482398.000200", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1547069751.000200", 
+    "text": "<@UCBS25JKD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650662.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1543449271.000200", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "aba8bffd-fe1d-413c-b458-487ca7848898", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "birthday", 
+        "users": [
+          "UCCS7HWGP", 
+          "UCC37PD6D", 
+          "UCB8Y9ZQ8", 
+          "UCB8T1AG0", 
+          "UCC4RHFU5"
+        ]
+      }
+    ], 
+    "text": "<!channel> <@UCBHQSTB6> Happy Birthday!!!! :cake: :confetti_ball:", 
+    "ts": "1541955750.001200", 
+    "user": "UCD9FM8GN", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1541793323.000400", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1541634114.000200", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1540835880.000200", 
+    "text": "<@U6YV4A45C> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540780844.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1540497714.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1540254164.000200", 
+    "text": "<@UCBDA2GGH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1540079025.000200", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1539972544.000200", 
+    "text": "<@U8M6VPKUZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1539895595.000200", 
+    "text": "<@UCBPUT6AX> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1539582630.000200", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1539573635.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1539456302.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1539361089.000200", 
+    "text": "<@UCHK87XEJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1537728833.000200", 
+    "text": "<@U8M6VPKUZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "593D1F94-49F7-4035-98EC-18660414681F", 
+    "thread_ts": "1536878660.000100", 
+    "text": "Happy Birthday!!", 
+    "ts": "1537465767.000100", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCHK87XEJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "84bde50c-0104-4fda-b21b-9d6728e25830", 
+    "thread_ts": "1537464320.000100", 
+    "text": "thank uuuuuuuu", 
+    "ts": "1537465688.000100", 
+    "user": "UCHK87XEJ", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5ba8092d-87a3-4c60-8880-4a5db34f721d", 
+    "thread_ts": "1537464320.000100", 
+    "latest_reply": "1537465688.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCHK87XEJ"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "pikachu", 
+        "users": [
+          "UCHK87XEJ", 
+          "U6X9L8VAN", 
+          "UCD9FM8GN", 
+          "UCBS25JKD"
+        ]
+      }
+    ], 
+    "text": "<@UCHK87XEJ> happy birthday", 
+    "ts": "1537464320.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6ZCE0AKG", 
+    "replies": [
+      {
+        "user": "UCHK87XEJ", 
+        "ts": "1537465688.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCGA3C1", 
+    "ts": "1537324597.000200", 
+    "text": "<@UCFCGA3C1> has left the channel"
+  }, 
+  {
+    "client_msg_id": "36dca523-7f23-42ef-8c21-f5913313ae71", 
+    "thread_ts": "1536878660.000100", 
+    "latest_reply": "1537465767.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "birthday", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBD9KCQH", 
+          "U6YMU9QCF", 
+          "UCB8U00KA", 
+          "U6ZCE0AKG", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "My birthday is in 7 days :pikachu:", 
+    "ts": "1536878660.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCHK87XEJ", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1537465767.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1e9fb1d7-589d-4566-a512-dd991508b4a1", 
+    "edited": {
+      "user": "UCBHS9M3N", 
+      "ts": "1536876589.000000"
+    }, 
+    "text": "My birthday is next week friday the 21st. I plan on going to the Ice Cream Museum  to celebrate, if you will like to join me you can buy your ticket here: <https://www.showclix.com/event/museum-of-ice-cream-san-francisco> . Make sure to get your ticket for 8:00pm because that's when I will be going.", 
+    "ts": "1536870815.000100", 
+    "user": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1536869066.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCBPUT6AX"
+  }, 
+  {
+    "client_msg_id": "e5bd9749-8cd9-4d0e-b5d4-e50effea9ac7", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "dancing-dan", 
+        "users": [
+          "UCC4RHFU5", 
+          "UCBS25JKD", 
+          "UCB8Y9ZQ8"
+        ]
+      }
+    ], 
+    "text": "My birthday is the 19th and I think I might not be feeling well then :sneezing_face::lying_face:", 
+    "ts": "1536869022.000100", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1a6708b9-45d3-4ef0-9513-4259d30272e8", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "joy", 
+        "users": [
+          "UCB3XNQFJ", 
+          "UCBS25JKD", 
+          "UCB8T1AG0", 
+          "UCC37PD6D", 
+          "UCBDDHX7T", 
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "The only thing im throwing is shade.", 
+    "ts": "1536866423.000100", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f3a099f7-5f44-4360-8f1d-51a4b2715f0c", 
+    "text": "Are we throwing a party?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536864962.000100"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> set the channel topic: Happy Birthday! :tada::confetti_ball::raised_hands::skin-tone-5::birthday::clinking_glasses:", 
+    "ts": "1536862131.000100", 
+    "topic": "Happy Birthday! :tada::confetti_ball::raised_hands::skin-tone-5::birthday::clinking_glasses:", 
+    "subtype": "channel_topic", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1536862041.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1536862041.000600", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1536862041.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1536862041.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1536862040.001600", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1536862040.001400", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1536862040.001200", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1536862040.001000", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1536862040.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1536862040.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB3XNQFJ> has joined the channel", 
+    "ts": "1536862040.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB3XNQFJ", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1536862040.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1536862039.001600", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1536862039.001400", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBPUT6AX> has joined the channel", 
+    "ts": "1536862039.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBHMLWEQ> has joined the channel", 
+    "ts": "1536862039.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBHMLWEQ", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1536862039.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1536862039.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1536862039.000400", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1536862039.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1536862038.001000", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1536862038.000800", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1536862038.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1536862038.000400", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1536862038.000200", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1536862037.001000", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1536862037.000800", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCFCGA3C1> has joined the channel", 
+    "ts": "1536862037.000600", 
+    "subtype": "channel_join", 
+    "user": "UCFCGA3C1", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1536862037.000400", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCHMQH2HE> has joined the channel", 
+    "ts": "1536862037.000200", 
+    "subtype": "channel_join", 
+    "user": "UCHMQH2HE", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1536862036.000900", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U2C90DSLF> has joined the channel", 
+    "ts": "1536862036.000700", 
+    "subtype": "channel_join", 
+    "user": "U2C90DSLF", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@U9W8R4A2W> has joined the channel", 
+    "ts": "1536862036.000500", 
+    "subtype": "channel_join", 
+    "user": "U9W8R4A2W", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1536862036.000300", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCBHS9M3N"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> set the channel purpose: anything related to Make School students or staff birthdays", 
+    "ts": "1536862036.000100", 
+    "subtype": "channel_purpose", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "purpose": "anything related to Make School students or staff birthdays"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1536862035.000200", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }
+]

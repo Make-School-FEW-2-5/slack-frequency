@@ -1,0 +1,1025 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1554150819.000200", 
+    "text": "<@U2C90LDS9> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHKG1RQ", 
+    "ts": "1553307448.000600", 
+    "text": "<@U6YHKG1RQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2B6Q2SVB", 
+    "ts": "1553307188.000400", 
+    "text": "<@U2B6Q2SVB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1VDXDV0X", 
+    "ts": "1553307056.000200", 
+    "text": "<@U1VDXDV0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1UTEGPU6", 
+    "ts": "1547864562.000200", 
+    "text": "<@U1UTEGPU6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1544044079.000200", 
+    "text": "<@U1D40QFD4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1537308129.000200", 
+    "text": "<@U2QTVG278> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "git", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "arrow_right", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "github", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "spider_web", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chrome", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 250, 
+        "thumb_url": "https://avatars2.githubusercontent.com/u/39191?s=400&v=4", 
+        "thumb_width": 250, 
+        "title": "paulirish/git-open", 
+        "service_name": "GitHub", 
+        "title_link": "https://github.com/paulirish/git-open", 
+        "text": "git-open - Type `git open` to open the GitHub page or website for a repository in your browser.", 
+        "from_url": "https://github.com/paulirish/git-open", 
+        "fallback": "GitHub: paulirish/git-open", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+        "id": 1
+      }
+    ], 
+    "text": "If you ever wanted to be able to open a git repo\u2019s github webpage from the command line\u2026 <https://github.com/paulirish/git-open>", 
+    "ts": "1519597005.000058", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1518483808.000251", 
+    "text": "<@U8M6V7F3K> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517808021.000085", 
+    "text": "<@U8M6V7F3K> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 62000, 
+        "title": "Home | Laws of UX", 
+        "service_name": "Laws of UX", 
+        "image_width": 500, 
+        "title_link": "https://lawsofux.com/", 
+        "image_height": 250, 
+        "image_url": "https://lawsofux.com/images/social_1024.jpg", 
+        "text": "Laws of UX is a collection of the maxims and principles that designers can consider when building user interfaces.", 
+        "from_url": "https://lawsofux.com/", 
+        "fallback": "Laws of UX: Home | Laws of UX", 
+        "service_icon": "https://lawsofux.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://lawsofux.com/>", 
+    "pinned_info": {
+      "pinned_ts": 1516731816, 
+      "channel": "C5Q0453M5", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1516731808.000240", 
+    "pinned_to": [
+      "C5Q0453M5"
+    ], 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "text": "List of mind blowing tech in the space of interfacing with our humanity.  <http://transtech200.com/>", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1516389729.000669"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 87179, 
+        "title": "Crafting Better Code Reviews \u2013 Vaidehi Joshi \u2013 Medium", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "13 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "ts": 1493726462, 
+        "title_link": "https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*INwRDJ_vspfJKkyFpv5jww.png", 
+        "image_width": 573, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312", 
+        "fallback": "Medium: Crafting Better Code Reviews \u2013 Vaidehi Joshi \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Adapted and reworked from a talk originally given at RailsConf 2017.", 
+        "id": 1
+      }
+    ], 
+    "text": "An insightful article on code reviews: <https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312>", 
+    "pinned_info": {
+      "pinned_ts": 1512504336, 
+      "channel": "C5Q0453M5", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1512504330.000738", 
+    "pinned_to": [
+      "C5Q0453M5"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 93164, 
+        "title": "Putting comments in code: the good, the bad, and the ugly.", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "ts": 1492686345, 
+        "title_link": "https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*ddM-OL7PF36NZ6QYCa95bQ.jpeg", 
+        "image_width": 485, 
+        "service_name": "freeCodeCamp", 
+        "from_url": "https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83", 
+        "fallback": "freeCodeCamp: Putting comments in code: the good, the bad, and the ugly.", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*MotlWcSa2n6FrOx3ul89kw.png", 
+        "text": "Stop me if you\u2019ve heard this one before\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "Solid advice on when, how, and how much to comment your code (and how _not_ to do it too!): <https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83>", 
+    "pinned_info": {
+      "pinned_ts": 1512502028, 
+      "channel": "C5Q0453M5", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1512502022.000296", 
+    "pinned_to": [
+      "C5Q0453M5"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1511992813.000925", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 812, 
+        "thumb_url": "https://img.stackshare.io/introducing-stackshare.png", 
+        "thumb_width": 1425, 
+        "title": "Software and technology stacks used by top companies", 
+        "service_name": "StackShare", 
+        "title_link": "https://stackshare.io/", 
+        "text": "All the best Open Source &amp; Software as a Service (SaaS) tools in one place, ranked by developers and companies using them. Compare and browse tech stacks from thousands of companies and software developers from around the world.", 
+        "from_url": "https://stackshare.io/", 
+        "fallback": "StackShare: Software and technology stacks used by top companies", 
+        "service_icon": "https://stackshare.io/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Research the tech stacks of companies you want to work for\u2026 <https://stackshare.io/>", 
+    "pinned_info": {
+      "pinned_ts": 1511900819, 
+      "channel": "C5Q0453M5", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1511900812.000407", 
+    "pinned_to": [
+      "C5Q0453M5"
+    ], 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YHKG1RQ", 
+    "ts": "1511812530.000247", 
+    "text": "<@U6YHKG1RQ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1511746769.000129", 
+    "text": "<@U6XE4NNSZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1510941750.000352", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1504794487.000431", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "text": "You got 48 hrs:\n<http://blog.udacity.com/2017/06/free-preview-vr-developer-nanodegree-program-classroom.html>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 380284, 
+        "title": "Free Preview of our VR Developer Nanodegree Program Classroom | Udacity", 
+        "service_name": "Udacity", 
+        "ts": 1496948378, 
+        "title_link": "http://blog.udacity.com/2017/06/free-preview-vr-developer-nanodegree-program-classroom.html", 
+        "image_height": 250, 
+        "image_url": "http://blog.udacity.com/wp-content/uploads/2017/06/VR-Screenshot_3.png", 
+        "image_width": 400, 
+        "text": "You are invited to a free preview of our VR Developer Nanodegree program classroom! You can access the content, and even do the program\u2019s first project!", 
+        "from_url": "http://blog.udacity.com/2017/06/free-preview-vr-developer-nanodegree-program-classroom.html", 
+        "fallback": "Udacity: Free Preview of our VR Developer Nanodegree Program Classroom | Udacity", 
+        "service_icon": "http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/themes/udacity_wp_1_8/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "ts": "1496968017.585180", 
+    "user": "U1DG2HBB2"
+  }, 
+  {
+    "text": "<https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "title": "Learn every language \u2013 Bradfield", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "10 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "ts": 1483133778, 
+        "title_link": "https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee", 
+        "service_name": "Bradfield", 
+        "text": "In my first few days as a freshman, I met a classmate who claimed that he could code in any programming language I could name. Astonished\u2026", 
+        "from_url": "https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee", 
+        "fallback": "Bradfield: Learn every language \u2013 Bradfield", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/152/152/1*2ZBngWNyvuKuMAs7M5oVAQ.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1496887453.029942", 
+    "user": "U1DFG2K9C"
+  }, 
+  {
+    "text": "More comprehensive guide to swift 4", 
+    "type": "message", 
+    "user": "U1DFG2K9C", 
+    "ts": "1496864117.116236"
+  }, 
+  {
+    "text": "<https://www.raywenderlich.com/163857/whats-new-swift-4>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 17884, 
+        "title": "What's New in Swift 4? - Ray Wenderlich", 
+        "service_name": "Ray Wenderlich", 
+        "image_width": 500, 
+        "title_link": "https://www.raywenderlich.com/163857/whats-new-swift-4", 
+        "image_height": 250, 
+        "image_url": "https://koenig-media.raywenderlich.com/uploads/2017/06/WhatsNewSwift4-twitter-1.png", 
+        "text": "Learn about what is new in Swift 4.", 
+        "from_url": "https://www.raywenderlich.com/163857/whats-new-swift-4", 
+        "fallback": "Ray Wenderlich: What's New in Swift 4? - Ray Wenderlich", 
+        "service_icon": "https://www.raywenderlich.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "ts": "1496864108.113041", 
+    "user": "U1DFG2K9C"
+  }, 
+  {
+    "attachments": [
+      {
+        "author_link": "https://makeschoolstudents.slack.com/team/U1YM6H8MA", 
+        "is_msg_unfurl": true, 
+        "text": "<!here|@here> let\u2019s post new resources here so we can pin more links without losing those from the past.", 
+        "channel_id": "C5Q0453M5", 
+        "author_name": "Tassos Lambrou", 
+        "ts": "1496730737.737744", 
+        "channel_name": "resources2", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Tassos Lambrou", 
+        "author_id": "U1YM6H8MA", 
+        "author_icon": "https://avatars.slack-edge.com/2016-12-16/117202520433_b6dd9a6acabc71df2385_48.jpg", 
+        "fallback": "[June 5th, 2017 11:32 PM] tlambrou: <!here|@here> let\u2019s post new resources here so we can pin more links without losing those from the past."
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U1YM6H8MA> pinned a message to this channel.", 
+    "ts": "1496778127.393286", 
+    "item_type": "C", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1496774951.322529", 
+    "text": "braus: So we can pin more links without losing the old ones.", 
+    "ts": "1496778088.381056", 
+    "user": "U1YM6H8MA", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1496774951.322529", 
+    "latest_reply": "1496778088.381056", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1YM6H8MA"
+    ], 
+    "text": "Resources2??", 
+    "ts": "1496774951.322529", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1D40QFD4", 
+    "replies": [
+      {
+        "user": "U1YM6H8MA", 
+        "ts": "1496778088.381056"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "Xcode installs and Swift can generally co-exist. Just make sure you\u2019re working in the version (beta/non-beta) you assume you opened.", 
+    "type": "message", 
+    "user": "U2C90DSLF", 
+    "ts": "1496759540.474134"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "open_mouth", 
+        "users": [
+          "U1YM6H8MA", 
+          "U1DG2HBB2", 
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U2C90DSLF", 
+      "ts": "1496868984.000000"
+    }, 
+    "text": "_*Remember, it\u2019s a pain to downgrade from beta versions of iOS and macOS!*_ Do not install them on your main devices, use secondary/backup devices!", 
+    "ts": "1496759487.452687", 
+    "user": "U2C90DSLF", 
+    "type": "message"
+  }, 
+  {
+    "text": "swift 4", 
+    "type": "message", 
+    "user": "U1DFG2K9C", 
+    "ts": "1496739212.326954"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_rolling_eyes", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 1200, 
+        "thumb_url": "https://developer.apple.com/swift/images/swift-og.png", 
+        "thumb_width": 1200, 
+        "title": "Swift - Apple Developer", 
+        "text": "Swift is a powerful and intuitive programming language for iOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.", 
+        "title_link": "https://developer.apple.com/swift/", 
+        "service_name": "developer.apple.com", 
+        "from_url": "https://developer.apple.com/swift/", 
+        "fallback": "Swift - Apple Developer", 
+        "service_icon": "https://developer.apple.com/swift/images/swift-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developer.apple.com/swift/>", 
+    "ts": "1496739210.326543", 
+    "user": "U1DFG2K9C", 
+    "type": "message"
+  }, 
+  {
+    "text": "xcode 9", 
+    "type": "message", 
+    "user": "U1DFG2K9C", 
+    "ts": "1496739179.319104"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_rolling_eyes", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "U1GJHRYLE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "title": "Xcode - Apple Developer", 
+        "text": "Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.", 
+        "title_link": "https://developer.apple.com/xcode/", 
+        "service_name": "developer.apple.com", 
+        "from_url": "https://developer.apple.com/xcode/", 
+        "fallback": "Xcode - Apple Developer", 
+        "service_icon": "https://developer.apple.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developer.apple.com/xcode/>", 
+    "ts": "1496739176.318324", 
+    "user": "U1DFG2K9C", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U1DG2HBB2"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "bangbang", 
+        "users": [
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "text": "<!here|@here> let\u2019s post new resources here so we can pin more links without losing those from the past.", 
+    "pinned_info": {
+      "pinned_ts": 1496778127, 
+      "channel": "C5Q0453M5", 
+      "pinned_by": "U1YM6H8MA"
+    }, 
+    "ts": "1496730737.737744", 
+    "pinned_to": [
+      "C5Q0453M5"
+    ], 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U2QTVG278> has joined the channel", 
+    "ts": "1496730681.730154", 
+    "subtype": "channel_join", 
+    "user": "U2QTVG278", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2DUY4UP7> has joined the channel", 
+    "ts": "1496730681.730144", 
+    "subtype": "channel_join", 
+    "user": "U2DUY4UP7", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1JE69WCE> has joined the channel", 
+    "ts": "1496730681.730134", 
+    "subtype": "channel_join", 
+    "user": "U1JE69WCE", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U28QF6CTZ> has joined the channel", 
+    "ts": "1496730681.730127", 
+    "subtype": "channel_join", 
+    "user": "U28QF6CTZ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U3CQHNHM5> has joined the channel", 
+    "ts": "1496730681.730120", 
+    "subtype": "channel_join", 
+    "user": "U3CQHNHM5", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5GPACX> has joined the channel", 
+    "ts": "1496730681.730109", 
+    "subtype": "channel_join", 
+    "user": "U1D5GPACX", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1EMTGTB5> has joined the channel", 
+    "ts": "1496730681.730097", 
+    "subtype": "channel_join", 
+    "user": "U1EMTGTB5", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1UH6TD7S> has joined the channel", 
+    "ts": "1496730681.730085", 
+    "subtype": "channel_join", 
+    "user": "U1UH6TD7S", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D66AMGQ> has joined the channel", 
+    "ts": "1496730681.730067", 
+    "subtype": "channel_join", 
+    "user": "U1D66AMGQ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5WKS73> has joined the channel", 
+    "ts": "1496730680.730055", 
+    "subtype": "channel_join", 
+    "user": "U1D5WKS73", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1SU4E1NJ> has joined the channel", 
+    "ts": "1496730680.730040", 
+    "subtype": "channel_join", 
+    "user": "U1SU4E1NJ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1SU1V0MC> has joined the channel", 
+    "ts": "1496730680.730029", 
+    "subtype": "channel_join", 
+    "user": "U1SU1V0MC", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5XJW3X> has joined the channel", 
+    "ts": "1496730680.730017", 
+    "subtype": "channel_join", 
+    "user": "U1D5XJW3X", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5LANSZ> has joined the channel", 
+    "ts": "1496730680.730014", 
+    "subtype": "channel_join", 
+    "user": "U1D5LANSZ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U3X5JDHC2> has joined the channel", 
+    "ts": "1496730680.730009", 
+    "subtype": "channel_join", 
+    "user": "U3X5JDHC2", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2C90DSLF> has joined the channel", 
+    "ts": "1496730680.729995", 
+    "subtype": "channel_join", 
+    "user": "U2C90DSLF", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U22NDRMGA> has joined the channel", 
+    "ts": "1496730680.729989", 
+    "subtype": "channel_join", 
+    "user": "U22NDRMGA", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D40QFD4> has joined the channel", 
+    "ts": "1496730680.729982", 
+    "subtype": "channel_join", 
+    "user": "U1D40QFD4", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5KQLRJ> has joined the channel", 
+    "ts": "1496730680.729943", 
+    "subtype": "channel_join", 
+    "user": "U1D5KQLRJ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2B6Q2SVB> has joined the channel", 
+    "ts": "1496730680.729940", 
+    "subtype": "channel_join", 
+    "user": "U2B6Q2SVB", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5BDLAC> has joined the channel", 
+    "ts": "1496730680.729938", 
+    "subtype": "channel_join", 
+    "user": "U1D5BDLAC", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U264M87A7> has joined the channel", 
+    "ts": "1496730679.729914", 
+    "subtype": "channel_join", 
+    "user": "U264M87A7", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U22PQENQJ> has joined the channel", 
+    "ts": "1496730679.729905", 
+    "subtype": "channel_join", 
+    "user": "U22PQENQJ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2FCY2FBR> has joined the channel", 
+    "ts": "1496730679.729900", 
+    "subtype": "channel_join", 
+    "user": "U2FCY2FBR", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2D9ZGW4C> has joined the channel", 
+    "ts": "1496730679.729879", 
+    "subtype": "channel_join", 
+    "user": "U2D9ZGW4C", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1DG2HBB2> has joined the channel", 
+    "ts": "1496730679.729875", 
+    "subtype": "channel_join", 
+    "user": "U1DG2HBB2", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U3PJU203D> has joined the channel", 
+    "ts": "1496730679.729862", 
+    "subtype": "channel_join", 
+    "user": "U3PJU203D", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1VD417CP> has joined the channel", 
+    "ts": "1496730679.729849", 
+    "subtype": "channel_join", 
+    "user": "U1VD417CP", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1DFG2K9C> has joined the channel", 
+    "ts": "1496730679.729831", 
+    "subtype": "channel_join", 
+    "user": "U1DFG2K9C", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1JE2T0MB> has joined the channel", 
+    "ts": "1496730679.729824", 
+    "subtype": "channel_join", 
+    "user": "U1JE2T0MB", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2DDJSYNQ> has joined the channel", 
+    "ts": "1496730679.729808", 
+    "subtype": "channel_join", 
+    "user": "U2DDJSYNQ", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2481KKBM> has joined the channel", 
+    "ts": "1496730679.729806", 
+    "subtype": "channel_join", 
+    "user": "U2481KKBM", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1E8XGEK1> has joined the channel", 
+    "ts": "1496730679.729789", 
+    "subtype": "channel_join", 
+    "user": "U1E8XGEK1", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1U2T6HT6> has joined the channel", 
+    "ts": "1496730679.729788", 
+    "subtype": "channel_join", 
+    "user": "U1U2T6HT6", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U22LEGE6P> has joined the channel", 
+    "ts": "1496730679.729777", 
+    "subtype": "channel_join", 
+    "user": "U22LEGE6P", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1VLBKK8C> has joined the channel", 
+    "ts": "1496730679.729775", 
+    "subtype": "channel_join", 
+    "user": "U1VLBKK8C", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U35BQ8G07> has joined the channel", 
+    "ts": "1496730679.729755", 
+    "subtype": "channel_join", 
+    "user": "U35BQ8G07", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U22NLSMKL> has joined the channel", 
+    "ts": "1496730679.729736", 
+    "subtype": "channel_join", 
+    "user": "U22NLSMKL", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1UTEGPU6> has joined the channel", 
+    "ts": "1496730678.729716", 
+    "subtype": "channel_join", 
+    "user": "U1UTEGPU6", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U29MSQJLR> has joined the channel", 
+    "ts": "1496730678.729708", 
+    "subtype": "channel_join", 
+    "user": "U29MSQJLR", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1J990A3G> has joined the channel", 
+    "ts": "1496730678.729696", 
+    "subtype": "channel_join", 
+    "user": "U1J990A3G", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D5ZHQB0> has joined the channel", 
+    "ts": "1496730678.729659", 
+    "subtype": "channel_join", 
+    "user": "U1D5ZHQB0", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U2C90LDS9> has joined the channel", 
+    "ts": "1496730678.729640", 
+    "subtype": "channel_join", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D50CCAC> has joined the channel", 
+    "ts": "1496730678.729636", 
+    "subtype": "channel_join", 
+    "user": "U1D50CCAC", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1VDXDV0X> has joined the channel", 
+    "ts": "1496730678.729631", 
+    "subtype": "channel_join", 
+    "user": "U1VDXDV0X", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1GJHRYLE> has joined the channel", 
+    "ts": "1496730678.729621", 
+    "subtype": "channel_join", 
+    "user": "U1GJHRYLE", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> has joined the channel", 
+    "ts": "1496730677.729611", 
+    "subtype": "channel_join", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1D54AR6D> has joined the channel", 
+    "ts": "1496730677.729598", 
+    "subtype": "channel_join", 
+    "user": "U1D54AR6D", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U48LVBV34> has joined the channel", 
+    "ts": "1496730677.729582", 
+    "subtype": "channel_join", 
+    "user": "U48LVBV34", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1WKV2LUF> has joined the channel", 
+    "ts": "1496730677.729556", 
+    "subtype": "channel_join", 
+    "user": "U1WKV2LUF", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1YPE1T3K> has joined the channel", 
+    "ts": "1496730677.729530", 
+    "subtype": "channel_join", 
+    "user": "U1YPE1T3K", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U28S64ZJ5> has joined the channel", 
+    "ts": "1496730677.729516", 
+    "subtype": "channel_join", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1496730677.729496", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "U1YM6H8MA"
+  }, 
+  {
+    "text": "<@U1YM6H8MA> set the channel purpose: More resources!  To get past the 100 pinned link limit", 
+    "ts": "1496730677.729485", 
+    "subtype": "channel_purpose", 
+    "user": "U1YM6H8MA", 
+    "type": "message", 
+    "purpose": "More resources!  To get past the 100 pinned link limit"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1496730676.729408", 
+    "text": "<@U1YM6H8MA> has joined the channel"
+  }
+]

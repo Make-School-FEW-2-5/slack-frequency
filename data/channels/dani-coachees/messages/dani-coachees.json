@@ -1,0 +1,535 @@
+[
+  {
+    "client_msg_id": "62d26b94-09f4-41b2-9b0e-8ab839139f20", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCBS1DSF5"
+        ]
+      }
+    ], 
+    "text": "<@UCBS1DSF5> you have rights on the invite to re-schedule. please communicate that in our calendars so i don't miss coaching with you!!", 
+    "ts": "1554317719.001900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f6e135d7-bf11-4918-bd34-c3aac2aa9b6a", 
+    "text": "Hey <@UC36F4P2M>, I am available next week at 11:20 since Meagan is on vacation, but once she gets back I always have Student Council meetings from 11:30-12:30. Just a heads up! :dani:", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1554316806.001300"
+  }, 
+  {
+    "client_msg_id": "03fe4fcb-897f-453c-90ce-8fbb57855ab7", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "ok_hand", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCDAETD5L", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "Your coaching schedule has been added to your calendar and I've verified that each of you are available during this time. For convience:\n\n*WEDNESDAYS STARTING TOMORROW*:\n1. Ali, 1:40pm\n2. Asim, 2:00pm\n3. Edwin, 2:20pm\n4. Ikey, 2:40pm\n5. Jeremy, 3:00pm\n\n*MONDAYS STARTING NEXT WEEK*:\n1. Jayce, 12:00pm\n2. Kendra, 12:20pm\n\n*TUESDAYS STARTING NEXT WEEK*:\n1. Marianna, 11am\n2. Erica, 11:20am\n3. Nya, 11:40am\n\n*NO MATTER WHAT*:\n*_Always feel free to ping me anytime you wanna vent, chat, share your successes, show off your work, laugh, cry, have some real talk, code, debug, make something, or learn. I AM HERE FOR YOU!_* :blue_heart: :dani:", 
+    "ts": "1554274197.007800", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "721bac0a-58a1-4210-be26-e0b629ef76a2", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "raised_hands::skin-tone-3", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBQLD4M8", 
+          "UCBSELQ2F", 
+          "UCBS1DSF5", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCBSELQ2F", 
+          "UCBS1DSF5", 
+          "UCC0HC7D0", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "make-school", 
+        "users": [
+          "UCBSELQ2F", 
+          "UCBS1DSF5", 
+          "UCC0HC7D0", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCBSELQ2F", 
+          "UCBS1DSF5", 
+          "UCC0HC7D0", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dani", 
+        "users": [
+          "UCBS1DSF5", 
+          "UCC0HC7D0", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hi Coachees!! :blue_heart: I will be sending calendar invites tailored to your term 4 schedules later in the week :slightly_smiling_face:", 
+    "ts": "1554149805.001000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1554149775.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "BB69168F-37B4-4EE6-B71B-15257ED29738", 
+    "text": "It\u2019s all good. Thanks for letting me know. :+1:", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1551201681.002500"
+  }, 
+  {
+    "client_msg_id": "469DCBA9-02C3-4ADA-A950-DD409C6EA7FB", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "if you're meeting with me this morning, I still need to reschedule you're appointments due to teaching senior SPD this morning\n\n<@UCC0HC7D0> <@UCB3PRBME> <@UCBS1DSF5> <@UCBSELQ2F> thanks for understanding!", 
+    "ts": "1551201641.001900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1547841057.001700", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1547841048.001500", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "4cc7f160-5280-4102-a63c-7f19d829862f", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1548200589.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCCSGECPJ", 
+          "UCBSELQ2F", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<!channel> - i'll be sending out coachee invites based on yalls schedules sometime this coming week to make sure everyone is getting coaching. :slightly_smiling_face:\n\ni have cancelled any pending meetings so i can clean up our calendars and the data!", 
+    "ts": "1547841041.001300", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1650cfd7-1138-4148-8b17-b93f4125eabc", 
+    "text": "<!channel>\n\n:page_facing_up: This channel is a great place to *share your resume and LinkedIn profile* so I everyone\u2019s is in one place!\n\n:white_check_mark: Always send your resume to potential employers in *PDF* (literally means *Portable Document Format*)\n\n:x: Do not send Word (many computers can\u2019t open `.docx` files), Google Docs (permissions issues), JPEG, etc.", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1547774122.000400"
+  }, 
+  {
+    "client_msg_id": "1670FF07-C7AD-4F90-B8C8-B44410C18201", 
+    "text": "<!channel> If you were not present for today's enrollment session...\n\nPlease use these links to register for term 3 courses TODAY and then DM me when you finish and, of course, if you have any questions about registration.\n\n\u2022 <http://make.sc/registration|make.sc/registration> \u2013 slides with lots of helpful information to guide your course registration\n\u2022 <http://make.sc/enrollment|make.sc/enrollment> \u2013 dashboard page on which to register for term 3 courses\n\u2022 <http://make.sc/course-offerings|make.sc/course-offerings> \u2013 all courses titles and descriptions\n\u2022 <http://make.sc/course-catalog|make.sc/course-catalog> \u2013 catalog and degree path information", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1547092436.000800"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 618, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F3FUQUV7U", 
+        "thumb_480_h": 371, 
+        "original_h": 618, 
+        "thumb_360_w": 360, 
+        "title": "Internship/Job Readiness Rubric", 
+        "url_private": "https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit", 
+        "thumb_720_h": 556, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_80.png", 
+        "thumb_360_h": 278, 
+        "size": 6299, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_800.png", 
+        "timestamp": 1481918753, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_160.png", 
+        "user": "U1D40QFD4", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/F3FUQUV7U/job_readiness_rubric", 
+        "name": "Job Readiness Rubric", 
+        "created": 1481918753, 
+        "original_w": 800, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_720.png", 
+        "external_url": "https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit"
+      }
+    ], 
+    "client_msg_id": "07b4c664-5317-48b9-af50-c045979ce831", 
+    "text": "<https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8>", 
+    "upload": false, 
+    "ts": "1543958975.001700", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "x_files": [
+      "F3FUQUV7U"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ED72E6C5-719E-48C8-8771-4009F7EA93B0", 
+    "text": "Where can I get this readiness rubric ", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1543958826.001500"
+  }, 
+  {
+    "client_msg_id": "ec8b7718-ec1e-40cc-83ec-9f7a2e4caaa1", 
+    "text": "<@U8NMLKGDU> <@UCCSGECPJ> <@UCB3PRBME> please complete your Job Readiness Rubric by EOD and return back to my desk if I'm not around this afternoon :slightly_smiling_face: thx!!!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1543958434.001100"
+  }, 
+  {
+    "client_msg_id": "ca5ae93d-03e8-4ce9-8de4-38a07f82b405", 
+    "thread_ts": "1541548271.000400", 
+    "text": "<!channel> - great opportunity to level up your MOB skills by teaching <@U8NMLKGDU>!\n\ni learned more the past year as a teacher than all my startups combined.\n\ngive that help, get that knowledge, friends!", 
+    "ts": "1541703278.000100", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "35441DDD-412A-4B2B-935F-BF8810812B04", 
+    "thread_ts": "1541548271.000400", 
+    "latest_reply": "1541703278.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "text": "Who\u2019s good with iOS that can help me with some setup ", 
+    "ts": "1541548271.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U8NMLKGDU", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541703278.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "46e1dff3-14c2-44dd-823f-313dca8b3155", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Can you teach it :smile:", 
+    "ts": "1539895096.000100", 
+    "user": "U6XCTHTQQ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d6a28dfb-7196-44fc-907d-1905b8226b96", 
+    "text": "its actually a super cool class and i'm a little jealous i'm not teaching it haha", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1539895031.000100"
+  }, 
+  {
+    "client_msg_id": "10f870df-4f42-4c5b-9a21-48477567a5e9", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Okay thanks! I thought you were teaching that one! Was looking forward to taking it with you haha", 
+    "ts": "1539894992.000100", 
+    "user": "U6XCTHTQQ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b5aa0259-d9fc-4b0c-8c0f-d6cc2ab46f99", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "man-facepalming", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<@U6XCTHTQQ> that's all braus :slightly_smiling_face:", 
+    "ts": "1539894949.000100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4877ad37-2c89-48cf-89bf-7310551ab850", 
+    "text": "<@UC36F4P2M> Hey I just finished registration, are you teaching BEW 2.1?", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1539894905.000100"
+  }, 
+  {
+    "client_msg_id": "B8813E33-E64B-44B5-9196-2748634D5A86", 
+    "text": "Will do! ", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1539894017.000100"
+  }, 
+  {
+    "client_msg_id": "1744e9a8-02b6-4f81-8c6a-40dc53802e2b", 
+    "text": "<@U6XCTHTQQ> as well", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1539893939.000100"
+  }, 
+  {
+    "client_msg_id": "ae5ad09e-9575-423e-884c-47d2924f0685", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "<@UCBSELQ2F> <@UCCSGECPJ> <@UCB3PRBME> <@UCC0HC7D0> <@U8NMLKGDU> please make sure to register for courses by 4pm today :slightly_smiling_face: thank you", 
+    "ts": "1539893927.000100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fa90e7b3-7e4a-410d-a163-28e6fc2ea74c", 
+    "text": "hey <@UC36F4P2M>, I didn\u2019t get an invite to a coaching session, what time is it?", 
+    "type": "message", 
+    "user": "UCBSELQ2F", 
+    "ts": "1537981408.000100"
+  }, 
+  {
+    "client_msg_id": "a4dbc187-479a-413b-bde4-7875f3d21a74", 
+    "text": "I believe I have Willow Waffle reserved for our coaching session today <@UCCSGECPJ> <@UCBSELQ2F> <@UCB3PRBME> <@UCBQLD4M8> fyi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1537980077.000100"
+  }, 
+  {
+    "client_msg_id": "2E4579E3-7033-493F-992F-1E1EF11EA70E", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "blue_heart", 
+        "users": [
+          "UCBS1DSF5", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "<!channel> hey everyone! can you believe we're in the middle of the term already? :raised_hands:\n\nfriendly reminder:\n\nGood practices for if you are falling behind in class / trying to better understand class concepts: \n(1) \u201cpair program\u201d \n(2) ask questions in class \n(3) pair with a classmate after class to discuss and clarify class concepts \n(4) meet with TAs \n(5) post questions in the class slack channel\n(6) Google and read articles related to class concepts.\n\nyou can also slack me anytime! I'm here for y'all :blue_heart:", 
+    "ts": "1537400379.000100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e4803bfe-82ee-439f-94fa-b70db37f2262", 
+    "text": "dont forget to schedule a weekly recurring meeting w me for our sessions after we meet today :smile:", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1536172315.000100"
+  }, 
+  {
+    "client_msg_id": "ce1a8352-486c-4744-9b27-27cd65f8b732", 
+    "text": "<!channel> ^^", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1536166442.000100"
+  }, 
+  {
+    "client_msg_id": "bf260c3d-049d-402d-99c8-780ceba7c4ba", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "haaay everyone i'm in tea tree torte for our coaching sessions today :blue_heart: great hall back conf room", 
+    "ts": "1536166435.000100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cd464213-33c9-439d-87ad-c1a5e469dd71", 
+    "text": "<!channel> friendly reminder to please schedule coaching time this week! dan sent out an email describing how :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1536073757.000100"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1536073716.001800", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1536073716.001600", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1536073716.001400", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1536073716.001200", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1536073716.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1536073716.000800", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1536073716.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1536073716.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCL1R3EZ> has joined the channel", 
+    "ts": "1536073716.000200", 
+    "subtype": "channel_join", 
+    "user": "UCCL1R3EZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: dani's coachees", 
+    "ts": "1536073715.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "dani's coachees"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1536073715.000200", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }
+]

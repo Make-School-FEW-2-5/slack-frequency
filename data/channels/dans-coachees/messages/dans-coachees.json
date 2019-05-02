@@ -1,0 +1,1181 @@
+[
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ05848LT", 
+        "thumb_480_h": 480, 
+        "original_h": 1035, 
+        "thumb_360_w": 278, 
+        "title": "Internship and Job Resources", 
+        "url_private": "https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_80.png", 
+        "thumb_360_h": 360, 
+        "size": 2439, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_800.png", 
+        "timestamp": 1556729216, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/FJ05848LT/internship_and_job_resources", 
+        "name": "Internship and Job Resources", 
+        "created": 1556729216, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ05848LT-75afec8ff1/internship_and_job_resources_720.png", 
+        "external_url": "https://docs.google.com/document/d/1q_6pEY0gOCzvK8junqE80KoNe4JzRWoKfS-4I86po4E/edit"
+      }
+    ], 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1556755513.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "<!here> please fill this out and put it on my desk by end of week! <https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit>", 
+    "upload": false, 
+    "ts": "1556755495.000900", 
+    "display_as_bot": false, 
+    "user": "U2C90LDS9", 
+    "x_files": [
+      "FJ05848LT"
+    ], 
+    "type": "message", 
+    "client_msg_id": "e8452aaa-110c-467f-9393-655d0305a846"
+  }, 
+  {
+    "client_msg_id": "c93ff943-115a-4dd2-9daa-13d0acecd4b3", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "chillparrot", 
+        "users": [
+          "UCBKC02JY", 
+          "U6ZCE0AKG", 
+          "U2C90LDS9"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "r", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "text": "Folks I am going to be remote for T5 (it is an off teaching term for me). In two weeks I\u2019ll be on vacation for a week and then I will be available online. Looking forward to our in-person coaching session this week!", 
+    "ts": "1556306685.002000", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 618, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F3FUQUV7U", 
+        "thumb_480_h": 371, 
+        "original_h": 618, 
+        "thumb_360_w": 360, 
+        "title": "Internship/Job Readiness Rubric", 
+        "url_private": "https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit", 
+        "thumb_720_h": 556, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_80.png", 
+        "thumb_360_h": 278, 
+        "size": 6299, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_800.png", 
+        "timestamp": 1481918753, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_160.png", 
+        "user": "U1D40QFD4", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/F3FUQUV7U/job_readiness_rubric", 
+        "name": "Job Readiness Rubric", 
+        "created": 1481918753, 
+        "original_w": 800, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F3FUQUV7U-2e6c6cd76e/job_readiness_rubric_720.png", 
+        "external_url": "https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit"
+      }
+    ], 
+    "client_msg_id": "941d3797-487c-49d3-8358-4a0f5e2d1e79", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "<!here> can ya\u2019ll fill this out by Monday if you missed doing it during the course registration session: <https://docs.google.com/document/d/1025UWrRt4mko6AQlsugCjbrNztYWEXblrW_b3ApsfA8/edit>", 
+    "upload": false, 
+    "ts": "1556302623.000500", 
+    "display_as_bot": false, 
+    "user": "U2C90LDS9", 
+    "x_files": [
+      "F3FUQUV7U"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "620181f5-fa92-4774-98ab-f2afb07c5f29", 
+    "text": "^ Also you should register for both T5 and T6 classes - they all are showing up in the T5 course registration category \u2026 in that enrollment you should pick ALL classes you will pick both T5 and T6 and then we will allocate which classes will be offered which term over the summer.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1556239088.002400"
+  }, 
+  {
+    "client_msg_id": "dce433aa-3224-43b7-8438-4d7a4aca68dd", 
+    "text": "<!channel> do your course registration now because we are enrolling students in S&amp;L asap and you may miss out! Message me if you\u2019d like to clarify course selections!", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1556238798.001000"
+  }, 
+  {
+    "client_msg_id": "291edc91-9b37-4450-a8f5-424b171f10cc", 
+    "text": "Message me if you are free Thurs 2:30-3:30pm and would like to be in a \u201csample teach\u201d for a potential new SPD instructor!", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1555977618.000700"
+  }, 
+  {
+    "client_msg_id": "a7ea7637-1644-486c-ad5a-295fe3db2d8b", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY", 
+          "UCBHS20S0"
+        ]
+      }
+    ], 
+    "text": "FYI see Jen\u2019s message in <#C1D3YFP6G|general> today that today is the last day for the add/drop deadline", 
+    "ts": "1554489049.000800", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JMBMM", 
+    "ts": "1549578246.000200", 
+    "text": "<@UCD1JMBMM> has left the channel"
+  }, 
+  {
+    "client_msg_id": "fe4dd406-dbd1-420f-8dd0-b8456d5cfafc", 
+    "text": "Hi folks! Message me if you want to drop a technical class you are enrolled in. Today is the last day to do so!", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1548719982.000600"
+  }, 
+  {
+    "client_msg_id": "3603c767-8d90-4940-ba5d-8503ff916f2f", 
+    "text": "<!channel>\n :page_facing_up: This channel is a great place to *share your resume and LinkedIn profile* so everyone\u2019s is in one place!\n:white_check_mark: Always send your resume to potential employers in *PDF* (literally means *Portable Document Format*)\n:x: Do not send Word (many computers can\u2019t open `.docx` files), Google Docs (permissions issues), JPEG, etc.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1547774422.000800"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF8EA4AFJ", 
+        "thumb_480_h": 360, 
+        "original_h": 2316, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF8EA4AFJ/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 639925, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_800.jpg", 
+        "timestamp": 1546969422, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF8EA4AFJ/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_1024.jpg", 
+        "user": "UCBS3LMDZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF8EA4AFJ-e75df20bb6", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS3LMDZ/FF8EA4AFJ/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1546969422, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 3088, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8EA4AFJ-0a1735fb16/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U2C90LDS9", 
+          "UCD9FM8GN", 
+          "U6ZCE0AKG", 
+          "UCD1JMBMM"
+        ]
+      }
+    ], 
+    "ts": "1546969430.001900", 
+    "text": "It\u2019s a small world after all Max was coming from Miami. Me from Orlando and we are both in Minneapolis getting ready for our flight to SF.", 
+    "upload_reply_to": "E7F01796-917C-4553-9094-E599CD5D631E", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS3LMDZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF8J8DZAN", 
+        "thumb_480_h": 480, 
+        "original_h": 2448, 
+        "thumb_360_w": 270, 
+        "title": "IMG_4867.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF8J8DZAN/img_4867.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1430920, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_800.jpg", 
+        "timestamp": 1546902150, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF8J8DZAN/download/img_4867.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_1024.jpg", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF8J8DZAN-115de0f19b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/FF8J8DZAN/img_4867.jpg", 
+        "name": "IMG_4867.JPG", 
+        "created": 1546902150, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3264, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8J8DZAN-c2f12c8e3c/img_4867_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "Awesome <@UCC4SUSHK>! Would love to see and hear how everybody\u2019s break went! Feel free to post a photo. Here\u2019s a photo of my wild little cousins from the holidays.", 
+    "upload": true, 
+    "ts": "1546902158.002000", 
+    "display_as_bot": false, 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 320, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1200, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF8C987EF", 
+        "thumb_480_h": 480, 
+        "original_h": 1280, 
+        "thumb_360_w": 240, 
+        "title": "File from iOS (4)", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF8C987EF/dcfe4245-e814-47a5-820c-7a4ec038dcaa.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_64.jpg", 
+        "thumb_720_w": 480, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 181897, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_800.jpg", 
+        "timestamp": 1546894537, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF8C987EF/download/dcfe4245-e814-47a5-820c-7a4ec038dcaa.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_1024.jpg", 
+        "user": "UCC4SUSHK", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF8C987EF-a00a533ab5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4SUSHK/FF8C987EF/dcfe4245-e814-47a5-820c-7a4ec038dcaa.jpg", 
+        "name": "dcfe4245-e814-47a5-820c-7a4ec038dcaa.JPG", 
+        "created": 1546894537, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 853, 
+        "thumb_960_w": 640, 
+        "thumb_1024_w": 682, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C987EF-7941eaebde/dcfe4245-e814-47a5-820c-7a4ec038dcaa_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1546894544.001000", 
+    "display_as_bot": false, 
+    "user": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 533, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF8C98BT5", 
+        "thumb_480_h": 320, 
+        "original_h": 853, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS (2)", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF8C98BT5/63bc96d6-ff6d-4769-9ece-80ea27b0b168.jpg", 
+        "thumb_720_h": 480, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_80.jpg", 
+        "thumb_360_h": 240, 
+        "size": 261983, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_800.jpg", 
+        "timestamp": 1546894537, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF8C98BT5/download/63bc96d6-ff6d-4769-9ece-80ea27b0b168.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_1024.jpg", 
+        "user": "UCC4SUSHK", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF8C98BT5-36aea91b74", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4SUSHK/FF8C98BT5/63bc96d6-ff6d-4769-9ece-80ea27b0b168.jpg", 
+        "name": "63bc96d6-ff6d-4769-9ece-80ea27b0b168.JPG", 
+        "created": 1546894537, 
+        "thumb_1024_h": 682, 
+        "thumb_960_h": 640, 
+        "original_w": 1280, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8C98BT5-b2d6b5edfc/63bc96d6-ff6d-4769-9ece-80ea27b0b168_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1546894542.000700", 
+    "display_as_bot": false, 
+    "user": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 533, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF9T5CAKG", 
+        "thumb_480_h": 320, 
+        "original_h": 853, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS (3)", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF9T5CAKG/01903fbd-c25c-4425-8fda-f1aec77e7728.jpg", 
+        "thumb_720_h": 480, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_80.jpg", 
+        "thumb_360_h": 240, 
+        "size": 264234, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_800.jpg", 
+        "timestamp": 1546894537, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF9T5CAKG/download/01903fbd-c25c-4425-8fda-f1aec77e7728.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_1024.jpg", 
+        "user": "UCC4SUSHK", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF9T5CAKG-88b3896368", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4SUSHK/FF9T5CAKG/01903fbd-c25c-4425-8fda-f1aec77e7728.jpg", 
+        "name": "01903fbd-c25c-4425-8fda-f1aec77e7728.JPG", 
+        "created": 1546894537, 
+        "thumb_1024_h": 682, 
+        "thumb_960_h": 640, 
+        "original_w": 1280, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF9T5CAKG-63e2adeb45/01903fbd-c25c-4425-8fda-f1aec77e7728_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1546894542.000400", 
+    "display_as_bot": false, 
+    "user": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 533, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF8M8LXJR", 
+        "thumb_480_h": 320, 
+        "original_h": 853, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF8M8LXJR/ddbd4764-9f93-4b70-bb53-441e85ee83f5.jpg", 
+        "thumb_720_h": 480, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_80.jpg", 
+        "thumb_360_h": 240, 
+        "size": 161567, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_800.jpg", 
+        "timestamp": 1546894524, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF8M8LXJR/download/ddbd4764-9f93-4b70-bb53-441e85ee83f5.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_1024.jpg", 
+        "user": "UCC4SUSHK", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF8M8LXJR-bad52420db", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4SUSHK/FF8M8LXJR/ddbd4764-9f93-4b70-bb53-441e85ee83f5.jpg", 
+        "name": "ddbd4764-9f93-4b70-bb53-441e85ee83f5.JPG", 
+        "created": 1546894524, 
+        "thumb_1024_h": 682, 
+        "thumb_960_h": 640, 
+        "original_w": 1280, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF8M8LXJR-56fe1e017a/ddbd4764-9f93-4b70-bb53-441e85ee83f5_720.jpg"
+      }
+    ], 
+    "text": "A lot of walking and waiting in the lines :) but overall it was fun.", 
+    "upload": true, 
+    "ts": "1546894528.000100", 
+    "display_as_bot": false, 
+    "user": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4BE7FE5E-5EAD-49C4-A190-FD7A94EE0D67", 
+    "thread_ts": "1544463801.005800", 
+    "text": "Ok", 
+    "ts": "1544546545.001600", 
+    "user": "UCC4SUSHK", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "68F801E1-0B00-46A8-BAE6-D0A39F548572", 
+    "text": "Hi Dan,\nI went to sleep at 5am...I will skip huddle today.", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1544546531.001400"
+  }, 
+  {
+    "client_msg_id": "a27a7d5a-012e-4c34-ad44-2e52ddea4167", 
+    "thread_ts": "1544463801.005800", 
+    "text": "Ramon can you put in our coaching document so we can revisit it in Jan? Looks good!", 
+    "ts": "1544464652.005900", 
+    "user": "U2C90LDS9", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0711F398-3A6C-4DFE-BAB6-47D1429B5D2B", 
+    "thread_ts": "1544463801.005800", 
+    "latest_reply": "1544546545.001600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90LDS9", 
+      "UCC4SUSHK"
+    ], 
+    "text": "What I want to accomplish during winter break?\n- add another project (my family is taking me to Disney...not happy about it though but it is what it is :)  )\n- learn new a new language (Aiming on C++ and Unreal for job specs or PyTorch cause I won a scholarship but I haven\u2019t had the time to work on that)\n- I would say sleep but who am I kidding so I won\u2019t even go there.", 
+    "ts": "1544463801.005800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC4SUSHK", 
+    "replies": [
+      {
+        "user": "U2C90LDS9", 
+        "ts": "1544464652.005900"
+      }, 
+      {
+        "user": "UCC4SUSHK", 
+        "ts": "1544546545.001600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "c5fc355a-efda-4abe-96d7-2d66bd1e8a12", 
+    "text": "<!channel> reminder that coaching sessions will now take place in the room on middle floor near elevator - Redwood Baklava", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1540928966.002700"
+  }, 
+  {
+    "client_msg_id": "e3649247-06d5-4305-a62b-288851c225ce", 
+    "thread_ts": "1540923246.001000", 
+    "text": "No problem!", 
+    "ts": "1540928855.002000", 
+    "user": "U2C90LDS9", 
+    "parent_user_id": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9AB393E3-29F3-4B85-A0AC-528DE2D0C838", 
+    "thread_ts": "1540923246.001000", 
+    "text": "Yeah that was an accident my bad", 
+    "ts": "1540923301.001800", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cac971a2-52aa-4122-8b89-1b17bebde38d", 
+    "thread_ts": "1540923246.001000", 
+    "latest_reply": "1540928855.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE", 
+      "U2C90LDS9"
+    ], 
+    "text": "Thanks <@UCC0H4UJE> you can put this in the <#CCHDZJGAF|the-dan-vinci-code> channel :slightly_smiling_face:", 
+    "ts": "1540923246.001000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U2C90LDS9", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1540923301.001800"
+      }, 
+      {
+        "user": "U2C90LDS9", 
+        "ts": "1540928855.002000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "414A30EF-EC99-4699-8286-0159C3091C49", 
+    "text": "I am still sick :mask: today and won\u2019t make it. ", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1540909332.000600"
+  }, 
+  {
+    "client_msg_id": "edd175b0-c62a-4841-bf5c-fd6bbaad693f", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCD9FM8GN", 
+          "UCB91TXS4", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "Reminder that I\u2019ll be out of office rest of today and week for a conference. See you monday!", 
+    "ts": "1540411932.000100", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f3ef764d-14b4-42d2-8454-523576a87eea", 
+    "thread_ts": "1540338945.000100", 
+    "text": "Will the time be changed? My updated coach meeting time in calendar still conflicts with my schedule:eyes:", 
+    "ts": "1540346519.000100", 
+    "user": "UCDAKSB7Y", 
+    "parent_user_id": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9ef03678-8b2c-40be-93e1-798df192f853", 
+    "text": "Also - *session location will now be in Redwood Baklava* the room on middle floor near elevator.", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1540338974.000100"
+  }, 
+  {
+    "client_msg_id": "14fc70a9-2ea0-44a2-a9e1-44e027488130", 
+    "thread_ts": "1540338945.000100", 
+    "latest_reply": "1540346519.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAKSB7Y"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "Coaching will begin again next week. I thoroughly enjoyed working with you all last term and watching you grow and develop. Cheers to next Term 2!", 
+    "ts": "1540338945.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U2C90LDS9", 
+    "replies": [
+      {
+        "user": "UCDAKSB7Y", 
+        "ts": "1540346519.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "ad1a8b82-11c3-41c0-9ea2-96ff93fb2409", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "Hi Team! I\u2019m out of the office for a coach training this Wed Afternoon - Fri. Please let me know if you\u2019d like to chat ahead of time! I\u2019m also going to reschedule our coaching sessions by moving them to a time it shows you each are available via your calendar!", 
+    "ts": "1540255819.000100", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "397ce167-1564-46be-9eff-ce56addaaad2", 
+    "text": "Thanks <@UCBHS20S0> - you can put this in our huddles channel <#CCHDZJGAF|the-dan-vinci-code>", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1538671493.000100"
+  }, 
+  {
+    "client_msg_id": "C61888E1-70FF-4BA6-AAE8-BB04B4F0ECEC", 
+    "text": "Bart is delayed. I\u2019ll be late. ", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1538670885.000100"
+  }, 
+  {
+    "client_msg_id": "d9f82fea-ebe4-4f8c-977a-6fa14c2919d4", 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1537399055.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "carlton", 
+        "users": [
+          "UCB91TXS4", 
+          "U2C90LDS9", 
+          "UCD1JMBMM", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "hero", 
+        "users": [
+          "UCB91TXS4", 
+          "UCD1JMBMM", 
+          "UCBKC02JY", 
+          "UCDAKSB7Y"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "clap", 
+        "users": [
+          "UCB91TXS4", 
+          "UCD1JMBMM", 
+          "UCBKC02JY", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dancing-dan", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "Good practices for if you are falling behind in class / trying to better understand class concepts: (1) \u201cpair program\u201d (2) ask questions in class (3) have students pair with a classmate after class to discuss and clarify class concepts (4) meet with TAs (5) post questions in the class slack channel (6) Google and read articles related to class concepts.", 
+    "ts": "1537398410.000100", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bda6c813-3afc-4cb8-86e7-413f6af04fdb", 
+    "thread_ts": "1537390808.000100", 
+    "text": "Woo!", 
+    "ts": "1537391270.000100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "45313bb6-3e12-48db-b3b7-1ed464a799b0", 
+    "thread_ts": "1537390808.000100", 
+    "latest_reply": "1537391270.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDA2GGH"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "star-struck", 
+        "users": [
+          "UCB91TXS4", 
+          "UCD1JMBMM", 
+          "UCDAKSB7Y"
+        ]
+      }
+    ], 
+    "text": "Coaching sessions today will take place on the first floor! I\u2019m back and healthy(ish) :carlton:", 
+    "ts": "1537390808.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U2C90LDS9", 
+    "replies": [
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1537391270.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d1c85b0b-b401-4216-a254-d0daa18709de", 
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1537301188.000000"
+    }, 
+    "text": "we can chat via this link: <https://appear.in/dan-coachees>", 
+    "ts": "1537301183.000100", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3018367-5111-427e-aaf4-d6d29426cb5f", 
+    "thread_ts": "1537297626.000100", 
+    "text": "Thanks!", 
+    "ts": "1537300472.000100", 
+    "user": "U2C90LDS9", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9a6c61f5-6ce6-48c5-a87a-b2d283aeb355", 
+    "thread_ts": "1537297703.000100", 
+    "text": "yeah we are scheduled for tomorrow :slightly_smiling_face:", 
+    "ts": "1537300469.000100", 
+    "user": "U2C90LDS9", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a23cb79c-8993-4637-b5cf-7b3f9962261d", 
+    "thread_ts": "1537297703.000100", 
+    "latest_reply": "1537300469.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90LDS9"
+    ], 
+    "text": "<@U2C90LDS9> Can I call you tomorrow?", 
+    "ts": "1537297703.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6Y6KU78W", 
+    "replies": [
+      {
+        "user": "U2C90LDS9", 
+        "ts": "1537300469.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "32ae036a-2ca0-4c1f-9b87-0d7e24612f4e", 
+    "thread_ts": "1537297626.000100", 
+    "latest_reply": "1537300472.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2C90LDS9"
+    ], 
+    "text": "Will do, feel better!", 
+    "ts": "1537297626.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBDA2GGH", 
+    "replies": [
+      {
+        "user": "U2C90LDS9", 
+        "ts": "1537300472.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "b6a45177-2f1f-4b94-9d0c-300dcc074b14", 
+    "text": "<!channel> I\u2019m a bit sick so please call me for coaching meetings today <tel:908-787-7955|908-787-7955>", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1537297608.000100"
+  }, 
+  {
+    "client_msg_id": "cf2854e8-3172-45e1-baef-d3143758c7f8", 
+    "text": "Reminder that coaching sessions are on the ground floor!", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1536185559.000100"
+  }, 
+  {
+    "client_msg_id": "3734c04b-8d25-4539-bd7a-28082465d268", 
+    "text": "Thanks for the heads up", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1536165874.000100"
+  }, 
+  {
+    "client_msg_id": "1df6c169-f732-4930-b7f5-be495ac9e217", 
+    "text": "I am running late! Sorry", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1536164575.000100"
+  }, 
+  {
+    "client_msg_id": "46a67302-3995-487e-bdeb-aecf5048001b", 
+    "text": "Hi coachees! I\u2019m beyond excited to work with each of you this year. Coaching sessions kick off today! Meet me on the first floor at your scheduled time and we\u2019ll go from there. We\u2019ll discuss your goals for Make School, the coaching contract, and how we can best work together:fire:", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1536084787.000100"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1536084679.000400", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1536084679.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1536084678.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1536084678.000900", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1536084678.000700", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1536084678.000400", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1536084678.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1536084677.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1536084677.000800", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1536084677.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1536084677.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1536084677.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1536084676.001300", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBP3BYTW> has joined the channel", 
+    "ts": "1536084676.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBP3BYTW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1536084676.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCFRMA9V1> has joined the channel", 
+    "ts": "1536084676.000700", 
+    "subtype": "channel_join", 
+    "user": "UCFRMA9V1", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1536084676.000500", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@UCD1JMBMM> has joined the channel", 
+    "ts": "1536084676.000300", 
+    "subtype": "channel_join", 
+    "user": "UCD1JMBMM", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2C90LDS9> set the channel purpose: messages related to coaching", 
+    "ts": "1536084676.000100", 
+    "subtype": "channel_purpose", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "purpose": "messages related to coaching"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1536084675.000200", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }
+]

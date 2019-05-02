@@ -1,0 +1,4951 @@
+[
+  {
+    "client_msg_id": "62cd90b4-450b-4135-a3a9-137060ea0d5e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "flag-tw", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "octopus", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "fallback": "wikipedia: Eight-legged essay", 
+        "image_bytes": 255074, 
+        "original_url": "https://en.wikipedia.org/wiki/Eight-legged_essay#cite_note-:12-10", 
+        "title": "Eight-legged essay", 
+        "text": "The eight-legged essay (Chinese: \u516b\u80a1\u6587; pinyin: b\u0101g\u01d4w\u00e9n) was a style of essay that exam-takers wrote in order to pass the imperial examinations during the Ming and Qing dynasties in China. The eight-legged essay was required for those test takers in these civil service tests to demonstrate their merits for government service, often focusing on Confucian thought and knowledge of the Four Books and Five Classics, in relation to governmental ideals. Test takers could not write in innovative or creative ways, but needed to conform to the standards of the eight-legged essay. Various skills were examined, including the ability to write coherently and to display basic logic. In certain times, the candidates were expected to spontaneously compose poetry upon a set theme, the value of which was also sometimes questioned, or eliminated as part of the test material. This was a major argument in favor of the eight-legged essay, arguing that it were better to eliminate creative art in favor of prosaic literacy. In the history of Chinese literature, the eight-legged essay is often said to have caused China's \"cultural stagnation and economic backwardness\" in the 19th century.", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 1200, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.wikipedia.org/wiki/Eight-legged_essay#cite_note-:12-10", 
+        "image_height": 900, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Imperial_examination_cheating_material.JPG/1200px-Imperial_examination_cheating_material.JPG", 
+        "from_url": "https://en.wikipedia.org/wiki/Eight-legged_essay#cite_note-:12-10", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "text": "8-legged essay - <https://en.wikipedia.org/wiki/Eight-legged_essay#cite_note-:12-10>", 
+    "ts": "1556747699.003500", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "281898d1-f8e9-4a29-8194-a0bd075c3245", 
+    "attachments": [
+      {
+        "original_url": "https://ajbraus.github.io/sequelize-it/", 
+        "text": "Description", 
+        "title": "Sequelize It", 
+        "title_link": "https://ajbraus.github.io/sequelize-it/", 
+        "service_name": "ajbraus.github.io", 
+        "from_url": "https://ajbraus.github.io/sequelize-it/", 
+        "fallback": "Sequelize It", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://ajbraus.github.io/sequelize-it/>", 
+    "ts": "1556575500.001800", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fa22b4cb-6c3e-4bf9-a19e-5d733e630b22", 
+    "text": "`&lt;?php header( 'Location: /index.html' ) ;  ?&gt;`", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1556570861.001500"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "c39ce76a-7132-4e6b-9302-0bae906531ff", 
+    "text": "Reminder to put in blog post topic as well as links to completed tutorials: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1556141760.000500", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "19779c6f-0f65-4469-9786-2d23a29685e3", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Reminder to all y\u2019all that you can get help from Brian as a TA", 
+    "ts": "1556040576.004600", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1c61fdab-018a-4142-81fc-0ce16ce488dd", 
+    "text": "<https://docs.google.com/document/d/1PJugjbSTVoVB_Mp5ff_QT5U7boJgcNwSXyFEvsqL7zw/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1555966413.004000"
+  }, 
+  {
+    "client_msg_id": "237869E2-817F-4EAA-B6F6-FF7AD9342B3F", 
+    "text": "<@U1D40QFD4> going to be 10mins late to class today.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1555964611.003800"
+  }, 
+  {
+    "client_msg_id": "e9433a3b-9f99-417a-9c07-5027ff5fbab4", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "```\n// CREATE PET (ASYNC)\n  <http://app.post|app.post>('/pets', async (req, res) =&gt; {\n    var pet = new Pet(req.body);\n\n    try {\n      var pet = await pet.save();\n      res.send({ pet });\n    } catch (err) {\n      res.status(400).send(err.errors);\n    }\n  });\n```", 
+    "ts": "1555362968.002500", 
+    "user": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "47fb44aa-b2d3-4b00-a436-04bc6431b7a1", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1555360008.000000"
+    }, 
+    "text": "Here's my newError: `The domain is unverified and requires DNS configuration. Log in to your control panel to view required DNS records.` :cry:", 
+    "ts": "1555359990.002000", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555327242.001400", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555327121.001200", 
+    "text": "<@UCBLQTD7V> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555297963.000900", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "client_msg_id": "4e672ade-55a5-4f80-841d-1b6499586dc5", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Yup!", 
+    "ts": "1555009565.002400", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b8e2ed3f-a1a7-4960-9add-87624d432b1a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "github", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "\"Proud Pete's Pet Emporium - Due end of week 2\" - course repo :+1:", 
+    "ts": "1555007921.001500", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "80ae1795-4ae3-4d78-a350-0da12ca432fd", 
+    "text": "<@U1D40QFD4> Pete's Pets Tutorial is due Monday by midnight, correct?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1555007523.001000"
+  }, 
+  {
+    "client_msg_id": "0c8537ec-c14f-4683-9881-2a1e7201c224", 
+    "text": "Please fill in if you have not yet", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1554768350.017100"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "f0d822da-e9cd-4736-af54-81ca18d82139", 
+    "text": "<!channel> - Here is our attendance and completion tracker: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1554768343.016400", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3bffc928-4cf7-427b-93c6-12affa8938ca", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 929785, 
+        "original_url": "https://stripe.com/en-US/payments/elements", 
+        "text": "Build beautiful, smart checkout flows.", 
+        "title": "Stripe Elements: Build beautiful, smart checkout flows", 
+        "image_width": 500, 
+        "title_link": "https://stripe.com/en-US/payments/elements", 
+        "image_height": 250, 
+        "image_url": "https://stripe.com/img/v3/elements/social.png", 
+        "service_name": "stripe.com", 
+        "from_url": "https://stripe.com/en-US/payments/elements", 
+        "fallback": "Stripe Elements: Build beautiful, smart checkout flows", 
+        "service_icon": "https://stripe.com/img/apple-touch-icon/180x180.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Take your code up a notch. Add Stripe elements: <https://stripe.com/en-US/payments/elements>", 
+    "ts": "1554758202.015500", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "6621e226-a3d2-4700-adfd-bb0c1442dba6", 
+    "text": "<https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1554755666.014200", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554244388.013900", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554244368.013700", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "FD867E87-BFC2-4D21-850E-3A3FA857F742", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "But up to y\u2019all ", 
+    "ts": "1554166905.010900", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "948D0AB4-40A1-445A-93C3-84156456208B", 
+    "text": "I recommend meeting together to support each other on Pete\u2019s pets", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1554166901.010700"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1554161331.010000", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1554150720.008800", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "0046eab0-bec6-4d39-adb7-75b1ffe8963c", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1554149427.000000"
+    }, 
+    "text": "Does that mean we don't meet for class this week?", 
+    "ts": "1554149034.008400", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ad1ddc9b-e6e8-43f0-b6fb-b457f16d0d62", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "If you have a question or get stuck, please please please post it to <http://make.sc/stackoverflow|make.sc/stackoverflow> with the tag `bew` and you can also tag Luc or me and we\u2019ll answer the question.", 
+    "ts": "1554141045.007800", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0d2770a3-5d5f-4d58-b468-e0e60edd1f64", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "We\u2019re going to have fun with this course if we get our work done :smile:", 
+    "ts": "1554140501.007000", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e060f68-92d6-4bfb-a703-cd93c209f7c1", 
+    "text": "Getting through chapters 1-4 would be a good goal", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1554140475.006300"
+  }, 
+  {
+    "client_msg_id": "347ee66d-8fe6-40ff-ba20-722a9e427734", 
+    "text": "<!channel> - hey team - this course is all about common advanced web patterns (or recipes or features). We kick off by implementing these recipes in the Proud Pete\u2019s Pet Emporium Tutorial. Please get started this week. <https://www.makeschool.com/academy/track/pete-s-pet-emporium---advanced-web-recipes>", 
+    "pinned_info": {
+      "pinned_ts": 1554166918, 
+      "channel": "CFL2HTGM9", 
+      "pinned_by": "U1D40QFD4"
+    }, 
+    "ts": "1554140454.005900", 
+    "pinned_to": [
+      "CFL2HTGM9"
+    ], 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1554140336.004700", 
+    "text": "<@UCH838UC9> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1554140330.004500", 
+    "text": "<@U703HM5PY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1554140324.004300", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1554140316.004100", 
+    "text": "<@U1HBKMW8Y> has left the channel"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1554140306.003800", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1554140306.003600", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1554140306.003400", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1554140306.003200", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1554140305.003000", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1554139601.002600", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1554139595.002400", 
+    "text": "<@U6YBN8NJ2> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1554139591.002200", 
+    "text": "<@UCBPUT6AX> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1554139588.002000", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554139583.001800", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1554139577.001600", 
+    "text": "<@UCCL1R3EZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1554139570.001400", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554139565.001200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBP4M9C4", 
+    "ts": "1554139561.001000", 
+    "text": "<@UCBP4M9C4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554093454.000500", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1554082779.000200", 
+    "text": "<@UCBLQTD7V> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1553308027.007100", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1553222572.006600", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1553221168.006300", 
+    "text": "<@UCBS8JUHH> has left the channel"
+  }, 
+  {
+    "client_msg_id": "85989933-8677-46F3-972F-D82B086823AA", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "birthday", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDAETD5L", 
+          "UCBS4EW59"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "<@U1D40QFD4> Happy Birthday Adam! And Thank you for great term! See you soon!", 
+    "ts": "1553221156.006100", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1553190479.005200", 
+    "text": "<@UCBKC02JY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1553185961.004600", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1553184787.004400", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1553182478.004100", 
+    "text": "<@UCBQH1P6E> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1553180707.003900", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCC0FMXCJ> has left the channel", 
+    "ts": "1553152778.003700", 
+    "subtype": "channel_leave", 
+    "user": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "46717e29-f538-42e7-8c34-1c471b98efec", 
+    "text": "Good work! Go forth and build stuff!", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1553145448.003400"
+  }, 
+  {
+    "client_msg_id": "90d1709c-3298-419b-baaa-866add1f9f3d", 
+    "text": "I provided feedback to you on various projects via github issues", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1553145427.002800"
+  }, 
+  {
+    "client_msg_id": "07b9ef66-faf1-4a18-a863-38b7eecdfa40", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "Hellllloooooo! Yes <!channel> everyone passed :smile:", 
+    "ts": "1553145410.002300", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0a79ea6a-8560-49eb-9782-eed4be949b97", 
+    "text": "^^", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1553133770.001800"
+  }, 
+  {
+    "client_msg_id": "85857a3d-ff13-4a12-9889-f3679f078e9b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Sooooo did we ever pass this class? <@U1D40QFD4> never got an email", 
+    "ts": "1553130529.001100", 
+    "user": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1553021112.000200", 
+    "text": "<@U6Y6KU78W> has left the channel"
+  }, 
+  {
+    "client_msg_id": "abef88f5-de56-40d3-a2d5-41d5333a8419", 
+    "text": "If I left you a Medium comment that says you need to do X for credit, that means by EOD if you can. I am putting in grades tomorrow", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1552329453.013800"
+  }, 
+  {
+    "client_msg_id": "e3b6d8db-7194-406d-807c-083ee3382ef6", 
+    "text": "<!channel> - Reminder that your blog post must be LIVE for credit", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1552328483.012300"
+  }, 
+  {
+    "client_msg_id": "6f94235f-fceb-4183-b930-756974e445a9", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCB8U00KA", 
+          "UCBP4M9C4"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "tada", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCB8U00KA", 
+          "UCBS8JUHH", 
+          "UCBP4M9C4"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "trophy", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCB8U00KA", 
+          "UCBP4M9C4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "braus", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBP4M9C4"
+        ]
+      }
+    ], 
+    "text": "Thanks everyone for a fun class today.\nReminder to turn in your blog post and all 3 recipes by end of day today.\nI\u2019ll be looking for completion tomorrow, and then grading with feedback early next week", 
+    "ts": "1551914662.009800", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b82b4a2e-11f7-4980-aad7-db7bfe9be91a", 
+    "thread_ts": "1551913862.008600", 
+    "text": "very elegant thinking though!", 
+    "ts": "1551914612.008900", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fe04deec-a31d-48ae-a1a9-96c03e7cb077", 
+    "thread_ts": "1551913862.008600", 
+    "latest_reply": "1551914612.008900", 
+    "attachments": [
+      {
+        "thumb_height": 389, 
+        "thumb_url": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ce626918-baa3-4bcc-9fe8-f66a2d354b00/json-web-token-password-reset-opt.png", 
+        "thumb_width": 800, 
+        "original_url": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/", 
+        "service_name": "Smashing Magazine", 
+        "title": "Creating Secure Password Resets With JSON Web Tokens \u2014 Smashing Magazine", 
+        "ts": 1510255887, 
+        "title_link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/", 
+        "text": "When a user of your application has forgotten their password, it can and should be reset securely. To accomplish a secure password reset, I will demonstrate how to use JSON Web Tokens (JWT) to generate a URL-safe token. The JWT contains encoded information about the user and a signature that, when decoded, is validated to ensure that the token has not been tampered with.", 
+        "from_url": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/", 
+        "fallback": "Smashing Magazine: Creating Secure Password Resets With JSON Web Tokens \u2014 Smashing Magazine", 
+        "service_icon": "https://www.smashingmagazine.com/images/favicon/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U1D40QFD4"
+    ], 
+    "replies": [
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1551914612.008900"
+      }
+    ], 
+    "ts": "1551913862.008600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0FMXCJ", 
+    "text": "Apparently my idea was not unique: <https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a01eb5a6-2780-4870-8622-f35134d8f8b0", 
+    "text": "hey <@U1D40QFD4> do we not have class today?", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1551908266.008200"
+  }, 
+  {
+    "client_msg_id": "92aae0c0-d885-4a02-b39d-9446e08723f0", 
+    "text": "won't be in class today I have a doctors appointment", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1551907433.007900"
+  }, 
+  {
+    "client_msg_id": "f1fee493-afc1-4811-8df1-a2d924353354", 
+    "thread_ts": "1551745877.006600", 
+    "text": "Sorry, Wednesday. <@UCCTF62ET> if you need an extension slack me privately.", 
+    "ts": "1551747743.006900", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "10bb1f16-2de0-4e6e-99b3-567187fc7614", 
+    "thread_ts": "1551745877.006600", 
+    "text": "Can we change the due to fri at-least for the blog post?", 
+    "ts": "1551745986.006700", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ba23aa1a-e87b-4050-a0c1-c626783d563f", 
+    "thread_ts": "1551745877.006600", 
+    "latest_reply": "1551747743.006900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCCTF62ET", 
+      "U1D40QFD4"
+    ], 
+    "text": "<!channel>", 
+    "ts": "1551745877.006600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U1D40QFD4", 
+    "replies": [
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1551745986.006700"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1551747743.006900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "c0b77662-cb6d-43f2-b904-8364c7cdfe09", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Please have your 3 recipes and your blog post finished and public links in the tracker before Wednesday end of day.", 
+    "ts": "1551745874.006300", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b263050f-56e9-43ce-9021-12ba05258ef0", 
+    "thread_ts": "1551665739.001400", 
+    "text": "Just blog post and 3 recipes in the BEW tracker before Wednesday Please!", 
+    "ts": "1551745853.005700", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4d1e46a2-5b0e-45f2-9015-49f53c254076", 
+    "thread_ts": "1551665739.001400", 
+    "text": "No final", 
+    "ts": "1551745842.005500", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b5a0d0d5-ae6d-4197-b536-8c7c1311aa14", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "money_with_wings", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "envelope_with_arrow", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 512, 
+        "thumb_url": "https://stripe.com/img/v3/home/social.png", 
+        "thumb_width": 1024, 
+        "original_url": "https://stripe.com/docs/receipts", 
+        "text": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for businesses of all sizes.", 
+        "title": "Email Receipts | Stripe", 
+        "title_link": "https://stripe.com/docs/receipts", 
+        "service_name": "stripe.com", 
+        "from_url": "https://stripe.com/docs/receipts", 
+        "fallback": "Email Receipts | Stripe", 
+        "service_icon": "https://stripe.com/img/apple-touch-icon/180x180.png", 
+        "id": 1
+      }
+    ], 
+    "text": "You can send receipts: <https://stripe.com/docs/receipts>", 
+    "ts": "1551735648.004300", 
+    "user": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "63ad9a7a-6beb-4c59-94fe-b4b2c23cd190", 
+    "thread_ts": "1551665739.001400", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "-1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Wednesday", 
+    "ts": "1551671189.002600", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "daec1c14-3f20-4eef-9463-e30685a9e998", 
+    "thread_ts": "1551665739.001400", 
+    "text": "oh fantastic. all about that", 
+    "ts": "1551668342.002200", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "41c3b649-2320-4d8d-98b3-feda1b884d03", 
+    "thread_ts": "1551665739.001400", 
+    "text": "^", 
+    "ts": "1551666623.002000", 
+    "user": "UCCL1R3EZ", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f74dd5d7-bff2-4d2f-9aa2-bc79c3343403", 
+    "thread_ts": "1551665739.001400", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "I don\u2019t think we have a final for BEW 2.1. Just the recipes in a project and a blog post.", 
+    "ts": "1551666020.001800", 
+    "user": "UCB8WCDTJ", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "97f8d895-3430-4121-93ce-f80fc5d6328b", 
+    "thread_ts": "1551665739.001400", 
+    "latest_reply": "1551745853.005700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8WCDTJ", 
+      "UCCL1R3EZ", 
+      "UCBKC02JY", 
+      "U8NMLKGDU", 
+      "U1D40QFD4"
+    ], 
+    "text": "hey <@U1D40QFD4> is the final going to be tomorrow or Wednesday?", 
+    "ts": "1551665739.001400", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCB8WCDTJ", 
+        "ts": "1551666020.001800"
+      }, 
+      {
+        "user": "UCCL1R3EZ", 
+        "ts": "1551666623.002000"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551668342.002200"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1551671189.002600"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1551745842.005500"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1551745853.005700"
+      }
+    ], 
+    "reply_users_count": 5
+  }, 
+  {
+    "client_msg_id": "08304fe8-4c8a-407c-b465-f67c3c42ffe7", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1551306509.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Should I use Golang or Node.js for my Next App? \u2013 Faith Chikwekwe \u2013 Medium", 
+        "title_link": "https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e", 
+        "service_name": "Medium", 
+        "text": "(204 words)", 
+        "from_url": "https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e", 
+        "fallback": "Medium: Should I use Golang or Node.js for my Next App? \u2013 Faith Chikwekwe \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "node", 
+        "users": [
+          "UCB8U00KA", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "gopher", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBS4EW59", 
+          "UCB8WCDTJ", 
+          "UCBQH1P6E", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thinking_face", 
+        "users": [
+          "UCB8U00KA", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBQH1P6E", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!here> I was not around for blog reviews (unsure if they were today or last class). If anyone has a few minutes to read my current draft (especially if you're into Go :gopher:) and leave some pointers, I would appreciate it. <https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e>", 
+    "ts": "1551305763.019100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "31A881F0-0B7D-4525-80C9-BE5E99D43297", 
+    "text": "Forgot to post in here I won\u2019t be in class today", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1551303900.017600"
+  }, 
+  {
+    "client_msg_id": "3a27a6d7-cd51-4ff8-b3bf-65ef18b1b6d4", 
+    "text": "I will try to do code reviews again for these red folks Monday, so I can review Recipies 1-2.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1551219419.017200"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "bfdf54ba-8017-4df5-950a-4386c39cd573", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Ok I did a code review for everyone. If you have a red cell, that means I couldn\u2019t do one because the link was wrong, it was incomplete, or there is no link. <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1551219382.016000", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "UCB8U00KA", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man-facepalming", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 1504484, 
+        "footer": "Posted using /giphy | GIF by <https://giphy.com/archerfx/|Archer>", 
+        "title": "recipe", 
+        "image_width": 480, 
+        "title_link": "https://giphy.com/gifs/archerfx-x49H7NdakLhNgLoy7v", 
+        "image_height": 240, 
+        "image_url": "https://media3.giphy.com/media/x49H7NdakLhNgLoy7v/giphy.gif?cid=6104955e5c758bd3746a4f5a49f1beff", 
+        "fallback": "giphy: https://giphy.com/gifs/archerfx-x49H7NdakLhNgLoy7v", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1551207380.014700", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "client_msg_id": "7a43eb18-6458-4e2c-81f0-0d39fc62ea0a", 
+    "thread_ts": "1551205234.014200", 
+    "text": "currently working on my recipes :anguished:", 
+    "ts": "1551205804.014400", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91fdaa75-cadb-4eef-9163-b9b93805bf65", 
+    "thread_ts": "1551205234.014200", 
+    "latest_reply": "1551205804.014400", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "text": "<!channel> - I\u2019ll be doing some feedback right now on y\u2019all\u2019s first recipe. Be sure to plan to have the second recipe shipped by Friday.", 
+    "ts": "1551205234.014200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1D40QFD4", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1551205804.014400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a3c4d4cd-4afc-472a-b5f0-8effae97861f", 
+    "thread_ts": "1551120305.011500", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "male-detective", 
+        "users": [
+          "UCDAETD5L", 
+          "U8NMLKGDU", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "no_good", 
+        "users": [
+          "UCDAETD5L", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "aren\u2019t you supposed to be solving the command line murder, Detective(?) :thonk:", 
+    "ts": "1551123503.011800", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "acf751ef-c430-4f0e-be0c-f3ef731a7ff0", 
+    "thread_ts": "1551120305.011500", 
+    "latest_reply": "1551123503.011800", 
+    "attachments": [
+      {
+        "image_bytes": 46795, 
+        "original_url": "https://medium.com/@asimzaidi/stripe-checkout-api-in-node-js-tutorial-898a14ddf620", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Stripe Checkout API in Node.js Tutorial \u2013 Asim Zaidi \u2013 Medium", 
+        "ts": 1551120091, 
+        "title_link": "https://medium.com/@asimzaidi/stripe-checkout-api-in-node-js-tutorial-898a14ddf620", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*6W4oDZ5fQKgm7AKtAgP7_Q.png", 
+        "image_width": 500, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@asimzaidi/stripe-checkout-api-in-node-js-tutorial-898a14ddf620", 
+        "fallback": "Medium: Stripe Checkout API in Node.js Tutorial \u2013 Asim Zaidi \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Stripe is the new standard in online payments. Stripe is arguably best software platform for running an internet business. They handle\u2026", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "chillparrot", 
+        "users": [
+          "U1D40QFD4", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCD53TKCN"
+    ], 
+    "replies": [
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1551123503.011800"
+      }
+    ], 
+    "ts": "1551120305.011500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "text": "Secure the bag and add a donate button to your site using the Stripe Checkout API, here's a walk through article I just published :money_with_wings::computer::memo:<https://medium.com/@asimzaidi/stripe-checkout-api-in-node-js-tutorial-898a14ddf620>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "5cff3bd6-3294-4d3d-bf33-154e9f7c6f34", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6Y6KU78W", 
+          "UCBKC02JY", 
+          "U6YBN8NJ2"
+        ]
+      }
+    ], 
+    "text": "We\u2019ll do a draft review on Monday.", 
+    "ts": "1550793560.009600", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ec1eaec6-2d04-4926-83e4-72ec43f33f8a", 
+    "text": "Please remember to use this weekend to write your blog post. Aim for &gt; 1000 words. Write something you are proud of and would want to share with your mentors or on the relevant subreddit.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550793549.009300"
+  }, 
+  {
+    "client_msg_id": "17733d39-ac4e-4ea3-9ff3-f744931a0163", 
+    "text": "Just so I am crystal clear about the \u201c3 Recipes\u201d assignment for BEW 2.1. it means taking 3 of the recipes we learned (or another one like sending texts or using WebRTC or whatever you come up with) and implementing them in portfolio projects. You can use SPD projects, old projects, or a new project. The recipes can be in separate projects or all in one.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550793513.008600"
+  }, 
+  {
+    "client_msg_id": "b7cc21e2-ce3d-4eee-b9ec-c353bdd07b64", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCB8WCDTJ", 
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "luke", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "My ts-node-starter is now available as a command line tool. :grin:\n\nusage:\n```\n$ npm install -g ts-node-cli\n$ tsns [optional name]\n$ cd [chosen name or ts-node-starter]\n$ npm install\n$ tsc --watch\n$ nodemon\n```", 
+    "ts": "1550705146.005200", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "af1c1c2b-0028-41a4-9e1d-e68b27af33f5", 
+    "text": "<https://docs.google.com/forms/d/e/1FAIpQLScat5EUPg5aR-kX7fKnArOmjRDp9-9ftmKh5X1ITAiBs0oePg/viewform?usp=sf_link>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550702291.004700"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "rainbow", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "dab-squidward", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY", 
+          "U703HM5PY", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "spongebob", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY", 
+          "U703HM5PY", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@U1HBKMW8Y> set the channel topic: BEW 2.1 course repo: <http://make.sc/bew21-repo|make.sc/bew21-repo>\n+ progress tracker: <http://make.sc/bew21-progress|make.sc/bew21-progress>", 
+    "ts": "1550699303.003100", 
+    "topic": "BEW 2.1 course repo: <http://make.sc/bew21-repo|make.sc/bew21-repo>\n+ progress tracker: <http://make.sc/bew21-progress|make.sc/bew21-progress>", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "892d3a28-8b3f-40f2-93b8-201aad242a79", 
+    "text": "Core node modules are compiled into node binary but their source can be found here: <https://github.com/nodejs/node/tree/master/lib>", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550699164.003000"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 217, 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 362, 
+        "id": "FGBRV61MF", 
+        "thumb_480_h": 480, 
+        "original_h": 1504, 
+        "thumb_360_w": 163, 
+        "title": "Pasted image at 2019-02-20, 1:41 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGBRV61MF/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_64.png", 
+        "thumb_720_w": 326, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 80269, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_800.png", 
+        "timestamp": 1550698883, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGBRV61MF/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_1024.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGBRV61MF-bddc76b702", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FGBRV61MF/image.png", 
+        "name": "image.png", 
+        "created": 1550698883, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 680, 
+        "thumb_960_w": 434, 
+        "thumb_1024_w": 463, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGBRV61MF-865d3377b0/image_720.png"
+      }
+    ], 
+    "thread_ts": "1550698591.000500", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCB8U00KA", 
+          "U1HBKMW8Y", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "U1HBKMW8Y", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "in the absence of a short-link, you can always use the links on <http://makeschool.com/dashboard|makeschool.com/dashboard> !", 
+    "upload": true, 
+    "ts": "1550698888.001500", 
+    "display_as_bot": false, 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "15d2b972-30d8-4321-a574-e22bbcbdfd06", 
+    "text": "And the progress tracker: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1550698623.001000", 
+    "display_as_bot": false, 
+    "user": "UCB8U00KA", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1550698593.000700", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "91c7000f-dedf-4881-a3f2-29fd44903653", 
+    "thread_ts": "1550698591.000500", 
+    "latest_reply": "1550698888.001500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "link", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "wink", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@U1HBKMW8Y> Could we get a short link for this class' repo? <https://github.com/Make-School-Courses/BEW-2.1-Advanced-Web-Patterns>", 
+    "ts": "1550698591.000500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8U00KA", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1550698888.001500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "4bd43746-db06-45da-8014-1f17d6428627", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "writing_hand", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "obama-mic-drop", 
+        "users": [
+          "U703HM5PY", 
+          "U6Z4KNWCD"
+        ]
+      }
+    ], 
+    "text": "Looking ahead to next week, already mark your calendars with time set aside this weekend and next week to:\n1) *Blog Draft* - We\u2019ll have a blog feedback day on Wednesday, so have a first draft of your blog post done for feedback.\n2) *Recipe 2* - By next Friday you should have your second project recipe shipped", 
+    "ts": "1550170455.010000", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cd65cee4-ccf4-4d84-bac1-7ac8a7e2e53d", 
+    "text": "<!channel>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550170369.008300"
+  }, 
+  {
+    "client_msg_id": "3d94514a-f6ae-470f-8663-206e9c7609d7", 
+    "text": "Please take a minute today to update the BEW 2.1 tracker. People who do not have completed both tutorials, put in their blog post topic, and added their first recipe project will be put \u201cat risk\u201d in the grade book for a midterm grade.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550170367.007900"
+  }, 
+  {
+    "client_msg_id": "c8c80cb0-53b3-4950-8374-d20e21c7739e", 
+    "text": "reminder to put your blog post topic in the tracker by friday, you can already write an outline and include the draft link and I can review and provide feedback.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550104764.006100"
+  }, 
+  {
+    "client_msg_id": "c5755383-3638-4086-8d6e-fa703b0d434d", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1550096590.000000"
+    }, 
+    "thread_ts": "1550096366.002200", 
+    "text": "how to delete commit history: <https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github>", 
+    "ts": "1550096576.003800", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "03299d46-72f4-4bbe-9e6a-8782228b7caa", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1550096371.000000"
+    }, 
+    "latest_reply": "1550096576.003800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1550096366.002200", 
+    "text": "how to fix git cache (for example if .env is getting pushed to github even though it is in .gitignore):\n<https://stackoverflow.com/questions/41863484/clear-git-local-cache>\n\nTLDR:\n```cd repo-name\ngit rm --cached .env```\n\nThen you will also have to overwrite your commit history", 
+    "ts": "1550096366.002200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1550096576.003800"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8U00KA", 
+          "U1D40QFD4", 
+          "UF83RJTHD"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8U00KA", 
+          "U1D40QFD4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L", 
+          "U1D40QFD4"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8U00KA", 
+          "U1D40QFD4"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8U00KA", 
+          "U1D40QFD4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "git", 
+        "users": [
+          "UCDAETD5L", 
+          "U1D40QFD4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "github", 
+        "users": [
+          "UCDAETD5L", 
+          "U1D40QFD4"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "dec9c3a1-e627-42b0-b6c3-f92ac7ec6290", 
+    "text": "Will be late to class, sorry", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1550092963.000700"
+  }, 
+  {
+    "client_msg_id": "1a9f5aae-416c-4786-80fd-45cec2173fdd", 
+    "text": "Whoa sounds fun, how are you getting there?", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1550085429.000300"
+  }, 
+  {
+    "client_msg_id": "f0975468-807f-4e8f-9257-e2231c8aeeb0", 
+    "text": "<!channel> - come one come all to the State of JavaScript at Galvanize tonight. I\u2019ll be leaving here at ~6:15", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550018699.004800"
+  }, 
+  {
+    "client_msg_id": "cce17b99-e66f-413b-9854-a948328e6342", 
+    "text": "Come along! it will be fun. Galvanize is a cool office and pretty nearby", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1550004379.003700"
+  }, 
+  {
+    "client_msg_id": "b384dec4-bf85-4add-aaba-5d13d1c7ab9c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "I\u2019m going! :smile:", 
+    "ts": "1550004368.003400", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3ca3fc42-d4dd-4f28-ac65-0628c797b025", 
+    "thread_ts": "1550000180.002800", 
+    "text": "nope, have other commitments tn", 
+    "ts": "1550002949.003000", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fdeb2641-97de-4227-8918-a2b82e893165", 
+    "thread_ts": "1550000180.002800", 
+    "latest_reply": "1550002949.003000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "text": "Who else going to hack reactor? <@UCCTF62ET> <@UCBKC02JY>", 
+    "ts": "1550000180.002800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBP4M9C4", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1550002949.003000"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "57d16092-4bbc-44b5-a2f2-18359908879f", 
+    "thread_ts": "1549997934.001600", 
+    "text": "I noticed that :man-facepalming:", 
+    "ts": "1549999775.002100", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2DFBFA8C-EF97-4E3F-875B-B27A44CA9816", 
+    "text": "<!channel> ", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549997939.001800"
+  }, 
+  {
+    "client_msg_id": "7222282F-4B6C-4BA2-A4D0-76B005FAB44C", 
+    "thread_ts": "1549997934.001600", 
+    "latest_reply": "1549999775.002100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "text": "Soooooo if you are doing full text search then you have NOT added pagination. Bc the tutorial does not instruct you how to do it. BUT! You must paginate your search results!!!! :D", 
+    "ts": "1549997934.001600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1D40QFD4", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1549999775.002100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "40065c44-6ab1-41c0-967c-433ef605cf18", 
+    "text": "Heads up <!channel> by end of week please put your blog post topic in the tracker and turn in at least the first \u201crecipe\u201d you\u2019ve shipped to a real project in the wild.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549930600.003200"
+  }, 
+  {
+    "client_msg_id": "76db36c7-b138-4f09-b686-47b5e8424a10", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "FYI `let onlineUsers = {}` needs to be declared at the top of app.js and outside of the `io.on('connection, [...])` function.\n\nOtherwise, onlineUsers will not persist. So if you refresh, onlineUsers will be blank.\n\nBefore:\n\n```\n// app.js\n\nconst io = require('<http://socket.io|socket.io>')(server);\nlet onlineUsers = {};\nio.on(\"connection\", (socket) =&gt; {\n  require('./sockets/chat.js')(io, socket, onlineUsers);\n})\n```\nAfter:\n\n```\n// app.js\n\nlet onlineUsers = {};\n\n// <http://Socket.io|Socket.io>\nlet io = require('<http://socket.io|socket.io>').listen(server);\nio.on('connection', (socket) =&gt; {\n  require('./sockets/chat.js')(io, socket, onlineUsers);\n});\n```\n\nSubmitted a GH issue for this (<https://github.com/MakeSchool-Tutorials/Make-Chat-Tutorial/issues/8>) but posting here for anybody who already got past that step inn the tutorial", 
+    "ts": "1549927950.002300", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7006c09-2a3c-4ef2-a1c3-110f2fadc13a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBP4M9C4"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 53038, 
+        "original_url": "https://www.eventbrite.com/e/state-of-javascript-presented-by-hack-reactor-galvanize-tickets-55547966463", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "44 Tehama St, San Francisco, CA 94105", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Tue, Feb 12, 2019 at 6:30 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "State of JavaScript presented by Hack Reactor @ Galvanize", 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/state-of-javascript-presented-by-hack-reactor-galvanize-tickets-55547966463", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F55926560%2F275442251913%2F1%2Foriginal.20190129-213401?w=1000&auto=compress&rect=0%2C8%2C1920%2C960&s=9503d6f46ea6760f6e9e9f91a24e1aac", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/state-of-javascript-presented-by-hack-reactor-galvanize-tickets-55547966463", 
+        "fallback": "Eventbrite: State of JavaScript presented by Hack Reactor @ Galvanize", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png", 
+        "text": "Hack Reactor at Galvanize\u00a0- The State of Javascript Date / Time: Feb 12th, 6:30-8:00pm\u00a0 Want to learn more about the future of JavaScript and understand where our Software Engineering curriculum fits into a rapidly changing tech landscape? Today\u2019s Founders, Leaders, and Software Engineers must have an up-to-date pulse on the state of the programs they use to learn and program. In 2018, Galvanize acquired\u00a0Hack Reactor, in order to bring together the brightest minds for creating the most robust programs for aspiring software engineers around the nation.\u00a0This exclusive fireside chat will feature industry leaders in technology &amp; JavaScript, including the former founders of Hack Reactor.\u00a0 Join us on Tuesday, Feb. 12 from 6:30 - 8 p.m. at Galvanize San Francisco for the Hack Reactor @ Galvanize State of JavaScript Address. Overview: Fireside chat on the state of JavaScript with Laurie Voss (Co-Founder and CDO of NPM) and Shawn Drost (Co-Founder of Hack Reactor\u00a0and current Senior Vice President of Strategy and Innovation at Galvanize). Following this discussion,\u00a0Al Rosabal,\u00a0CEO of Galvanize, will join Harsh Patel, former CEO of Hack Reactor and current Chief Product Officer at Galvanize, James Van, Galvanize\u2019s Career Services Manager, as well as current faculty and recent graduates to discuss the state of the Hack Reactor Software Engineering Immersive program six months after the acquisition by Galvanize. Target Audience: This is a great opportunity to ask questions and hear directly from Hack Reactor alumni, faculty and leadership on the integration with Galvanize and what impact it has had on our students and our program. Anyone interested in Hack Reactor at Galvanize software engineering immersive programs, past students, and faculty Software engineers and industry professionals looking to network and learn about the state of Javascript and software engineering\u00a0 Galvanize\u00a0is the premier dynamic learning community for technology. Our community is where people and companies with the guts and smarts to create real-world change congregate and inspire each other. Across our 7 beautifully designed urban campuses, we offer a unique combination of education, workspace, and\u00a0networking. To learn more about Hack Reactor @ Galvanize, visit:\u00a0<http://www.galvanize.com|www.galvanize.com>\u00a0or request a tour\u00a0here. Follow us on facebook\u00a0Galvanize SF facebook page", 
+        "id": 1
+      }
+    ], 
+    "text": "Hey there, let\u2019s go on a field trip tomorrow evening :smile: <https://www.eventbrite.com/e/state-of-javascript-presented-by-hack-reactor-galvanize-tickets-55547966463>", 
+    "ts": "1549912926.000500", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2C4780FA-F71A-4779-8A68-BCE54C0218F5", 
+    "thread_ts": "1549754868.007000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Using the bin/www is greater separation of concerns, since defining your app and initializing middleware is a different concern than turning the thing on. ", 
+    "ts": "1549866188.001300", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1549837021.000200", 
+    "text": "<@UCCL1R3EZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "d157f4ff-b60d-4ace-b11f-313a001ccafb", 
+    "thread_ts": "1549754868.007000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "It's more of preference. however, when using React, Angular, etc its more conventional to use `bin/www` for production and development phases of your project", 
+    "ts": "1549757757.007600", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2dc5c537-0511-49c1-9121-c3adf660193d", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1549754906.000000"
+    }, 
+    "latest_reply": "1549866188.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "U1D40QFD4"
+    ], 
+    "thread_ts": "1549754868.007000", 
+    "text": "Been reading in to this and still a bit confused, moving forward when setting up Node/Express apps - should we a use a bin/www or is it cool to to just define my port in app.js/server.js?", 
+    "ts": "1549754868.007000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1549757757.007600"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549866188.001300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ceee623d-55b5-4126-9742-c16c4936833f", 
+    "edited": {
+      "user": "U1D40QFD4", 
+      "ts": "1549496770.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "If you want feedback or a code review on a project, just slack me it and I will provide. I\u2019m also happy to do pair programming with anyone and we can work on something you or I am working on and learn together. Just slack me and book my calendar.", 
+    "ts": "1549496740.005700", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ce180270-19ef-4860-959d-0fc547646576", 
+    "text": "<@UCDAETD5L>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549496706.004900"
+  }, 
+  {
+    "client_msg_id": "80b9fedd-24ec-4977-b005-97b48b1ffc43", 
+    "text": "Tutorials I only check for completion b/c everyone\u2019s are the same, so there isn\u2019t much feedback", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549496702.004700"
+  }, 
+  {
+    "client_msg_id": "835cbfdc-192e-4fed-90ae-081fb84b1aaa", 
+    "text": "<@U1D40QFD4> not sure if you covered this / but how can we expect to receive feedback on our tutorials/when? Thanks!", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1549496392.004300"
+  }, 
+  {
+    "client_msg_id": "36f9f784-e9b0-4422-b0ef-f17a80af82e0", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "sob", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "man-facepalming", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@UCDAETD5L> - we miss you", 
+    "ts": "1549494098.003200", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4def01d-bbf7-4526-b891-e4cc2c96be09", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "face_with_thermometer", 
+        "users": [
+          "UCDAETD5L", 
+          "U1D40QFD4"
+        ]
+      }
+    ], 
+    "text": "Hey <@U1D40QFD4>, im going to go home early cause I'm starting to get sick. ", 
+    "ts": "1549487047.002900", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d005fc9a-7a39-4cf6-8332-0a2b4e759d35", 
+    "thread_ts": "1549324596.005500", 
+    "text": "ok great I\u2019ll double check", 
+    "ts": "1549481548.001400", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "90ca7052-d266-4af9-8095-a181eb06c784", 
+    "thread_ts": "1549324596.005500", 
+    "text": "Same, and since we\u2019re using the full text search i think we\u2019d have to have 4 dogs with the same name for it to work.", 
+    "ts": "1549420120.001100", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab7710db-a334-4b88-98bb-f362e6791caa", 
+    "thread_ts": "1549324724.006200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "To clarify, earlier I ran `npm i -D node-mongo-seeds` to install as a dev dependency and added `\"seed\": \"seed\"` to scripts in my package.json. Be sure to run the command in one line and it should work!", 
+    "ts": "1549397070.000600", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91d61a3f-2e5f-4bcb-99aa-5af1c14cf17c", 
+    "edited": {
+      "user": "UCC0FMXCJ", 
+      "ts": "1549357202.000000"
+    }, 
+    "thread_ts": "1549324724.006200", 
+    "text": "I modified seed.js to:\n```process.env.NODE_ENV = process.env.NODE_ENV || 'dev';\n\nmodule.exports = {\n  dev: 'localhost/petes-pets',\n  prod: process.env.MONGODB_URI,\n};```\nthen ran `MONGODB_URI=[value from Heroku] NODE_ENV=prod npm run seed`", 
+    "ts": "1549357130.010900", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U1D40QFD4", 
+          "U6Z4KNWCD", 
+          "UCB8U00KA", 
+          "UCBKC02JY"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "7FEFA2E3-7819-4362-8F52-0855CA386CAE", 
+    "thread_ts": "1549324596.005500", 
+    "text": "So I implemented it the way the tutorial said to but you are saying it isn\u2019t working on my site so I\u2019m wondering is there a different result you are expecting? Because I am able to search without any issues. ", 
+    "ts": "1549348435.010700", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b3f72d68-8734-4854-ad72-50d253ca8cb8", 
+    "thread_ts": "1549324724.006200", 
+    "text": "Also I believe you\u2019re going to need to provision a db user that has write access in order for you to make any remote connection to the database", 
+    "ts": "1549326881.008000", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b55a95b8-6e14-4147-91a8-4a47f21cdf4b", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1549326848.000000"
+    }, 
+    "thread_ts": "1549324724.006200", 
+    "text": "if you go on to the mongolabs dashboard through heroku, you should be provided with a hostname and other information needed to connect to your db  (and seed it). You could also use `mongodump` to export a collection from your petes pets database as a `bson` file and then use `mongostore` on that bson file to import it into your database remotely.", 
+    "ts": "1549326776.007700", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c28b1453-1f83-46ca-bf44-a083d9ee47c9", 
+    "thread_ts": "1549324724.006200", 
+    "text": "locally", 
+    "ts": "1549326534.007500", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7e7657a-048b-4cc7-9c62-0b68c8361c66", 
+    "thread_ts": "1549324724.006200", 
+    "text": "you just direct the seed file to populate your remote db", 
+    "ts": "1549326531.007300", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "07d2e859-1be2-44e9-ace8-8057f1def68b", 
+    "thread_ts": "1549324724.006200", 
+    "text": "I think Wenzel\u2019s way is right", 
+    "ts": "1549326525.007100", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 98, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFY85DX0V", 
+        "thumb_480_h": 59, 
+        "original_h": 150, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-04, 4:18 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFY85DX0V/image.png", 
+        "thumb_720_h": 88, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_80.png", 
+        "thumb_360_h": 44, 
+        "size": 125203, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_800.png", 
+        "timestamp": 1549325911, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFY85DX0V/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_1024.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFY85DX0V-c66bdb28d2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FFY85DX0V/image.png", 
+        "name": "image.png", 
+        "created": 1549325911, 
+        "thumb_1024_h": 125, 
+        "thumb_960_h": 117, 
+        "original_w": 1226, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY85DX0V-946c5955fa/image_720.png"
+      }
+    ], 
+    "thread_ts": "1549324724.006200", 
+    "text": "here's what i tried but this doesn't work", 
+    "upload": true, 
+    "ts": "1549325915.006700", 
+    "display_as_bot": false, 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aab54e7d-569c-49c5-975e-f99dca8d63fb", 
+    "thread_ts": "1549324724.006200", 
+    "text": "running locally only creates DB items locally, though? How do you seed the production database?", 
+    "ts": "1549325883.006500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c80b7227-01f9-4287-a20a-d57842374aee", 
+    "thread_ts": "1549324724.006200", 
+    "text": "How I did it was run seed from my local machine in the same folder, but change the seed.js with my mlab instance (with process.env)", 
+    "ts": "1549324978.006300", 
+    "user": "UCBPUT6AX", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "558260de-1938-4c9b-9e1a-607654767c0e", 
+    "thread_ts": "1549324724.006200", 
+    "latest_reply": "1549397070.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBPUT6AX", 
+      "UCBKC02JY", 
+      "U1D40QFD4", 
+      "UCD53TKCN", 
+      "UCC0FMXCJ"
+    ], 
+    "text": "Hey <@U1D40QFD4> is there an easy way to run `seed` on heroku?", 
+    "ts": "1549324724.006200", 
+    "type": "message", 
+    "reply_count": 10, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBPUT6AX", 
+        "ts": "1549324978.006300"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549325883.006500"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549325915.006700"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549326525.007100"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549326531.007300"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549326534.007500"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1549326776.007700"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1549326881.008000"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1549357130.010900"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1549397070.000600"
+      }
+    ], 
+    "reply_users_count": 5
+  }, 
+  {
+    "client_msg_id": "a9750be3-908b-4505-8898-adc57ff60ca3", 
+    "text": "Thx!", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549324598.005700"
+  }, 
+  {
+    "client_msg_id": "d6ef8b53-7c2a-40fe-a115-0c4eafa721c4", 
+    "thread_ts": "1549324596.005500", 
+    "latest_reply": "1549481548.001400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCCTF62ET", 
+      "U1D40QFD4"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Also I can\u2019t assess that your production is working (and neither can you!) unless there are some pets up there. So please add some pets and double check that your code is working.", 
+    "ts": "1549324596.005500", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U1D40QFD4", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1549348435.010700"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549420120.001100"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549481548.001400"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "8e6a5459-28a6-4ca6-97f1-983e9e0e6486", 
+    "text": "It looks like many many people do not have pagination working in the search pages of their PPPE. Please complete this. It is a bit challenging but the steps and code are there. I know you are all capable of it", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1549324506.004900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 19, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFX8ZS2RW", 
+        "size": 744, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFX8ZS2RW/-.js", 
+        "preview": "  app.put('/api/user/:id/competencies', auth.ensureAuthenticated, function (req, res) {\r\n    User.findById(req.params.id, '+email').exec(function (err, user) {\r\n      user.competencies = req.body.competencies;\r\n  \r\n      user.save(function (err, user) {\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFX8ZS2RW/-.js/edit", 
+        "username": "", 
+        "timestamp": 1549323096, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>  <span class=\"cm-variable\">app</span>.<span class=\"cm-property\">put</span>(<span class=\"cm-string\">'/api/user/:id/competencies'</span>, <span class=\"cm-variable\">auth</span>.<span class=\"cm-property\">ensureAuthenticated</span>, <span class=\"cm-keyword\">function</span> (<span class=\"cm-def\">req</span>, <span class=\"cm-def\">res</span>) {</pre></div>\n<div><pre>    <span class=\"cm-variable\">User</span>.<span class=\"cm-property\">findById</span>(<span class=\"cm-variable-2\">req</span>.<span class=\"cm-property\">params</span>.<span class=\"cm-property\">id</span>, <span class=\"cm-string\">'+email'</span>).<span class=\"cm-property\">exec</span>(<span class=\"cm-keyword\">function</span> (<span class=\"cm-def\">err</span>, <span class=\"cm-def\">user</span>) {</pre></div>\n<div><pre>      <span class=\"cm-variable-2\">user</span>.<span class=\"cm-property\">competencies</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable-2\">req</span>.<span class=\"cm-property\">body</span>.<span class=\"cm-property\">competencies</span>;</pre></div>\n<div><pre>  </pre></div>\n<div><pre>      <span class=\"cm-variable-2\">user</span>.<span class=\"cm-property\">save</span>(<span class=\"cm-keyword\">function</span> (<span class=\"cm-def\">err</span>, <span class=\"cm-def\">user</span>) {</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFX8ZS2RW/download/-.js", 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFX8ZS2RW-3a8c6322d0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFX8ZS2RW/-.js", 
+        "name": "-.js", 
+        "created": 1549323096, 
+        "lines": 24, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1549323096.003300", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 1, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFY6UC11T", 
+        "size": 231, 
+        "title": "Using Async/Await with Mocha/Chai", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFY6UC11T/using_async_await_with_mocha_chai.js", 
+        "preview": "// TEST SEARCH\r\n  it('should search ALL pets by name and breed on /search GET', async () => {\r\n    const res = await chai.request(server).get('/search?term=norman');\r\n    res.should.have.status(200);\r\n    res.should.be.html;\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCBQH1P6E/FFY6UC11T/using_async_await_with_mocha_chai.js/edit", 
+        "username": "", 
+        "timestamp": 1549322059, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">// TEST SEARCH</span></pre></div>\n<div><pre>  <span class=\"cm-variable\">it</span>(<span class=\"cm-string\">'should search ALL pets by name and breed on /search GET'</span>, <span class=\"cm-keyword\">async</span> () <span class=\"cm-operator\">=&gt;</span> {</pre></div>\n<div><pre>    <span class=\"cm-keyword\">const</span> <span class=\"cm-def\">res</span> <span class=\"cm-operator\">=</span> <span class=\"cm-keyword\">await</span> <span class=\"cm-variable\">chai</span>.<span class=\"cm-property\">request</span>(<span class=\"cm-variable\">server</span>).<span class=\"cm-property\">get</span>(<span class=\"cm-string\">'/search?term=norman'</span>);</pre></div>\n<div><pre>    <span class=\"cm-variable-2\">res</span>.<span class=\"cm-property\">should</span>.<span class=\"cm-property\">have</span>.<span class=\"cm-property\">status</span>(<span class=\"cm-number\">200</span>);</pre></div>\n<div><pre>    <span class=\"cm-variable-2\">res</span>.<span class=\"cm-property\">should</span>.<span class=\"cm-property\">be</span>.<span class=\"cm-property\">html</span>;</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFY6UC11T/download/using_async_await_with_mocha_chai.js", 
+        "user": "UCBQH1P6E", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFY6UC11T-fb02419921", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQH1P6E/FFY6UC11T/using_async_await_with_mocha_chai.js", 
+        "name": "Using_Async_Await_with_Mocha_Chai.js", 
+        "created": 1549322059, 
+        "lines": 6, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1549322059.002900", 
+    "display_as_bot": false, 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "05471970-90f1-4f52-b8d6-bdcd018b0178", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dab-squidward", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "In class today we\u2019ll cover the last few patterns in PPPE and then finally look at async/await and then refactor some PPPE (or other project you have) to use async await.", 
+    "ts": "1549308933.002500", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1D40QFD4> set the channel topic: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "ts": "1549305880.001700", 
+    "topic": "<https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "subtype": "channel_topic", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6a0f65fe-2484-49b8-8709-4d4b2b1ebd92", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<!channel> please have PPPE turned in today before class starts", 
+    "ts": "1549305869.001600", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4fe01b5c-7de4-4988-b226-193f0d2b640c", 
+    "thread_ts": "1549078790.030100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "But so long as you only have 1 API with no versions, this works great.", 
+    "ts": "1549302377.000800", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "96b8e701-f9c4-42fb-9631-a40c03411a11", 
+    "thread_ts": "1549078790.030100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "If your project has bigger teams, and versioned api\u2019s then it won\u2019t work.", 
+    "ts": "1549302365.000600", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b9bb819-d2fc-490f-8ded-1d55d7c9fe6f", 
+    "thread_ts": "1548976822.019300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "expressionless", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "face_with_raised_eyebrow", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Na dawg less visibility ", 
+    "ts": "1549147110.032500", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C73D5275-AEC2-4A6C-8E53-B0E6A77FBE89", 
+    "thread_ts": "1548976822.019300", 
+    "text": "Bro can you start using the thread feature :sweat_smile:", 
+    "ts": "1549131613.032000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e12e228c-c7c2-4b10-b5bb-0dd2cea80e9e", 
+    "thread_ts": "1549078790.030100", 
+    "text": "<@UCBQH1P6E> awesome yeah this'll be great moving forward on small projects then!", 
+    "ts": "1549082285.031200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3778ac42-1f7d-4ba3-813f-96ece81dfb88", 
+    "thread_ts": "1548995872.025700", 
+    "text": "Though, I haven't implemented a fix yet", 
+    "ts": "1549080972.030900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a4eda3dd-1217-4293-bde0-fda43c64cf0b", 
+    "thread_ts": "1548995872.025700", 
+    "text": "yes I did. I think the way to fix it is to fetch the image on the when loading the EDIT route, similarly to the same way we fetch an image for the SHOW route", 
+    "ts": "1549080964.030700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "33a74a66-d8cf-4826-9b7f-a26630e21f96", 
+    "thread_ts": "1549078790.030100", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCDAETD5L", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "Only downside I can think of is code organization. For the purpose of separating concerns, I usually make a separate api controller with all the `/api` routes.. or if you are doing it for each controller, you could make another controller for each controller and just append `_api` to the name. For example: `books_api.js`", 
+    "ts": "1549079543.030500", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2394e45f-be51-4cbc-a10f-a94134d19a11", 
+    "thread_ts": "1549078790.030100", 
+    "text": "Seems kind of cool, build out a monolithic app and an API at once!", 
+    "ts": "1549078814.030200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7a6fa18e-b768-455e-9ede-d0166d8da722", 
+    "thread_ts": "1549078790.030100", 
+    "latest_reply": "1549302377.000800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBQH1P6E", 
+      "U1D40QFD4"
+    ], 
+    "text": "Anyone know if there are any downsides of the method where we just detect if the `Content-Type` of the request is `application/json` and then return JSON, otherwise return the HTML template?", 
+    "ts": "1549078790.030100", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1549078814.030200"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1549079543.030500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1549082285.031200"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549302365.000600"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1549302377.000800"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "127792be-fb7c-4972-b0ba-da14664fd8ee", 
+    "thread_ts": "1548995872.025700", 
+    "text": "Did you run into the issue where you have to upload a avatar everytime you edit it? For some reason if i don\u2019t redo it It\u2019s just gone?", 
+    "ts": "1549068453.028900", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f9191632-df28-47bd-b59e-fcf7af40208a", 
+    "thread_ts": "1548995872.025700", 
+    "text": ":smile: awesome!", 
+    "ts": "1549068084.028500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8f0d9c3f-05f8-460e-b1bb-1405ae35c84c", 
+    "thread_ts": "1548995872.025700", 
+    "text": "lol", 
+    "ts": "1549066550.028300", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "50c77c97-53d6-490f-b3c1-54d55bbdead6", 
+    "thread_ts": "1548995872.025700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "chillparrot", 
+        "users": [
+          "UCBKC02JY", 
+          "U1D40QFD4"
+        ]
+      }
+    ], 
+    "text": "shut up and take my claps!", 
+    "ts": "1549066548.028100", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b0e2b62-e74b-4c68-9fd9-db400722a045", 
+    "thread_ts": "1548995872.025700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY", 
+          "U1D40QFD4"
+        ]
+      }
+    ], 
+    "text": "Dude, I got mine to heroku in one try with this guide\u2026. :heart: :two_hearts:", 
+    "ts": "1549066532.027900", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "593c1e50-0744-4dae-bd0c-5e3ff7eb5ade", 
+    "thread_ts": "1548976677.018200", 
+    "text": "Lol", 
+    "ts": "1549045535.026600", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bb228f07-9e47-4d19-8406-d8d9c60b553a", 
+    "thread_ts": "1548995872.025700", 
+    "latest_reply": "1549080972.030900", 
+    "attachments": [
+      {
+        "image_bytes": 31704, 
+        "original_url": "https://medium.com/@nicolaisafai/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "2 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "How to deploy your Node.js / MongoDB app to the web, using Heroku", 
+        "ts": 1548995777, 
+        "title_link": "https://medium.com/@nicolaisafai/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*owg5RPtazedwH8fxpZF_vg.png", 
+        "image_width": 357, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@nicolaisafai/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675", 
+        "fallback": "Medium: How to deploy your Node.js / MongoDB app to the web, using Heroku", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "(The \u2018cheatsheet\u2019 version)", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1", 
+        "users": [
+          "UCB8WCDTJ", 
+          "UCB8U00KA", 
+          "UCBPUT6AX", 
+          "UF83RJTHD", 
+          "UCCTF62ET", 
+          "U1D40QFD4", 
+          "U6Z4KNWCD"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "heroku", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBPUT6AX", 
+          "UF83RJTHD", 
+          "UCCTF62ET", 
+          "U1D40QFD4", 
+          "U6Z4KNWCD"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCCTF62ET", 
+          "UCB8U00KA", 
+          "U1D40QFD4", 
+          "U6Z4KNWCD"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCCTF62ET", 
+      "UCBKC02JY"
+    ], 
+    "replies": [
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549066532.027900"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549066548.028100"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549066550.028300"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549068084.028500"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549068453.028900"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549080964.030700"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549080972.030900"
+      }
+    ], 
+    "ts": "1548995872.025700", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCBKC02JY", 
+    "text": "I keep going back to the Rotten Potatoes tutorial to find the commands you need to push to Heroku, but it's a bit hard to find from Google, so I wrote a handy cheatsheet. Hope it's useful! Feedback welcome.\n<https://medium.com/@nicolaisafai/how-to-deploy-your-node-js-mongodb-app-to-the-web-using-heroku-63d4bccf2675>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "1c4ea798-dd6f-4a30-9cc8-5aa2a3bd608e", 
+    "edited": {
+      "user": "UCBS4EW59", 
+      "ts": "1548993902.000000"
+    }, 
+    "thread_ts": "1548976677.018200", 
+    "text": "You are spam Ryan.", 
+    "ts": "1548993773.024300", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e89df91-f64b-46c3-8a90-26c299c8be11", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCBP4M9C4", 
+          "UCB8U00KA", 
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "text": "you can fix this by updating fido to:\n```const fido = {\n  name: 'Norman',\n  species: 'Greyhound',\n  birthday: '2008-11-11',\n  favoriteFood: 'Liver',\n  avatarUrl: '<https://www.collinsdictionary.com/images/thumb/greyhound_21701074_250.jpg>',\n  description: `Fido is a dog and he's a good dog who loves to play and hang out with his owners.\n  He also likes to nap and enjoys eating dog food. He's an excellent test case for our project.`,\n  price: 10,\n};```", 
+    "ts": "1548981768.022200", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "865af25c-ef0a-4d3c-bb74-a500d6926c3e", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1548981832.000000"
+    }, 
+    "text": "note that the `mocha` tests will fail if you make `avatarUrl` required in your `Pet` model because the sample pet, fido :\n- doesn't have an avatarUrl:\n- doesn't have a price\n- and description is less than 140 characters long\n```const fido =     {\n    \"name\": \"Norman\",\n    \"species\": \"Greyhound\",\n    \"birthday\": \"2008-11-11\",\n    \"favoriteFood\": \"Liver\",\n    \"picUrl\": \"<http://www.gpamass.com/s/img/emotionheader713297504.jpg>\",\n    \"picUrlSq\": \"<https://www.collinsdictionary.com/images/thumb/greyhound_21701074_250.jpg>\",\n    \"description\": \"Fido is a dog and he's a good dog who loves to play and hang out with his owners. He also likes to nap and enjoys eating dog food\"\n}```", 
+    "ts": "1548981275.020300", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f1e86148-1feb-418e-80ac-f1a3f404ee53", 
+    "thread_ts": "1548976822.019300", 
+    "latest_reply": "1549147110.032500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCCTF62ET"
+    ], 
+    "text": "I\u2019m sure", 
+    "ts": "1548976822.019300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1549131613.032000"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549147110.032500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "5c873c33-080f-4c05-9178-e42a586cf8ec", 
+    "text": "they thought i was spam", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548976685.018500"
+  }, 
+  {
+    "client_msg_id": "d4200f1f-155f-4b6a-b821-6d5a6ad45bd1", 
+    "thread_ts": "1548976677.018200", 
+    "latest_reply": "1549045535.026600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS4EW59", 
+      "UCCTF62ET"
+    ], 
+    "text": "```Josh (Mailgun Support)\n\nJan 31, 4:56 PM CST\n\nHello Ryan,\n\nThanks for contacting Mailgun support.\n\nAfter further review, your account was disabled due to our business verification process. To help protect our customers against spam, we have automated systems in place that flag accounts that look suspicious. Most of the time this works well, but sometimes we'll get it wrong and flag a genuine account. There are a number of factors contributing to this, and not necessarily something directly related to you.\n\nWe know this is not something to take lightly and are committed to getting your account fully functioning again as soon as possible.\n\n\nIn order to complete this process please answer the questions below (in as much detail as possible):\n\n1. What types of emails will you be sending - transactional or marketing? Please tell us briefly about how your business uses email.\n\n\n\n2. Where do you source your database/list of email addresses? Please provide any available links.\n\n\n\n3. Are all of your email addresses double-opt in? (This means that the user has requested your emails through sign-up and then confirmed via email that they want to receive your communication).\n\n\n\n4. What is your expected monthly volume of messages?\n\n\n\n5. Have you read our Email Best Practices document?\n\n\n\n6. Please provide a link to your Privacy Policy, Terms of Service, and Sign-up link (if applicable).\n\n\n\n7. Please provide a sample email you would typically send to your users.\n\n\n\nAgain, we apologize for any inconveniences this may cause and we are committed to resolving this matter for you as soon as possible!\n\nIf you would like to read more on why your account was disabled due to the business verification process, please review this link: <https://help.mailgun.com/hc/en-us/articles/202850080-What-does-business-verification-is-required-mean->\n\nWe look forward to assisting you.\n\nThanks,\nJosh@MG\nFor the full details of this ticket, <https://app.mailgun.com/app/support/920956>```", 
+    "ts": "1548976677.018200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1548993773.024300"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1549045535.026600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "52b00da7-2c47-4286-8f5c-31b2c84281fb", 
+    "text": "hahahha", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548976672.018000"
+  }, 
+  {
+    "client_msg_id": "73ca87e2-22e8-4c59-b5b3-876a30f2d137", 
+    "edited": {
+      "user": "UCCTF62ET", 
+      "ts": "1548973769.000000"
+    }, 
+    "text": "that\u2019s why mailgun isn\u2019t working im pretty sure\u2026. wonder what i did to get it disabled", 
+    "ts": "1548973757.017700", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8083d1f7-0ea4-479f-9742-2f744b8812da", 
+    "text": "Your account is temporarily disabled. ( Business Verification ) Please contact support to resolve.", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548973744.017300"
+  }, 
+  {
+    "client_msg_id": "84ccd567-f934-475c-b9cc-163cf01215e6", 
+    "text": "If you get stuck doing this, ask for help from Luc, Bryan, or me :smile:", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548964601.017100"
+  }, 
+  {
+    "client_msg_id": "7eaadccb-7535-477a-b739-60e2289651eb", 
+    "text": "It is required to push PPPE to heroku and debug issues that come up with your API keys and tools like Mailgun, AWS, etc", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548964580.016500"
+  }, 
+  {
+    "client_msg_id": "f6e884da-a5e2-4500-b11b-40b30b57f660", 
+    "thread_ts": "1548882581.011000", 
+    "text": "Yes but I fake domain In the box just followed the docs. I'll look again soon.", 
+    "ts": "1548955902.015000", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4c0baca6-f6a1-4708-8c61-6330b89ca0f1", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "sandwich", 
+        "users": [
+          "U1D40QFD4", 
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "I looked at my code again and noticed that it only gives me that error when I try to send to an email address that isn\u2019t valid. Check to make sure that you\u2019re sending email to a valid address.", 
+    "ts": "1548891644.014100", 
+    "user": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ebaf9e6f-bcf5-4725-93c8-68d8c7e4aa72", 
+    "text": "I haven\u2019t received a message yet\u2026 Hmm", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1548883638.013100"
+  }, 
+  {
+    "client_msg_id": "cbdeb989-e8af-4d7a-818f-8ff1d03edc30", 
+    "text": "I got that message as well -- though it didn\u2019t stop Mailgun from delivering  emails.", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1548883243.012600"
+  }, 
+  {
+    "client_msg_id": "b1c9e08b-63ab-4e3d-9c1d-6fd4c14fa55e", 
+    "thread_ts": "1548882581.011000", 
+    "text": "Are you using your \u201csandbox\u201d domain?", 
+    "ts": "1548883118.011300", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "17ea8fa0-2fe4-472a-bcdf-d4faf9076361", 
+    "thread_ts": "1548882581.011000", 
+    "latest_reply": "1548955902.015000", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1D40QFD4", 
+      "UCCTF62ET"
+    ], 
+    "text": "```Error: Error: The domain is unverified and requires DNS configuration. Log in to your control panel to view required DNS records.\n``` Anyone else get this error when testing nodeMailgun", 
+    "ts": "1548882581.011000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1548883118.011300"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1548955902.015000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "c84411b9-3bc7-46e1-a5f7-d55de5ba0f95", 
+    "text": "<https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1548882440.010200", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "60cfdb5d-fda1-43bb-b1a8-ead27d6f9145", 
+    "text": "Reminder to add links and update completion percentages on the tracker :smile:", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548882440.010000"
+  }, 
+  {
+    "client_msg_id": "877960cb-5c54-4b89-a358-304d1e92199b", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel>", 
+    "ts": "1548721258.008800", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bcea2e5c-c39e-4bcb-a1c4-f1d0a483a6ad", 
+    "text": "They are happy to help!", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548721255.008500"
+  }, 
+  {
+    "client_msg_id": "acff3072-dd01-4765-8bdf-4cc9466e5017", 
+    "text": "Reminder that if you get stuck <@UCBS4EW59> and <@UF83RJTHD> are our BEW Node TAs", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548721246.008200"
+  }, 
+  {
+    "client_msg_id": "86081899-71e3-40ca-84fa-6c8c55116a2b", 
+    "text": "Aim to finish PPPE by this coming Sunday at the latest", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548719353.007800"
+  }, 
+  {
+    "client_msg_id": "4366beb0-e3fa-4cd4-8449-7463637fd9d3", 
+    "text": ":smile:", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548719335.007400"
+  }, 
+  {
+    "client_msg_id": "218298c7-93b9-4fbf-9917-8be584b35786", 
+    "text": "Great work today in class everyone. Everyone is moving right along. Next class we will be reviewing what we\u2019ve done and exploring some of the paths the tutorial didn\u2019t go down\u2026", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548719335.007200"
+  }, 
+  {
+    "client_msg_id": "8eb307dc-7f86-433d-bff0-cd7ac97e2b5b", 
+    "text": "If you want your update/delete to work, you need to make these two changes in `pets-edit.pug`:\nUPDATE\n```form(action=`/pets/${pet._id}?_method=PUT`, method=\"POST\")```\nDELETE\n```\nform(action=`/pets/${pet._id}?_method=DELETE`, method=\"POST\")```", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1548714068.005400"
+  }, 
+  {
+    "client_msg_id": "dd132461-cff5-4c3a-bfbd-bb38553047fc", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1548708652.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Anyone good at debugging mLab stuff?", 
+    "ts": "1548708645.004800", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bd2d3f7b-fd80-47dc-955a-d83fd9e41084", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!here> don't forget to add a .gitignore before pushing up your AWS API keys...\n\nI didn't realize that there was no gitignore file in this repo -- i just got an email from AWS saying my API key was compromised! That was very fast.", 
+    "ts": "1548702524.004300", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "05083ba5-399d-4312-b91a-f89dc774bc8f", 
+    "thread_ts": "1548646651.001200", 
+    "text": "What line of code is your server breaking on?", 
+    "ts": "1548701856.002800", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "72884c8f-8c3c-4230-b8b7-effb900dc3ae", 
+    "edited": {
+      "user": "UCCTF62ET", 
+      "ts": "1548652108.000000"
+    }, 
+    "thread_ts": "1548455644.017500", 
+    "text": "That wasn\u2019t the prob i was having but thanks for the response.\nI mistakenly had \u201cpets._id\u201d instead of pets_.id", 
+    "ts": "1548652070.002100", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFRTHLG6A", 
+        "thumb_480_h": 175, 
+        "original_h": 285, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-01-27, 7:37 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFRTHLG6A/image.png", 
+        "thumb_720_h": 263, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_80.png", 
+        "thumb_360_h": 132, 
+        "size": 30551, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548646648, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFRTHLG6A/download/image.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFRTHLG6A-c6490c57c2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FFRTHLG6A/image.png", 
+        "name": "image.png", 
+        "created": 1548646648, 
+        "original_w": 780, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRTHLG6A-012320b562/image_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1548646742.000000"
+    }, 
+    "latest_reply": "1548701856.002800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1D40QFD4"
+    ], 
+    "thread_ts": "1548646651.001200", 
+    "text": "hey did anyone get an error when implementing Stripe test payments?\n\nI'm at the section `TEST CHECKOUT`\n&gt;Now you can submit the test credit card number 4242 4242 4242 4242.\n&gt;\n&gt;[...]\n&gt;\n&gt;Make sure you're getting that log when you submit a purchase.\n\nI'm not getting a log of a payment request. Instead I get the screenshot below and in console it says:\n```POST /pets/5c48f03f7b10475cb775bc0d/purchase 500 79.404 ms - 2241\n```", 
+    "upload": true, 
+    "ts": "1548646651.001200", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1548701856.002800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "32339848-c4cd-4284-abb8-f18d5056989e", 
+    "thread_ts": "1548455644.017500", 
+    "text": "and a bit farther down the tutorial:\n&gt;Next *we want to make sure that the images on both our index and show views appear properly not only for avatarUrl, but for our original image url parameters as well (otherwise all those original pets won't have an image!)*", 
+    "ts": "1548636953.000700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "59704cf0-3c40-4a52-b7be-6f31497ef22b", 
+    "thread_ts": "1548455644.017500", 
+    "text": "in the tutorial it says:\n&gt;Back in our controller, we were calling pet.avatarUrl, but we never made that a part of our model! *We also can't get rid of our previous URL parameters, as we want our old code to still work.* Let's fix that:", 
+    "ts": "1548636878.000500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ee1aac33-9daf-4aa1-b193-7aaf73aa41f5", 
+    "thread_ts": "1548442049.015500", 
+    "text": "u still stuck on this? happy to help if so", 
+    "ts": "1548634114.000300", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "630348eb-3b68-4e1e-87f0-0f969b4bfb4c", 
+    "thread_ts": "1548455644.017500", 
+    "latest_reply": "1548652070.002100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "UCCTF62ET"
+    ], 
+    "text": "Im confused\u2026 After we add the avatar\u2026 Why would we still require the URLS? im confused because what if only an avatar is uploaded? Why would the uploader need 3 separate pics of the dog seems excessive? am i over thinking this?", 
+    "ts": "1548455644.017500", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548636878.000500"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548636953.000700"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1548652070.002100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "37fd69e2-acc6-4c53-93d9-f0b36ef7a032", 
+    "thread_ts": "1548442049.015500", 
+    "latest_reply": "1548634114.000300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "text": "If anyone is around and can answer a question for me about pete\u2019s pets I\u2019d love a little clearance on something with pagination", 
+    "ts": "1548442049.015500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548634114.000300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "E8E90EBB-B15A-4A9E-AAB1-AF2FDAF88DC3", 
+    "thread_ts": "1548375618.012500", 
+    "text": "Yes 1 is critical 1 is medium", 
+    "ts": "1548433832.014400", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cbec5680-5d4d-409f-8b6f-cd59b051e694", 
+    "text": "Hi! having issues with bucket policy editing in AWS. Error: Policy has invalid resource. Any suggestions?", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1548395720.013900"
+  }, 
+  {
+    "client_msg_id": "28ec34be-3db5-4e70-983f-0c16605e2519", 
+    "thread_ts": "1548375618.012500", 
+    "text": "Are they critical vulnerabilities?", 
+    "ts": "1548382937.013000", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4ef2048-188f-4789-bc7d-6e30221fc255", 
+    "thread_ts": "1548375618.012500", 
+    "text": "Are there any issues open about that?", 
+    "ts": "1548382930.012800", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "26eeb225-977f-4184-a0ce-79d79daf2e8b", 
+    "thread_ts": "1548375618.012500", 
+    "latest_reply": "1548433832.014400", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1D40QFD4", 
+      "UCBDPE94Z"
+    ], 
+    "text": "Hey I was doing the pets tutorial and the s3-uploader npm package has vulnerabilities and has it's status as build:failed on the npm page.  How are we supposed to do this part?", 
+    "ts": "1548375618.012500", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBDPE94Z", 
+    "replies": [
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1548382930.012800"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1548382937.013000"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1548433832.014400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "f7a532b5-fd47-4804-94e5-c756f9ba085d", 
+    "thread_ts": "1548217031.012800", 
+    "text": "There's this hackathon competition where the goal is to make the most unreadable but still functioning code. I forgot what they're called though...", 
+    "ts": "1548354815.010700", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "ac3fd784-d635-4c48-a8aa-4fa7cee61302", 
+    "text": "Please mark yourself present :smile: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "pinned_info": {
+      "pinned_ts": 1548733702, 
+      "channel": "CFL2HTGM9", 
+      "pinned_by": "UCDAJD4F8"
+    }, 
+    "upload": false, 
+    "ts": "1548290745.010000", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "pinned_to": [
+      "CFL2HTGM9"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "543646af-40c6-4b85-b7d7-d6051cb1c202", 
+    "thread_ts": "1548287069.008900", 
+    "text": "At least that\u2019s what I\u2019ve done", 
+    "ts": "1548290555.009500", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bda67cba-e4d9-421b-970d-a79d31f3db26", 
+    "thread_ts": "1548287069.008900", 
+    "text": "I\u2019d recommend using `Promise.all` if you\u2019re `await`ing for multiple promises like this so long as the order that it resolves doesn\u2019t matter:\n\n```\nconst makeRequest = async () =&gt; {\n  await Promise.all([\n    callAPromise(),\n    callAPromise(),\n    callAPromise(),\n    callAPromise(),\n    callAPromise()\n  ]);\n}\n```\n\nThen you can do do destructuring assignment if they return data\n\n`const [res1, res2, res3, res4, res5] = await Promise.all(...);`", 
+    "ts": "1548290549.009300", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ebdce79f-2e0f-4ac0-846d-ac20e0e6827c", 
+    "thread_ts": "1548287069.008900", 
+    "latest_reply": "1548290555.009500", 
+    "attachments": [
+      {
+        "image_bytes": 40474, 
+        "original_url": "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "6 Reasons Why JavaScript\u2019s Async/Await Blows Promises Away (Tutorial)", 
+        "ts": 1490460948, 
+        "title_link": "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*GWYd4eLrs0U96MkNNVB56A.png", 
+        "image_width": 733, 
+        "service_name": "Hacker Noon", 
+        "from_url": "https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9", 
+        "fallback": "Hacker Noon: 6 Reasons Why JavaScript\u2019s Async/Await Blows Promises Away (Tutorial)", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+        "text": "In case you missed it, Node now supports async/await out of the box since version 7.6. If you haven\u2019t tried it yet, here are a bunch of\u2026", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "male-technologist", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCC0FMXCJ"
+    ], 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1548290549.009300"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1548290555.009500"
+      }
+    ], 
+    "ts": "1548287069.008900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U1D40QFD4", 
+    "text": "<https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6c48578c-8463-47ed-84f6-1fcd27084801", 
+    "text": "Why async/await is great", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548287069.008700"
+  }, 
+  {
+    "client_msg_id": "62aa5153-5fc0-45d1-8c0b-b5a71c61e9de", 
+    "text": "Great Async/Await tutorial", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548286848.008500"
+  }, 
+  {
+    "client_msg_id": "0c44d22a-6b3f-4d85-b9fb-3e9b661ef543", 
+    "text": "<https://javascript.info/async-await>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548286844.008300"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1548286234.008100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "9d152780-ad85-4732-b988-8e5f0aca87ec", 
+    "text": "Please add name and this is where you will turn in the tutorials, project, and blog post.", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548286080.007800"
+  }, 
+  {
+    "client_msg_id": "7e70a3b5-cbf0-4945-960f-c08f4a704ee5", 
+    "text": "<!channel>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548286054.006900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFP02JH9C", 
+        "size": 46564, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP02JH9C-6a90d9b99e/bew_2_thumb_pdf.png", 
+        "title": "BEW 2.1 Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1548286052, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U1D40QFD4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "BEW 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1D40QFD4/FFP02JH9C/bew_2", 
+        "is_external": true, 
+        "created": 1548286052, 
+        "mode": "external", 
+        "external_id": "1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "8594324f-10ce-4128-b361-ffd25d9fe3ab", 
+    "text": "<https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1548286050.006600", 
+    "display_as_bot": false, 
+    "user": "U1D40QFD4", 
+    "x_files": [
+      "FFP02JH9C"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5dc9d399-970f-476a-8b05-bdb7dca5d755", 
+    "text": "Forgot to have y\u2019all fill this out:", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548286049.006400"
+  }, 
+  {
+    "client_msg_id": "aa78de07-29e5-4ff2-8e22-5bf35d7f0be5", 
+    "text": "almost complete", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548285990.006100"
+  }, 
+  {
+    "client_msg_id": "f9c60fa3-fa14-4347-b4f0-9fcd1d6b39b0", 
+    "attachments": [
+      {
+        "original_url": "https://ajbraus.github.io/sequelize-it", 
+        "text": "Description", 
+        "title": "Sequelize It", 
+        "title_link": "https://ajbraus.github.io/sequelize-it", 
+        "service_name": "ajbraus.github.io", 
+        "from_url": "https://ajbraus.github.io/sequelize-it", 
+        "fallback": "Sequelize It", 
+        "id": 1
+      }
+    ], 
+    "text": "Not complete, but <https://ajbraus.github.io/sequelize-it>", 
+    "ts": "1548285988.005800", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8986c9a8-2f1b-4408-82e0-66466b8fb7b6", 
+    "edited": {
+      "user": "UCBQH1P6E", 
+      "ts": "1548280888.000000"
+    }, 
+    "text": "<https://knexjs.org/> this is a common one", 
+    "ts": "1548280846.005500", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "44a92fa3-1f41-40a1-9c86-0bb7174c5b0a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L", 
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 30470, 
+        "original_url": "https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "11 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await", 
+        "ts": 1499030662, 
+        "title_link": "https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee", 
+        "image_height": 200, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*nXS0f9DhNcy4DqG1nZiN8Q.png", 
+        "image_width": 821, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee", 
+        "fallback": "Medium: Getting to know asynchronous JavaScript: Callbacks, Promises and Async/Await", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*Wtwy9RQPIVgiyUWFChPGeA.jpeg", 
+        "text": "Introduction", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/codebuddies/getting-to-know-asynchronous-javascript-callbacks-promises-and-async-await-17e0673281ee>", 
+    "ts": "1548280215.005000", 
+    "user": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1548280163.004800", 
+    "text": "<@UCBP5EN5S> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1548280149.004600", 
+    "text": "<@UCBP5EN5S> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1548279492.004400", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "6ae810ff-17f8-4cdb-af33-fcf11cbc3e65", 
+    "thread_ts": "1548275784.001600", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "tim", 
+        "users": [
+          "UCBPUT6AX", 
+          "UCBDBB3LZ", 
+          "UCD53TKCN", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tom", 
+        "users": [
+          "UCBPUT6AX", 
+          "UCBDBB3LZ", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<https://www.linkedin.com/in/timothykaing/>", 
+    "ts": "1548278801.003400", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a7551d3-c200-4aaa-8252-8811f4c9d942", 
+    "thread_ts": "1548275784.001600", 
+    "text": "can i add him on linkedin", 
+    "ts": "1548278764.003200", 
+    "user": "UCBPUT6AX", 
+    "parent_user_id": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 222, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1732, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFLQTUAEM", 
+        "thumb_480_h": 480, 
+        "original_h": 2436, 
+        "thumb_360_w": 166, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFLQTUAEM/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_64.jpg", 
+        "thumb_720_w": 333, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 148234, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_800.jpg", 
+        "timestamp": 1548276930, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFLQTUAEM/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_1024.jpg", 
+        "user": "UCBDBB3LZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFLQTUAEM-7718fc81ce", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDBB3LZ/FFLQTUAEM/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1548276930, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1125, 
+        "thumb_960_w": 443, 
+        "thumb_1024_w": 473, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLQTUAEM-3d5fabb256/image_from_ios_720.jpg"
+      }
+    ], 
+    "thread_ts": "1548275784.001600", 
+    "ts": "1548276941.002600", 
+    "text": "I pinged my friend at Stripe, all should be good soon", 
+    "upload_reply_to": "2919D490-0D8F-49EF-B0BE-B4018A10F96D", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f97cf72a-ca25-4c57-ba63-9a8045d4022e", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1548277059.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "I would advise for those just getting started with the project. Clone the repo, but make sure that you create your own standalone repo for your commits. Otherwise, you will not get credit for your commits on your profile page. <https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/>", 
+    "ts": "1548275799.001900", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "37b9106b-4a3f-4293-bca6-47c0449598c1", 
+    "thread_ts": "1548275784.001600", 
+    "latest_reply": "1548278801.003400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDBB3LZ", 
+      "UCBPUT6AX"
+    ], 
+    "text": "Anyone able to make a stripe account?\nI think their registration button is broken lol\n<https://dashboard.stripe.com/register>", 
+    "ts": "1548275784.001600", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBDBB3LZ", 
+    "replies": [
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548276941.002600"
+      }, 
+      {
+        "user": "UCBPUT6AX", 
+        "ts": "1548278764.003200"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548278801.003400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "bf06ddcd-6da8-4cca-bbf2-d5bcc15eef75", 
+    "thread_ts": "1548217031.012800", 
+    "text": "<https://github.com/lhartikk/ArnoldC>", 
+    "ts": "1548272158.000400", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E37951CE-2F93-4E31-A93F-9D8058D9BBFB", 
+    "thread_ts": "1548217031.012800", 
+    "text": "Lol wait that\u2019s kinda funny :sweat_smile::sweat_smile: really wanna do a project where everything is just named ridiculously :joy::joy:", 
+    "ts": "1548231407.014700", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b03d04df-27c3-4e1a-b89d-95b1c6d6322b", 
+    "edited": {
+      "user": "UCBQH1P6E", 
+      "ts": "1548229258.000000"
+    }, 
+    "thread_ts": "1548217031.012800", 
+    "text": "Keep in mind too javascript (not in the form of typescript) does not have named arguments so you could call it (jill, jack) instead of (req, res) for all it cares; it's the order that matters!", 
+    "ts": "1548229221.013600", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "2c0972b9-df32-465b-9856-cebe1da3fdda", 
+    "thread_ts": "1548217031.012800", 
+    "attachments": [
+      {
+        "image_bytes": 27054, 
+        "original_url": "https://expressjs.com/en/4x/api.html#app.METHOD", 
+        "service_name": "expressjs.com", 
+        "title": "Express 4.x - API Reference", 
+        "image_width": 435, 
+        "title_link": "https://expressjs.com/en/4x/api.html#app.METHOD", 
+        "image_height": 157, 
+        "image_url": "https://expressjs.com/images/express-facebook-share.png", 
+        "from_url": "https://expressjs.com/en/4x/api.html#app.METHOD", 
+        "fallback": "Express 4.x - API Reference", 
+        "service_icon": "https://expressjs.com/images/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "app.get() is an express function that  has to follow a certain form. (req, res) is the second argument (callback function) of this app.get() function and it must follow a certain form of (req, res, ...) where ... is any additional arguments other than the two required. See <https://expressjs.com/en/4x/api.html#app.METHOD>", 
+    "ts": "1548229030.013300", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2a534141-73eb-4fb7-893c-c0ea1e256f60", 
+    "thread_ts": "1548217031.012800", 
+    "text": "Well I ran it and weird enough I got an error `res.render is not a function` even though the req isn't being read in my functions body i guess it's still required to include, kind of weird", 
+    "ts": "1548221094.013100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 187, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFKRD7S3A", 
+        "thumb_480_h": 112, 
+        "original_h": 248, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-22 at 8.10.56 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFKRD7S3A/screen_shot_2019-01-22_at_8.10.56_pm.png", 
+        "thumb_720_h": 168, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_80.png", 
+        "thumb_360_h": 84, 
+        "size": 45490, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_800.png", 
+        "timestamp": 1548217027, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFKRD7S3A/download/screen_shot_2019-01-22_at_8.10.56_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFKRD7S3A-4f6d9bff23", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFKRD7S3A/screen_shot_2019-01-22_at_8.10.56_pm.png", 
+        "name": "Screen Shot 2019-01-22 at 8.10.56 PM.png", 
+        "created": 1548217027, 
+        "thumb_1024_h": 240, 
+        "thumb_960_h": 225, 
+        "original_w": 1060, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKRD7S3A-c597c015cd/screen_shot_2019-01-22_at_8.10.56_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1548217031.012800", 
+    "latest_reply": "1548354815.010700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBQH1P6E", 
+      "U1D40QFD4", 
+      "UCBS4EW59"
+    ], 
+    "text": "In my routes, if I'm not using a parameters I'm passing in like the `req` in a basic GET request, would it be better to just remove `req`?", 
+    "upload": true, 
+    "ts": "1548217031.012800", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548221094.013100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548229030.013300"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548229221.013600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548231407.014700"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1548272158.000400"
+      }, 
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1548354815.010700"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "1a3a88ce-8d4d-4555-9942-57717a4fca69", 
+    "thread_ts": "1548214547.009000", 
+    "text": "Ah what a fiasco :sob: Sorry everyone I totally read instructions wrong. :cry:", 
+    "ts": "1548215982.011800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a02b603b-b624-4581-ace0-3657e9deeb3d", 
+    "thread_ts": "1548214547.009000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "I think you forked the wrong repo. You don't have a package.json which is why u have the error.", 
+    "ts": "1548215809.011600", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b642b59f-1be2-4292-a9ee-571d103a6cdc", 
+    "thread_ts": "1548214547.009000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "you need to fork petes pets - <https://github.com/Product-College-Labs/petes-pets>", 
+    "ts": "1548215793.011400", 
+    "user": "U6Z4KNWCD", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "563c12ef-0160-4907-bbc4-d299a996f05e", 
+    "thread_ts": "1548214547.009000", 
+    "text": "<@U6Z4KNWCD> I do not", 
+    "ts": "1548215726.011200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ad8ca7c9-a976-4bb1-8068-772ee3ddf5df", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1548215717.000000"
+    }, 
+    "thread_ts": "1548214547.009000", 
+    "text": "<@UCBQH1P6E> <https://github.com/Asim-Product-College/BEW-2.1-Advanced-Web-Patterns> - whoops pushed my node modules as well", 
+    "ts": "1548215703.010900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d9de2127-e0e0-4c76-84e2-c68eea0f3127", 
+    "thread_ts": "1548214547.009000", 
+    "text": "Do you have a seeds folder in the core of your project", 
+    "ts": "1548215630.010700", 
+    "user": "U6Z4KNWCD", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "94f4af27-d116-4134-954d-baec5e973092", 
+    "thread_ts": "1548214547.009000", 
+    "text": "<@UCDAETD5L> do you have a repo link of what u have so far?", 
+    "ts": "1548215614.010500", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 276, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFLE5EGH1", 
+        "thumb_480_h": 165, 
+        "original_h": 744, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-22 at 7.45.19 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFLE5EGH1/screen_shot_2019-01-22_at_7.45.19_pm.png", 
+        "thumb_720_h": 248, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_80.png", 
+        "thumb_360_h": 124, 
+        "size": 674653, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_800.png", 
+        "timestamp": 1548215239, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFLE5EGH1/download/screen_shot_2019-01-22_at_7.45.19_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFLE5EGH1-a373a442a6", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFLE5EGH1/screen_shot_2019-01-22_at_7.45.19_pm.png", 
+        "name": "Screen Shot 2019-01-22 at 7.45.19 PM.png", 
+        "created": 1548215239, 
+        "thumb_1024_h": 353, 
+        "thumb_960_h": 331, 
+        "original_w": 2158, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFLE5EGH1-55b6039a9e/screen_shot_2019-01-22_at_7.45.19_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1548214547.009000", 
+    "text": "<@UCBPUT6AX> <@U6Z4KNWCD> Not sure why it's looking in this root folder for the seed package, I assume it should be looking in my node modules folder, but I could be uninformed/wrong about that :confused:", 
+    "upload": true, 
+    "ts": "1548215244.010100", 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "01aae5c5-55bf-4ac7-bb40-3185b5d9407e", 
+    "thread_ts": "1548214547.009000", 
+    "text": "just reinstalled it with -g but same err", 
+    "ts": "1548215012.009900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b855718d-ff31-43b4-b9a7-9356c38cc2b4", 
+    "thread_ts": "1548214547.009000", 
+    "text": "#no", 
+    "ts": "1548215001.009700", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "90fc85c6-7229-431b-96cd-cb1fa4f08a83", 
+    "thread_ts": "1548214547.009000", 
+    "text": "Is your `seed` package installed globally?", 
+    "ts": "1548214986.009500", 
+    "user": "UCBPUT6AX", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 555, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFKQX5MJ4", 
+        "thumb_480_h": 333, 
+        "original_h": 1158, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-22 at 7.36.57 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFKQX5MJ4/screen_shot_2019-01-22_at_7.36.57_pm.png", 
+        "thumb_720_h": 499, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_80.png", 
+        "thumb_360_h": 250, 
+        "size": 857202, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_800.png", 
+        "timestamp": 1548214639, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFKQX5MJ4/download/screen_shot_2019-01-22_at_7.36.57_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFKQX5MJ4-e90f6de1dd", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFKQX5MJ4/screen_shot_2019-01-22_at_7.36.57_pm.png", 
+        "name": "Screen Shot 2019-01-22 at 7.36.57 PM.png", 
+        "created": 1548214639, 
+        "thumb_1024_h": 710, 
+        "thumb_960_h": 666, 
+        "original_w": 1670, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKQX5MJ4-d231dfaa41/screen_shot_2019-01-22_at_7.36.57_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1548214547.009000", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1548214645.009100", 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6Z4KNWCD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4eb2d621-2510-4945-92a9-674d80d2c5bf", 
+    "thread_ts": "1548214547.009000", 
+    "latest_reply": "1548215982.011800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBPUT6AX", 
+      "UCBQH1P6E", 
+      "U6Z4KNWCD"
+    ], 
+    "text": "what is the error?", 
+    "ts": "1548214547.009000", 
+    "type": "message", 
+    "reply_count": 12, 
+    "user": "U6Z4KNWCD", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548214645.009100"
+      }, 
+      {
+        "user": "UCBPUT6AX", 
+        "ts": "1548214986.009500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215001.009700"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215012.009900"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215244.010100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548215614.010500"
+      }, 
+      {
+        "user": "U6Z4KNWCD", 
+        "ts": "1548215630.010700"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215703.010900"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215726.011200"
+      }, 
+      {
+        "user": "U6Z4KNWCD", 
+        "ts": "1548215793.011400"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548215809.011600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548215982.011800"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "fe313cb2-c4fe-4411-a3bd-ff0220b504ac", 
+    "text": "Anyone else getting an error on running `seed`?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1548214500.008800"
+  }, 
+  {
+    "client_msg_id": "e82cc4da-9e1b-4d13-91df-95f2c5e7f7ab", 
+    "text": "Pretty confused in 'Getting Started - Forking/Cloning the Starter Project' would be great to add some documentation on what all those commands are doing", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1548214404.008500"
+  }, 
+  {
+    "client_msg_id": "da207470-a0ca-46b7-a018-c68677ce9fab", 
+    "text": "First chapters are Simple Search &amp; Pagination", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548183829.006700"
+  }, 
+  {
+    "client_msg_id": "2c3d7e32-f9e3-4e32-9f32-a386902e5b5e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "text": "Y\u2019all can already get started on Proud Pete\u2019s Pet Emporium <https://www.makeschool.com/academy/track/pete-s-pet-emporium---advanced-web-recipes>", 
+    "ts": "1548183580.006400", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2cede845-ac6a-4bfb-92a5-db30ff20e7e9", 
+    "edited": {
+      "user": "U1D40QFD4", 
+      "ts": "1548183371.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "wave", 
+        "users": [
+          "UCBDBB3LZ", 
+          "UCB8U00KA", 
+          "UCBS4EW59", 
+          "UCB8WCDTJ", 
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "braus", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hey Hey Hey", 
+    "ts": "1548183360.004900", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6YBN8NJ2> has joined the channel", 
+    "ts": "1548183341.004500", 
+    "subtype": "channel_join", 
+    "user": "U6YBN8NJ2", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1548183340.004300", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBP4M9C4> has joined the channel", 
+    "ts": "1548183340.004100", 
+    "subtype": "channel_join", 
+    "user": "UCBP4M9C4", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1548183340.003900", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1548183340.003700", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1548183340.003500", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1548183340.003300", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1548183340.003100", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1548183340.002900", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1548183340.002700", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1548183340.002500", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1548183340.002300", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1548183340.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1548183339.001900", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1548183339.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1548183339.001500", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1548183339.001300", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCBPUT6AX> has joined the channel", 
+    "ts": "1548183339.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1548183339.000900", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1548183339.000700", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1548183339.000500", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U1D40QFD4"
+  }, 
+  {
+    "text": "<@U1D40QFD4> set the channel purpose: <https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit?usp=sharing>", 
+    "ts": "1548183339.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U1D40QFD4", 
+    "type": "message", 
+    "purpose": "<https://docs.google.com/spreadsheets/d/1uU1wqterFOZE4GIrYHjHJ9jEQD7lSIPkXw88UBFj9eo/edit?usp=sharing>"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1548183338.000200", 
+    "text": "<@U1D40QFD4> has joined the channel"
+  }
+]

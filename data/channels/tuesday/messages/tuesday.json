@@ -1,0 +1,1317 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1553307565.000400", 
+    "text": "<@U8M6VPKUZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1553306807.000200", 
+    "text": "<@U6XV0FFEW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1551290137.000200", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1549482450.000400", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1549481497.000200", 
+    "text": "<@UCBHS20S0> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1548388185.000200", 
+    "text": "<@UCBS1DSF5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1548285153.000200", 
+    "text": "<@UCBHLEZEY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1547748149.000200", 
+    "text": "<@U6YMU9QCF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1542178167.000200", 
+    "text": "<@U6Y6KU78W> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1541246369.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1541112567.000200", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1540844949.000400", 
+    "text": "<@UCBHQSTB6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1540840500.000200", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1540320240.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "client_msg_id": "23F85A51-A493-4497-B59A-B3B5F51F0640", 
+    "text": "I\u2019m watching it at 10pm:nerd_face:", 
+    "type": "message", 
+    "user": "UCBLQF0R1", 
+    "ts": "1540316856.000100"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Halloween (Michael Myers) movie at Van Ness 14", 
+        "color": "6ecadc", 
+        "fields": [
+          {
+            "short": false, 
+            "value": ":one: 7:15pm\n\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":two: 8:00pm    `5`\n<@UCDAETD5L>, <@UCBS3LMDZ>, <@U6YMU9QCF>, <@UCBQH1P6E>, <@UCBQJD3NW>\n\n", 
+            "title": ""
+          }
+        ], 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 1
+      }, 
+      {
+        "callback_id": "39e68b2c-ef42-40a0-80e3-238c68a13141", 
+        "color": "6ecadc", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 2, 
+        "actions": [
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":one:", 
+            "value": "1", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":two:", 
+            "value": "2", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "style": "danger", 
+            "name": "delete-v2", 
+            "confirm": {
+              "text": "Are you sure you want to delete the Poll?", 
+              "dismiss_text": "No", 
+              "title": "Delete Poll?", 
+              "ok_text": "Yes"
+            }, 
+            "text": "Delete Poll", 
+            "value": "", 
+            "type": "button", 
+            "id": "3"
+          }
+        ]
+      }, 
+      {
+        "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/product-college/settings/|Edit Settings>", 
+        "color": "6ecadc", 
+        "callback_id": "39e68b2c-ef42-40a0-80e3-238c68a13141", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+        "id": 3
+      }
+    ], 
+    "text": "", 
+    "ts": "1540314531.000100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "B86U61V4M"
+  }, 
+  {
+    "text": "/poll \u201cHalloween (Michael Myers) movie at Van Ness 14\u201d \u201c7:15pm\u201d \u201c8:00pm\u201d", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1540314530.000100"
+  }, 
+  {
+    "text": "<@UCBDDKQ65> has joined the channel", 
+    "ts": "1540314457.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDKQ65", 
+    "type": "message", 
+    "inviter": "U6Y6KU78W"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1540258806.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1540242275.000200", 
+    "text": "<@UCBP5EN5S> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1540240490.000200", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1540083264.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1539361060.000200", 
+    "text": "<@UCHK87XEJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1539322405.000200", 
+    "text": "<@UCCS7HWGP> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1539199150.000200", 
+    "text": "<@U6YGZN9HD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1539190472.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "client_msg_id": "B43A4197-21EB-43C3-887B-08D5C8CCB883", 
+    "text": "I\u2019m here ", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1539149232.000100"
+  }, 
+  {
+    "client_msg_id": "A8586047-8A40-479D-8499-810266BBFCEB", 
+    "text": "AMC Van Ness 14 I believe - 1000 Van Ness Ave, San Francisco, CA 94109", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539147321.000100"
+  }, 
+  {
+    "client_msg_id": "a7e58d4f-08cb-42b2-9393-f432c47a8fb2", 
+    "edited": {
+      "user": "U8NMLKGDU", 
+      "ts": "1539149109.000000"
+    }, 
+    "text": "Anyone have the address?", 
+    "ts": "1539147066.000100", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "efc22798-6018-42e6-98f8-d26f21aabe1c", 
+    "text": "Alright putos...", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1539147050.000100"
+  }, 
+  {
+    "client_msg_id": "5DE2C2CD-BCAC-47AD-84B9-64A9151CCE99", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "Second that let\u2019s link downstairs Vantaggio 10:10", 
+    "ts": "1539145212.000100", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d2d5f489-b2b5-4634-8978-71733b0cc9d3", 
+    "text": "It will take about 15 minutes to walk there, so I think it will be fine if we leave at 10:10.", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1539142462.000100"
+  }, 
+  {
+    "client_msg_id": "6F24E3C9-0E1A-4FFE-8FCD-45FDA1A5C1A1", 
+    "text": "Yeah I was asking about 10:30pm", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1539140519.000100"
+  }, 
+  {
+    "client_msg_id": "69303ba4-a5b8-467c-97ff-311ddc37030d", 
+    "text": "<@UCBS3LMDZ> The movie has started already.  The next showing is at 10:30pm", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1539140444.000100"
+  }, 
+  {
+    "client_msg_id": "FE4F40EF-C215-4B40-B2B6-D995D5F2F150", 
+    "text": "I am coming too guys what time are we meeting down stairs", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1539140345.000100"
+  }, 
+  {
+    "client_msg_id": "1cb0302a-d4f9-428e-9edf-490fc74ca468", 
+    "text": "Spoiler alert: Tom Hardy is Venom.", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1539139855.000100"
+  }, 
+  {
+    "client_msg_id": "BAB4A22A-F462-43BD-B9E1-D608F7BA6F3E", 
+    "text": "lemme know if y\u2019all have serious trouble getting in <@U6YMU9QCF>", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1539139673.000100"
+  }, 
+  {
+    "client_msg_id": "9879a460-3ab6-42f2-a204-d2549d178d2d", 
+    "text": "It seems like there are a lot of people in this <!channel> who have not gotten their tickets for the movie tonight. If you are still interested, we are planning to catch the 10:30pm IMAX showing of Venom at AMC Van Ness. If you don\u2019t have your ticket, you can sign up for a stubs account to get a discount, or you can ask <@U6XJLPQ9Y> to get you a ticket with the same discount. We are the large group sitting in row H.", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1539139491.000100"
+  }, 
+  {
+    "client_msg_id": "EEB445AA-1E0F-4081-9811-506603A67698", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "See you mother fuckers there. ", 
+    "ts": "1539134969.000100", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9ae4081e-74f6-47eb-8fb6-97bf6a3c6a5e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "text": "<@U6XJLPQ9Y> I like your cash app photo... looks like you are goin up on a Tuesday :rolling_on_the_floor_laughing:", 
+    "ts": "1539132438.000100", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2AA13655-DFBE-493D-A571-B7956909FA2F", 
+    "text": " I\u2019ll give ya cash!", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539130740.000100"
+  }, 
+  {
+    "client_msg_id": "F3FFBE8F-E009-4EB5-9C81-3FBDE3689981", 
+    "thread_ts": "1539127752.000100", 
+    "text": "<@UCBQH1P6E> yeah ", 
+    "ts": "1539127910.000100", 
+    "user": "U6XJLPQ9Y", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 447, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDC3HGV7Y", 
+        "thumb_480_h": 268, 
+        "original_h": 628, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDC3HGV7Y/image_from_ios.jpg", 
+        "thumb_720_h": 402, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_80.jpg", 
+        "thumb_360_h": 201, 
+        "size": 156792, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_800.jpg", 
+        "timestamp": 1539127894, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDC3HGV7Y/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_1024.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDC3HGV7Y-744e61b351", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/FDC3HGV7Y/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1539127894, 
+        "thumb_1024_h": 572, 
+        "thumb_960_h": 536, 
+        "original_w": 1125, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDC3HGV7Y-aad9908f5c/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "0B073A2E-24AB-42B9-8ACC-720D1D527E63", 
+    "ts": "1539127897.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DB5A46FC-3C8C-4BC5-8493-EC7094F3857E", 
+    "text": "Try Cash App using my code and we\u2019ll each get $5! THFKXHK \n<https://cash.me/app/THFKXHK>", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539127869.000100"
+  }, 
+  {
+    "client_msg_id": "C01E0E3E-1AD8-4E7A-A540-5AC4BDB6BBB9", 
+    "thread_ts": "1539127752.000100", 
+    "text": "Yeah Edwin Jon will buy urs", 
+    "ts": "1539127865.000100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91F70AFE-AF77-42AB-8F7A-43940F3965BE", 
+    "thread_ts": "1539127752.000100", 
+    "text": "I got cash I can give you?", 
+    "ts": "1539127851.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "842341ba-59bb-453d-8ec1-57a2a8dbf449", 
+    "thread_ts": "1539127752.000100", 
+    "text": "?", 
+    "ts": "1539127777.000100", 
+    "user": "U6XJLPQ9Y", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FAC414FC-2E5D-4175-AF20-9CA141286197", 
+    "thread_ts": "1539127752.000100", 
+    "text": "Your ID", 
+    "ts": "1539127764.000100", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "97106c0e-17f2-47e5-93a5-f340728822cd", 
+    "thread_ts": "1539127752.000100", 
+    "latest_reply": "1539127910.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "U6XJLPQ9Y", 
+      "UCBQH1P6E", 
+      "UCDAETD5L"
+    ], 
+    "text": "child and adult tickets are the same :joy: jw if they notice", 
+    "ts": "1539127752.000100", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "U6XJLPQ9Y", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1539127764.000100"
+      }, 
+      {
+        "user": "U6XJLPQ9Y", 
+        "ts": "1539127777.000100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539127851.000100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1539127865.000100"
+      }, 
+      {
+        "user": "U6XJLPQ9Y", 
+        "ts": "1539127910.000100"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 437, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDAH41KJQ", 
+        "thumb_480_h": 262, 
+        "original_h": 1834, 
+        "thumb_360_w": 360, 
+        "title": "aaa.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDAH41KJQ/aaa.png", 
+        "thumb_720_h": 393, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_80.png", 
+        "thumb_360_h": 197, 
+        "size": 445973, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_800.png", 
+        "timestamp": 1539127722, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDAH41KJQ/download/aaa.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_1024.png", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDAH41KJQ-1ead3c4d92", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/FDAH41KJQ/aaa.png", 
+        "name": "aaa.png", 
+        "created": 1539127722, 
+        "thumb_1024_h": 559, 
+        "thumb_960_h": 524, 
+        "original_w": 3360, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAH41KJQ-323427b702/aaa_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1539127726.000100", 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ec698c6f-2c43-4cdc-af8e-c14a80a68684", 
+    "text": "<@UCDAETD5L> <@UCBQH1P6E> <@UCBQJD3NW> <@UCCSGECPJ> <@UCH838UC9> <@U6YCV95L7> <@U8NMLKGDU> <@U6XDGCKFF>\nplease apple pay me or use cash app, I don't have venmo", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539127708.000100"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1539127672.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1539120642.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDBMB1Y79", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDBMB1Y79/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 9520447, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_800.jpg", 
+        "timestamp": 1539119037, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDBMB1Y79/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_1024.jpg", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDBMB1Y79-f07efbc307", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FDBMB1Y79/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1539119037, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDBMB1Y79-735f8a5257/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW", 
+          "U6YCV95L7", 
+          "U6XJLPQ9Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "venom", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "ts": "1539119048.000100", 
+    "text": "", 
+    "upload_reply_to": "9390F8A6-E7BA-4ED4-AFBA-C9264745FE3C", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "73A8F74F-AE84-49BB-A205-A8EF469522A0", 
+    "text": "Bet it up", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539119039.000100"
+  }, 
+  {
+    "client_msg_id": "054b2f2c-f3ae-4b53-84e5-fa68c1fad142", 
+    "text": "I think we should try to be centered", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1539118915.000100"
+  }, 
+  {
+    "client_msg_id": "2EEDCC6E-44C3-4EAF-9897-158766B5208F", 
+    "text": "Or one row closer more centered?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539118680.000100"
+  }, 
+  {
+    "client_msg_id": "46F7BAAF-6B78-4F46-8B33-A8784918AA40", 
+    "text": "Bet it up?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539118668.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDAGTLRGB", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDAGTLRGB/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 9289178, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_800.jpg", 
+        "timestamp": 1539118655, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDAGTLRGB/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_1024.jpg", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDAGTLRGB-ed3f1d10e7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FDAGTLRGB/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1539118655, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDAGTLRGB-3e5c8c4ab3/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "17A1B37D-A133-4E03-8651-688AAE35C75E", 
+    "ts": "1539118662.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e82e5ca1-d5ef-46a3-b888-09a7e0bacc63", 
+    "text": "I'm down for either Imax or non-Imax", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1539117985.000100"
+  }, 
+  {
+    "client_msg_id": "7C2F6EE5-BB9C-4E0F-ADCA-E285706B3462", 
+    "text": "This is Venom.. so I\u2019m down to do it proper #IMAX", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1539117938.000100"
+  }, 
+  {
+    "client_msg_id": "99c99591-74b4-488a-a5bf-bb01f09ba22b", 
+    "edited": {
+      "user": "UCBHLEZEY", 
+      "ts": "1539118224.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 850444, 
+        "original_url": "https://media.giphy.com/media/3o6nURieOmEMlqh81G/giphy.gif", 
+        "image_width": 480, 
+        "image_height": 270, 
+        "image_url": "https://media.giphy.com/media/3o6nURieOmEMlqh81G/giphy.gif", 
+        "from_url": "https://media.giphy.com/media/3o6nURieOmEMlqh81G/giphy.gif", 
+        "fallback": "480x270px image", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "SPD Blog posts are due tomorrow and I need to finish mine\u2026 <https://media.giphy.com/media/3o6nURieOmEMlqh81G/giphy.gif>", 
+    "ts": "1539117765.000100", 
+    "user": "UCBHLEZEY", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBC6K65P> has joined the channel", 
+    "ts": "1539117661.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBC6K65P", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1539117661.000400", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1539117661.000200", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1539117632.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "client_msg_id": "1D7CD86D-71AE-49DC-A187-2CB13785A1CB", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "text": "We can meet at Vantaggio it\u2019s like a 10 min walk", 
+    "ts": "1539117608.000100", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D537A8DA-14E0-48C7-A4F1-C8FE88FA82C9", 
+    "text": "The other option is AMC Metreon 16 at 930. it\u2019s $5 in Standard", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539117564.000100"
+  }, 
+  {
+    "client_msg_id": "82f1472e-d05a-4016-a294-1b7b2bd9e92c", 
+    "text": "where we meet at?", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1539117563.000100"
+  }, 
+  {
+    "client_msg_id": "0924D4C8-EEBF-4D76-97A6-790C9FB4BD85", 
+    "text": "The 10:30 one is in IMAX so it\u2019s $10, is everyone good with that?", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539117399.000100"
+  }, 
+  {
+    "client_msg_id": "cdc6c3ec-6ecd-4258-913e-47b2ce80ff77", 
+    "thread_ts": "1539112646.000100", 
+    "text": "7:30 sounds cool with me", 
+    "ts": "1539116583.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "22B5861A-CC09-4409-954F-9DCA63D0E856", 
+    "thread_ts": "1539112646.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "Gg I would come at 730 but Spotify event :( Dont post any spoilers :joy:", 
+    "ts": "1539116283.000100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3A40668E-E65C-4DE5-8AD2-56F473A0844E", 
+    "thread_ts": "1539112646.000100", 
+    "text": "I\u2019m gonna go w y\u2019all ", 
+    "ts": "1539112728.000100", 
+    "user": "U6YV4A45C", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "856fd8bd-53c9-4475-8a60-baf70ee5a4a6", 
+    "thread_ts": "1539112646.000100", 
+    "latest_reply": "1539116583.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YV4A45C", 
+      "UCDAETD5L", 
+      "UCB58P2V6"
+    ], 
+    "text": "Me and my roommates are seeing this tonight, but some of us can't make the 10:30 time so I think we'll be going in around 7:30.", 
+    "ts": "1539112646.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6YMU9QCF", 
+    "replies": [
+      {
+        "user": "U6YV4A45C", 
+        "ts": "1539112728.000100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1539116283.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1539116583.000100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1539099598.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1539071487.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1539071291.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1539064565.000200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1539064536.000200", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1539064489.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1539062272.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1539060290.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1539060000.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1539059738.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1539059605.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1539059569.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "client_msg_id": "a29babf6-a385-4176-ac5c-36e4b119bb09", 
+    "text": "I won't be able to make it :sob:", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1539059242.000200"
+  }, 
+  {
+    "client_msg_id": "dc571f40-dd29-46fb-b827-3953ecf20a44", 
+    "text": "I'm sorry Johnathan! There is a a Spotify recruitment event tomorrow and then I have to meal prep", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1539059233.000100"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1539059230.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1539058765.000600", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1539058765.000400", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCB8SBFJ4> has joined the channel", 
+    "ts": "1539058765.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8SBFJ4", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "client_msg_id": "f9f8582a-1ebc-431d-892f-4a07c3ab3527", 
+    "text": "Which time works best for everyone?", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539058465.000100"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Movie time at Van Ness 14", 
+        "color": "6ecadc", 
+        "fields": [
+          {
+            "short": false, 
+            "value": ":one: 7:30    `2`\n<@U6YMU9QCF>, <@U6YV4A45C>\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":two: 10:30    `8`\n<@UCB8WCDTJ>, <@U6YHCA79U>, <@U6XCP1NLU>, <@U6YBN8NJ2>, <@U6XJLPQ9Y>, <@UCDAETD5L>, <@UCBQJD3NW>, <@U8MP28D9S>\n\n", 
+            "title": ""
+          }
+        ], 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 1
+      }, 
+      {
+        "callback_id": "cc337287-f6a9-4198-865b-3bffa29252fd", 
+        "color": "6ecadc", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 2, 
+        "actions": [
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":one:", 
+            "value": "1", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":two:", 
+            "value": "2", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "style": "danger", 
+            "name": "delete-v2", 
+            "confirm": {
+              "text": "Are you sure you want to delete the Poll?", 
+              "dismiss_text": "No", 
+              "title": "Delete Poll?", 
+              "ok_text": "Yes"
+            }, 
+            "text": "Delete Poll", 
+            "value": "", 
+            "type": "button", 
+            "id": "3"
+          }
+        ]
+      }, 
+      {
+        "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/product-college/settings/|Edit Settings>", 
+        "color": "6ecadc", 
+        "callback_id": "cc337287-f6a9-4198-865b-3bffa29252fd", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+        "id": 3
+      }
+    ], 
+    "text": "", 
+    "ts": "1539058340.000200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "B86U61V4M"
+  }, 
+  {
+    "text": "/poll \"Movie time at Van Ness 14\" \"7:30\" \"10:30\"", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539058340.000100"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1539058339.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1539058339.000400", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1539058339.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1539058338.001200", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1539058338.001000", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1539058338.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1539058338.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1539058338.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1539058338.000200", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U6YBN8NJ2> has joined the channel", 
+    "ts": "1539058337.001000", 
+    "subtype": "channel_join", 
+    "user": "U6YBN8NJ2", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1539058337.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1539058337.000600", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1539058337.000400", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "U6XJLPQ9Y"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1539058337.000200", 
+    "text": "<@U6XJLPQ9Y> has joined the channel"
+  }
+]

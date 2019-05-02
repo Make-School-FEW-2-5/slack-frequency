@@ -1,0 +1,1544 @@
+[
+  {
+    "client_msg_id": "1511d746-aacb-452c-8c80-fa9171827d34", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCH838UC9"
+        ]
+      }
+    ], 
+    "text": "(This is the online assignment for this week :slightly_smiling_face:)", 
+    "ts": "1556312889.003100", 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0c31f98b-2ef7-429c-b0e9-64b825a16776", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "And otherwise I hope you are all having a wonderful week and finding time to enjoy the days of our lives! :deciduous_tree::sunny:", 
+    "ts": "1556310519.002600", 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ81CMUNL", 
+        "size": 1075863, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ81CMUNL-479184b820/agua_viva_-_clarice_lispector_copy_thumb_pdf.png", 
+        "title": "agua_viva_-_clarice_lispector copy.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ81CMUNL/agua_viva_-_clarice_lispector_copy.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556310437, 
+        "thumb_pdf_w": 1210, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ81CMUNL/download/agua_viva_-_clarice_lispector_copy.pdf", 
+        "user": "UCPQD5NHM", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ81CMUNL-45e7321d49", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCPQD5NHM/FJ81CMUNL/agua_viva_-_clarice_lispector_copy.pdf", 
+        "name": "agua_viva_-_clarice_lispector copy.pdf", 
+        "created": 1556310437, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 935
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556310439.001400", 
+    "display_as_bot": false, 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b1d60124-c849-4d3b-831f-ec835e8dfc3e", 
+    "text": "It is true there is no class! :slightly_smiling_face: However, please do find time to contribute a short reflection on the assigned reading from last class here in slack.", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1556310352.001300"
+  }, 
+  {
+    "client_msg_id": "8710ca73-bc0b-4c94-8bc8-7a6638dcfaf9", 
+    "thread_ts": "1556249934.000400", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thankyou", 
+        "users": [
+          "UCC4RUF4M", 
+          "UCBC6K65P", 
+          "U6X9L8VAN"
+        ]
+      }
+    ], 
+    "text": "Hi Jonathan! We don't have class tomorrow.", 
+    "ts": "1556254527.000500", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09b31fbe-bb1d-4e0b-baf4-e8faef9ac212", 
+    "thread_ts": "1556249934.000400", 
+    "latest_reply": "1556254527.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "text": "Is it true we don't have class tomorrow?", 
+    "ts": "1556249934.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC4RUF4M", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1556254527.000500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "2bc035d0-fad0-4509-abcc-738c37f4a211", 
+    "attachments": [
+      {
+        "image_bytes": 200656, 
+        "original_url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html", 
+        "service_name": "Purdue Writing Lab", 
+        "title": "MLA Works Cited Page: Basic Format // Purdue Writing Lab", 
+        "image_width": 476, 
+        "title_link": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html", 
+        "image_height": 250, 
+        "image_url": "https://cla.purdue.edu/images/socialmediabumper3.jpg", 
+        "text": "The Purdue University Online Writing Lab serves writers from around the world and the Purdue University Writing Lab helps writers on Purdue's campus.", 
+        "from_url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html", 
+        "fallback": "Purdue Writing Lab: MLA Works Cited Page: Basic Format // Purdue Writing Lab", 
+        "service_icon": "https://owl.purdue.edu/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html>", 
+    "ts": "1555112440.001800", 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "81947c7c-73b2-4cf6-b67b-40a80ff5d295", 
+    "attachments": [
+      {
+        "image_bytes": 200656, 
+        "original_url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_quotations.html", 
+        "service_name": "Purdue Writing Lab", 
+        "title": "MLA Formatting Quotations // Purdue Writing Lab", 
+        "image_width": 476, 
+        "title_link": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_quotations.html", 
+        "image_height": 250, 
+        "image_url": "https://cla.purdue.edu/images/socialmediabumper3.jpg", 
+        "text": "The Purdue University Online Writing Lab serves writers from around the world and the Purdue University Writing Lab helps writers on Purdue's campus.", 
+        "from_url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_quotations.html", 
+        "fallback": "Purdue Writing Lab: MLA Formatting Quotations // Purdue Writing Lab", 
+        "service_icon": "https://owl.purdue.edu/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_quotations.html>", 
+    "ts": "1555111927.001500", 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 343, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHHQL8DS6", 
+        "thumb_480_h": 206, 
+        "original_h": 464, 
+        "thumb_360_w": 360, 
+        "title": "MLA-Works-Cited-updated-8th-edition-2016.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHHQL8DS6/mla-works-cited-updated-8th-edition-2016.png", 
+        "thumb_720_h": 309, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_80.png", 
+        "thumb_360_h": 154, 
+        "size": 60293, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_800.png", 
+        "timestamp": 1555111886, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHHQL8DS6/download/mla-works-cited-updated-8th-edition-2016.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_1024.png", 
+        "user": "UCPQD5NHM", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHHQL8DS6-1f639c6727", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCPQD5NHM/FHHQL8DS6/mla-works-cited-updated-8th-edition-2016.png", 
+        "name": "MLA-Works-Cited-updated-8th-edition-2016.png", 
+        "created": 1555111886, 
+        "thumb_1024_h": 439, 
+        "thumb_960_h": 412, 
+        "original_w": 1082, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQL8DS6-eec0018db5/mla-works-cited-updated-8th-edition-2016_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555111889.001100", 
+    "display_as_bot": false, 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dc1166a9-ebb0-4220-a630-9ffa759a0b28", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "herb", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "text": "<http://art.yale.edu/file_columns/0000/9416/agua_viva_-_clarice_lispector.pdf>", 
+    "ts": "1555110472.001000", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85f9eb91-1ac9-478f-82d8-2aa8cf5ed82f", 
+    "edited": {
+      "user": "U6X9L8VAN", 
+      "ts": "1555101755.000000"
+    }, 
+    "text": "I'm a bit late but will be present", 
+    "ts": "1555101738.000500", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C5BF1964-7764-4C67-A14A-0D57C3F0CD1F", 
+    "text": "Won\u2019t be in class today not sick but have to go to the doctor to get my immunization records for school", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1554496127.002900"
+  }, 
+  {
+    "client_msg_id": "496b3e6e-e078-423a-8325-085d158d5e98", 
+    "text": "I am also out sick :mask:", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1554494966.002000"
+  }, 
+  {
+    "client_msg_id": "0891500b-e810-460a-bf34-50e0f7235a48", 
+    "text": "I wont't make it to class today I am sick :disappointed:", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1554487961.001600"
+  }, 
+  {
+    "client_msg_id": "41e57330-ce51-450b-95d0-da75b1612276", 
+    "text": ":sunflower:", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1554486359.001200"
+  }, 
+  {
+    "client_msg_id": "8367e563-6aa9-438d-8d75-8f94eeb2d102", 
+    "text": "Dear Class, I look forward to seeing you all soon! (And just a reminder because of our odd schedule, that we do have class today.)", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1554486319.001000"
+  }, 
+  {
+    "client_msg_id": "90381420-0C3C-4822-9CA7-7CB193578C4A", 
+    "text": "Will only be in class for the last 20 minutes \u2014 I have a test prep meeting", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1553857230.001000"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMF5THV", 
+    "ts": "1553307521.004900", 
+    "text": "<@U6YMF5THV> has left the channel"
+  }, 
+  {
+    "client_msg_id": "A1A70CE3-A54C-4EDB-8F4D-62C35414DA28", 
+    "text": "Thanks <@UCH838UC9> - we\u2019re here! Look forward to seeing you. ", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1553288956.004700"
+  }, 
+  {
+    "client_msg_id": "CD878085-2880-40F3-9EAB-E3D7ACC5F67B", 
+    "text": "Not feeling well today. I will be awake and on my laptop to do any reading and participate in class", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1553285883.003800"
+  }, 
+  {
+    "client_msg_id": "CC512951-FA6D-4B3A-9C65-3BE136ADBBB0", 
+    "text": "Running a few minutes late", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1553285830.002800"
+  }, 
+  {
+    "client_msg_id": "9d4b7204-1ade-4462-9a44-1d13a36a873b", 
+    "text": "Please do be there so that we can make the most of our days together.  :herb: (Thank you.)", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1553204331.002500"
+  }, 
+  {
+    "client_msg_id": "6ff753b4-21d0-4a0e-b8ce-a99a78c71fd8", 
+    "text": "Dear Class, I look forward to seeing you all tomorrow!  Remember we had spring break last week and Cesar Chavez day next week so there has and will be good time to do other things in our lives. :sunny::deciduous_tree:", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1553204231.001500"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1553203895.000200", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "client_msg_id": "b7f2e03b-053a-43df-ad7f-7088f0482e7c", 
+    "text": "got it!", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1552084949.035100"
+  }, 
+  {
+    "client_msg_id": "cb7722dd-d31e-449a-a1ad-1d85aa55e594", 
+    "text": "Horton suggests that... we can work our way out of pessimism by surrounding ourselves with people who share some of our goals for a better world and working with them to create pockets of decency that are contagious.", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552084327.034900"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 514, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGSU0CGC9", 
+        "thumb_480_h": 308, 
+        "original_h": 1642, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-03-08 at 2.00.42 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGSU0CGC9/screen_shot_2019-03-08_at_2.00.42_pm.png", 
+        "thumb_720_h": 463, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_80.png", 
+        "thumb_360_h": 231, 
+        "size": 2272866, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_800.png", 
+        "timestamp": 1552084193, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGSU0CGC9/download/screen_shot_2019-03-08_at_2.00.42_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_1024.png", 
+        "user": "UCPQD5NHM", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGSU0CGC9-f7bdc001ec", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCPQD5NHM/FGSU0CGC9/screen_shot_2019-03-08_at_2.00.42_pm.png", 
+        "name": "Screen Shot 2019-03-08 at 2.00.42 PM.png", 
+        "created": 1552084193, 
+        "thumb_1024_h": 658, 
+        "thumb_960_h": 617, 
+        "original_w": 2556, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGSU0CGC9-7129c83332/screen_shot_2019-03-08_at_2.00.42_pm_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552084198.034100", 
+    "display_as_bot": false, 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "43ae2c74-7a98-412d-9925-cfb594baa212", 
+    "text": "idk why my mic isnt working either", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1552084177.034000"
+  }, 
+  {
+    "client_msg_id": "003b9a70-f932-4b5f-8163-efa3e28f53e3", 
+    "text": "Unless you would like to hear lots of static I think it should stay muted.", 
+    "type": "message", 
+    "user": "UCC4SJBL5", 
+    "ts": "1552084147.033700"
+  }, 
+  {
+    "client_msg_id": "71aeccae-8df9-420d-8a68-f2246aa1fb40", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "text": "My mic has not been working unfortunately.", 
+    "ts": "1552084034.031900", 
+    "user": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a81fb96e-066e-4078-ac49-caac28fd95da", 
+    "attachments": [
+      {
+        "original_url": "https://eric.ed.gov/?id=EJ1169789", 
+        "text": "In this article, I argue that at its best, work in the foundations of education is about building islands of decency, borrowing from a metaphor originally used by Myles Horton. Horton suggests that in times of crisis and despair, we can work our way out of pessimism by surrounding ourselves with people who share some of our goals for a better world and working with them to create pockets of decency that are contagious. I begin by describing some of the commitments we share in the foundations field, focusing specifically on the ways we work toward social justice, diversity, and democracy. I then describe three tensions we must navigate in our work to be decent as scholars and people, unpacking the meaning of decency throughout the article. These are tensions between construction and critique, inquiry and advocacy, and humanist and instrumentalist rationality. I end by sketching some visions of hope and possibility, what the American Educational Studies Association can be in our next", 
+        "title": "ERIC - On Building Islands of Decency, Educational Studies: Journal of the American Educational Studies Association, 2018", 
+        "title_link": "https://eric.ed.gov/?id=EJ1169789", 
+        "service_name": "eric.ed.gov", 
+        "from_url": "https://eric.ed.gov/?id=EJ1169789", 
+        "fallback": "ERIC - On Building Islands of Decency, Educational Studies: Journal of the American Educational Studies Association, 2018", 
+        "service_icon": "https://eric.ed.gov/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://eric.ed.gov/?id=EJ1169789>", 
+    "ts": "1552083276.031200", 
+    "user": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "540AAF56-963C-4BF0-A4D7-4AD6A763180E", 
+    "text": "The first thing that came to mind in the islands of decency was the educative process in relation to the universe. The universe is the largest thing conceivable to humans and we haven\u2019t explored even a fraction of it. The na\u00efvet\u00e9 we will all share is what is out there. The question. Do you want to dedicate your life to finding out what\u2019s out there or would it be better to come to the conclusion that it\u2019s impossible to find out what is lightlyears away and just forget about  it. The human\u2019a curiosity about outer space has been around for centuries and is documented in almost every ancient civilization. Many theories are given but today\u2019s are the most accurate we have. And tomorrow they\u2019ll be more accurate. And every day we get closer to finding out what is beyond Earth. But will we ever find something worth searching for or is space too large for us to search through?", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1552083124.030500"
+  }, 
+  {
+    "client_msg_id": "d66178f5-bee2-4a82-a023-8862236ec3cb", 
+    "text": "lol", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552082854.022500"
+  }, 
+  {
+    "client_msg_id": "419f07dc-93b4-41eb-bff0-105d282b3edc", 
+    "text": "We can't hear you Matt!", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1552082846.022000"
+  }, 
+  {
+    "client_msg_id": "8ca61bc2-1199-4054-b2e1-2f64542489e4", 
+    "edited": {
+      "user": "UCC0HC7D0", 
+      "ts": "1552082738.000000"
+    }, 
+    "text": "Learning happens in all parts of life that aren't necessarily explained to us. We can see the effects of a decision. We can learn from how our bodies feel in a moment and by what we don't feel.", 
+    "ts": "1552082714.019200", 
+    "user": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3917da4e-6ab3-49f4-9352-23a2000eeeeb", 
+    "text": "Organization will be the death of me. According to my head, everything needs a distinct place, separate from everything else. My room is the epitome of tidiness. I can't get out of bed in the morning without worrying I mess up my perfectly neat living space. I have a notebook for each class, a shirt for everyday of the week, and a large color coordinated calendar on my desk that reminds me of everyday's pattern. I micromanage every aspect of my life, segmenting every second of the day. However, I am frequently consumed by the desire to break this dull simulation loop to escape into a realm of chaos. School provides all the discipline and structure I could ever ask for. But overanyalizing my school performance and attempting to optimize myself has beat my personality into a pulp and has left me wallowing in a pool of regret.", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1552082616.017300"
+  }, 
+  {
+    "client_msg_id": "2f505bc6-e151-4b91-85e7-033e9506a84e", 
+    "text": "Monhandas Gandhi has a quote that I really appreciate in which he says something to the effect of \u201cpay attention to the underlying unity of existence, and ignore the differences of ideology, doctrine and modes of thought.\u201d\n\nWhen we approach learning in an organic and holistic way, I think the hope is we may gain some sense of our mutuality (community) as well as an affirming foundation in our own sense of self (being).\n\nFrom this we can start to identify qualities of our own experience that may serve as principles or essential conditions for our continued growth and evolution.\n\nThese might include things like:\nFaith\nFinding balance (within \u2013 and demonstrated by the balance of a board on a wave)\nCuriosity and Joy (as in through ping pong)\nSpace to Breathe (as when I spend days alone in the sierras)\n\nIn fact these are all things that I experience in my own life, and often forget, and then remember again when I join you all in learning, exploring and growing\u2026", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552082514.015600"
+  }, 
+  {
+    "client_msg_id": "8a8bcc22-eec5-4007-a8ce-d5552ad6799a", 
+    "text": "In the text, he talks about building islands of decency inside the education system. He relates it to the universe being one and a part of the big ball of life. When he says that the education system must be organic I believe he is saying that the education environment needs to be dynamic and constantly changing. The educators need to teach meaningful ideas, and ones they truly believe in themselves.", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1552082498.015200"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "xml", 
+        "lines_more": 0, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGSN8EWF2", 
+        "size": 959, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGSN8EWF2/-.xml", 
+        "preview": "The passage reminds me of the goals of different schools I have attended during my life such as my current one. Make School has made it clear that\u2019s it goal in education is more than just software development, but personal development too. This goal has always reminded me of Spearman\u2019s g - factor, or general intelligence. While it is a relatively old idea in psychology, I think the basic premise is related to \u201ca rising tide lifts all boats\u201d. The concept of intelligence has been broken into pieces, but I believe the passage and Spearman were trying  to convey a similar message; the best education revolves around all aspects of a person\u2019s life, and it loses value when it is segmented and compartmentalized. Spearman studied and recognized that students generally did well in all classes, or did poorly in all classes, so it was important to tackle the student struggling as a whole rather than each class they were struggling in individually.", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCC4SJBL5/FGSN8EWF2/-.xml/edit", 
+        "username": "", 
+        "timestamp": 1552082452, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>The passage reminds me of the goals of different schools I have attended during my life such as my current one. Make School has made it clear that\u2019s it goal in education is more than just software development, but personal development too. This goal has always reminded me of Spearman\u2019s g - factor, or general intelligence. While it is a relatively old idea in psychology, I think the basic premise is related to \u201ca rising tide lifts all boats\u201d. The concept of intelligence has been broken into pieces, but I believe the passage and Spearman were trying  to convey a similar message; the best education revolves around all aspects of a person\u2019s life, and it loses value when it is segmented and compartmentalized. Spearman studied and recognized that students generally did well in all classes, or did poorly in all classes, so it was important to tackle the student struggling as a whole rather than each class they were struggling in individually.</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGSN8EWF2/download/-.xml", 
+        "user": "UCC4SJBL5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "XML", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGSN8EWF2-026449a25d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4SJBL5/FGSN8EWF2/-.xml", 
+        "name": "-.xml", 
+        "created": 1552082452, 
+        "lines": 1, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "<https://en.wikipedia.org/wiki/G_factor_(psychometrics)>", 
+    "upload": true, 
+    "ts": "1552082452.014700", 
+    "display_as_bot": false, 
+    "user": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGTQ2AD6H", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGTQ2AD6H/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 1930668, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_800.jpg", 
+        "timestamp": 1552081417, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGTQ2AD6H/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_1024.jpg", 
+        "user": "UCPQD5NHM", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGTQ2AD6H-a59b6d8915", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCPQD5NHM/FGTQ2AD6H/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1552081417, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTQ2AD6H-e84aa1f566/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "7625E93A-9541-4C9C-8123-AEA998448EA7", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552081422.004300", 
+    "display_as_bot": false, 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 531, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGTAVMJLB", 
+        "thumb_480_h": 318, 
+        "original_h": 836, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-03-08 at 8.58.01 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGTAVMJLB/screen_shot_2019-03-08_at_8.58.01_am.png", 
+        "thumb_720_h": 478, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_80.png", 
+        "thumb_360_h": 239, 
+        "size": 940780, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_800.png", 
+        "timestamp": 1552081387, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGTAVMJLB/download/screen_shot_2019-03-08_at_8.58.01_am.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_1024.png", 
+        "user": "UCPQD5NHM", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGTAVMJLB-6e542a8036", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCPQD5NHM/FGTAVMJLB/screen_shot_2019-03-08_at_8.58.01_am.png", 
+        "name": "Screen Shot 2019-03-08 at 8.58.01 AM.png", 
+        "created": 1552081387, 
+        "thumb_1024_h": 679, 
+        "thumb_960_h": 637, 
+        "original_w": 1260, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGTAVMJLB-47a8261ad0/screen_shot_2019-03-08_at_8.58.01_am_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552081393.004000", 
+    "display_as_bot": false, 
+    "user": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8fdd4dd8-4c55-462b-87f4-4ed2a4039257", 
+    "text": "let me try my phone for audio", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552081054.003000"
+  }, 
+  {
+    "client_msg_id": "8d70be96-34ec-4798-a047-20afbac05811", 
+    "text": "Press the settings and make sure that its linked up correctly to your mic and headphones", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1552080970.002700"
+  }, 
+  {
+    "client_msg_id": "0bbd574d-2670-412d-9033-efe71289c5a3", 
+    "text": "you*", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1552080890.002100"
+  }, 
+  {
+    "client_msg_id": "6a7365cc-eaac-41ff-aa75-30a29b4d7cc1", 
+    "text": "we cant hear uou", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1552080887.001900"
+  }, 
+  {
+    "client_msg_id": "d09d1a88-3727-485a-9e9e-21cfa33f6470", 
+    "text": "can you hear me&gt;\n?", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552080864.001600"
+  }, 
+  {
+    "client_msg_id": "d2fd4050-fd97-411e-853a-c3ee16dc3f9a", 
+    "text": "working on my microphone", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552080832.001400"
+  }, 
+  {
+    "permalink": "https://makeschoolstudents.slack.com/call/RGUSXGQF8", 
+    "room": {
+      "has_ended": true, 
+      "name": "Hello!", 
+      "participants_camera_off": [], 
+      "participants_screenshare_off": [], 
+      "participant_history": [
+        "UCPQD5NHM", 
+        "UCC4RUF4M", 
+        "UCBC6K65P", 
+        "UCC4SJBL5", 
+        "UCB91TXS4", 
+        "UCC0HC7D0", 
+        "UCH838UC9", 
+        "UCDAKSB7Y"
+      ], 
+      "date_end": "1552085259", 
+      "date_start": "1552080747", 
+      "created_by": "UCPQD5NHM", 
+      "is_dm_call": false, 
+      "channels": [
+        "CFPSWQGG5"
+      ], 
+      "was_accepted": false, 
+      "participants": [], 
+      "participants_screenshare_on": [], 
+      "was_missed": false, 
+      "was_rejected": false, 
+      "id": "RGUSXGQF8", 
+      "participants_camera_on": []
+    }, 
+    "text": "Started a <https://makeschoolstudents.slack.com/call/RGUSXGQF8|call>.", 
+    "ts": "1552080747.000800", 
+    "subtype": "sh_room_created", 
+    "user": "UCPQD5NHM", 
+    "type": "message", 
+    "no_notifications": false, 
+    "channel": "CFPSWQGG5"
+  }, 
+  {
+    "client_msg_id": "3EAEE18C-87C5-4B24-827A-B7A0C11EFB6A", 
+    "text": "See you all in a moment !", 
+    "type": "message", 
+    "user": "UCPQD5NHM", 
+    "ts": "1552080572.000500"
+  }, 
+  {
+    "client_msg_id": "8c51fb16-0608-405e-bb66-880f8838c72f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC4RUF4M"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC4RUF4M"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCC4RUF4M"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/iG9CE55wbtY/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/TEDtalksDirector", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=iG9CE55wbtY", 
+        "video_html_width": 400, 
+        "author_name": "TED", 
+        "title_link": "https://www.youtube.com/watch?v=iG9CE55wbtY", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/iG9CE55wbtY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=iG9CE55wbtY", 
+        "title": "Do schools kill creativity? | Sir Ken Robinson", 
+        "fallback": "YouTube Video: Do schools kill creativity? | Sir Ken Robinson", 
+        "service_icon": "https://cfr.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "During Sir Ken Robinson\u2019s talk with TED talks, Sir Ken Robinson discusses his opinion on the education system and creativity. Sir Ken Robinson believes that all children are born as artists with creativity but they are educated out of that creativity. Children are not afraid to be wrong and if they don\u2019t know the answer to something, they will take a chance at it. By the time they become adults, they have lost that quality and they are now frightened of being wrong. <https://www.youtube.com/watch?v=iG9CE55wbtY>", 
+    "ts": "1551509738.009900", 
+    "user": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "permalink": "https://makeschoolstudents.slack.com/call/RGM7DS4TU", 
+    "room": {
+      "has_ended": true, 
+      "name": "Test", 
+      "participants_camera_off": [], 
+      "participants_screenshare_off": [], 
+      "participant_history": [
+        "UCC4SJBL5", 
+        "UCPQD5NHM", 
+        "UCDAKSB7Y", 
+        "UCC0HC7D0", 
+        "UCC4RUF4M"
+      ], 
+      "date_end": "1551483846", 
+      "date_start": "1551483694", 
+      "created_by": "UCC4SJBL5", 
+      "is_dm_call": false, 
+      "channels": [
+        "CFPSWQGG5"
+      ], 
+      "was_accepted": false, 
+      "participants": [], 
+      "participants_screenshare_on": [], 
+      "was_missed": false, 
+      "was_rejected": false, 
+      "id": "RGM7DS4TU", 
+      "participants_camera_on": []
+    }, 
+    "text": "Started a <https://makeschoolstudents.slack.com/call/RGM7DS4TU|call>.", 
+    "ts": "1551483735.008400", 
+    "subtype": "sh_room_shared", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "no_notifications": false, 
+    "channel": "CFPSWQGG5"
+  }, 
+  {
+    "permalink": "https://makeschoolstudents.slack.com/call/RGM7DS4TU", 
+    "room": {
+      "has_ended": true, 
+      "name": "Test", 
+      "participants_camera_off": [], 
+      "participants_screenshare_off": [], 
+      "participant_history": [
+        "UCC4SJBL5", 
+        "UCPQD5NHM", 
+        "UCDAKSB7Y", 
+        "UCC0HC7D0", 
+        "UCC4RUF4M"
+      ], 
+      "date_end": "1551483846", 
+      "date_start": "1551483694", 
+      "created_by": "UCC4SJBL5", 
+      "is_dm_call": false, 
+      "channels": [
+        "CFPSWQGG5"
+      ], 
+      "was_accepted": false, 
+      "participants": [], 
+      "participants_screenshare_on": [], 
+      "was_missed": false, 
+      "was_rejected": false, 
+      "id": "RGM7DS4TU", 
+      "participants_camera_on": []
+    }, 
+    "text": "Started a <https://makeschoolstudents.slack.com/call/RGM7DS4TU|call>.", 
+    "ts": "1551483694.008200", 
+    "subtype": "sh_room_created", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "no_notifications": false, 
+    "channel": "CFPSWQGG5"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGLHE15BK", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGLHE15BK/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1009103, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_800.jpg", 
+        "timestamp": 1551476602, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGLHE15BK/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_1024.jpg", 
+        "user": "UCH838UC9", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGLHE15BK-51f475f291", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCH838UC9/FGLHE15BK/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551476602, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGLHE15BK-30ad07b8be/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "A9E17F33-46CA-4525-AAAF-A29A6D377540", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551476608.007500", 
+    "display_as_bot": false, 
+    "user": "UCH838UC9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bbee4ee7-9b44-43cc-ab7a-30c8b262bd88", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950961/", 
+        "service_name": "PubMed Central (PMC)", 
+        "title": "Social and Emotional Aging", 
+        "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950961/", 
+        "text": "The past several decades have witnessed unidimensional decline models of aging give way to life-span developmental models that consider how specific processes and strategies facilitate adaptive aging. In part, this shift was provoked by the stark contrast ...", 
+        "from_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950961/", 
+        "fallback": "PubMed Central (PMC): Social and Emotional Aging", 
+        "service_icon": "http://www.ncbi.nlm.nih.gov/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "In this paper  by Susan Charles and Laura L. Carstensen, they take the process of aging not a a general decline in facilities, but as a  part of emotional development and growth. Though they tend to take the approach of studying the mental and emotional well-being of the elderly, the way that this paper peeks through the looking glass at these people's experiences, losses, gains, and life stories really explores what it means to mature, journey, and metamorph through life on a large scale. Though due to our general young age we may not identify with everything that is presented here, I did take away some aspects of looking back on life to grow stronger for the future\n<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950961/>", 
+    "ts": "1551475358.007300", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "EE738E88-70E9-48DF-B99E-278B56E87D33", 
+    "thread_ts": "1550867545.001000", 
+    "text": "Yes! I watched it in full last week and watched it again this week. :+1:", 
+    "ts": "1551472555.002100", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b008819a-6ac1-4024-bd97-ce30f7793c2d", 
+    "thread_ts": "1550867545.001000", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/_LL0k6_pPKw/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/thenewschoolnyc", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=_LL0k6_pPKw", 
+        "video_html_width": 400, 
+        "author_name": "The New School", 
+        "title_link": "https://www.youtube.com/watch?v=_LL0k6_pPKw", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/_LL0k6_pPKw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=_LL0k6_pPKw", 
+        "title": "A Public Dialogue Between bell hooks and Cornel West", 
+        "fallback": "YouTube Video: A Public Dialogue Between bell hooks and Cornel West", 
+        "service_icon": "https://cfr.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=_LL0k6_pPKw>", 
+    "ts": "1551469537.000100", 
+    "user": "UCPQD5NHM", 
+    "parent_user_id": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4ff41d2e-edd1-4501-b319-c3dceed5ecbe", 
+    "edited": {
+      "user": "UCC0HC7D0", 
+      "ts": "1551422490.000000"
+    }, 
+    "thread_ts": "1551332397.001900", 
+    "text": "Thank you Matthew! :+1:", 
+    "ts": "1551422479.001300", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a2ffa10b-1d63-494a-9deb-75eb14101580", 
+    "thread_ts": "1551332397.001900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "text": "3-5 page essay. Double-spaced with one-inch margins and size 12 font", 
+    "ts": "1551419131.001100", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ed0c7397-7de1-4ef5-b510-48294773b4d8", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "man-surfing::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sunny", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCBC6K65P"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBC6K65P"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chompy", 
+        "users": [
+          "UCBC6K65P"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "service_icon": "https://www.laweekly.com/favicon.ico", 
+        "image_bytes": 78074, 
+        "original_url": "https://www.laweekly.com/arts/the-secret-history-of-the-endless-summer-the-most-influential-surf-movie-ever-6622692", 
+        "service_name": "L.A. Weekly", 
+        "title": "The Secret History of The Endless Summer, the Most Influential Surf Movie Ever", 
+        "ts": 1456154820, 
+        "image_width": 327, 
+        "image_height": 250, 
+        "image_url": "https://images1.laweekly.com/imager/u/original/6622795/feature_open.gif", 
+        "text": "The morning of the perfect wave, Mike Hynson says he woke up early on an isolated cape in South Africa and smoked a bowl of marijuana out of a wooden pipe. Hynson and his companions had rolled up to a small village in the middle of the night, five guys...", 
+        "from_url": "https://www.laweekly.com/arts/the-secret-history-of-the-endless-summer-the-most-influential-surf-movie-ever-6622692", 
+        "fallback": "L.A. Weekly: The Secret History of The Endless Summer, the Most Influential Surf Movie Ever", 
+        "title_link": "https://www.laweekly.com/arts/the-secret-history-of-the-endless-summer-the-most-influential-surf-movie-ever-6622692", 
+        "id": 1
+      }, 
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/yZsuQXKkPdw/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/NewVideoDigital", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=yZsuQXKkPdw", 
+        "video_html_width": 400, 
+        "author_name": "Cinedigm", 
+        "title_link": "https://www.youtube.com/watch?v=yZsuQXKkPdw", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/yZsuQXKkPdw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=yZsuQXKkPdw", 
+        "title": "The Endless Summer - Trailer", 
+        "fallback": "YouTube Video: The Endless Summer - Trailer", 
+        "service_icon": "https://cfr.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 2
+      }
+    ], 
+    "text": "In the article The Secret History of The Endless Summer, the Most Influential Surf Movie Ever, by Keith Plocek for the La Weekly Times, he talks about the huge impact this legendary movie had on the surfing world. The movie was originally planned to just be your average surf trip documentary but it turned into so much more hitting theaters throughout the U.S. This introduced surfing to many people helping to strengthen the sport of surfing as we know it to be today. This movie has inspired many young surfers to go out and explore the world and search for the \u201cperfect wave\u201d.\n\nArticle: <https://www.laweekly.com/arts/the-secret-history-of-the-endless-summer-the-most-influential-surf-movie-ever-6622692>\nYoutube Video of movie: <https://www.youtube.com/watch?v=yZsuQXKkPdw>", 
+    "ts": "1551419048.000900", 
+    "user": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7477969d-1b53-4573-b38c-4838470e7c73", 
+    "thread_ts": "1551332397.001900", 
+    "text": "Thank you <@UCPQD5NHM>! What is due tomorrow? I'm thinking a 1 Page Reflection like usual, but I wanted to make sure.", 
+    "ts": "1551390893.000100", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCPQD5NHM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "861BF05D-D64B-4D95-82A2-A2A39B72F6FC", 
+    "thread_ts": "1550903179.001500", 
+    "text": "<@UCC4RUF4M> ^^", 
+    "ts": "1551335354.002600", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "41e6b546-81af-457e-8cfe-e69e7c8d71ce", 
+    "thread_ts": "1551332397.001900", 
+    "latest_reply": "1551422479.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0", 
+      "UCBC6K65P"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCC4RUF4M", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "Dear Class, looking forward to seeing everyone on Friday.  It's a good week for us to catch up and see how I can support you all before we go into the spring break.  Let me know if there is anything I can do at anytime. Thank you!", 
+    "ts": "1551332397.001900", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCPQD5NHM", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1551390893.000100"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1551419131.001100"
+      }, 
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1551422479.001300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ad34f721-6c1d-452a-935b-8c10707e561c", 
+    "thread_ts": "1550903179.001500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCC4RUF4M"
+        ]
+      }
+    ], 
+    "text": "Jonathan, if you need further explanation, just let me know. Something on \"Blue Mind\" might be relevant for you...", 
+    "ts": "1551040657.000100", 
+    "user": "UCPQD5NHM", 
+    "parent_user_id": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "80eacb10-55cf-4ed5-b1d2-9d881f01234e", 
+    "thread_ts": "1550903179.001500", 
+    "text": "Find a youtube video that relates to what you want to write about for your final paper, and write a paragraph about it.", 
+    "ts": "1550909248.001600", 
+    "user": "UCH838UC9", 
+    "parent_user_id": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5d1d6a0a-d81c-485b-b505-610ef4f27afd", 
+    "thread_ts": "1550903179.001500", 
+    "latest_reply": "1551335354.002600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCH838UC9", 
+      "UCPQD5NHM", 
+      "UCC0HC7D0"
+    ], 
+    "text": "Im really confused on the assignment because I wasn't there last Friday. Could someone enlighten me?", 
+    "ts": "1550903179.001500", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC4RUF4M", 
+    "replies": [
+      {
+        "user": "UCH838UC9", 
+        "ts": "1550909248.001600"
+      }, 
+      {
+        "user": "UCPQD5NHM", 
+        "ts": "1551040657.000100"
+      }, 
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1551335354.002600"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "2ad3267f-7ba0-4f76-af78-7f5e88ef5141", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/OMbsGBlpP30/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/TEDxTalks", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=OMbsGBlpP30", 
+        "video_html_width": 400, 
+        "author_name": "TEDx Talks", 
+        "title_link": "https://www.youtube.com/watch?v=OMbsGBlpP30", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/OMbsGBlpP30?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=OMbsGBlpP30", 
+        "title": "The Power of Habit: Charles Duhigg at TEDxTeachersCollege", 
+        "fallback": "YouTube Video: The Power of Habit: Charles Duhigg at TEDxTeachersCollege", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "In this Ted Talk Charles Duhigg speaks about the importance of willpower in becoming a successful person. He tell a classic story about an experiment on willpower with children and marshmallows. Each child is placed in a room with a marshmallow on their plate and they\u2019re told that they can either eat the marshmallow or wait 10 minutes to get a second marshmallow. The children that did pass did their homework, were more popular in school, and were more likely to be successful. This experiment opened up a whole new field on the study of willpower and how it can create success for someone.\n\n\nlink: <https://www.youtube.com/watch?v=OMbsGBlpP30>", 
+    "ts": "1550902442.000600", 
+    "user": "UCH838UC9", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b1141ae-a37c-4a24-858a-bb6890e0d909", 
+    "thread_ts": "1550867545.001000", 
+    "latest_reply": "1551472555.002100", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/g2bmnwehlpA/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/Newseum", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/g2bmnwehlpA", 
+        "video_html_width": 400, 
+        "author_name": "Newseum", 
+        "title_link": "https://youtu.be/g2bmnwehlpA", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/g2bmnwehlpA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/g2bmnwehlpA", 
+        "title": "Speaking Freely: Bell Hooks", 
+        "fallback": "YouTube Video: Speaking Freely: Bell Hooks", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCPQD5NHM"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCPQD5NHM", 
+      "UCC0HC7D0"
+    ], 
+    "replies": [
+      {
+        "user": "UCPQD5NHM", 
+        "ts": "1551469537.000100"
+      }, 
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1551472555.002100"
+      }
+    ], 
+    "ts": "1550867545.001000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0HC7D0", 
+    "text": "1) Speaking Freely: Bell Hooks <https://youtu.be/g2bmnwehlpA>\n2) 1 Paragraph from Reflection:\nWrite conscious, my mind conscious, the mind thinking, thinking can stop flow. Prosper -  its okay, keep going, you want to no longer be tormented by your past in the future of your life, you want to be conscious of the present, in unwavering waters. So conscious of a mistake and how everyone may have looked at me in that moment. Why did I then so early in my life care so much about my mistakes and what people may have thought. I think it is what I learned very early on about self. Through tv, I saw people look for attention and get it. I saw people look for others to see them as they\u2019re doing things.", 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "F1412FA1-E333-4D8E-862E-4FCABCBD2DAE", 
+    "edited": {
+      "user": "UCC0HC7D0", 
+      "ts": "1550290592.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCBC6K65P"
+        ]
+      }
+    ], 
+    "text": "Homework *Due Friday 22st*:\n1)  Post *Youtube Video* or other media related to the subject of your Paper with *1 Paragraph* from your Reflection to this <!channel>\n2) Direct message Matt 1 Page Reflection via slack or email", 
+    "ts": "1550274176.004100", 
+    "user": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ef3e28dc-42dd-4989-8b29-9009c6e05ccc", 
+    "text": "Here's a paper on it.", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1549669100.001400"
+  }, 
+  {
+    "client_msg_id": "913e13e0-1d87-49c1-8666-96d716cb8fb4", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179616/", 
+        "service_name": "PubMed Central (PMC)", 
+        "title": "Cardiac coherence, self-regulation, autonomic stability, and psychosocial well-being", 
+        "title_link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179616/", 
+        "text": "The ability to alter one\u2019s emotional responses is central to overall well-being and to effectively meeting the demands of life. One of the chief symptoms of events such as trauma, that overwhelm our capacities to successfully handle and adapt ...", 
+        "from_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179616/", 
+        "fallback": "PubMed Central (PMC): Cardiac coherence, self-regulation, autonomic stability, and psychosocial well-being", 
+        "service_icon": "http://www.ncbi.nlm.nih.gov/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4179616/>", 
+    "ts": "1549669061.000200", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1549584591.000200", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1548454070.002700", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBC6K65P> has joined the channel", 
+    "ts": "1548454070.002500", 
+    "subtype": "channel_join", 
+    "user": "UCBC6K65P", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1548454070.002300", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> has joined the channel", 
+    "ts": "1548454070.002100", 
+    "subtype": "channel_join", 
+    "user": "UCC4RUF4M", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1548454070.001900", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1548454070.001700", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1548454070.001500", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1548454070.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1548454070.001100", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1548454069.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1548454069.000700", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCPQD5NHM> has joined the channel", 
+    "ts": "1548454069.000500", 
+    "subtype": "channel_join", 
+    "user": "UCPQD5NHM", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UC45RJQ7M> set the channel purpose: SL ENGL 1004 : Writing Class : Matt Davis", 
+    "ts": "1548454069.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC45RJQ7M", 
+    "type": "message", 
+    "purpose": "SL ENGL 1004 : Writing Class : Matt Davis"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548454069.000200", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }
+]

@@ -1,0 +1,861 @@
+[
+  {
+    "attachments": [
+      {
+        "title": "How to create a Line chart using ChartJS that infers column labels", 
+        "color": "F48024", 
+        "text": "Does anybody have ChartJS experience?\n\nI'm trying to create a Line chart from an array of objects that:\n- automatically infers column labels based on a Day/Week/Month toggle\n- figures out the height of the line based on how many objects in the array fit within the date range based on a date property within each object", 
+        "footer": "Asked by Nicolai Safai", 
+        "ts": 1556318170, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/34", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f34%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f34%23addcomment_34", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f34%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f34", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "How to create a Line chart using ChartJS that infers column labels", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1556318236.000100", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "How to leave server running with yarn?", 
+        "color": "F48024", 
+        "text": "What is the equivalent of nodemon server.js?", 
+        "footer": "Asked by Stephanie Cherubin", 
+        "ts": 1555548669, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/32", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f32%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f32%23addcomment_32", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f32%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f32", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "How to leave server running with yarn?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1555548729.000200", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "ReactJs Beginners question", 
+        "color": "F48024", 
+        "text": "I just started playing around with react js. But when I want to render \"Hello World\". Im having an error: Uncaught SyntaxError: Unexpected Identifier on line 1 of index.js:\n\n// index.js\nimport React from 'react' // line1\nimport ReactDOM from 'react-dom'\nReactDOM.render(&lt;h1&gt;Hello World&lt;/h1&gt;, document.getElementById(\"root\"));\nI tried to put comma after React but didnt work. Could you help out please?", 
+        "footer": "Asked by Makhmud S Islamov", 
+        "ts": 1555045826, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/30", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f30%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f30%23addcomment_30", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f30%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f30", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "ReactJs Beginners question", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1555045888.000100", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554828285.002700", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1554828284.002500", 
+    "text": "<@U1D40QFD4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1554828277.002200", 
+    "text": "<@UCBPUT6AX> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1554767489.001900", 
+    "text": "<@UCC4S13NZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1554767477.001600", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1554767474.001300", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1554767471.001000", 
+    "text": "<@UCBQLD4M8> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "I get an error when I try to implement the Stripe API key for the Pete's Pets tutorial?", 
+        "color": "F48024", 
+        "text": "The popup says: \"Stripe Checkout can't communicate with our payment processor because the API key is invalid. Please contact the website owner or <mailto:support@stripe.com|support@stripe.com>.\" I'm using a test API key.", 
+        "footer": "Asked by Stephanie Cherubin", 
+        "ts": 1554666070, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/28", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f28%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f28%23addcomment_28", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f28%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f28", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "I get an error when I try to implement the Stripe API key for the Pete's Pets tutorial?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1554666132.000800", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "UITextfield doesn't recognize text", 
+        "color": "F48024", 
+        "text": "I have multiple Text Fields for user to input their information when signing up. The first name and last name text fields are in a horizontal stack view. For some reason, only the email and the two password text fields work when referencing the inputted text.\n\nswift file of the bugs\nGithub repo of the project", 
+        "footer": "Asked by Jackson Ho", 
+        "ts": 1554615090, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/27", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f27%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f27%23addcomment_27", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f27%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f27", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "UITextfield doesn't recognize text", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1554615152.000700", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1554154715.000400", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1553752762.000200", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Creating an RSS Feed", 
+        "color": "F48024", 
+        "text": "I am trying to create an RSS feed for my project which will update users about the activity of any other user they follow on the site. I have been looking across the internet and haven't found any tutorial or anything that can really help me. Do any of you know of a way to do this? Or if you know of some better method to fulfill this purpose besides an RSS feed then I would appreciate that as well!", 
+        "footer": "Asked by Henry Bowe", 
+        "ts": 1553456884, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/25", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f25%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f25%23addcomment_25", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f25%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f25", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "Creating an RSS Feed", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553456944.003800", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "What is the best way to pick the colors for my project?", 
+        "color": "F48024", 
+        "text": "I'm always wondering what ways there are to pick good colors for a project so it looks good and unique. Any suggestions?", 
+        "footer": "Asked by Adam Braus", 
+        "ts": 1553283452, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/20", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f20%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f20%23addcomment_20", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f20%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f20", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "What is the best way to pick the colors for my project?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553283514.003700", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1553279761.003600", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": ":heavy_check_mark: Why is npm only partially installing a dependency from github branch?", 
+        "color": "F48024", 
+        "text": "The solution was looking at .npmignore and .gitignore\n\nI noticed this line in package.json \n\n\"build\": \"mkdir -p ./dist &amp;&amp; uglifyjs ./src/index.js &gt; ./dist/index.min.js -b beautify=false,preamble=\\\"'/*! Human readable numbers - v0.9 - 2018; Licensed MIT */'\\\"\",\nand so ran npm run build, removed 'dist' from the gitignore and committed it to my branch. Now I am getting the 'dist' folder with the built and minified code.\n\nIt works!", 
+        "footer": "Answered by Jasmine Humbert", 
+        "ts": 1553275520, 
+        "author_name": "Answer - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/16/19#19", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=AcceptedAnswer&url=%2fc%2fmake-school%2fquestions%2f16%2f19%23addcomment_19", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=AcceptedAnswer&url=%2fc%2fmake-school%2fquestions%2f16%2f19%2319", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": ":heavy_check_mark: Why is npm only partially installing a dependency from github branch?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553275581.003400", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "What are your favorite data structure resources?", 
+        "color": "F48024", 
+        "text": "So far, I have seen:\nData structures implemented in JavaScript on GitHub \nData structures implemented in Swift on GitHub\nData strucutres implemented in Python on GitHub\nThis extensive article on Big(O) notation on Medium\nThis beginner's guide to Big(O) notation by Rob Bell\n  Are you allowed to ask questions like this on Make School's Stack Overflow?\nYes, this answer explains what types of questions you can ask in this space.", 
+        "footer": "Asked by Ansel Bridgewater", 
+        "ts": 1553223017, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/18", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f18%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f18%23addcomment_18", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f18%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f18", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "What are your favorite data structure resources?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553223082.003300", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "title": "Why is npm only partially installing a dependency from github branch?", 
+        "color": "F48024", 
+        "text": "I tried adding #jas-dev to the end of the package that you were trying to install which resulted in the command:\n\nnpm i install --save human-readable-numbers@lacunahag/human-readable-numbers#jas-dev\nWhich gave me this result:\n\nIs this the result that you were looking for?", 
+        "footer": "Answered by Vincenzo Marcella", 
+        "ts": 1553217785, 
+        "author_name": "Answer - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/16/17#17", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Answer&url=%2fc%2fmake-school%2fquestions%2f16%2f17%23addcomment_17", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Answer&url=%2fc%2fmake-school%2fquestions%2f16%2f17%2317", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "Why is npm only partially installing a dependency from github branch?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553217847.003000", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1553216106.002900", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Why is npm only partially installing a dependency from github branch?", 
+        "color": "F48024", 
+        "text": "I want to install this node module from my own feature branch here: <https://github.com/lacunahag/human-readable-numbers/tree/jas-dev>\n\nI tried this:\n\nnpm i install --save human-readable-numbers@lacunahag/human-readable-numbers\nThis succeeds but doesn't install the whole thing. Only the LICENSE, package.json and README while the src and all the code that actually does stuff is missing. \n\nRunning ls -a inside node_modules/human-readable-numbers gives me:\n\n.  ..  LICENSE  package.json  README.md", 
+        "footer": "Asked by Jasmine Humbert", 
+        "ts": 1553215624, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/16", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f16%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f16%23addcomment_16", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f16%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f16", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "Why is npm only partially installing a dependency from github branch?", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553215684.002700", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1553213807.002600", 
+    "text": "<@UCC4RHFU5> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1553209126.002400", 
+    "text": "<@UCBS37LKV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1553204973.002200", 
+    "text": "<@U6ZCE0AKG> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1553202099.002000", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD4Y1DCN", 
+    "ts": "1553200688.001800", 
+    "text": "<@UCD4Y1DCN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAE5GSJ", 
+    "ts": "1553200566.001600", 
+    "text": "<@UCDAE5GSJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1553200163.001400", 
+    "text": "<@UCB8YJNBT> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1553199074.001200", 
+    "text": "<@UCBC9725P> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1553198738.001000", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1553198522.000800", 
+    "text": "<@UCDPM021J> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1553197637.000600", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1553197232.000400", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1553187866.000200", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Force Flex-Direction on Nested Components", 
+        "color": "F48024", 
+        "text": "is this what you meant? if so, just wrap the top two blocks in another div", 
+        "footer": "Answered by Brian Nguyen", 
+        "ts": 1553126680, 
+        "author_name": "Answer - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/14/15#15", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Answer&url=%2fc%2fmake-school%2fquestions%2f14%2f15%23addcomment_15", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Answer&url=%2fc%2fmake-school%2fquestions%2f14%2f15%2315", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "Force Flex-Direction on Nested Components", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553126744.000100", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1553117099.000600", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Force Flex-Direction on Nested Components", 
+        "color": "F48024", 
+        "text": "Is it possible to force space-around two separate components, but three div tags? In the picture below \"space-around\" imagine the top to blocks being a single component and the bottom block being another component. I was wondering if you could force a way around this rather than styling a completely new component (one for one block and another for two).\n\n-- testing make school private team", 
+        "footer": "Asked by Tim Kaing", 
+        "ts": 1553116585, 
+        "author_name": "Question - Make School", 
+        "title_link": "https://stackoverflow.com/c/make-school/questions/14", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fc%2fmake-school%2fquestions%2f14%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fc%2fmake-school%2fquestions%2f14%23addcomment_14", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fc%2fmake-school%2fquestions%2f14%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=View&context=Question&url=%2fc%2fmake-school%2fquestions%2f14", 
+            "text": "View", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "Force Flex-Direction on Nested Components", 
+        "id": 1
+      }
+    ], 
+    "text": "New activity in Make School", 
+    "ts": "1553116653.000400", 
+    "user": "UH56XJV0A", 
+    "type": "message", 
+    "bot_id": "BH56XJUSE"
+  }, 
+  {
+    "text": "<@UCD53TKCN> set the channel purpose: Feeding stack overflow questions and answers into a slack channel for all to see.", 
+    "ts": "1553115891.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "purpose": "Feeding stack overflow questions and answers into a slack channel for all to see."
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1553115891.000200", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }
+]

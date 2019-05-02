@@ -1,0 +1,282 @@
+[
+  {
+    "client_msg_id": "D53AB9BD-2D8D-455A-AB62-9FC1054710AD", 
+    "thread_ts": "1556050362.000500", 
+    "text": "Yeah, fixing it! Thank you! ", 
+    "ts": "1556050565.000800", 
+    "user": "U9PA0BZQW", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b84d51f2-0ece-45ea-b8f5-43043e16f6ca", 
+    "thread_ts": "1556050362.000500", 
+    "latest_reply": "1556050565.000800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U9PA0BZQW"
+    ], 
+    "text": "The Monte Carlo Night banner says March instead of May", 
+    "ts": "1556050362.000500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBHEGLKB", 
+    "replies": [
+      {
+        "user": "U9PA0BZQW", 
+        "ts": "1556050565.000800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1554238249.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307374.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1551813884.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547599962.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650553.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "26563760-b388-43c2-b287-07d8156513d2", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U2QTVG278", 
+          "U2481KKBM"
+        ]
+      }
+    ], 
+    "text": "<@U2481KKBM> <@U2QTVG278> ^", 
+    "ts": "1543884988.001300", 
+    "user": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f8d0e81e-00aa-497b-8a0b-a140393e9ea9", 
+    "text": "I found a Quora question about Make School. If someone knowledgeable wants to answer, here it is: <https://www.quora.com/unanswered/What-kind-of-student-is-Make-School-targeting-with-its-two-year-applied-computer-science-degree-program?__filter__=&amp;__nsrc__=2&amp;__snid3__=3550540178>", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1543873972.001000"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1543873918.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1543578118.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1543152115.000200", 
+    "text": "<@UCHK87XEJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1540925754.000200", 
+    "text": "<@UCC0FMXCJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1540842623.000200", 
+    "text": "<@U9PA0BZQW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1540604673.003900", 
+    "text": "<@U8MP28D9S> has joined the channel"
+  }, 
+  {
+    "text": "<@UD44P4YRE> has joined the channel", 
+    "ts": "1540596585.003700", 
+    "subtype": "channel_join", 
+    "user": "UD44P4YRE", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1540594706.003500", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1540594042.003300", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1540593724.003100", 
+    "text": "<@UCD9FM8GN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1540593569.002900", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1540593316.002700", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1540593315.002500", 
+    "text": "<@UCHK87XEJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9W8R4A2W", 
+    "ts": "1540593214.002300", 
+    "text": "<@U9W8R4A2W> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1540593059.002100", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1540592805.001900", 
+    "text": "<@UCDAKSB7Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1540592764.001700", 
+    "text": "<@UCDPM021J> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1540592721.001500", 
+    "text": "<@U6YHCA79U> has joined the channel"
+  }, 
+  {
+    "text": "<@U916G04LB> has joined the channel", 
+    "ts": "1540592292.001300", 
+    "subtype": "channel_join", 
+    "user": "U916G04LB", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@U2481KKBM> has joined the channel", 
+    "ts": "1540592292.001100", 
+    "subtype": "channel_join", 
+    "user": "U2481KKBM", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "client_msg_id": "10fbb2cc-7630-4c97-843a-6acb056ef522", 
+    "attachments": [
+      {
+        "fallback": "wikipedia: Letter to the editor", 
+        "image_bytes": 654821, 
+        "original_url": "https://en.wikipedia.org/wiki/Letter_to_the_editor", 
+        "title": "Letter to the editor", 
+        "text": "A letter to the editor (sometimes abbreviated LTTE or LTE) is a letter sent to a publication about issues of concern from its readers. Usually, letters are intended for publication. In many publications, letters to the editor may be sent either through conventional mail or electronic mail.\nLetters to the editor are most frequently associated with newspapers and newsmagazines. However, they are sometimes published in other periodicals (such as entertainment and technical magazines), and radio and television stations. In the latter instance, letters are sometimes read on the air (usually, on a news broadcast or on talk radio). In that presentation form, it can also be described as viewer mail or listener mail, depending on the medium.\nIn academic publishing, letters to the editor of an academic journal are usually open postpublication reviews of a paper, often critical of some aspect of the original paper. The authors of the original paper sometimes respond to these with a letter of their own. Controversial papers in mainstream journals often attract numerous letters to the editor. Good citation indexing services list the original papers together with all replies. Depending on the length of the letter and the journal's style, other types of headings may be used, such as peer commentary. There are some variations on this practice. Some journals request open commentaries as a matter of course, which are published together with the original paper, and any authors' reply, in a process called open peer commentary. The introduction of the \"epub ahead of print\" practice in many journals now allows unsolicited letters to the editor (and authors' reply) to appear in the same print issue of the journal, as long as they are sent in the interval between the electronic publication of the original paper and its appearance in print.", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 760, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.wikipedia.org/wiki/Letter_to_the_editor", 
+        "image_height": 1828, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Freeman%27s_Journal_28_January_1863_Letter_to_the_Editor_by_J._J._McCarthy_and_its_Response.png", 
+        "from_url": "https://en.wikipedia.org/wiki/Letter_to_the_editor", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://en.wikipedia.org/wiki/Letter_to_the_editor>", 
+    "pinned_info": {
+      "pinned_ts": 1540592218, 
+      "channel": "CDPHH6EE7", 
+      "pinned_by": "U2QTVG278"
+    }, 
+    "ts": "1540592203.000500", 
+    "pinned_to": [
+      "CDPHH6EE7"
+    ], 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U2QTVG278> set the channel purpose: Share your thoughts and feedback on Make School communications (emails, blog posts, etc) to help us catch mistakes, improve poorly worded phrases, and overall hold us to a high standard in how we represent the school and the students.", 
+    "ts": "1540592192.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U2QTVG278", 
+    "type": "message", 
+    "purpose": "Share your thoughts and feedback on Make School communications (emails, blog posts, etc) to help us catch mistakes, improve poorly worded phrases, and overall hold us to a high standard in how we represent the school and the students."
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1540592191.000200", 
+    "text": "<@U2QTVG278> has joined the channel"
+  }
+]

@@ -1,0 +1,2488 @@
+[
+  {
+    "client_msg_id": "323b7499-8c66-4724-9ead-44f144736d14", 
+    "thread_ts": "1556663760.023000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "docker", 
+        "users": [
+          "U6XDKSREZ"
+        ]
+      }
+    ], 
+    "text": ":drum_with_drumsticks::drums::drum_with_drumsticks::drums::drum_with_drumsticks::drums::star2::new::slack::ideograph_advantage::whale::wink:\n:docker::confetti_ball::docker::tada::docker::confetti_ball::docker::tada::docker::confetti_ball::docker:", 
+    "ts": "1556668220.024000", 
+    "subtype": "thread_broadcast", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "2de7bf02-a7e8-4fa8-a2d4-f328d48a09c0", 
+      "thread_ts": "1556663760.023000", 
+      "latest_reply": "1556668220.024000", 
+      "subscribed": false, 
+      "reply_users": [
+        "U1HBKMW8Y"
+      ], 
+      "text": "We have a Docker emoji! :docker::docker::docker:", 
+      "ts": "1556663760.023000", 
+      "type": "message", 
+      "reply_count": 1, 
+      "user": "UCBQJD3NW", 
+      "replies": [
+        {
+          "user": "U1HBKMW8Y", 
+          "ts": "1556668220.024000"
+        }
+      ], 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHZKQBZ4J", 
+        "thumb_480_h": 480, 
+        "original_h": 3018, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZKQBZ4J/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1074333, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_800.jpg", 
+        "timestamp": 1556667644, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZKQBZ4J/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_1024.jpg", 
+        "user": "UC36F4P2M", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZKQBZ4J-fca015cad0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FHZKQBZ4J/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556667644, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3018, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZKQBZ4J-91513f6105/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "B5642291-F5E4-47C0-8B56-FBA69A7D444B", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBQJD3NW", 
+          "UCCTF62ET", 
+          "UCCL1R3EZ", 
+          "U6YMU9QCF", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "docker", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBQJD3NW", 
+          "UCCTF62ET", 
+          "UCCL1R3EZ", 
+          "U6YMU9QCF", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "sunglasses", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBQJD3NW", 
+          "UCCTF62ET", 
+          "U6YMU9QCF", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "tada", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBQJD3NW", 
+          "UCCTF62ET", 
+          "U6YMU9QCF", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": ":make-school: represent!!", 
+    "upload": true, 
+    "ts": "1556667644.023100", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2de7bf02-a7e8-4fa8-a2d4-f328d48a09c0", 
+    "thread_ts": "1556663760.023000", 
+    "latest_reply": "1556668220.024000", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "text": "We have a Docker emoji! :docker::docker::docker:", 
+    "ts": "1556663760.023000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1556668220.024000"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "c78c750f-efbb-43c8-8c56-6577107c4920", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "ghost-gif", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "I'm at dockercon in spirit and won't make it to class :smile:", 
+    "ts": "1556663247.021800", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "754f94f4-ca2b-4152-a6c9-251ad54cf05a", 
+    "text": "I'm at dockercon so I won't make it to class :P", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1556662847.021300"
+  }, 
+  {
+    "client_msg_id": "b2ba7955-776e-455f-ace6-403a3b692503", 
+    "thread_ts": "1556654273.013800", 
+    "text": "me too!", 
+    "ts": "1556660035.020300", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "db9fd98d-54a6-4762-8e10-b4439eb3663d", 
+    "text": "For anyone who still wants/needs to sign up, use this link: <https://dockercon19.smarteventscloud.com/portal/newreg.ww>\nCode for a free pass: `makeschool`\n\nPlus:\n:walking: venue is ~10 min walk away from :make-school:!\n:coat: great swag!\n:docker: meet other devs and network!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556658844.019800"
+  }, 
+  {
+    "client_msg_id": "b0c8e05c-80dc-4759-a2c7-688975c4dda2", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBQJD3NW", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "whale", 
+        "users": [
+          "UCBQJD3NW", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "docker", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0FMXCJ", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "I'll be in class at 3:30 and will take a poll --- we may have an official field trip to DockerCon today! :smile:", 
+    "ts": "1556657956.016400", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "99c9c72d-3f40-4f70-a4ba-51bf75d4cb81", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "docker", 
+        "users": [
+          "UCC0FMXCJ", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "^What they said :whale::whale::tada:", 
+    "ts": "1556657917.015700", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a4053cc-ae6e-418b-8c48-2d8965e1ac63", 
+    "text": "^", 
+    "type": "message", 
+    "user": "UCBP4M9C4", 
+    "ts": "1556657880.014800"
+  }, 
+  {
+    "client_msg_id": "41063eb4-3fa4-44d6-8de4-48a275c5a82d", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "docker", 
+        "users": [
+          "UCC0FMXCJ"
+        ]
+      }
+    ], 
+    "text": "Same as above!!!! :whale:", 
+    "ts": "1556657855.014500", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "40723619-bfc5-4c07-893b-3ae4323a7d74", 
+    "thread_ts": "1556654273.013800", 
+    "text": "share the wealth !", 
+    "ts": "1556655884.014000", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1556654273.013800", 
+    "latest_reply": "1556660035.020300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "UCBKC02JY"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "whale", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCBP4M9C4", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "docker", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0FMXCJ"
+        ]
+      }
+    ], 
+    "text": "I\u2019m going to miss class today because I\u2019m at DockerCon learning amazing things!", 
+    "ts": "1556654273.013800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U703HM5PY", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1556655884.014000"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1556660035.020300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "aed19dd4-9aa9-4e00-b08f-ebddb1966af1", 
+    "thread_ts": "1556638236.012900", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCCL1R3EZ", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "I'm working on a short lightning talk assignment for those of you who attend so we can all learn from your experiences! :smile:\n\nFor those of you that will be in class today, we'll be exploring volumes and networks, then working on our projects! :docker:", 
+    "ts": "1556640081.013200", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00b320dd-b89a-4a2e-a47c-eb3d6ed37d28", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1556639828.000000"
+    }, 
+    "latest_reply": "1556640081.013200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "thread_ts": "1556638236.012900", 
+    "text": "<@UC36F4P2M> Hey Dani - going to dockercon today! :smile: For those of us who will be there - what is on the agenda for tdy? How can we make it up?", 
+    "ts": "1556638236.012900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCL1R3EZ", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1556640081.013200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "3c4d00e7-9b96-412f-8ae1-de434385d7a6", 
+    "edited": {
+      "user": "UCC0FMXCJ", 
+      "ts": "1556641835.000000"
+    }, 
+    "thread_ts": "1556592109.011200", 
+    "text": "Something to keep in mind is that if anything using auth uses query parameters you might get some plaintext passwords in your logs like Facebook", 
+    "ts": "1556598496.012100", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b1e167cc-59b4-49c6-b5b2-cc7404989720", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1556592935.000000"
+    }, 
+    "thread_ts": "1556592109.011200", 
+    "text": "You can just add a logging middleware to your node app (using ```console.log(`${req.method} ${req.url}`);```), and if you have the container logs open, that container will log what methods and routes have been called.", 
+    "ts": "1556592917.011300", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "star", 
+        "users": [
+          "UCDAETD5L", 
+          "UC36F4P2M", 
+          "UCBDDHX7T", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBDDHX7T", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "d15cb7ea-0fc0-445e-96d2-8fe74d2add6d", 
+    "thread_ts": "1556592109.011200", 
+    "latest_reply": "1556598496.012100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCC0FMXCJ"
+    ], 
+    "text": "Using `docker-compose up` on a node app how can i view my routes logs in real time?", 
+    "ts": "1556592109.011200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556592917.011300"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556598496.012100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ea342aea-cdf4-49fd-9ad2-a321ab9c7a0e", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "question", 
+        "users": [
+          "U8NMLKGDU", 
+          "UC36F4P2M"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "sweat_smile", 
+        "users": [
+          "UC36F4P2M", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "My bad y'all", 
+    "ts": "1556580608.009900", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> set the channel topic: BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [<http://make.sc/trackbew2.2|make.sc/trackbew2.2> ]", 
+    "ts": "1556580590.009600", 
+    "topic": "BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [<http://make.sc/trackbew2.2|make.sc/trackbew2.2> ]", 
+    "subtype": "channel_topic", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> set the channel topic: BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [ <http://make.sc/trackbewhelloworld|make.sc/trackbewhelloworld>]", 
+    "ts": "1556580572.009500", 
+    "topic": "BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [ <http://make.sc/trackbewhelloworld|make.sc/trackbewhelloworld>]", 
+    "subtype": "channel_topic", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c7fbe670-20b6-4577-950f-f3730ca8c456", 
+    "thread_ts": "1556494556.007500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "key", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Hmm it's very dumb to store keys or tokens on docker hub anyways.. you should be storing those with some configuration management or local environment files. Or... Have your own private registry if necessary.", 
+    "ts": "1556551740.007900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c2d6ecd6-770d-42b7-b16c-f20f1e00f655", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1556494570.000000"
+    }, 
+    "latest_reply": "1556551740.007900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "thread_ts": "1556494556.007500", 
+    "text": "<https://motherboard.vice.com/en_us/article/7xgbzb/docker-hub-breach-hackers-stole-private-keys-tokens> Uh oh...", 
+    "ts": "1556494556.007500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCD53TKCN", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1556551740.007900"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "man-facepalming", 
+        "users": [
+          "U8NMLKGDU", 
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "unlock", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "whale", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "f696eeb6-bdc2-40fc-8f60-66c063c158e9", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1556303342.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBKC02JY", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> *_PLEASE MAKE SURE TO ADD THE REPO YOU INTEND TO DOCKERIZE AND CHECK YOUR STATUS IN THE CLASS!_*\n\nI have to *report midterm grades by 2pm today*! If you are marked \"Catch Up\" in the tracker (Column R), you will be marked At Risk in the midterm report that all instructors and faculty see.\n\nYou are *on track in my class* if:\n\u2022 &gt;=5 KataCoda tutorials done\n\u2022 1st part complete, docker from the ground up tutorial\n\u2022 repo added for the dockerize project\n\u2022 the tracker says On Track in Column R.\n\nThank you!", 
+    "ts": "1556303295.006900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85a6519c-d27f-410a-947c-82aadb3bc24c", 
+    "text": "<https://docs.sentry.io/clients/java/config/#setting-the-dsn>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556236920.001700"
+  }, 
+  {
+    "client_msg_id": "84857ad5-76db-4cbe-a6b3-a12468ea37d7", 
+    "thread_ts": "1556149698.000800", 
+    "text": ":sunglasses:", 
+    "ts": "1556149763.001400", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2b2d130e-e866-4687-8a9f-fe15d066a8b8", 
+    "thread_ts": "1556149698.000800", 
+    "text": "loops like a seat arrangement for a concert", 
+    "ts": "1556149754.001200", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 541, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHZG39UJV", 
+        "thumb_480_h": 325, 
+        "original_h": 656, 
+        "thumb_360_w": 360, 
+        "title": "docker.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZG39UJV/docker.png", 
+        "thumb_720_h": 487, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_80.png", 
+        "thumb_360_h": 243, 
+        "size": 149334, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_800.png", 
+        "timestamp": 1556149695, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZG39UJV/download/docker.png", 
+        "user": "UCBS4EW59", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZG39UJV-cf1fd03607", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS4EW59/FHZG39UJV/docker.png", 
+        "name": "docker.png", 
+        "created": 1556149695, 
+        "thumb_960_h": 649, 
+        "original_w": 970, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZG39UJV-d65a27b865/docker_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCBS4EW59", 
+      "ts": "1556149739.000000"
+    }, 
+    "latest_reply": "1556149763.001400", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "thread_ts": "1556149698.000800", 
+    "text": "Cool little tool called 'baobab' that's pretty useful for docker, pointed out by Jasmine Humbert in the <#CCZUAKPC3|the-linux-rebellion> channel.", 
+    "upload": true, 
+    "ts": "1556149698.000800", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBS4EW59", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1556149754.001200"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1556149763.001400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "af192d06-85b3-4f21-8132-c15d59428ddd", 
+    "thread_ts": "1556064486.014100", 
+    "text": "Maybe the `sed` only worked for me because of linux :thinking_face: lol. This is a great alternative!", 
+    "ts": "1556081385.014500", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1108ad1d-fda7-475a-a338-da07d3107074", 
+    "thread_ts": "1556064486.014100", 
+    "latest_reply": "1556081385.014500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "UCBKC02JY", 
+          "UC36F4P2M", 
+          "UCBS4EW59", 
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "`echo -e \"\\nSENTRY_SECRET_KEY=$(docker-compose run --rm sentry-base sentry config generate-secret-key)\" &gt;&gt; sentry.env`", 
+    "ts": "1556064486.014100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0FMXCJ", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1556081385.014500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "40994242-52bc-44fb-85b0-15a024c98133", 
+    "text": "<https://success.docker.com/certification>", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1556062177.013900"
+  }, 
+  {
+    "client_msg_id": "0f9363bf-f261-43fe-a28c-63b002e60cba", 
+    "text": "<https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/#/Lessons/Lesson7>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556058997.013700"
+  }, 
+  {
+    "client_msg_id": "4633bdc9-6f93-42bb-b3f7-ba52adf08c67", 
+    "attachments": [
+      {
+        "image_bytes": 23404, 
+        "original_url": "https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "3 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Top 10 Docker CLI commands you can\u2019t live without", 
+        "ts": 1518369202, 
+        "title_link": "https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*126sHZF_Xo8TVuk6ybWnlA.png", 
+        "image_width": 323, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481", 
+        "fallback": "Medium: Top 10 Docker CLI commands you can\u2019t live without", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*gSTCgz0SwFKTEfbBeSeEWw.png", 
+        "text": "Docker is a great tool for building microservices, allowing you to create cloud-based applications and systems. To make the most of it via\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/the-code-review/top-10-docker-commands-you-cant-live-without-54fb6377f481>", 
+    "ts": "1555801922.013400", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8b01fab7-346e-4181-9c27-e7b498f846fb", 
+    "edited": {
+      "user": "U8NMLKGDU", 
+      "ts": "1555646107.000000"
+    }, 
+    "text": "Good resource for deploying to digital ocean that <@UCBDDHX7T> showed me `<https://get.docker.com/>` to get the sh...", 
+    "ts": "1555646076.013000", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d87a88b4-155f-4eeb-8a91-31886de1d49b", 
+    "text": "*TODAY*: <https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/#/Lessons/Lesson6>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1555622886.012500"
+  }, 
+  {
+    "client_msg_id": "10516043-E755-4B10-B0A4-E58F9C9AD28E", 
+    "thread_ts": "1555532966.010500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "this resource ftw!", 
+    "ts": "1555543362.011500", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f18f4593-0d37-4a9e-8517-157e4f80a23e", 
+    "text": "^ Nice Share!", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1555540572.010700"
+  }, 
+  {
+    "client_msg_id": "8c857652-51b9-442e-9952-083db5d82a74", 
+    "thread_ts": "1555532966.010500", 
+    "latest_reply": "1555543362.011500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBKC02JY", 
+          "U8NMLKGDU", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UC36F4P2M", 
+          "U8NMLKGDU", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "<https://www.ibm.com/downloads/cas/P9NYOK3B>", 
+    "pinned_info": {
+      "pinned_ts": 1555543321, 
+      "channel": "CGRB7DDK5", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1555532966.010500", 
+    "pinned_to": [
+      "CGRB7DDK5"
+    ], 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U8NMLKGDU", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1555543362.011500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "47f4eb9f-bd25-48b7-b970-def57048e45e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 128, 
+        "thumb_url": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "thumb_width": 129, 
+        "original_url": "https://docs.docker.com/compose/completion/", 
+        "service_name": "Docker Documentation", 
+        "title": "Command-line completion", 
+        "ts": 1555361254, 
+        "title_link": "https://docs.docker.com/compose/completion/", 
+        "text": "Compose comes with command completion for the bash and zsh shell. Install command completion Bash Make sure bash completion is installed. Linux On a current Linux OS (in a non-minimal...", 
+        "from_url": "https://docs.docker.com/compose/completion/", 
+        "fallback": "Docker Documentation: Command-line completion", 
+        "service_icon": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "*protip*: configure command line completion with docker-compose so you always have the right command at your fingertips! <https://docs.docker.com/compose/completion/>", 
+    "ts": "1555474155.009700", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9265a838-fc95-4f41-a65c-5d9a800d0916", 
+    "thread_ts": "1555457734.008100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "come to thy aid", 
+    "ts": "1555459775.008500", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "de4509c5-5234-4a11-bccc-fc9d585fbd3d", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1555458107.000000"
+    }, 
+    "latest_reply": "1555459775.008500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "thread_ts": "1555457734.008100", 
+    "text": "if you're getting `app exit with code 2`\n\nadd this line to Docker file after EXPOSE 3000:\n```ENTRYPOINT npm start```\n\nand then run\n```docker-compose up --build```", 
+    "ts": "1555457734.008100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1555459775.008500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "cf1de9a3-3469-4031-a3c8-6dbd9df72899", 
+    "text": "<https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/#/Lessons/Lesson5>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1555454834.007500"
+  }, 
+  {
+    "client_msg_id": "d329285d-f960-4b2e-a1cc-881143ca9456", 
+    "thread_ts": "1555368760.006100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "whale", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "`docker container ls` lists running containers `docker container ls -a` lists all containers", 
+    "ts": "1555369534.006200", 
+    "user": "UCBDDHX7T", 
+    "parent_user_id": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4b54f88e-fe59-4718-adbf-5f2653193a9d", 
+    "thread_ts": "1555368760.006100", 
+    "latest_reply": "1555369534.006200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDDHX7T"
+    ], 
+    "text": "doesnt `docker container ls` also list all containers", 
+    "ts": "1555368760.006100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQLD4M8", 
+    "replies": [
+      {
+        "user": "UCBDDHX7T", 
+        "ts": "1555369534.006200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "22e49f18-5701-4742-9b68-07bdb9b681e6", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "whale", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCCL1R3EZ> `docker ls` is not a valid command, use `docker ps -a` to list all containers (running or not)", 
+    "ts": "1555368239.005400", 
+    "user": "UF83RJTHD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09baa0d6-0227-4b19-8970-025fe220cb85", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1555366596.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "And is my understanding correct that `docker ps` will list all running containers, whereas `docker ls` will list all containers (running or not)?", 
+    "ts": "1555366592.004400", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "40c869c7-48e3-4730-a41a-d2c0fae40ea1", 
+    "text": "Excellent, tyvm :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1555366519.003300"
+  }, 
+  {
+    "client_msg_id": "259b8c91-6df2-4c95-87cc-503233b10664", 
+    "text": "<@UCCL1R3EZ> ^", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1555366434.002600"
+  }, 
+  {
+    "client_msg_id": "2ed8d8a6-a709-4337-95be-ce78ed8a9c5c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "whale", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "*`docker run`*: creates (if required) and starts your new container\n*`docker create`*: only creates, but does not start, the container - you'll need to run `docker start` to start it!\n\n*`docker create and start` example:*\n\n```\n$ docker create -t -i fedora bash\n\n6d8af538ec541dd581ebc2a24153a28329acb5268abe5ef868c1f1a261221752\n\n$ docker start -a -i 6d8af538ec5\n\nbash-4.2#\n```", 
+    "ts": "1555366427.002400", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5a6f8fdc-6987-4f13-989f-c5297c7eeab6", 
+    "text": "Can someone explain the difference between `docker create` and `docker run` ?", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1555365535.000800"
+  }, 
+  {
+    "client_msg_id": "56948b90-5bf1-476b-99fd-25d0ae272e8f", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "original_url": "https://hub.docker.com/_/node", 
+        "text": "Node.js is a JavaScript-based platform for server-side and networking applications.", 
+        "title": "node - Docker Hub", 
+        "title_link": "https://hub.docker.com/_/node", 
+        "service_name": "hub.docker.com", 
+        "from_url": "https://hub.docker.com/_/node", 
+        "fallback": "node - Docker Hub", 
+        "service_icon": "https://hub.docker.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Also  -- for production usage it is a good habit to use specific images such as `FROM node:10.15.3-alpine`. You can find the tags on the image page on docker hub, for example node's docker images: <https://hub.docker.com/_/node>", 
+    "ts": "1555025984.065900", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5c75389d-e42e-48fb-b90f-607e180538ca", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "muscle", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB8WCDTJ", 
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "text": "Three helpful tips for the node docker tutorial:\n1. `FROM node:alpine` is the smallest image of the latest node version. Use this instead of `FROM node:8`\n2. `EXPOSE 8080` is not needed since you are publishing the port with the run command (EXPOSE only exposes the port within the daemon to other running containers and not the host)\n3. `docker run -p 3000:8080 --name node` don't forget to name your container (-t only tags it in case you want to push the image to docker hub)", 
+    "ts": "1555025480.064200", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5cc68ea9-61b7-4be1-99bc-1430df5777df", 
+    "thread_ts": "1554853655.055900", 
+    "text": "ahhh", 
+    "ts": "1555024341.060700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4b06d64-c5e9-4b1b-a1aa-87627b78d3f1", 
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY", 
+          "UCBQLD4M8", 
+          "UCBQJD3NW", 
+          "UCCRGTD0X", 
+          "UCC0FMXCJ", 
+          "UCCL1R3EZ", 
+          "UCCTF62ET", 
+          "UF83RJTHD", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 9, 
+        "name": "heart", 
+        "users": [
+          "UCBKC02JY", 
+          "UCBQLD4M8", 
+          "UCBQJD3NW", 
+          "UCCRGTD0X", 
+          "UCC0FMXCJ", 
+          "UCCL1R3EZ", 
+          "UCCTF62ET", 
+          "UF83RJTHD", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man-surfing", 
+        "users": [
+          "UCFCGA3C1"
+        ]
+      }
+    ], 
+    "text": "Big shoutout to <@UCBKC02JY> for hooking us up with these amazing tickets!! :smile:", 
+    "ts": "1555022442.058800", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f9b9e655-2010-47b6-91e6-bb456a6fe892", 
+    "text": "<!channel> Just a reminder I am having office hours in Great Hall from now until 3:30!", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1555018511.058300"
+  }, 
+  {
+    "client_msg_id": "1a32ca87-3120-4651-b1ab-0562ef4f193a", 
+    "thread_ts": "1554853655.055900", 
+    "text": "you have to press `ctrl-p` and then `ctrl-q`", 
+    "ts": "1554932677.057400", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "593fa10c-76c3-4d40-9afa-4349db74cdcf", 
+    "thread_ts": "1554853655.055900", 
+    "text": "Oh wait, i figured it out", 
+    "ts": "1554932641.057200", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b6ba0add-aae7-408f-b5ff-a825defb3444", 
+    "thread_ts": "1554853655.055900", 
+    "text": "`ctrl + q` works for me. Maybe it's different for mac? I'm pretty sure the docker docs are written with linux in mind.", 
+    "ts": "1554931955.057000", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1554925984.056800", 
+    "text": "<@U6XDKSREZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "344ec267-46f4-4c00-baec-c5d5141ef148", 
+    "thread_ts": "1554853425.054100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "So I usually just use `docker logs container_name` to view stdout and if I need to send a command to the instance then just use `docker exec container_name command`. If you need to bring up the shell for the container that's just `docker exec -it countainer_name /bin/bash`", 
+    "ts": "1554872769.056400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHDDQHVSP", 
+        "size": 9145, 
+        "original_h": 134, 
+        "thumb_360_w": 300, 
+        "title": "Pasted image at 2019-04-09, 4:47 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHDDQHVSP/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHDDQHVSP-94811914bb/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHDDQHVSP-94811914bb/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHDDQHVSP-94811914bb/image_80.png", 
+        "thumb_360_h": 134, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554853653, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHDDQHVSP-94811914bb/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHDDQHVSP/download/image.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHDDQHVSP-32654192c6", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FHDDQHVSP/image.png", 
+        "name": "image.png", 
+        "created": 1554853653, 
+        "original_w": 300, 
+        "mode": "hosted"
+      }
+    ], 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1554867966.000000"
+    }, 
+    "latest_reply": "1555024341.060700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS4EW59", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1554853655.055900", 
+    "text": "Page above says\n&gt;To stop a container, use CTRL-c, [which] sends SIGKILL to the container. [...]\n&gt; You can detach from a container and leave it running using the CTRL-p CTRL-q key sequence.\n\nUnfortunately, neither `CTRL-p` or `CTRL-q` are detaching for me. :disappointed:\n\nPerhaps this explains why this is such a poorly rated documentation page", 
+    "upload": true, 
+    "ts": "1554853655.055900", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1554931955.057000"
+      }, 
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1554932641.057200"
+      }, 
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1554932677.057400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1555024341.060700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "a3e00db2-9927-4b66-92ba-46e86655a7ed", 
+    "thread_ts": "1554853425.054100", 
+    "latest_reply": "1554872769.056400", 
+    "attachments": [
+      {
+        "thumb_height": 128, 
+        "thumb_url": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "thumb_width": 129, 
+        "original_url": "https://docs.docker.com/engine/reference/commandline/attach/", 
+        "service_name": "Docker Documentation", 
+        "title": "docker attach", 
+        "ts": 1554826790, 
+        "title_link": "https://docs.docker.com/engine/reference/commandline/attach/", 
+        "text": "Description Attach local standard input, output, and error streams to a running container Usage docker attach [OPTIONS] CONTAINER Options Name, shorthand Default Description --detach-keys Override the key sequence for detaching...", 
+        "from_url": "https://docs.docker.com/engine/reference/commandline/attach/", 
+        "fallback": "Docker Documentation: docker attach", 
+        "service_icon": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554872769.056400"
+      }
+    ], 
+    "ts": "1554853425.054100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "text": "<https://docs.docker.com/engine/reference/commandline/attach/>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@UCBQLD4M8> set the channel topic: BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [ <http://make.sc/trackbew2.2|make.sc/trackbew2.2> ]", 
+    "ts": "1554849398.053900", 
+    "topic": "BEW2.2: Docker, DevOps &amp; Containers [ <http://make.sc/bew2.2|make.sc/bew2.2> ] Tracker [ <http://make.sc/trackbew2.2|make.sc/trackbew2.2> ]", 
+    "subtype": "channel_topic", 
+    "user": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6124272d-316a-4b76-a6db-4d6580115983", 
+    "text": "<http://pollev.com/droxey|pollev.com/droxey>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554849131.053700"
+  }, 
+  {
+    "client_msg_id": "17a40a09-a5aa-44f1-b64d-61dea9f153f8", 
+    "thread_ts": "1554765809.050500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "Yea i just created a folder called /data in my home directory or ~ worked fine", 
+    "ts": "1554840922.053200", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7cd436e1-1759-4c4b-a426-084bc0776b5c", 
+    "thread_ts": "1554765809.050500", 
+    "text": "The katacoda tutorials said\n&gt;Any data which needs to be saved on the Docker Host, and not inside containers, should be stored in `//opt/docker/data/redis/`\n--&gt; is that the same as `~/opt/docker/data/redis/` ?\n\nSlash is this just a matter of taste? Sounds like it worked for you inside `~/data` ?\n\n```docker run -d \u2014name redisMapped -v /opt/docker/data/redis:/data redis```", 
+    "ts": "1554834673.053000", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6a2a416c-304d-4e80-a78a-4a301ff42545", 
+    "thread_ts": "1554765809.050500", 
+    "latest_reply": "1554840922.053200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "UCCTF62ET"
+    ], 
+    "text": "Just a heads up to those working on docker tutorial! I had to create the folder called /data in my root directory which is ~ :slightly_smiling_face:", 
+    "ts": "1554765809.050500", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCTF62ET", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1554834673.053000"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1554840922.053200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "9ff4e29a-e30d-400f-80b7-384463c5d7d5", 
+    "thread_ts": "1554580300.046800", 
+    "text": "<@UC36F4P2M> exactly it's great :rolling_on_the_floor_laughing:", 
+    "ts": "1554616645.049400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "990ED0E7-7623-4F7E-B2BC-8B97D8CB26B3", 
+    "thread_ts": "1554580300.046800", 
+    "text": "this is so ridiculous and impractical that the README contains not one, not two... but *three* distinct warnings before diving into usage :rolling_on_the_floor_laughing:", 
+    "ts": "1554598120.049200", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29254CD2-A58B-4D44-A452-B74E09C2B8E5", 
+    "thread_ts": "1554580300.046800", 
+    "text": "Hey :face_with_raised_eyebrow::angry:", 
+    "ts": "1554592360.047400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8770ba3a-3f09-4b8a-a807-fa74563ecde7", 
+    "thread_ts": "1554580300.046800", 
+    "latest_reply": "1554616645.049400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UC36F4P2M", 
+      "UCBQH1P6E"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "arrow_up", 
+        "users": [
+          "UCBQLD4M8", 
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "containers in containers: <https://github.com/jpetazzo/dind>", 
+    "ts": "1554580300.046800", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBQH1P6E", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554592360.047400"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1554598120.049200"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554616645.049400"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 83, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 139, 
+        "id": "FHFKEAVFT", 
+        "thumb_480_h": 480, 
+        "original_h": 2048, 
+        "thumb_360_w": 62, 
+        "title": "PTDGifx.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHFKEAVFT/ptdgifx.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_64.jpg", 
+        "thumb_720_w": 125, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 105680, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_800.jpg", 
+        "timestamp": 1554528484, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHFKEAVFT/download/ptdgifx.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_1024.jpg", 
+        "user": "UCBQLD4M8", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHFKEAVFT-ac986ac316", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQLD4M8/FHFKEAVFT/ptdgifx.jpg", 
+        "name": "PTDGifx.jpg", 
+        "created": 1554528484, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 355, 
+        "thumb_960_w": 166, 
+        "thumb_1024_w": 178, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFKEAVFT-27206b12e7/ptdgifx_720.jpg"
+      }
+    ], 
+    "client_msg_id": "caa0021c-9681-4a6f-aa1a-c24b63a3a9e5", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "spider_web", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554528485.046100", 
+    "display_as_bot": false, 
+    "user": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1aea2550-0902-4d06-b45a-dcc62112dc82", 
+    "text": "cool little resource :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCBDDHX7T", 
+    "ts": "1554516840.046000"
+  }, 
+  {
+    "client_msg_id": "d34c9ad1-e17a-4ebd-86d8-dabd73cad858", 
+    "attachments": [
+      {
+        "thumb_height": 971, 
+        "thumb_url": "https://landscape.cncf.io/favicon.png", 
+        "thumb_width": 972, 
+        "original_url": "https://landscape.cncf.io/", 
+        "text": "Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets. Updated: 2019-04-05 17:10:14Z", 
+        "title": "CNCF Cloud Native Interactive Landscape", 
+        "title_link": "https://landscape.cncf.io/", 
+        "service_name": "CNCF Interactive Landscape", 
+        "from_url": "https://landscape.cncf.io/", 
+        "fallback": "CNCF Cloud Native Interactive Landscape", 
+        "service_icon": "https://landscape.cncf.io/assets/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://landscape.cncf.io/>", 
+    "ts": "1554516822.045600", 
+    "user": "UCBDDHX7T", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5271070a-a445-4c84-862c-023eda7988b3", 
+    "text": "Apologies didn't realize there is an event going on in great hall from 12:30-1:30. Please message me personally if you were wanting to see me during office hours. I will have hours next week as well.", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554492246.044300"
+  }, 
+  {
+    "client_msg_id": "b41da2f3-294a-4e43-a9f0-3bc11703725e", 
+    "edited": {
+      "user": "UCBS8JUHH", 
+      "ts": "1554424527.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/pGYAg7TMmp0/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/learncodeacademy", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=pGYAg7TMmp0", 
+        "video_html_width": 400, 
+        "author_name": "LearnCode.academy", 
+        "title_link": "https://www.youtube.com/watch?v=pGYAg7TMmp0", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pGYAg7TMmp0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=pGYAg7TMmp0", 
+        "title": "Docker Tutorial - What is Docker &amp; Docker Containers, Images, etc?", 
+        "fallback": "YouTube Video: Docker Tutorial - What is Docker & Docker Containers, Images, etc?", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCBS4EW59", 
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "This tutorial helped to understand docker and differentiate it from Vagrant. It has multiple parts but they are short and sweet: <https://www.youtube.com/watch?v=pGYAg7TMmp0>", 
+    "ts": "1554424516.041800", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e9030df3-ffb6-4d00-b847-fbc575299d51", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "whale", 
+        "users": [
+          "UCCRGTD0X", 
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> I will be having office hours tomorrow from 12:30-1:30pm. If anyone needs help or has questions, come see me in the Great Hall!!", 
+    "ts": "1554424365.040400", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7328367-0f2d-4ed9-8cf7-e38ba4ebfa56", 
+    "text": "FOR CLARITY `--rm` = automatically remove a container when it exits", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554423700.037600"
+  }, 
+  {
+    "client_msg_id": "f10f6f2f-8850-4e8e-a890-d2a89114eb78", 
+    "text": "Container volumes", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1554423012.036100"
+  }, 
+  {
+    "client_msg_id": "3a7bc4e0-b90e-4144-8ddd-6f03378189fb", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1554419603.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "tim", 
+        "users": [
+          "UCBDDHX7T", 
+          "U6XDGCKFF", 
+          "UCCRGTD0X", 
+          "UF83RJTHD", 
+          "U6Z4KNWCD"
+        ]
+      }
+    ], 
+    "text": "*Want to Learn*\n\u2022 Kubernetes\n\u2022 Terraform\n\u2022 Jenkins\n\u2022 linkerd/Kong\n\u2022 Ansible", 
+    "ts": "1554419587.033800", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "36b66d77-9c5d-4ee6-a0e5-3e0549a6a2b7", 
+    "text": "```OSI Model\n- Method of thinking about networking in layers\n- Layers communicate with those above and below themselves\nConfiguration Management\n- A way of creating consistency by making sure it is current\nInfrastructure Provisioning\n- Getting all of the necessary requirements to run the product\nLogs Management\n- How large volumes of logs are stored, generated, archived, and disposed\nApplication Monitoring\n- Understanding problems with the application after deployment```", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1554419505.033600"
+  }, 
+  {
+    "client_msg_id": "0782f541-09d7-47cb-8d79-005deafa2b6e", 
+    "edited": {
+      "user": "UCBQLD4M8", 
+      "ts": "1554419382.000000"
+    }, 
+    "text": "```\nSOCKETS - one endpoint in a communication flow between two programs running over a network.\n\nREVERSE PROXY - a proxy server that relays connection requests for inbound network traffic.\n\nFORWARD PROXY - Insert Definition\n\nCACHING SERVER - a dedicated network server or service acting as a server that saves Web pages or other Internet content locally.\n\nSSL - a networking protocol to secure connections over insecure networks\n\nTLS - a protocol that defines a mechanism to encrypt and maintain data integrity for communications over a network.\n\nOSI MODEL(Open Systems Interconnection) - describes how different software and hardware should interact and divide labor over a network\n\nCONFIGURATION MANAGEMENT - Insert Definition\n\nCONTAINER ORCHESTRATION - Insert Definition\n\nBasically all listed bash tools\n```", 
+    "ts": "1554419356.033300", 
+    "user": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "510d6939-0671-4622-8d20-410f3843cd8c", 
+    "text": "1. :make-school: *Course Website* ( :mag_right: searchable!): <https://make.sc/bew2.2>\n2. :github: *Course Repo*: <https://make.sc/bew2.2-repo>\n3. :chart_with_upwards_trend: *Progress Tracker*: <https://make.sc/trackbew2.2>", 
+    "pinned_info": {
+      "pinned_ts": 1554418856, 
+      "channel": "CGRB7DDK5", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1554418850.029700", 
+    "pinned_to": [
+      "CGRB7DDK5"
+    ], 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "14d6dfc9-0ae9-4e05-a377-fd26109fa904", 
+    "text": "Container orchestration\nAnsible\nairodump\nairmon\nnmon", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1554418834.029200"
+  }, 
+  {
+    "client_msg_id": "e6f45622-3b4a-4f6e-8644-f00c55eeed08", 
+    "text": "```\n - process management\n - threads/ concurrency\n - compiling\n - gcc ?\n - process monitoring\n - nginx/ apache\n - IIS\n - tomcat\n - caddy\n - reverse and forward proxy\n - load balancer\n - infrastructure code\n - CD: Continuous D.?\n - container orchestration\n - infrastructure provisioning\n```", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554418833.029100"
+  }, 
+  {
+    "client_msg_id": "605491af-f3e0-4d7d-9360-017e88c2913e", 
+    "text": "Hypervisor\nReverse Proxy\nOSI model\nAnsible", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1554418823.028700"
+  }, 
+  {
+    "client_msg_id": "536fdce9-9eaf-4bf8-879b-5a3bc0751412", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "service_icon": "https://www.linuxbabe.com/wp-content/uploads/2018/06/cropped-linuxbabe-blog-logo-180x180.png", 
+        "image_bytes": 21131, 
+        "original_url": "https://www.linuxbabe.com/it-knowledge/differences-between-forward-proxy-and-reverse-proxy", 
+        "service_name": "LinuxBabe", 
+        "title": "Differences Between Forward Proxy and Reverse Proxy - LinuxBabe", 
+        "ts": 1451750033, 
+        "image_width": 606, 
+        "image_height": 250, 
+        "image_url": "https://www.linuxbabe.com/wp-content/uploads/2016/01/reverse-proxy-1.png", 
+        "text": "The main difference between the two is that forward proxy is used by the client such as a web browser whereas reverse proxy is used by the server such as a web server.", 
+        "from_url": "https://www.linuxbabe.com/it-knowledge/differences-between-forward-proxy-and-reverse-proxy", 
+        "fallback": "LinuxBabe: Differences Between Forward Proxy and Reverse Proxy - LinuxBabe", 
+        "title_link": "https://www.linuxbabe.com/it-knowledge/differences-between-forward-proxy-and-reverse-proxy", 
+        "id": 1
+      }
+    ], 
+    "text": "*Forward/Reverse Proxy* - <https://www.linuxbabe.com/it-knowledge/differences-between-forward-proxy-and-reverse-proxy>\n\nA *load balancer* is a device that distributes network or application traffic across a cluster of servers. Load balancing improves responsiveness and increases availability of applications.\n\n*Terraform* is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language (HCL), or optionally JSON.", 
+    "ts": "1554418822.028600", 
+    "user": "UCCSGECPJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8886cf2b-3268-46c8-b57b-63ddda16f4cf", 
+    "text": "Process Management  - Data Structure that describes the state and resource ownership of that process\n\nVirtualization - Virtual Device\n\nOSI model\n\nCI/CD tools - automate your version control?\n\nContainer Orchestration - container lifecycle management\n\nConfiguration Management- Process for creating and maintaining a products performance\n\nInfrastructure Provisioning - Building the underlying application environment\n\nInfrastructure Monitoring\n\nLogs Management\n\nApplication Monitoring", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554418798.028000"
+  }, 
+  {
+    "client_msg_id": "aea26f3c-f67e-4656-ae04-e4f008d41327", 
+    "text": "OS\n- sockets\n- process management\n- virtualization\nLearning to live in a terminal\n- 99% of it\nNetworking and Security\n- DNS\n- OSI Model\n- FTP\n- SSL / TLS\nHow to setup a:\n- Reverse Proxy\n- Forward Proxy\n- Firewall\nLearn Infrastructure as Code\n- Containers\n- Configuration Management\n- Container Orchestration\n- Infrastructure Provisioning\nLearn how to monitor software and infrastructure\n- Application Monitoring\n- Infrastructure Monitoring", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1554418772.027800"
+  }, 
+  {
+    "client_msg_id": "7be19d7d-9cd4-4214-92fd-771e6c12b22b", 
+    "text": "I would like to learn about CI/CD and Configuration Management. Specifically Ansible, CircleCI, and Jenkins or Drone (I heard Drone is great with containers).", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554418743.027200"
+  }, 
+  {
+    "client_msg_id": "ed43aed6-f9ed-4211-8d0c-f2cb938d428d", 
+    "text": "CI/CD Tool\nInfrastructure Provisioning\nReverse Proxy", 
+    "type": "message", 
+    "user": "UCFCGA3C1", 
+    "ts": "1554418703.025800"
+  }, 
+  {
+    "client_msg_id": "4b19d7f3-915b-48ed-8f93-59887b565c61", 
+    "text": "CI/CD Tools\nInfrastructure Provisioning", 
+    "type": "message", 
+    "user": "UCBDDHX7T", 
+    "ts": "1554418700.025700"
+  }, 
+  {
+    "client_msg_id": "f41c3479-e924-40e3-8f26-4b17acfa71a4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Things I would like to learn more about:\n1) Learn to live in terminal (bash scripting, vim nano and emacs)\n2) CI/CD tools (Circle CI, Travis)", 
+    "ts": "1554418687.025300", 
+    "user": "UCCRGTD0X", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1234311c-3069-4376-817f-66e478f74e21", 
+    "text": "`\negrep\nfgrep\nReverse proxy\nnmon\nOSI model\nAnsible\nsystemtop\nuname\nairodump\nairmon\n`", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1554418684.025100"
+  }, 
+  {
+    "client_msg_id": "4aff73fb-25f0-4cc1-8397-571e84c73223", 
+    "text": "*Dont know the following:*\nProcess management\nSocket\nThreads\nVirtualization\nSystem performance\nReverse/forward proxy\nLoad balancer\nConfiguration management\nContainer orchestration\nInfrastructure provisioning, monitoring\nLogs management\nFile Systems\nCI/CD Tool", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1554418655.023600"
+  }, 
+  {
+    "client_msg_id": "4e0b9160-59e7-42a3-a577-52fed8b58529", 
+    "edited": {
+      "user": "U703HM5PY", 
+      "ts": "1554418802.000000"
+    }, 
+    "text": "OSI Model- Open Systems Interconnection: Standardizes communication between devices and applications on a network. Consists of seven layers between the bare metal and the user including the application layer, presentation layer, session layer, transport layer, network layer, data link layer, physical layer.", 
+    "ts": "1554418561.019900", 
+    "user": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5077da26-e39d-4152-8d9c-b74175c81372", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1554418613.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCCSGECPJ"
+        ]
+      }
+    ], 
+    "text": "```- OSI Model: A broad conceptual model for all layers of a computing or communications system (from Hardware to Application)\n- Reverse Proxy: A type of proxy server that retrieves resources on behalf of a client from one or more servers. These resources are then returned to the client, appearing as if they originated from the proxy server itself.\n- Infrastructure Provisioning\n- Container Orchestration\n- Configuration Management\n- Infrastructure Monitoring\n- Logs management\n- CI/CD: Continuous integration vs. continuous delivery```", 
+    "ts": "1554418513.018100", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1ac67bbc-3c48-4f0a-a488-822fc9245a63", 
+    "text": "- Process Management\nThe OS must allocate resources to processes, enable processes to share and exchange information, protect the resources of each process from other processes and enable synchronization among processes. To meet these requirements, the OS must maintain a data structure for each process, which describes the state and resource ownership of that process, and which enables the OS to exert control over each process.\n- Thread and concurrency\n    - JS: Single threaded\n- Sockets\n    - Request response params that can reactively be uploaded w/o reloading document\n- I/O Management\n    - Any thing plugged into comp that will use power needs its own balancer (not to fry internal circuitry)\n- Virtualization\n- Memory Storage\n- File Systems\n- Web Server\n    - IIS\n    - Apache\n    - Nginx\n    - Tomcat Caddy\n- CI/CD Tool\n- Linux vs Unix\n- Ubuntu\n- Networking / Security", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1554418508.017900"
+  }, 
+  {
+    "client_msg_id": "4fa9c6a5-d7aa-4fad-9002-1faf28589c20", 
+    "text": "*Don\u2019t Know*\nProcess Management\nNetworking terms\nIIS\nNginx\nTomeat\nCaddy\nReverse proxy\nForward proxy\nSSL/TLS\nCI/CD Tools\nLogs Management\n\n*Hazy*\nVirtualizaiton\nI/O Management\nText manipulation terms\nConfiguration Management, Orchestration, Infrastructure", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1554418499.017500"
+  }, 
+  {
+    "client_msg_id": "f04e6729-0f05-456d-acd7-464ff20ac1bd", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1554418725.000000"
+    }, 
+    "text": "Infrastructure as Code / CI DI Tools, Web Servers", 
+    "ts": "1554418487.017300", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1554417603.014300", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c7fe70b9-7998-4f02-8f68-ff86c186633b", 
+    "text": "is someone missing their iphone without a case?", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1554417311.013200"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1554417273.012300", 
+    "text": "<@U6XDGCKFF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554417269.012100", 
+    "text": "<@UCBQH1P6E> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "carlton", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1554417235.011600", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "50bbe176-dc4d-4971-aafa-8e0005223dce", 
+    "reactions": [
+      {
+        "count": 22, 
+        "name": "whale", 
+        "users": [
+          "UCD53TKCN", 
+          "UCBQLD4M8", 
+          "U6Z4KNWCD", 
+          "UCCL1R3EZ", 
+          "UCC0FMXCJ", 
+          "UCBDDHX7T", 
+          "UCCRGTD0X", 
+          "U6XDGCKFF", 
+          "UCDAETD5L", 
+          "U6YCV95L7", 
+          "U703HM5PY", 
+          "UCBQJD3NW", 
+          "UCBKC02JY", 
+          "UCBQH1P6E", 
+          "UCBS4EW59", 
+          "U8NMLKGDU", 
+          "UCDAF4FV4", 
+          "UCBP4M9C4", 
+          "UCCSGECPJ", 
+          "UCCTF62ET", 
+          "UCBS8JUHH", 
+          "UCBPUT6AX"
+        ]
+      }
+    ], 
+    "text": "<!channel> <https://make-school-courses.github.io/BEW-2.2-Docker-DevOps-Deployments/#/Lessons/Lesson2?id=initial-exercise-5-min>\n\n*_For today\u2019s initial exercise, please add a :whale: emoji to this message to indicate that you have DOWNLOADED AND INSTALLED Docker to your local machine!_*", 
+    "ts": "1554417041.011000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554397700.009300", 
+    "text": "<@UCBQH1P6E> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1554250565.008600", 
+    "text": "<@U703HM5PY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1554250536.008200", 
+    "text": "<@U6Z4KNWCD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCSGECPJ", 
+    "ts": "1554250534.008000", 
+    "text": "<@UCCSGECPJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1554250534.007800", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1554250533.007600", 
+    "text": "<@UCB8WCDTJ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2c5c5a68-0691-431c-bbcc-c9d873b088ed", 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1554250730.000000"
+    }, 
+    "text": "stop all containers:\n`docker stop $(docker ps -a -q)`\n\nremove/delete all containers:\n`docker rm --force $(docker ps -a -q)`", 
+    "pinned_info": {
+      "pinned_ts": 1554250542, 
+      "channel": "CGRB7DDK5", 
+      "pinned_by": "UCBS4EW59"
+    }, 
+    "ts": "1554249676.007400", 
+    "pinned_to": [
+      "CGRB7DDK5"
+    ], 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d9c7d6ee-b41e-4113-aac8-2a7dae9ad38e", 
+    "attachments": [
+      {
+        "thumb_height": 128, 
+        "thumb_url": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "thumb_width": 129, 
+        "original_url": "https://docs.docker.com/compose/reference/", 
+        "service_name": "Docker Documentation", 
+        "title": "Compose command-line reference", 
+        "ts": 1554166980, 
+        "title_link": "https://docs.docker.com/compose/reference/", 
+        "text": "The following pages describe the usage information for the docker-compose subcommands. You can also see this information by running docker-compose [SUBCOMMAND] --help from the command line. docker-compose build bundle config...", 
+        "from_url": "https://docs.docker.com/compose/reference/", 
+        "fallback": "Docker Documentation: Compose command-line reference", 
+        "service_icon": "https://docs.docker.com/favicons/docs@2x.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Cheat Sheet for Docker Commands: <https://docs.docker.com/compose/reference/>", 
+    "ts": "1554249582.006800", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1554249066.006500", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1554248910.006300", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "848505a4-e23c-47f2-86a7-f5865bb52826", 
+    "attachments": [
+      {
+        "thumb_height": 152, 
+        "thumb_url": "https://www.katacoda.com/images/apple-touch-icon-152x152.png", 
+        "thumb_width": 152, 
+        "original_url": "https://www.katacoda.com/courses/docker", 
+        "text": "This set of labs covers the foundations of Docker and running containers within your system.. Learn Deploying Your First Docker Container, Deploy Static HTML Website as Container, Building Container Images, Dockerizing Node.js, Optimise Builds With Docker OnBuild, Ignoring Files During Build, Create Data Containers, Creating Networks Between Containers using Links, Creating Networks Between Containers using Networks, Persisting Data Using Volumes, Manage Container Log Files, Ensuring Container Uptime With Restart Policies, Adding Docker Metadata &amp; Labels, Load Balancing Containers, Orchestration using Docker Compose, See Container Metrics With Docker Stats, Creating Optimised Docker Images using Multi-Stage Builds, Formatting PS Output, Run Docker From Rootless Users, Learn Docker Swarm 101, Docker Swarm Mode Playground, via free hands on training.", 
+        "title": "Learn Docker &amp; Containers using Interactive Browser-Based Labs | Katacoda", 
+        "title_link": "https://www.katacoda.com/courses/docker", 
+        "service_name": "katacoda.com", 
+        "from_url": "https://www.katacoda.com/courses/docker", 
+        "fallback": "Learn Docker &amp; Containers using Interactive Browser-Based Labs | Katacoda", 
+        "service_icon": "https://www.katacoda.com/images/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.katacoda.com/courses/docker>", 
+    "ts": "1554248882.006000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1554246765.005800", 
+    "text": "<@UCBS4EW59> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "fa34af8b-854a-49c4-8843-5d7b3972a1a9", 
+    "thread_ts": "1554246339.004600", 
+    "text": "great visual :thumbsup:", 
+    "ts": "1554246411.005500", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1554246409.005400", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 496, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHHFU24G0", 
+        "thumb_480_h": 298, 
+        "original_h": 1514, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-02, 4:05 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHHFU24G0/image.png", 
+        "thumb_720_h": 446, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_80.png", 
+        "thumb_360_h": 223, 
+        "size": 409344, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_800.png", 
+        "timestamp": 1554246332, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHHFU24G0/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_1024.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHHFU24G0-2833abb8f3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FHHFU24G0/image.png", 
+        "name": "image.png", 
+        "created": 1554246332, 
+        "thumb_1024_h": 635, 
+        "thumb_960_h": 595, 
+        "original_w": 2442, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHFU24G0-c200494a2d/image_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1554246366.000000"
+    }, 
+    "latest_reply": "1554246411.005500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "thread_ts": "1554246339.004600", 
+    "text": "Containers vs. Virtual Machines\n\n(from <https://www.docker.com/resources/what-container>)", 
+    "upload": true, 
+    "ts": "1554246339.004600", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554246411.005500"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCBQLD4M8", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCCSGECPJ", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "reply_users_count": 1, 
+    "client_msg_id": "2cf2faf2-d9a9-4428-8d1c-838f3e27884b"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDDHX7T", 
+    "ts": "1554246272.004400", 
+    "text": "<@UCBDDHX7T> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "1eb05aa6-ac9c-41ea-9c77-cd0fe4413dfb", 
+    "thread_ts": "1554246227.003500", 
+    "text": "<@UCBS4EW59>", 
+    "ts": "1554246239.004100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dded193b-5e82-40dd-b5e8-c03ae08a755d", 
+    "text": ":dani:", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1554246230.003700"
+  }, 
+  {
+    "client_msg_id": "7ad336f3-2b05-402e-82d5-19882ae08a0e", 
+    "thread_ts": "1554246227.003500", 
+    "latest_reply": "1554246239.004100", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/GsLZz8cZCzc/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/channel/UCvksXSnLqIVM_uFB7xyrsSg", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=GsLZz8cZCzc", 
+        "video_html_width": 400, 
+        "author_name": "Container Camp", 
+        "title_link": "https://www.youtube.com/watch?v=GsLZz8cZCzc", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/GsLZz8cZCzc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=GsLZz8cZCzc", 
+        "title": "Willy Wonka of Containers - Jessie Frazelle", 
+        "fallback": "YouTube Video: Willy Wonka of Containers - Jessie Frazelle", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554246239.004100"
+      }
+    ], 
+    "ts": "1554246227.003500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQH1P6E", 
+    "text": "<https://www.youtube.com/watch?v=GsLZz8cZCzc>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1554246227.003300", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554246217.003000", 
+    "text": "<@UCBQH1P6E> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "a522827a-0670-4896-8166-72e60dd7a559", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "dani", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBQLD4M8", 
+          "UCBQJD3NW", 
+          "UCCRGTD0X"
+        ]
+      }
+    ], 
+    "text": "Dani teach us Vagrant", 
+    "ts": "1554246217.002800", 
+    "user": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1554246216.002700", 
+    "text": "<@UCCL1R3EZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1554246213.002500", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1554245438.002200", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554245436.002000", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCFCGA3C1", 
+    "ts": "1554245430.001800", 
+    "text": "<@UCFCGA3C1> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1554245415.001600", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1554244956.001400", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1554244655.001200", 
+    "text": "<@UCBPUT6AX> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554244560.001000", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1554244497.000800", 
+    "text": "<@UCDAJD4F8> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554244402.000600", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1554244367.000400", 
+    "text": "<@UCBS8JUHH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBP4M9C4", 
+    "ts": "1554243967.000200", 
+    "text": "<@UCBP4M9C4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1554171641.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1554164720.000200", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1553980657.000200", 
+    "text": "<@UCBQLD4M8> has joined the channel"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: BEW2.2: Docker, DevOps, &amp; Containers [ <https://make.sc/bew2.2> ]", 
+    "ts": "1551934551.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "BEW2.2: Docker, DevOps, &amp; Containers [ <https://make.sc/bew2.2> ]"
+  }
+]

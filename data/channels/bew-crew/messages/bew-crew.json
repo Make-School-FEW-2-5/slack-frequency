@@ -1,0 +1,5431 @@
+[
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1556345366.006400", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1556213843.006200", 
+    "text": "<@UCBHS20S0> has left the channel"
+  }, 
+  {
+    "client_msg_id": "b0d32498-cc7c-4bac-b70e-1ab7a9403e06", 
+    "thread_ts": "1555553376.001200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6YCV95L7"
+        ]
+      }
+    ], 
+    "text": "<@U6YCV95L7> It seems as the data was null after i closed that tab. But I feel like cookies is a great alternative. I might find you tomorrow if im still stuck. Thank You:pray:", 
+    "ts": "1555562294.003100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a55851a2-4344-411f-9390-04798ac92156", 
+    "thread_ts": "1555553376.001200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "closed_lock_with_key", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "cookie", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "Additionally, if your data is for authentication or confidential, cookies are preferred, otherwise you could use local storage.", 
+    "ts": "1555554984.001500", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d0c811ba-8d5e-4d4a-89dd-26ac077fc16c", 
+    "thread_ts": "1555553376.001200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "spider_web", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "chrome", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "firefox", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "After the page is closed? Or the browser? Local storage will persist until explicitly deleted by the user, and cookies will persist after an expiration set by the server. Both persist even if the browser is closed.", 
+    "ts": "1555554790.001300", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dbbb1d8d-4a7d-494f-ba98-f836036fc96e", 
+    "thread_ts": "1555553376.001200", 
+    "latest_reply": "1555562294.003100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCB58P2V6"
+    ], 
+    "text": "Hey Guys, is there a way to store small piece of data(string) in local storage or another client side caching system that saves even after the page is closed?", 
+    "ts": "1555553376.001200", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1555554790.001300"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1555554984.001500"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1555562294.003100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1555463507.000300", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "client_msg_id": "69a33519-f893-4dd9-b639-3d3c13c84493", 
+    "attachments": [
+      {
+        "service_icon": "https://cdn.haproxy.com/wp-content/uploads/2017/06/cropped-Favicon-3-180x180.png", 
+        "image_bytes": 48232, 
+        "original_url": "https://www.haproxy.com/blog/haproxy-1-9-2-adds-grpc-support/", 
+        "service_name": "HAProxy Technologies", 
+        "title": "HAProxy 1.9.2 Adds gRPC Support - HAProxy Technologies", 
+        "ts": 1547662349, 
+        "image_width": 500, 
+        "image_height": 250, 
+        "image_url": "https://cdn.haproxy.com/wp-content/uploads/2019/01/HAProxy_gRPC.png", 
+        "text": "HAProxy provides end-to-end proxying of HTTP/2 traffic. Use HAProxy to route, secure, and observe gRPC traffic over HTTP/2. Read on to learn more. HAProxy 1.9 introduced the Native HTTP Representation (HTX). Not only does this allow you to use HTTP/2 end-to-end, it also paves the way for HAProxy to support newer versions of HTTP-based technologies \u2026", 
+        "from_url": "https://www.haproxy.com/blog/haproxy-1-9-2-adds-grpc-support/", 
+        "fallback": "HAProxy Technologies: HAProxy 1.9.2 Adds gRPC Support - HAProxy Technologies", 
+        "title_link": "https://www.haproxy.com/blog/haproxy-1-9-2-adds-grpc-support/", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.haproxy.com/blog/haproxy-1-9-2-adds-grpc-support/>", 
+    "ts": "1555024682.015100", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "365AE291-82C6-44AA-923A-E6D741005264", 
+    "thread_ts": "1554594543.013900", 
+    "text": "<http://Make.sc/stackoverflow|Make.sc/stackoverflow>", 
+    "ts": "1554653303.014600", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5486be72-0e0c-43b1-8014-9ec496f0ba37", 
+    "thread_ts": "1554594543.013900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "Export the function and import it wherever it is you're trying to use it. Better yet, create a helper file (or maybe even a class) that contains all the various functions you use throughout your app.\n\nHere's my helper file from partum-react for reference.\n<https://github.com/LucHighwalker/partum-react/blob/master/src/helper.js>", 
+    "ts": "1554606570.014100", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e99e52c2-46a4-43e1-a5a7-c86114c393c9", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1554594551.000000"
+    }, 
+    "latest_reply": "1554653303.014600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS4EW59", 
+      "U1D40QFD4"
+    ], 
+    "thread_ts": "1554594543.013900", 
+    "text": "Hey Guys i have a question. If i have a method in app.js that has access to the socketio constant and i'd like to call that function from another file (something like app.getUser() if the function was named getUser and the file was app.js), how would i go about about it? <!here>", 
+    "ts": "1554594543.013900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1554606570.014100"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1554653303.014600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1554594398.011600", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554510029.011100", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "36e6aa38-a54b-4c35-aaf8-e25254d5b9af", 
+    "thread_ts": "1554509717.009400", 
+    "text": "Even if it wasn't the response they were looking for, I think your response of \"server-side caching\" could also explain a different load time for the first user seeing the website after some changes.", 
+    "ts": "1554510018.010800", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "62d03923-4a02-4b86-85f6-3c3825d3e213", 
+    "thread_ts": "1554509717.009400", 
+    "text": "Later we talked about HTTP vs HTTPS vs HTTP2 and TCP and UTP", 
+    "ts": "1554509944.010600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8e75582e-2e09-46ab-b01b-98e5c15134d7", 
+    "thread_ts": "1554509717.009400", 
+    "text": "He ended up telling me what it was exactly and it had to do with the first user establishing the connection but I can't remember the full answer and I forgot by the time I went to write it down :sob:", 
+    "ts": "1554509887.010400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "563ede8f-68d3-41ec-bdf8-1b4ba4bab7d0", 
+    "thread_ts": "1554509717.009400", 
+    "text": "I tried a few responses to it talking about awakening the server possibly (wasn't relevant), or server side caching (wasn't relevent)", 
+    "ts": "1554509838.010000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bd15a84f-6e41-48a3-ab4b-056f215d41b3", 
+    "thread_ts": "1554509717.009400", 
+    "latest_reply": "1554510018.010800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBKC02JY"
+    ], 
+    "text": "Just got asked about the request response cycle in an interview a lot of my BEW 1.1 knowledge came in handy! But I got tripped up when he asked me say you have 10 users hitting the server, assuming everything is super fast, the first user total time takes .010 milliseconds but every other user takes .030 milliseconds, why does the first user take longer?", 
+    "ts": "1554509717.009400", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554509838.010000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554509887.010400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554509944.010600"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1554510018.010800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1554150939.007700", 
+    "text": "<@UCB8Y9ZQ8> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 482, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHK3T2U3Z", 
+        "thumb_480_h": 289, 
+        "original_h": 540, 
+        "thumb_360_w": 360, 
+        "title": "The-More-You-Know.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHK3T2U3Z/the-more-you-know.png", 
+        "thumb_720_h": 434, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_80.png", 
+        "thumb_360_h": 217, 
+        "size": 549733, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_800.png", 
+        "timestamp": 1554146425, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHK3T2U3Z/download/the-more-you-know.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHK3T2U3Z-d03494ef9e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FHK3T2U3Z/the-more-you-know.png", 
+        "name": "The-More-You-Know.png", 
+        "created": 1554146425, 
+        "original_w": 896, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHK3T2U3Z-3b7ba16b83/the-more-you-know_720.png"
+      }
+    ], 
+    "thread_ts": "1553890553.000200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBQH1P6E"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554146430.006800", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fe3e8424-012d-4646-9797-18100708bb91", 
+    "thread_ts": "1553890553.000200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Well I didn't know you can use logical operators with a spread operation but I use logical operators all the time in react and they are an awesome superpower! This is nice to know :clap:", 
+    "ts": "1553911419.006600", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1553901029.001200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "client_msg_id": "945edde8-07d0-4db8-85d8-658d76436ced", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1553890943.000000"
+    }, 
+    "latest_reply": "1554146430.006800", 
+    "attachments": [
+      {
+        "image_bytes": 49293, 
+        "original_url": "https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7", 
+        "service_name": "The Practical Dev", 
+        "title": "The shortest way to conditional insert properties into an object literal", 
+        "image_width": 500, 
+        "title_link": "https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/practicaldev/image/url2png/s--jVlJ8kZ_--/c_fill,g_north,h_400,w_800/https://dev.to/social_previews/article/94809%3Fbust%3D29-The%20shortest%20way%20to%20conditional%20insert%20properties%20into%20an%20object%20literal%20-true", 
+        "text": "Conditionally adding properties into an object could be done in many ways. This article explain why and how the shortest known solution works!", 
+        "from_url": "https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7", 
+        "fallback": "The Practical Dev: The shortest way to conditional insert properties into an object literal", 
+        "service_icon": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/apple-icon-5c6fa9f2bce280428589c6195b7f1924206a53b782b371cfe2d02da932c8c173.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "thread_ts": "1553890553.000200", 
+    "text": "Three lines of code that help you understand how to dig into a language specification to learn more about how things work on a deeper level! <https://dev.to/jfet97/the-shortest-way-to-conditional-insert-properties-into-an-object-literal-4ag7>", 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "U1HBKMW8Y"
+    ], 
+    "ts": "1553890553.000200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1553911419.006600"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1554146430.006800"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "open_mouth", 
+        "users": [
+          "UF83RJTHD", 
+          "UCDAETD5L", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1553588114.006400", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1553553305.006100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1553549001.005800", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "8AC38310-690E-4576-BD16-1EA9F7FF6E39", 
+    "thread_ts": "1553033266.005700", 
+    "text": "Technical difficulties", 
+    "ts": "1553539764.005500", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d2d2677-ad17-420f-802f-5f5228e242d4", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "stackoverflow", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "coin", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "chart_with_upwards_trend", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8WCDTJ", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "if you ask and answer your own question you still get reputation points :smile:", 
+    "ts": "1553283292.002600", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "af77466d-1085-4067-bc71-25999e781aaa", 
+    "text": ":smile:", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1553283264.002200"
+  }, 
+  {
+    "client_msg_id": "8b93f61c-235a-4e38-b057-ad82fb8c3bf9", 
+    "text": "<http://make.sc/stackoverflow|make.sc/stackoverflow>", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1553283259.002000"
+  }, 
+  {
+    "client_msg_id": "bf9eb0b0-6664-404f-8f9d-6adb8ca15f38", 
+    "text": "Never mind, I debugged it", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1553276068.001700"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "perl", 
+        "lines_more": 11, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FH4TTJ0CQ", 
+        "size": 495, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH4TTJ0CQ/-.pl", 
+        "preview": "const mongoose = require(\"mongoose\");\r\nconst Schema = mongoose.Schema;\r\nconst Populate = require('../util/populate')\r\n\r\nconst CommentSchema = new Schema({\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCFCFQ7KK/FH4TTJ0CQ/-.pl/edit", 
+        "username": "", 
+        "timestamp": 1553275199, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">const</span> <span class=\"cm-meta\">mongoose</span> <span class=\"cm-operator\">=</span> <span class=\"cm-keyword\">require</span>(<span class=\"cm-string\">&quot;mongoose&quot;</span>);</pre></div>\n<div><pre><span class=\"cm-meta\">const</span> <span class=\"cm-meta\">Schema</span> <span class=\"cm-operator\">=</span> <span class=\"cm-meta\">mongoose</span><span class=\"cm-operator\">.</span><span class=\"cm-meta\">Schema</span>;</pre></div>\n<div><pre><span class=\"cm-meta\">const</span> <span class=\"cm-meta\">Populate</span> <span class=\"cm-operator\">=</span> <span class=\"cm-keyword\">require</span>(<span class=\"cm-string\">'../util/populate'</span>)</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-meta\">const</span> <span class=\"cm-meta\">CommentSchema</span> <span class=\"cm-operator\">=</span> <span class=\"cm-keyword\">new</span> <span class=\"cm-meta\">Schema</span>({</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH4TTJ0CQ/download/-.pl", 
+        "user": "UCFCFQ7KK", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Perl", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH4TTJ0CQ-0b197c6f64", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCFCFQ7KK/FH4TTJ0CQ/-.pl", 
+        "name": "-.pl", 
+        "created": 1553275199, 
+        "lines": 16, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "Could someone help me understand whats going on?", 
+    "upload": true, 
+    "ts": "1553275199.001200", 
+    "display_as_bot": false, 
+    "user": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4652f83e-2be6-40fb-b3fd-f8001976b2b8", 
+    "text": "Hey guys, I am getting this weird error in my terminal:\n\nSchema hasn\u2019t been registered for model \u201cComment\u201d.\nUse mongoose.model(name, schema)\n\nI definitely have a model for comments and it was exported:", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1553275173.001100"
+  }, 
+  {
+    "client_msg_id": "1e9a0781-abad-4971-8667-e31531296467", 
+    "thread_ts": "1553134032.017500", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC37PD6D", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "hm this seems to make sense. thank you, I will see if I can implement", 
+    "ts": "1553134568.018200", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5368c88b-eca7-47b8-8bfe-aa354782b2b2", 
+    "thread_ts": "1553134032.017500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Have an array of requests as well, that stores the user id\u2019s for requests, and then when accepted, use that userId to approve it on the other person\u2019s side as well?", 
+    "ts": "1553134512.018000", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91363210-ddea-4911-a6b3-51ec024bf5ed", 
+    "thread_ts": "1553134032.017500", 
+    "text": "Yeah I thought this was probably the best way, but what I am confused about is how to make it like a request type of thing that doesnt actually add the user until the request is accepted", 
+    "ts": "1553134294.017800", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "772dd232-155c-452e-b433-047028a2f76a", 
+    "thread_ts": "1553134032.017500", 
+    "text": "Maybe store an array of \u2018friends\u2019 or \u2018followers\u2019 in the database for each user, and add the userId or something to the array for the friends or followers?", 
+    "ts": "1553134220.017600", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b03c900a-c9f6-41d0-bf4c-7a8f0a05f764", 
+    "thread_ts": "1553134032.017500", 
+    "latest_reply": "1553134568.018200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D", 
+      "UCFCFQ7KK"
+    ], 
+    "text": "How could I enable a user to follow or friend another user?", 
+    "ts": "1553134032.017500", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1553134220.017600"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553134294.017800"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1553134512.018000"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553134568.018200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "3dd61b42-6b9a-4f3f-8859-1e2f3d3c7268", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1553120443.000000"
+    }, 
+    "thread_ts": "1553117251.013900", 
+    "text": "if it's an object you want to re-use on a regular basis (like `user`), it might make sense to use `app.locals` from the Express API\n\n\n&gt;The app.locals object has properties that are local variables within the application.\n\n```app.locals.title\n// =&gt; 'My App'\n\napp.locals.email\n// =&gt; '<mailto:me@myapp.com|me@myapp.com>'```\n&gt;Once set, the value of app.locals properties persist throughout the life of the application, in contrast with res.locals properties that are valid only for the lifetime of the request.\n&gt;\n&gt;You can access local variables in templates rendered within the application. This is useful for providing helper functions to templates, as well as application-level data. Local variables are available in middleware via req.app.locals (see <http://req.app|req.app>)\n\n```app.locals.title = 'My App';\napp.locals.strftime = require('strftime');\napp.locals.email = '<mailto:me@myapp.com|me@myapp.com>';```\n\nSource: <https://expressjs.com/en/api.html>", 
+    "ts": "1553120360.016700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "de4a3eab-ad81-4119-a748-67571aac2a3c", 
+    "thread_ts": "1553117251.013900", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCFCFQ7KK", 
+          "UCBDDHX7T", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dab-squidward", 
+        "users": [
+          "UCFCFQ7KK", 
+          "UCBDDHX7T"
+        ]
+      }
+    ], 
+    "text": "I believe you could call `res.cookie` as many times as you\u2019d like before you do the `res.redirect`\n\n```\nres.cookie('obj1', obj1)\nres.cookie('obj2', obj2)\nres.redirect('/url')\n```", 
+    "ts": "1553118116.016000", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b180d383-48b8-4776-8479-bd3e0519c6d4", 
+    "thread_ts": "1553117251.013900", 
+    "text": "Is it possible to do it for more than one object?", 
+    "ts": "1553117973.015800", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d2fc8123-dcec-4075-b023-99880cf503ef", 
+    "thread_ts": "1553117251.013900", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCD53TKCN", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "ohhhhhhhhhh thank you! I will give this a try", 
+    "ts": "1553117928.015500", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2760e52a-397d-4763-8d8b-888753829056", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1553117922.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/cookie-parser", 
+        "service_name": "npm", 
+        "title": "cookie-parser", 
+        "title_link": "https://www.npmjs.com/package/cookie-parser", 
+        "text": "Parse HTTP request cookies", 
+        "from_url": "https://www.npmjs.com/package/cookie-parser", 
+        "fallback": "npm: cookie-parser", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "thread_ts": "1553117251.013900", 
+    "text": "Using the cookie parser, which can be found here: <https://www.npmjs.com/package/cookie-parser>\n\nYou can simply just do:\n`res.cookie('user', userobject).redirect('redirectURL')`.\n\nOn the route you redirected to you can then access the user object with `req.cookies.user`", 
+    "ts": "1553117873.015000", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c688f82f-7494-44af-ac01-21d6d5be37d4", 
+    "thread_ts": "1553117251.013900", 
+    "text": "an user object", 
+    "ts": "1553117484.014600", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8e2a3137-d11c-4ce6-97c3-b4517fa7bcfe", 
+    "thread_ts": "1553117251.013900", 
+    "text": "What kind of data are you trying to persist for the redirect?", 
+    "ts": "1553117418.014000", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b24a73c1-b820-4f0c-a2d2-f8d0f2a420bc", 
+    "thread_ts": "1553117251.013900", 
+    "latest_reply": "1553120360.016700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCD53TKCN", 
+      "UCFCFQ7KK", 
+      "UCBKC02JY"
+    ], 
+    "text": "Hey guys, does anyone know of a way to pass a variable from a route to another route when using res.redirect?", 
+    "ts": "1553117251.013900", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1553117418.014000"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553117484.014600"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1553117873.015000"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553117928.015500"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553117973.015800"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1553118116.016000"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1553120360.016700"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "dc654117-36bf-4242-a9e0-7e58a11b132b", 
+    "thread_ts": "1553114430.012800", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB91TXS4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCB91TXS4> Are you at school? I can try and help for 20 minutes.", 
+    "ts": "1553115442.012900", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1553114430.012800", 
+    "latest_reply": "1553115442.012900", 
+    "attachments": [
+      {
+        "fallback": "[March 20th, 2019 1:38 PM] kj.wilson: Hey is there anyone around to help me get unblocked with a Python issue? I'm stuck trying to figure out urlretrieve() in regard to importing thumbnails from the Google Slides API", 
+        "author_link": "https://product-college.slack.com/team/UCB91TXS4", 
+        "color": "D0D0D0", 
+        "text": "Hey is there anyone around to help me get unblocked with a Python issue? I'm stuck trying to figure out urlretrieve() in regard to importing thumbnails from the Google Slides API", 
+        "footer": "Posted in #level-up", 
+        "ts": "1553114324.001300", 
+        "author_name": "KJ Wilson", 
+        "is_share": true, 
+        "channel_name": "level-up", 
+        "channel_id": "CFSJLJZ3P", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "KJ Wilson", 
+        "from_url": "https://product-college.slack.com/archives/CFSJLJZ3P/p1553114324001300", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-28/424570349985_a74dfae91d06664deb0d_48.jpg", 
+        "author_id": "UCB91TXS4"
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7"
+    ], 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1553115442.012900"
+      }
+    ], 
+    "ts": "1553114430.012800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "text": "", 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1553114423.012600", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "BAD5AE36-161B-407E-BD0C-7CD03CE94655", 
+    "thread_ts": "1553035081.007800", 
+    "text": "I actually solved the issue but I will definitely use it next time !", 
+    "ts": "1553097742.012300", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F0EEE58F-5369-4669-960B-D6B5FA9FFE06", 
+    "thread_ts": "1553035081.007800", 
+    "text": "New toy", 
+    "ts": "1553097704.011600", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7FDA95DD-A311-4B9D-BADA-4CB9CBD3D0CC", 
+    "thread_ts": "1553035081.007800", 
+    "text": ":D", 
+    "ts": "1553097701.011300", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1FBEF5AE-7E50-4C1F-B5BA-14988B63D7F4", 
+    "thread_ts": "1553035081.007800", 
+    "text": "Consider putting this question up on <http://stackoverflow.com/c/make-school|stackoverflow.com/c/make-school>", 
+    "ts": "1553097698.011000", 
+    "user": "U1D40QFD4", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3577e55a-c76c-4a62-9c7d-a394385712ff", 
+    "thread_ts": "1553033266.005700", 
+    "text": "Wait a minute... 5200mb of memory!?!", 
+    "ts": "1553066597.010200", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "258a054f-c6c6-4d1b-b7fb-b143620170ba", 
+    "thread_ts": "1553035081.007800", 
+    "text": "I actually think that is the issue!", 
+    "ts": "1553036171.009700", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3e97da1-9cef-4e50-ba79-72bc76560995", 
+    "thread_ts": "1553035081.007800", 
+    "text": "Everything in your .env is on Heroku as an environment variable, right?", 
+    "ts": "1553036155.009500", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e24c8404-0729-4da7-ab58-4f679f3a5e6c", 
+    "thread_ts": "1553035081.007800", 
+    "text": "no it isn\u2019t, the only things in my .env are the keys that were given to me", 
+    "ts": "1553035774.009200", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "245775A8-FCBA-40DC-B610-E81626E5B14C", 
+    "thread_ts": "1553035081.007800", 
+    "text": "Is your bucket name in your .env file by chance?", 
+    "ts": "1553035742.009000", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2206b57a-567a-4cef-888a-83254af7f37a", 
+    "edited": {
+      "user": "UCFCFQ7KK", 
+      "ts": "1553035131.000000"
+    }, 
+    "latest_reply": "1553097742.012300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCFCFQ7KK", 
+      "U1D40QFD4"
+    ], 
+    "thread_ts": "1553035081.007800", 
+    "text": "Hey guys, quick Q:\n\nSo I am working with S3 to upload some images. It is running perfectly fine locally. However, I just tried to push to heroku and I received this message:\n\n/app/node_modules/s3-uploader/index.js:125\nthrow new TypeError(\u2018Bucket name can not be undefined\u2019);\n\nDoes anyone know why this is happening? If anyone can help I would greatly appreciate it!", 
+    "ts": "1553035081.007800", 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1553035742.009000"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553035774.009200"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1553036155.009500"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553036171.009700"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1553097698.011000"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1553097701.011300"
+      }, 
+      {
+        "user": "U1D40QFD4", 
+        "ts": "1553097704.011600"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1553097742.012300"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "10922211-413f-4dac-bba7-ef0755498321", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "dizzy_face", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT", 
+          "UCC0HC7D0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "moon", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "40+ languages once I hook them all up", 
+    "ts": "1553033289.006300", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 568, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FH5J8B5FG", 
+        "thumb_480_h": 341, 
+        "original_h": 830, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-03-19 at 1.44.04 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH5J8B5FG/screen_shot_2019-03-19_at_1.44.04_pm.png", 
+        "thumb_720_h": 511, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_80.png", 
+        "thumb_360_h": 255, 
+        "size": 77503, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_800.png", 
+        "timestamp": 1553033263, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH5J8B5FG/download/screen_shot_2019-03-19_at_1.44.04_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_1024.png", 
+        "user": "UCBDPE94Z", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH5J8B5FG-5b4a1cd237", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDPE94Z/FH5J8B5FG/screen_shot_2019-03-19_at_1.44.04_pm.png", 
+        "name": "Screen Shot 2019-03-19 at 1.44.04 PM.png", 
+        "created": 1553033263, 
+        "thumb_1024_h": 726, 
+        "thumb_960_h": 681, 
+        "original_w": 1170, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FH5J8B5FG-d4aae6ca5f/screen_shot_2019-03-19_at_1.44.04_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1553033266.005700", 
+    "latest_reply": "1553539764.005500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBDPE94Z"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "fire", 
+        "users": [
+          "UC36F4P2M", 
+          "U6Z4KNWCD", 
+          "U1HBKMW8Y", 
+          "UCB58P2V6", 
+          "UCB8YJNBT", 
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "text": "Its alive!", 
+    "upload": true, 
+    "ts": "1553033266.005700", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDPE94Z", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1553066597.010200"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1553539764.005500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0AD01D82-9F33-4320-B4A8-C01C28D74A5B", 
+    "thread_ts": "1552872637.001800", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCDAETD5L", 
+          "UCCL1R3EZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "UCCL1R3EZ"
+        ]
+      }
+    ], 
+    "text": "<@UCDAETD5L> you are overthinking it! If it is in the documents controller and it deletes a document then use delete method. Doesn\u2019t really matter what else it does..", 
+    "ts": "1552919922.003900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "af9c4cfa-4cf6-4953-8dc3-0b88223c0581", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1552872779.000000"
+    }, 
+    "latest_reply": "1552919922.003900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "thread_ts": "1552872637.001800", 
+    "text": "Curious to hear anyone's thought on this - I've got a route where I delete a document in my database but i also update the users array to remove that document reference, I think i should use a `.delete()`but curious if anyone would use `.put()` or `.patch()` here", 
+    "ts": "1552872637.001800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1552919922.003900"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "UCCRGTD0X"
+        ]
+      }
+    ], 
+    "text": "<@U8NMLKGDU> has left the channel", 
+    "ts": "1551948698.011400", 
+    "subtype": "channel_leave", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3aacf84b-ac6b-4c2a-a4d6-d042abb5e827", 
+    "thread_ts": "1551913145.007400", 
+    "text": "Yeah man no problem!", 
+    "ts": "1551913863.011000", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "16D6418A-E3D4-4E87-A924-9B639DDC5414", 
+    "thread_ts": "1551913145.007400", 
+    "text": "Yeah that\u2019s essentially the same as GridFS. But I will look at it. Thanks Medi", 
+    "ts": "1551913693.010800", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "144282A3-2596-426F-B6A8-3E7DAFEC008D", 
+    "thread_ts": "1551913106.006700", 
+    "text": "Ah okay so it essential does the same thing as the GridFS library. I will look into it in a few thank you", 
+    "ts": "1551913655.010000", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9f236986-c2d9-44f5-bad4-e933d5e779ee", 
+    "thread_ts": "1551913106.006700", 
+    "text": "it just gives you a bucket where you can store / fetch your files", 
+    "ts": "1551913616.009100", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d2d810da-9cf9-44d2-9797-c41cab551277", 
+    "thread_ts": "1551913106.006700", 
+    "text": "I don't see why not!", 
+    "ts": "1551913586.008900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F6EA14C5-725F-49FB-8A36-A22EEB908BA6", 
+    "thread_ts": "1551913106.006700", 
+    "text": "Will this work with audio as well?", 
+    "ts": "1551913511.008700", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5f43727c-64e7-44ad-bd0f-f8553ad3716e", 
+    "thread_ts": "1551913145.007400", 
+    "text": "S3 buckets? you can save the image url in the user object but the actual image can be stored on an amazon s3 bucket. Or <@UC36F4P2M> can clarify on this.", 
+    "ts": "1551913503.008300", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F7D27FFB-068E-483B-816A-9E78E3C4B36D", 
+    "thread_ts": "1551913106.006700", 
+    "text": "Thank you!", 
+    "ts": "1551913487.008000", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "302ea885-a16f-4ded-b707-7664ad536086", 
+    "thread_ts": "1551913106.006700", 
+    "text": "you can do it using S3. There's a tutorial on it here: <https://www.makeschool.com/academy/track/standalone/pete-s-pet-emporium---advanced-web-recipes/uploading-files>", 
+    "ts": "1551913448.007700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "38f88b7c-4653-497e-8cb7-be112b076b20", 
+    "thread_ts": "1551857914.003800", 
+    "text": "Thanks i will try this!", 
+    "ts": "1551913198.007500", 
+    "user": "UCFCFQ7KK", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "efb0fccb-e975-4a5e-bf29-89c84a642ae3", 
+    "thread_ts": "1551913145.007400", 
+    "latest_reply": "1551913863.011000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB58P2V6", 
+      "UCFCFQ7KK"
+    ], 
+    "text": "I have a way to do it using the GridFS library but that wouldn\u2019t save the image as a key value to the actual user object, can anyone help?", 
+    "ts": "1551913145.007400", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1551913503.008300"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1551913693.010800"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1551913863.011000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "4881230a-b6bd-4afd-a6e9-7b12fa8d908d", 
+    "thread_ts": "1551913106.006700", 
+    "latest_reply": "1551913655.010000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "UCFCFQ7KK"
+    ], 
+    "text": "Hey crew, is there any way to include a image upload field when a user signs up to create an account?", 
+    "ts": "1551913106.006700", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551913448.007700"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1551913487.008000"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1551913511.008700"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551913586.008900"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551913616.009100"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1551913655.010000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "FA22B30D-A0A8-45BE-BF71-568B40C03F7B", 
+    "thread_ts": "1551857914.003800", 
+    "text": "{{#each objects as |obj|}}\n  &lt;p&gt;{{obj.title}}&lt;/p&gt;\n  &lt;p&gt;{{obj.description}}&lt;/p&gt;\n{{/each}}\n  ", 
+    "ts": "1551894730.005900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCFCFQ7KK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "18d4f28e-4e5a-496f-b965-35e51fd96611", 
+    "text": "Has anyone ever worked with the GridFS library?", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1551875247.004100"
+  }, 
+  {
+    "client_msg_id": "5cdf7069-0cd2-4b24-996c-d9bf58f908fc", 
+    "thread_ts": "1551857914.003800", 
+    "latest_reply": "1551913198.007500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "UCFCFQ7KK"
+    ], 
+    "text": "How can I iterate through an array of objects and access the individual keys of each object using handlebars?", 
+    "ts": "1551857914.003800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCFCFQ7KK", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551894730.005900"
+      }, 
+      {
+        "user": "UCFCFQ7KK", 
+        "ts": "1551913198.007500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "fab63c89-cfa8-42ff-9df9-9fbd1ae0005e", 
+    "thread_ts": "1551678097.001800", 
+    "text": "Thank You man <@UCD53TKCN> :pray:", 
+    "ts": "1551726365.003400", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3d649818-4377-4f9c-bd3e-40900898a715", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1551718896.000000"
+    }, 
+    "thread_ts": "1551678097.001800", 
+    "text": "You can still use the JWT token, you just need to make sure that the end user is including it as a header or sending it to the server as a cookie (However you handle it). For instance, if I had signed up for the medi API and wanted to make a request to an authenticated endpoint, I would do something like:\n\nWith cookie\n```curl --cookie \"mediAuth=Yes\"...```\n\nWith header\n```curl -H \"Authorization: Bearer &lt;mediToken&gt;\"...```", 
+    "ts": "1551717926.002900", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6", 
+          "UCB8YJNBT"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "af33455e-b869-49c6-9898-ae875e19bb0f", 
+    "thread_ts": "1551678097.001800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/jayceazua/authjwt>", 
+    "ts": "1551690700.002700", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ce355a56-7515-4f73-a917-89a5718f98b0", 
+    "thread_ts": "1551678097.001800", 
+    "text": "That sounds reasonable, Thank you <@UCBKC02JY>", 
+    "ts": "1551685908.002500", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e5211f00-5525-4f28-a796-f7888f2b9b88", 
+    "thread_ts": "1551678097.001800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "not sure what best practice is, but you could generate a unique token by running a hash function on something unique on the user model (like username or email)", 
+    "ts": "1551685770.002100", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00ca85bd-f658-474b-acb4-d7400d786f84", 
+    "thread_ts": "1551678097.001800", 
+    "text": "I was thinking the JWT when they sign up but it keeps on changing every-time they sign in.", 
+    "ts": "1551678170.001900", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "68ae6aff-3823-465a-bb86-42fb3c74aa0a", 
+    "thread_ts": "1551678097.001800", 
+    "latest_reply": "1551726365.003400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB58P2V6", 
+      "UCBKC02JY", 
+      "U8NMLKGDU", 
+      "UCD53TKCN"
+    ], 
+    "text": "does anyone has an idea how you'd go about giving users of your API a token to be passed on the headers of the request so that only authenticated users make request to your API? (Node)", 
+    "ts": "1551678097.001800", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1551678170.001900"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551685770.002100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1551685908.002500"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1551690700.002700"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1551717926.002900"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1551726365.003400"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1551664664.000500", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1551664659.000200", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "c1bd1d66-9268-4167-9737-fc08b4521ee2", 
+    "thread_ts": "1551220743.002100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cool", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "og-make-school", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "node", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Gotta have some server-side middleware that transfers your JWT  to your front-end and back to your server on each request/response cycle :slightly_smiling_face: great question! Come see me after class @ 3:30 in great hall tomorrow if you wanna sync up on this", 
+    "ts": "1551222572.002600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "36050f2a-29d9-41b2-bd54-7d901eb386ed", 
+    "thread_ts": "1551220743.002100", 
+    "latest_reply": "1551222572.002600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thought_balloon", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "react", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "When developing MERN with a separate backend API and separate front end, why is `req.user` undefined in all of my controllers, is the work around to look up the user by id in each route?", 
+    "ts": "1551220743.002100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1551222572.002600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e6cab99b-774c-42f0-a0d7-52db5caa3005", 
+    "thread_ts": "1551164461.000400", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U1D40QFD4", 
+          "U1HBKMW8Y", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "I think jwt.verify or jwt.decode should work for whatever you\u2019re doing <https://github.com/auth0/node-jsonwebtoken>", 
+    "ts": "1551166159.000600", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0178e8d5-97ea-48e5-bc97-ffdbb64331ef", 
+    "thread_ts": "1551164461.000400", 
+    "latest_reply": "1551166159.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7"
+    ], 
+    "text": "Does anyone know how to parse a jwt token for uid?", 
+    "ts": "1551164461.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1551166159.000600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a128050e-7bcf-461c-b5ea-b286e7a5acb2", 
+    "thread_ts": "1550725663.004100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "UCBDDHX7T", 
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "male-detective", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "bitcoin", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "disclaimer: use at own risk.", 
+    "ts": "1550728586.004400", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4f3eee51-e63d-4299-a836-a5794d02c05e", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1550725702.000000"
+    }, 
+    "latest_reply": "1550728586.004400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS4EW59"
+    ], 
+    "thread_ts": "1550725663.004100", 
+    "text": "<@UCBS4EW59> Promise not to high-jack our Bitcoin wallets? :joy:", 
+    "ts": "1550725663.004100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCL1R3EZ", 
+    "replies": [
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1550728586.004400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6aa9f345-dc5e-41ef-ba0a-cf5da568278d", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBDA2GGH", 
+          "UCB58P2V6", 
+          "UCC0HC7D0", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "luke", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBDA2GGH", 
+          "UCB58P2V6", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBDA2GGH", 
+          "UCB58P2V6", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "My ts-node-starter is now available as a command line tool.\n\nusage:\n```\n$ npm install -g ts-node-cli\n$ tsns [optional name]\n$ cd [chosen name or ts-node-starter]\n$ npm install\n$ tsc --watch\n$ nodemon\n```", 
+    "ts": "1550705108.002700", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c1aa37bc-4d8f-4def-b4d9-6dd3ffcd9088", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB58P2V6", 
+          "UCBDA2GGH", 
+          "UCBPUT6AX"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "clap", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBDA2GGH", 
+          "U1HBKMW8Y", 
+          "UCBPUT6AX"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBDA2GGH", 
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UCBPUT6AX"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UCBPUT6AX"
+        ]
+      }
+    ], 
+    "text": "Hello peoples. Here is a Node starter pack written in TypeScript that I've been working on for me to use for all my node needs. Feel free to use it yourself, and star it to boost my ego :grin:. Currently, only authentication is implemented, which includes email verification.\n\nWould also love some feedback on this whenever you have time <@UC36F4P2M>\n\n<https://github.com/LucHighwalker/ts-node-starter>", 
+    "ts": "1550608958.003200", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1550019779.000400", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1549948150.000200", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1549488966.009300", 
+    "text": "<@UCB8Y9ZQ8> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1549488919.009000", 
+    "text": "<@UCBHLEZEY> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "9c0b54c4-c0a4-40f9-b5fe-066abd141f62", 
+    "thread_ts": "1549437764.006800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "smile", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCBKC02JY> appeals to ego work every time :dani::joy:", 
+    "ts": "1549476058.008600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f24e0086-37b6-4c57-b898-4a37906c6fc9", 
+    "thread_ts": "1549437764.006800", 
+    "text": "So, post a piece of code stating what it does without @ tagging you or asking for feedback, but mention you in the comments? :stuck_out_tongue_winking_eye:", 
+    "ts": "1549475067.008400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "924441b2-a1b6-4081-bf01-4ed0be248335", 
+    "thread_ts": "1549163815.000600", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCDAETD5L", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "UCDAETD5L", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "PROTIP:\n\nin any framework...\n\n- *controllers are a container that can be filled with _one to many_ routes*.  production code should always follow this pattern (the C in MVC!)\n\n- *endpoint is another name for route* --- these two terms are often used interchangeably\n\n- *routes _can_ live outside a controller* in small applications where the additional organization of a controller file isn't a necessity. this is typically *only for tiny applications or experimental code* and *does not communicate best practices* to those who may consume the code in question!\n\n- *middleware sits between the request and the response* and typically changes the response upon each request. example: checking the user's IP to determine if a request is coming from within make school and allowing the request to go through with a `200` response. if the IPs don't match, return a `403` so external users cannot access the API or website.", 
+    "ts": "1549438201.007100", 
+    "subtype": "thread_broadcast", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "c5040b87-466f-44e7-b82e-c03700cd7d86", 
+      "thread_ts": "1549163815.000600", 
+      "latest_reply": "1549438201.007100", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCCL1R3EZ", 
+        "UCB58P2V6", 
+        "UC36F4P2M"
+      ], 
+      "text": "Any good resources / articles tutorials walking through how to separate routes from controllers?", 
+      "ts": "1549163815.000600", 
+      "type": "message", 
+      "reply_count": 3, 
+      "user": "UCDAETD5L", 
+      "replies": [
+        {
+          "user": "UCCL1R3EZ", 
+          "ts": "1549262040.000100"
+        }, 
+        {
+          "user": "UCB58P2V6", 
+          "ts": "1549415978.000100"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1549438201.007100"
+        }
+      ], 
+      "reply_users_count": 3
+    }
+  }, 
+  {
+    "client_msg_id": "aed17cee-134b-4351-9fd7-81867e94a767", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1549437794.000000"
+    }, 
+    "latest_reply": "1549476058.008600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "UC36F4P2M"
+    ], 
+    "thread_ts": "1549437764.006800", 
+    "text": "*BEW Crew*: Follow <@UCBS4EW59>'s example for more impromptu code reviews from yours truly! :smile:", 
+    "ts": "1549437764.006800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549475067.008400"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1549476058.008600"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "luke", 
+        "users": [
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0d8669b2-26fe-48c1-81be-728fbacbb7a6", 
+    "thread_ts": "1549436712.005400", 
+    "text": "Thanks! And nice, that's a pretty cool package.", 
+    "ts": "1549437105.005900", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e8188913-7cba-4667-bcc1-879bffb2be2b", 
+    "thread_ts": "1549436712.005400", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/safer-eval", 
+        "service_name": "npm", 
+        "title": "safer-eval", 
+        "title_link": "https://www.npmjs.com/package/safer-eval", 
+        "text": "a safer eval", 
+        "from_url": "https://www.npmjs.com/package/safer-eval", 
+        "fallback": "npm: safer-eval", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "text": "this is awesome!\n\nprotip: heed <@UCBS4EW59>\u2019s warnings! `safer-eval` is generally a _safer_ bet than plain `eval` --- but not _completely_ safe.  check out the package here: <https://www.npmjs.com/package/safer-eval>", 
+    "ts": "1549436928.005600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2377169a-8104-4b91-95f3-da0c06e76a93", 
+    "edited": {
+      "user": "UCBS4EW59", 
+      "ts": "1549437295.000000"
+    }, 
+    "latest_reply": "1549437105.005900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M", 
+      "UCBS4EW59"
+    ], 
+    "thread_ts": "1549436712.005400", 
+    "text": "A function that allows population of an infinite amount on a model via an array of strings. Do not allow user input into this function.\n\n```\nconst saferEval = require('safer-eval'); // Thanks Dani!\n\n// takes a model, an id, and an optional array of strings. DO NOT ALLOW USER INPUT\nfunction getOne(Model, id, populates = []) {\n  return new Promise((resolve, reject) =&gt; {\n    if (populates.length &gt; 0) {\n      let pops = '';\n\n      // creates a long string of populates\n      for (let i = 0; i &lt; populates.length; i += 1) {\n        // small safe guard to prevent hacky stuff\n        // this shouldn't be user input anyway.\n        if (populates[i].length &gt; 10) {\n          reject(`populate string too long: ${populates[i]}`);\n        }\n        pops = `${pops}.populate(${populates[i]})`;\n      }\n\n      const expression = `Model.findById(id)\n                          ${pops}\n                          .exec((error, response) =&gt; {\n                            if (error) {\n                              reject(error);\n                            } else {\n                              resolve(response);\n                            }\n                          });`;\n\n      // NEVER USE EVAL OR SAFEREVAL WITH USER INPUT!!!\n      saferEval(expression); // eslint-disable-line\n    } else {\n      // if no populates\n      Model.findById(id, (error, response) =&gt; {\n        if (error) {\n          reject(error);\n        } else {\n          resolve(response);\n        }\n      });\n    }\n  });\n}\n```", 
+    "ts": "1549436712.005400", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBS4EW59", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1549436928.005600"
+      }, 
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1549437105.005900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "e15a7092-aac3-496c-9abd-7270f4fcd28f", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1549416007.000000"
+    }, 
+    "thread_ts": "1549163815.000600", 
+    "text": "Asim i believe routes, middlewares, and controllers refer to the same thing. Do you mean separate them from a controller file?", 
+    "ts": "1549415978.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "24873df0-a6f4-4774-8021-2bdc28ad0f30", 
+    "thread_ts": "1549163815.000600", 
+    "text": "What do you mean by that?", 
+    "ts": "1549262040.000100", 
+    "user": "UCCL1R3EZ", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c5040b87-466f-44e7-b82e-c03700cd7d86", 
+    "thread_ts": "1549163815.000600", 
+    "latest_reply": "1549438201.007100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCCL1R3EZ", 
+      "UCB58P2V6", 
+      "UC36F4P2M"
+    ], 
+    "text": "Any good resources / articles tutorials walking through how to separate routes from controllers?", 
+    "ts": "1549163815.000600", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCCL1R3EZ", 
+        "ts": "1549262040.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1549415978.000100"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1549438201.007100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1548280103.000200", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "20d874bb-2bc1-4489-9396-2000f4f63b6a", 
+    "thread_ts": "1547453634.010800", 
+    "text": "I haven't confirmed if it's a type int or string though actually, assuming a it's an int but in my code, i use it to store into a string", 
+    "ts": "1548226516.000300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dedccfe3-ef9e-49d6-80d9-44f7fdfcc7fb", 
+    "thread_ts": "1547453634.010800", 
+    "text": "Hey <@UCBKC02JY> sorry for the late reply on this one! Yeah absolutely that!", 
+    "ts": "1548226469.000100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3D65030A-65AE-4F75-BC6F-89E8627F0404", 
+    "thread_ts": "1547453634.010800", 
+    "text": "Oh, interesting! Thanks for sharing.\n\nAnd that value of index is just an int (0,1,2,etc)?", 
+    "ts": "1547748511.002200", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "49aeb23d-d4d4-4975-8816-cb06f834b5a6", 
+    "thread_ts": "1547453634.010800", 
+    "text": "<https://github.com/AwesomeZaidi/Until-After/blob/master/views/dashboard.hbs>", 
+    "ts": "1547710495.001000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b3faf5b-aa47-4ded-9179-0321f3759cf4", 
+    "thread_ts": "1547453634.010800", 
+    "text": "Yeah!", 
+    "ts": "1547710437.000800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ABFAAA96-FC5F-48C0-BCFF-BE160800719E", 
+    "thread_ts": "1547453634.010800", 
+    "text": "Can you share an code example where you used index? ", 
+    "ts": "1547708322.000600", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1547515481.012000", 
+    "text": "<@UCBD9KCQH> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "B926C9ED-8997-4161-BB7F-9FEBAACA1339", 
+    "thread_ts": "1547453634.010800", 
+    "text": "And within loops you can even access parent elements :weary::raised_hands::skin-tone-3:", 
+    "ts": "1547483940.011700", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2d599444-05e7-4a88-b8fd-4b3134779fc4", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547453680.000000"
+    }, 
+    "latest_reply": "1548226516.000300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1547453634.010800", 
+    "text": "Just learned that with handlebar helpers you can just access element indices when looping through #each of an array simply with {{@index}}: this is fire!! <https://handlebarsjs.com/builtin_helpers.html>", 
+    "ts": "1547453634.010800", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547483940.011700"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1547708322.000600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547710437.000800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547710495.001000"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1547748511.002200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548226469.000100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548226516.000300"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "2ca31b8d-b764-407a-98f4-923313be8c4c", 
+    "thread_ts": "1547231834.005700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCBKC02JY> nice work :smile:\n\ngood to know that, when properly utilized, mongoosejs queries always return objects: <https://mongoosejs.com/docs/2.7.x/docs/query.html>", 
+    "ts": "1547237207.008900", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "71b40669-993f-4c7f-8cf2-54986dc32627", 
+    "thread_ts": "1547231834.005700", 
+    "text": "<@UCDAETD5L> try something like this:\n```User.find({\n        '_id': {\n          $in: event.arrayOfAttendeeIds\n        }\n      }, function(err, attendees) {\n        res.render('events/show', {\n          event: event,\n          attendees: attendees\n        });\n      });```", 
+    "ts": "1547236982.008700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "80ff5945-b249-4868-9fe6-0d215778510f", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547236807.000000"
+    }, 
+    "thread_ts": "1547231834.005700", 
+    "text": "<@UC36F4P2M> i looked into the $in operator but that seems to only return a boolean of whether or not that id exists in the users, but not returning the actual user itself :disappointed:", 
+    "ts": "1547236791.008300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ecb764cb-338c-411a-9fb1-f4131c3fa3ec", 
+    "thread_ts": "1547231834.005700", 
+    "text": "<@UCBKC02JY> my .populate() actually isn't returning what i want it to actually it's hard to tell what it's doing", 
+    "ts": "1547236749.008100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ba00cbcb-a4ad-410f-aeec-ec7edc942379", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "books", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "javascript", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Free JavaScript e-books <https://www.getfreeebooks.com/19-free-javascript-ebooks-resources/>", 
+    "ts": "1547235989.007900", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6e726804-1c03-4161-a889-2846bddbe4da", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547233345.000000"
+    }, 
+    "thread_ts": "1547231834.005700", 
+    "text": "<@UCBKC02JY> 'B'! Soo I ended up realizing i was using populate wrong, and that i could just do  ```User.findById(req.user.id).populate('friendsWithPermission').then((friends) =&gt; {```", 
+    "ts": "1547233321.007400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sneezing_face", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "ae5744ea-34e4-4e85-bf84-d80cdd1296ed", 
+    "thread_ts": "1547231834.005700", 
+    "text": "<@UC36F4P2M> that's sick!!", 
+    "ts": "1547233216.007200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "204ec8fc-ffcd-4cd7-bdf0-30fdc1e1a021", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1547232646.000000"
+    }, 
+    "thread_ts": "1547231834.005700", 
+    "text": "Find a group of users based on an array of User.id:\n\n`Users.find({_id: {$in:arrayOfIds} })`\n\n<https://docs.mongodb.com/manual/reference/operator/query/in/#op._S_in>", 
+    "ts": "1547232642.006700", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "99b56e79-c519-4746-bd89-ca513124ad03", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1547232595.000000"
+    }, 
+    "thread_ts": "1547231834.005700", 
+    "text": "Not sure I fully understand what you're trying to do.\n\nDo either of these summarize what you're trying to do?\n\n(A) you have a list of object ID's and you want to find the user(s) that those Objects belong to, and return a few properties from each user?\n\nor\n\n(B) you have a list of user ID's and you want to look the Users up using their ID's and return a few properties from each user?", 
+    "ts": "1547232578.006400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "167c7139-4376-4fbd-9c26-8c01d72003ec", 
+    "thread_ts": "1547231834.005700", 
+    "text": "And i tried async await promise all but kind of hard for me to understand and implement by myself", 
+    "ts": "1547231909.006200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "04653aba-5060-450c-9878-659d77dc4623", 
+    "thread_ts": "1547231834.005700", 
+    "text": "And I've tried looping through each id and doing a user.find and appending their info to an array lol", 
+    "ts": "1547231890.006000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3e923f9f-553a-4fb4-a74e-231833282769", 
+    "thread_ts": "1547231834.005700", 
+    "text": "I've tried using populate but that doesn't seem to work in this scenario, maybe i'm not using it right", 
+    "ts": "1547231862.005800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "78de968a-5634-4d69-a2d3-165a282653d1", 
+    "thread_ts": "1547231834.005700", 
+    "latest_reply": "1547237207.008900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBKC02JY", 
+      "UC36F4P2M"
+    ], 
+    "text": "Need some help on a mongoose thing! I've got a list of object id's and in my view, i need to look up each user by their id in that array, and return a few different properties in my front end from each of those users", 
+    "ts": "1547231834.005700", 
+    "type": "message", 
+    "reply_count": 11, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547231862.005800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547231890.006000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547231909.006200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1547232578.006400"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1547232642.006700"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547233216.007200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547233321.007400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547236749.008100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547236791.008300"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1547236982.008700"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1547237207.008900"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "503cb488-0790-48fb-a0f6-5a9664316393", 
+    "thread_ts": "1547168233.004100", 
+    "text": "might wanna be sure it's 100% safe not only in name but also implementation :wink:", 
+    "ts": "1547170000.004400", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fd9b2e57-240a-43e7-91d8-7afa51d1d47b", 
+    "thread_ts": "1547168233.004100", 
+    "latest_reply": "1547170000.004400", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/safe-eval", 
+        "service_name": "npm", 
+        "title": "safe-eval", 
+        "title_link": "https://www.npmjs.com/package/safe-eval", 
+        "text": "Safer version of eval()", 
+        "from_url": "https://www.npmjs.com/package/safe-eval", 
+        "fallback": "npm: safe-eval", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1547170000.004400"
+      }
+    ], 
+    "ts": "1547168233.004100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBDPE94Z", 
+    "text": "<https://www.npmjs.com/package/safe-eval> node package for a safe version of the eval() javascript function.  still playing around to see if it really works but if it does you can run user javascript generated javascript on your site and stuff like that", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "7881EF85-E31F-4385-A8E8-D79677B4C0E0", 
+    "thread_ts": "1546976474.002900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue_winking_eye", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "SSHHHHHHH", 
+    "ts": "1547050095.000500", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3009eb4-f48b-4d2f-9321-05a38b9571f5", 
+    "thread_ts": "1546976474.002900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "grimacing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "old_key", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "*also shares your generated secrets with Dylan", 
+    "ts": "1546982312.003200", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "566649bf-13be-49fe-ac0d-bb6b6a50913b", 
+    "thread_ts": "1546976474.002900", 
+    "latest_reply": "1547050095.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBDPE94Z"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dani", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "shushing_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "game_die", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I made a secret generator that you can run locally that makes true random secrets.  I've used it a few times and thought yall might too so I put it on github <https://github.com/dy-fi/Secret-Generator>", 
+    "ts": "1546976474.002900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDPE94Z", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1546982312.003200"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1547050095.000500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1546902388.000700", 
+    "text": "<@UCBS8JUHH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBP4M9C4", 
+    "ts": "1546671270.000500", 
+    "text": "<@UCBP4M9C4> has joined the channel"
+  }, 
+  {
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1546662498.000000"
+    }, 
+    "attachments": [
+      {
+        "fallback": "[January 4th, 2019 8:04 PM] dani: _dropping some straight :fire: for all yall that have been talking to me about onions lately... here's an *awesome weekend project* i stumbled upon today. *you'll earn a TON of rare knowledge if you pull it off*._ :chart_with_upwards_trend:\n\n*vanity address generator for onion services*:\n<https://github.com/cathugger/mkp224o>\n\n:rain_cloud: all weekend? no worries. :sunglasses:\n\n7 custom characters and you'll bask in the warmth of your cpu crunching crypto for an _entire day_. 8 characters? 25 days. \n9 would take _2.5 years..._\n_*10 characters* would take about *40 years to generate*._ :scream: ", 
+        "author_link": "https://product-college.slack.com/team/UC36F4P2M", 
+        "color": "D0D0D0", 
+        "text": "_dropping some straight :fire: for all yall that have been talking to me about onions lately... here's an *awesome weekend project* i stumbled upon today. *you'll earn a TON of rare knowledge if you pull it off*._ :chart_with_upwards_trend:\n\n*vanity address generator for onion services*:\n<https://github.com/cathugger/mkp224o>\n\n:rain_cloud: all weekend? no worries. :sunglasses:\n\n7 custom characters and you'll bask in the warmth of your cpu crunching crypto for an _entire day_. 8 characters? 25 days. \n9 would take _2.5 years..._\n_*10 characters* would take about *40 years to generate*._ :scream: ", 
+        "footer": "Posted in #blockchain", 
+        "ts": "1546661042.013500", 
+        "author_name": "Dani Roxberry [BEW]", 
+        "is_share": true, 
+        "channel_name": "blockchain", 
+        "channel_id": "CCMPNFPFH", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dani Roxberry [BEW]", 
+        "from_url": "https://product-college.slack.com/archives/CCMPNFPFH/p1546661042013500", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-09/413908231171_1f74ed174abdfc3633f8_48.png", 
+        "author_id": "UC36F4P2M"
+      }
+    ], 
+    "text": "sharing this in case any inquiring minds in the crew want to explore the architecture of decentralized web services :grin:", 
+    "ts": "1546662444.000100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3436d8d-59bc-48a2-9860-2a127a210257", 
+    "attachments": [
+      {
+        "image_bytes": 20966, 
+        "original_url": "https://js.tensorflow.org/", 
+        "text": "A WebGL accelerated, browser based JavaScript library for training and deploying ML models", 
+        "title": "TensorFlow.js", 
+        "image_width": 427, 
+        "title_link": "https://js.tensorflow.org/", 
+        "image_height": 250, 
+        "image_url": "https://js.tensorflow.org/images/TF_JS_twitter.png", 
+        "service_name": "js.tensorflow.org", 
+        "from_url": "https://js.tensorflow.org/", 
+        "fallback": "TensorFlow.js", 
+        "service_icon": "https://js.tensorflow.org/images/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://js.tensorflow.org/>", 
+    "ts": "1546561375.006500", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "eb09f50a-30a2-480a-a99c-5b17b645b7a0", 
+    "text": "You can use JS to do AI\u2026", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1546561015.006300"
+  }, 
+  {
+    "client_msg_id": "6c3217ea-8841-488a-bf1a-267de8840fa9", 
+    "attachments": [
+      {
+        "thumb_height": 1500, 
+        "thumb_url": "https://aijs.rocks/static/aijs-logo.5464795e.png", 
+        "thumb_width": 1500, 
+        "original_url": "https://aijs.rocks/", 
+        "text": "A curated collection of inspirational AI-powered JavaScript apps. Find examples of artificial intelligence and machine learning with Javascript", 
+        "title": "aijs.rocks", 
+        "title_link": "https://aijs.rocks/", 
+        "service_name": "aijs.rocks", 
+        "from_url": "https://aijs.rocks/", 
+        "fallback": "aijs.rocks", 
+        "service_icon": "https://aijs.rocks/static/favicon.f6047a99.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://aijs.rocks/>", 
+    "ts": "1546561010.006000", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "311ac54f-d1b9-4678-8762-be1f284b3fc3", 
+    "thread_ts": "1546438751.005300", 
+    "text": "The client only has access to what you interpolate using {{handlebars}} in the view. Passing unnecessary information is not an issue unless you put it in the page using {{handlebars}}", 
+    "ts": "1546454653.005600", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "12a64820-5fad-4b77-a561-d87c7a4faf17", 
+    "thread_ts": "1546438751.005300", 
+    "text": "Hmm are you trying to limit what you are sending the client from a mongoose find maybe like constructing a jwt without the user password inside? You can just set `result.Password = null`  or you can create a new javascript object (lets call it session) and use a for loop to populate it conditionally?", 
+    "ts": "1546454479.005400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9C52F7AE-A520-4046-866F-65D43BB8731C", 
+    "thread_ts": "1546438751.005300", 
+    "latest_reply": "1546454653.005600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "text": "Has anyone used View Model in Node? I had a tough time finding the best practices online for some reason, basically I realized I have certain views in which I don\u2019t want to pass the entire model down because it\u2019s excess information so I heard view models are the way to like instantiate part of a model to be sent down to a view.. would love to hear if anyone has done this yet?", 
+    "ts": "1546438751.005300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1546454479.005400"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1546454653.005600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "80322DE9-4631-4E2B-87E3-F19BEC87C2E9", 
+    "thread_ts": "1546012861.003300", 
+    "text": "That\u2019s cool, I\u2019d love to check out the projects if you have em up on GitHub?", 
+    "ts": "1546227419.001500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f3366c11-61cd-4c91-a1b1-644d22bf2d8f", 
+    "thread_ts": "1546012861.003300", 
+    "text": "The hashtable structure (dict) is useful for searching through values and keys.", 
+    "ts": "1546033881.000500", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7a784d50-9a46-43ba-8c69-48f231c86104", 
+    "thread_ts": "1546012861.003300", 
+    "text": "I'm also using a stack to help reference older dicts for use", 
+    "ts": "1546033807.000300", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6d3b8923-77de-44b2-b6a5-e32f815e53cc", 
+    "thread_ts": "1546012861.003300", 
+    "text": "I'm using dictionaries, sets and tuples , multiple sorting algorithms, and compression algorithms for a project I am currently working on", 
+    "ts": "1546033772.000100", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F71CF9A4-C17A-43CA-A269-882240F11D9F", 
+    "thread_ts": "1546012861.003300", 
+    "latest_reply": "1546227419.001500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCD9FM8GN", 
+      "UCDAETD5L"
+    ], 
+    "text": "Would love to hear if/how anyone is combining cool CS topics with a backend project? Right now the only data structure I think I\u2019ve used is an array when storing a list of items in my model, and then using built in Node methods to access and edit it. Not sure where/how I could for instance use a hash map or linked list in my project?", 
+    "ts": "1546012861.003300", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1546033772.000100"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1546033807.000300"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1546033881.000500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1546227419.001500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "74011cba-66c6-4554-b757-68d8f1d78a50", 
+    "thread_ts": "1545438164.001800", 
+    "text": "yeah, just kidding.", 
+    "ts": "1545494479.004600", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c14fd542-cdbb-4e8b-9f81-dcb3aae869c0", 
+    "thread_ts": "1545438164.001800", 
+    "text": "<@UCC0GL52N> I don't think it is built on JS", 
+    "ts": "1545469680.004400", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13254276-d1ff-4c44-aaf9-6fba19ac4e19", 
+    "thread_ts": "1545438164.001800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "lol, yes Carlos. I meant a gem like a good find.\nAlso, TIL: All rails files come with a `package.json`file standard even though they have `gemfile` and `gemfile.lock`. :thinking_face: Is Rails built on Javascript??\n :ruby_on_rails:  :heavy_plus_sign: :javascript: =:baby:", 
+    "ts": "1545454918.004100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2ae2f55b-12b5-4214-84c5-e5df76e8af64", 
+    "thread_ts": "1545438164.001800", 
+    "text": "<@UCC0GL52N> aren't gems a Ruby thing?", 
+    "ts": "1545454517.003900", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "438e9cef-07b8-4c44-9b01-7aff663af408", 
+    "thread_ts": "1545438164.001800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCD53TKCN"
+        ]
+      }
+    ], 
+    "text": "I thought you could run `npm install --S` but never tried it without the  `--save`", 
+    "ts": "1545440725.003100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7360a384-ed52-454d-85f6-37369ec4539f", 
+    "thread_ts": "1545438164.001800", 
+    "text": "Adding more than one package per line is a great gem.", 
+    "ts": "1545440665.002900", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "57bfa80b-9ffd-4083-8d41-0798a3daf8f9", 
+    "thread_ts": "1545438164.001800", 
+    "text": "ah... thanks!", 
+    "ts": "1545440367.002700", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4dbdd211-7323-4cd7-b183-fb2d5f41ab2d", 
+    "thread_ts": "1545438164.001800", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBPUT6AX", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "^ and another tip that you may or may not know about already: as of more recent npm versions, `--save` is implicit when using `npm install` :slightly_smiling_face:", 
+    "ts": "1545439491.002200", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1a92f64b-f3b9-49a7-a02e-d63f1317e810", 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1545438855.000000"
+    }, 
+    "thread_ts": "1545438164.001800", 
+    "text": "You can do multiple packages in one line, ex:\n`npm install --save lodash axios when`\n\nOr better yet, use yarn when starting a project:\n`brew install yarn`\n`yarn add lodash axios when`", 
+    "ts": "1545438764.001900", 
+    "user": "UCBPUT6AX", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "c5216f61-173b-41b3-b445-e4505638aa71", 
+    "thread_ts": "1545438164.001800", 
+    "latest_reply": "1545494479.004600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBPUT6AX", 
+      "UCD53TKCN", 
+      "UCC0GL52N", 
+      "UCD9FM8GN"
+    ], 
+    "text": "I'm editing a Nodejs project and I'm adding other modules to it. Is there a way to add the module in `dependencies` in `package.json` without having to run `npm install &lt;pkg&gt; --save` for each package?", 
+    "ts": "1545438164.001800", 
+    "type": "message", 
+    "reply_count": 9, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCBPUT6AX", 
+        "ts": "1545438764.001900"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1545439491.002200"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1545440367.002700"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1545440665.002900"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1545440725.003100"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1545454517.003900"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1545454918.004100"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1545469680.004400"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1545494479.004600"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "2e25fadd-03bd-475a-ad44-65ee76a30ef7", 
+    "text": "ooh this is cool, thx for the share <@U1D40QFD4>!", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1545182661.003700"
+  }, 
+  {
+    "client_msg_id": "db169829-3f59-4c47-848e-bdca4898134f", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/@sindresorhus/slugify", 
+        "service_name": "npm", 
+        "title": "@sindresorhus/slugify", 
+        "title_link": "https://www.npmjs.com/package/@sindresorhus/slugify", 
+        "text": "Slugify a string", 
+        "from_url": "https://www.npmjs.com/package/@sindresorhus/slugify", 
+        "fallback": "npm: @sindresorhus/slugify", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.npmjs.com/package/@sindresorhus/slugify>", 
+    "ts": "1545122123.002300", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ee9ee864-b2c0-41ac-bdbd-10599da909b5", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y", 
+          "UCBKC02JY", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCDAETD5L> what about pretty urls? like where the url is the title of an article instead of its nonsense _id? `/articles/new-on-cnn-article-that-is-great`", 
+    "ts": "1545122077.002100", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2fb0f324-a44c-46f8-bc89-98c88c64be36", 
+    "attachments": [
+      {
+        "thumb_height": 600, 
+        "thumb_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png", 
+        "thumb_width": 600, 
+        "original_url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes", 
+        "service_name": "MDN Web Docs", 
+        "title": "Express Tutorial Part 4: Routes and controllers", 
+        "title_link": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes", 
+        "text": "We've now created all the routes for our site, along with\u00a0dummy controller functions that we can populate with a full implementation in later articles. Along the way we've learned a lot of fundamental information about Express routes, and some approaches for structuring our routes and controllers.", 
+        "from_url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes", 
+        "fallback": "MDN Web Docs: Express Tutorial Part 4: Routes and controllers", 
+        "service_icon": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png", 
+        "id": 1
+      }
+    ], 
+    "text": "I'd love to see if anyone has had some cool use cases for route path patterns using hyphens, dots, or even JS Regex. I just read about them in the docs - <https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes> but can't really think of a good use case in which I'd use em :confused:", 
+    "ts": "1545105871.001300", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "26B1877D-6A1A-4BA8-BD6D-DBB1C40C1DF0", 
+    "thread_ts": "1544695722.002500", 
+    "text": "Woah that\u2019s cool what is this?", 
+    "ts": "1544704198.003500", 
+    "user": "UCBS3LMDZ", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 476, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FESN6UDNG", 
+        "thumb_480_h": 285, 
+        "original_h": 923, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2018-12-13 at 2.07.47 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FESN6UDNG/screen_shot_2018-12-13_at_2.07.47_am.png", 
+        "thumb_720_h": 428, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_80.png", 
+        "thumb_360_h": 214, 
+        "size": 414917, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_800.png", 
+        "timestamp": 1544695717, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FESN6UDNG/download/screen_shot_2018-12-13_at_2.07.47_am.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_1024.png", 
+        "user": "UCBQH1P6E", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FESN6UDNG-c2eee63872", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQH1P6E/FESN6UDNG/screen_shot_2018-12-13_at_2.07.47_am.png", 
+        "name": "Screen Shot 2018-12-13 at 2.07.47 AM.png", 
+        "created": 1544695717, 
+        "thumb_1024_h": 609, 
+        "thumb_960_h": 571, 
+        "original_w": 1552, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FESN6UDNG-1b3cc4603d/screen_shot_2018-12-13_at_2.07.47_am_720.png"
+      }
+    ], 
+    "thread_ts": "1544695722.002500", 
+    "latest_reply": "1544704198.003500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS3LMDZ"
+    ], 
+    "text": "Now this... makes me wanna write tests", 
+    "upload": true, 
+    "ts": "1544695722.002500", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQH1P6E", 
+    "replies": [
+      {
+        "user": "UCBS3LMDZ", 
+        "ts": "1544704198.003500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1d027666-7039-4544-983f-edb83b187c9e", 
+    "text": "This slack bot does not even work properly lol", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544647953.002300"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_raised_eyebrow", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "you're", 
+    "ts": "1544641287.001900", 
+    "subtype": "slackbot_response", 
+    "user": "USLACKBOT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "89424a5b-8d91-441a-bbe5-de92c5ad2e2a", 
+    "text": "<http://kaffeine.herokuapp.com/>\nKaffeine pings your Heroku app every 30 minutes so it will never go to sleep*\n_* Starting August 15, 2015, Heroku requires all free applications to sleep for 6 hours every day._\nI set my sleep time to 11pm PST/ 7am GMT", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1544641287.001800"
+  }, 
+  {
+    "client_msg_id": "c3f9a363-6ba2-4271-b825-c0b9b5c9ce2d", 
+    "thread_ts": "1544635319.000100", 
+    "text": "so much truth", 
+    "ts": "1544636244.000400", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1544635319.000100", 
+    "latest_reply": "1544636244.000400", 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "image_bytes": 104323, 
+        "author_link": "https://twitter.com/ow/status/1069938837999271936", 
+        "text": "logging into amazon web services like <https://pbs.twimg.com/media/DtkvdcJX4AA9lv8.jpg>", 
+        "from_url": "https://twitter.com/ow/status/1069938837999271936", 
+        "original_url": "https://twitter.com/ow/status/1069938837999271936", 
+        "ts": 1543928272, 
+        "author_name": "Owen Williams \u26a1", 
+        "image_width": 1200, 
+        "image_height": 904, 
+        "image_url": "https://pbs.twimg.com/media/DtkvdcJX4AA9lv8.jpg", 
+        "service_name": "twitter", 
+        "author_subname": "@ow", 
+        "service_url": "https://twitter.com/", 
+        "fallback": "<https://twitter.com/ow|@ow>: logging into amazon web services like <https://pbs.twimg.com/media/DtkvdcJX4AA9lv8.jpg>", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1048773946961776641/mDCGMiQO_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }, 
+      {
+        "image_bytes": 250337, 
+        "text": "<https://pbs.twimg.com/media/Dtkvr4WXgAEuzpz.jpg>", 
+        "image_width": 1200, 
+        "image_height": 750, 
+        "image_url": "https://pbs.twimg.com/media/Dtkvr4WXgAEuzpz.jpg", 
+        "id": 2
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "UC36F4P2M", 
+          "UCBKC02JY", 
+          "UCBS4EW59"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1544636244.000400"
+      }
+    ], 
+    "ts": "1544635319.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "text": "<https://twitter.com/ow/status/1069938837999271936>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1544225094.012000", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "client_msg_id": "708f2919-1545-42ce-bbc8-b33df18f85f5", 
+    "thread_ts": "1543977777.011100", 
+    "attachments": [
+      {
+        "original_url": "https://www.datchley.name/es6-promises/", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Dave Atchley", 
+            "title": "Written by"
+          }, 
+          {
+            "short": true, 
+            "value": "javascript, asynchronous, promises, es6", 
+            "title": "Filed under"
+          }
+        ], 
+        "title": "ES6 Promises (the Basics)", 
+        "ts": 1436128503, 
+        "title_link": "https://www.datchley.name/es6-promises/", 
+        "text": "Introduction to ES6 Promises, creating Promises, Using Promises, Handling Errors and more.", 
+        "service_name": "Dave Atchley", 
+        "from_url": "https://www.datchley.name/es6-promises/", 
+        "fallback": "Dave Atchley: ES6 Promises (the Basics)", 
+        "service_icon": "https://www.datchley.name/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "thanks for the tag -- this was also helpful for me the other day: <https://www.datchley.name/es6-promises/>", 
+    "ts": "1543985919.011500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "20f897a8-7aa4-4076-84d0-26eaa65a2831", 
+    "thread_ts": "1543977777.011100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCBKC02JY>", 
+    "ts": "1543985118.011200", 
+    "user": "UCCL1R3EZ", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1543977777.011100", 
+    "latest_reply": "1543985919.011500", 
+    "attachments": [
+      {
+        "fallback": "[December 4th, 2018 6:42 PM] dani: I learned a new thing recently. The ES6 specifications include documentation regarding promises. These two markdown files are invaluable in your quest to truly grok promises: <https://github.com/domenic/promises-unwrapping/tree/master/docs>", 
+        "author_link": "https://product-college.slack.com/team/UC36F4P2M", 
+        "color": "D0D0D0", 
+        "text": "I learned a new thing recently. The ES6 specifications include documentation regarding promises. These two markdown files are invaluable in your quest to truly grok promises: <https://github.com/domenic/promises-unwrapping/tree/master/docs>", 
+        "footer": "From a thread in #bew1-2", 
+        "ts": "1543977721.090200", 
+        "author_name": "Dani Roxberry [BEW]", 
+        "is_share": true, 
+        "channel_name": "bew1-2", 
+        "channel_id": "CCH3RT7V3", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dani Roxberry [BEW]", 
+        "from_url": "https://product-college.slack.com/archives/CCH3RT7V3/p1543977721090200?thread_ts=1543949114082700&cid=CCH3RT7V3", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-09/413908231171_1f74ed174abdfc3633f8_48.png", 
+        "author_id": "UC36F4P2M", 
+        "is_reply_unfurl": true
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCCL1R3EZ", 
+      "UCBKC02JY"
+    ], 
+    "replies": [
+      {
+        "user": "UCCL1R3EZ", 
+        "ts": "1543985118.011200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1543985919.011500"
+      }
+    ], 
+    "ts": "1543977777.011100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "text": "", 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "40edb9bf-f5ea-41b1-8149-4820fac71ba8", 
+    "thread_ts": "1543976740.006100", 
+    "text": ":green_heart:", 
+    "ts": "1543977429.010900", 
+    "user": "UCCL1R3EZ", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "BE613A0D-E036-40A7-9781-5C5B412C137B", 
+    "thread_ts": "1543976740.006100", 
+    "text": "Manually :grin::+1: \n\n1. add a flag to model - adminCanCreateUser - default false.\n2. lock down front end based on flag like in class yesterday\n3. push to prod\n4. make user on prod\n5. login to prod db using prod credentials in mlab - do this via mongod\n6. write mongo query in mongod shell to set adminCanCreateUser to true for your username ", 
+    "ts": "1543977377.010700", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ae62405a-5bad-445b-a4b2-1f7cc4c86df6", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1543976819.000000"
+    }, 
+    "latest_reply": "1543977429.010900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M", 
+      "UCCL1R3EZ"
+    ], 
+    "thread_ts": "1543976740.006100", 
+    "text": "<@UC36F4P2M> I decided that the only users I want in my node project to be admins. I want to make the admin login dashboard only available through the route `/admin/login` (ie not available through the front-end), and I do not want anybody other than me to be able to create a user account.\n\nI am wondering about *the best way to inject a \u201cMaster Admin\u201d user into my heroku mlab db?* I don\u2019t want to have a signup link available on `/admin/login` b/c I don\u2019t any person stumbling on the URL to be able to get the admin privileges I plan on encoding", 
+    "ts": "1543976740.006100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCCL1R3EZ", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1543977377.010700"
+      }, 
+      {
+        "user": "UCCL1R3EZ", 
+        "ts": "1543977429.010900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "f69c9fb7-9d7b-4352-b8b5-c07b90c4eb8b", 
+    "thread_ts": "1543443428.002600", 
+    "text": "Not only knowing what it is but what are it's unique features, if you weren't to use Node what else could you use? What are some of the down sides of using it? Tings like dat", 
+    "ts": "1543443546.002800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2c40a042-9569-4898-8494-2746603a896a", 
+    "thread_ts": "1543443428.002600", 
+    "latest_reply": "1543443546.002800", 
+    "attachments": [
+      {
+        "thumb_height": 1200, 
+        "thumb_url": "https://www.codecademy.com/assets/logo-codecademy-social-abfd8450722d675bddedde689f8af624.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.codecademy.com/articles/what-is-node", 
+        "service_name": "Codecademy", 
+        "title": "What is Node? | Codecademy", 
+        "title_link": "https://www.codecademy.com/articles/what-is-node", 
+        "text": "Learn about Node.js, a JavaScript runtime for building server-side or desktop applications.. Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.", 
+        "from_url": "https://www.codecademy.com/articles/what-is-node", 
+        "fallback": "Codecademy: What is Node? | Codecademy", 
+        "service_icon": "https://www.codecademy.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "UCBDA2GGH", 
+          "U1HBKMW8Y", 
+          "UCC0HC7D0", 
+          "UCBKC02JY", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thought_balloon", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1543443546.002800"
+      }
+    ], 
+    "ts": "1543443428.002600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "text": "Over break I went home to and talked to my cousin who works for Amazon about how I learned how to build a Node app this past quarter - and he was like interesting, whats' node? I was able to tell him what it was but i gave a super iffy response, not very confident on how to exactly define it and he told me that would be a huge immidate red flag if that happened in an interview - So I found this coool resource that is a really good read to better understand and articulate what NodeJS is - <https://www.codecademy.com/articles/what-is-node>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "50258ad8-e4a2-4cfb-a48b-40d8d03912ad", 
+    "thread_ts": "1542224016.000600", 
+    "text": "This is awesome!", 
+    "ts": "1543044579.000200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7C4A365F-FE2B-48D7-A072-0267314DDEAD", 
+    "thread_ts": "1542870869.000600", 
+    "text": "beautiful.cs :rolling_on_the_floor_laughing: ", 
+    "ts": "1542909882.000500", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCD9FM8GN", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "csharp", 
+        "lines_more": 25, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FE978V4SD", 
+        "size": 878, 
+        "title": "Beautiful.cs", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE978V4SD/beautiful_cs.cs", 
+        "preview": "using System;\r\nusing System.Threading.Tasks;\r\nusing System.Net.Http;\r\nusing System.Net.Http.Headers;\r\n\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCD9FM8GN/FE978V4SD/beautiful_cs.cs/edit", 
+        "username": "", 
+        "timestamp": 1542870867, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">using</span> <span class=\"cm-variable\">System</span>;</pre></div>\n<div><pre><span class=\"cm-keyword\">using</span> <span class=\"cm-variable\">System</span>.<span class=\"cm-variable\">Threading</span>.<span class=\"cm-variable\">Tasks</span>;</pre></div>\n<div><pre><span class=\"cm-keyword\">using</span> <span class=\"cm-variable\">System</span>.<span class=\"cm-variable\">Net</span>.<span class=\"cm-variable\">Http</span>;</pre></div>\n<div><pre><span class=\"cm-keyword\">using</span> <span class=\"cm-variable\">System</span>.<span class=\"cm-variable\">Net</span>.<span class=\"cm-variable\">Http</span>.<span class=\"cm-variable\">Headers</span>;</pre></div>\n<div><pre>&#8203;</pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE978V4SD/download/beautiful_cs.cs", 
+        "user": "UCD9FM8GN", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "C#", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE978V4SD-b52a255207", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD9FM8GN/FE978V4SD/beautiful_cs.cs", 
+        "name": "Beautiful_cs.cs", 
+        "created": 1542870867, 
+        "lines": 30, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "thread_ts": "1542870869.000600", 
+    "latest_reply": "1542909882.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDA2GGH"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": ":stuck_out_tongue: :fire: :fireworks: :sweat_smile:", 
+    "upload": true, 
+    "ts": "1542870869.000600", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCD9FM8GN", 
+    "replies": [
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1542909882.000500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1542761558.000400", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[November 19th, 2018 7:14 AM] dani: :javascript: _*The 2018 State of JavaScript has been released*_!\n\n&gt; This year, [they] *surveyed over _20,000_ JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn*. And the result is a *unique collection of stats and insights* that will hopefully help you make your own way through the JavaScript ecosystem.\n\n<https://2018.stateofjs.com/>", 
+        "author_link": "https://product-college.slack.com/team/UC36F4P2M", 
+        "color": "D0D0D0", 
+        "text": ":javascript: _*The 2018 State of JavaScript has been released*_!\n\n&gt; This year, [they] *surveyed over _20,000_ JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn*. And the result is a *unique collection of stats and insights* that will hopefully help you make your own way through the JavaScript ecosystem.\n\n<https://2018.stateofjs.com/>", 
+        "footer": "Posted in #random", 
+        "ts": "1542640473.378700", 
+        "author_name": "Dani Roxberry [BEW]", 
+        "is_share": true, 
+        "channel_name": "random", 
+        "channel_id": "C1D454NRE", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dani Roxberry [BEW]", 
+        "from_url": "https://product-college.slack.com/archives/C1D454NRE/p1542640473378700", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-09/413908231171_1f74ed174abdfc3633f8_48.png", 
+        "author_id": "UC36F4P2M"
+      }
+    ], 
+    "ts": "1542666178.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "B2C3AA1B-D9FE-4B04-9F15-0B63FAC2D42B", 
+    "thread_ts": "1542346472.007900", 
+    "text": "I use :tada:  for the index page of every api I build. I feel appropriate emojis are absolutely necessary :100:", 
+    "ts": "1542347748.010900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F157A9A3-327B-4D96-BE17-5F7F625E490E", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1542347367.000000"
+    }, 
+    "latest_reply": "1542347748.010900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "thread_ts": "1542346472.007900", 
+    "text": ":bulb: I had a lightbulb moment while teaching BEW1.3 today that I wanted to share with <!channel>! \n\nHere's a *recipe for a cool API project that other programmers will use*:\n\n*package manager* _(gem || npm || yarn || pip || conda || dep || go || jetpack || PEAR)_ `+` *interesting package(s) that solve a problem* `+` *web framework* `=` *NEW API*! :tada:\n\n:thinking_face::bulb:\u203c\ufe0f:sunglasses::rocket::rocket::rocket:", 
+    "pinned_info": {
+      "pinned_ts": 1542347291, 
+      "channel": "CDPLRF7SR", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1542346472.007900", 
+    "pinned_to": [
+      "CDPLRF7SR"
+    ], 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1542347748.010900"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "2e5c2d61-bc7d-4b41-91cb-a163e961e130", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UC45RJQ7M", 
+          "UCBDA2GGH", 
+          "UCC0GL52N", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "happy to report that our track curriculum touches upon on all of these things over the next two years :slightly_smiling_face:", 
+    "ts": "1542224085.001800", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c385a793-06d6-4ea1-9156-83d5a724c0e0", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1542224032.000000"
+    }, 
+    "text": "<https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9>", 
+    "ts": "1542224024.001000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 171, 
+        "filetype": "png", 
+        "thumb_800_h": 2249, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FE3KWUF0C", 
+        "thumb_480_h": 480, 
+        "original_h": 3610, 
+        "thumb_360_w": 128, 
+        "title": "backend-web-2018-path.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE3KWUF0C/backend-web-2018-path.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_64.png", 
+        "thumb_720_w": 256, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_80.png", 
+        "thumb_360_h": 360, 
+        "size": 1035267, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_800.png", 
+        "timestamp": 1542224010, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE3KWUF0C/download/backend-web-2018-path.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_1024.png", 
+        "user": "UC36F4P2M", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE3KWUF0C-9499eb0593", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FE3KWUF0C/backend-web-2018-path.png", 
+        "name": "backend-web-2018-path.png", 
+        "created": 1542224010, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1284, 
+        "thumb_960_w": 341, 
+        "thumb_1024_w": 364, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3KWUF0C-77f2cb1210/backend-web-2018-path_720.png"
+      }
+    ], 
+    "thread_ts": "1542224016.000600", 
+    "latest_reply": "1543044579.000200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "text": "<!channel> path to success for backend web engineers in 2018. take note! :+1:", 
+    "upload": true, 
+    "ts": "1542224016.000600", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1543044579.000200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "76a1e821-6619-439d-9b4b-2f146239236f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Posted in #bew1-2", 
+        "author_id": "UC36F4P2M", 
+        "original_url": "https://product-college.slack.com/archives/CCH3RT7V3/p1542183401027100", 
+        "is_msg_unfurl": true, 
+        "text": "<!here>  *Latest `reddit.js` pushed to production. This release fixes the following issues:*\n\n\u2022 Fix new post route call in `4. Testing Posts`. Thx <@UCC0H4UJE>! :eyes:\n\n\u2022 Fix improper reference to `./data/reddit-db/` in `2. Create a Post`. Thx <@UCBDBB3LZ>! :raised_hands:\n\n\u2022 Added language that informs and educates re:`express-validator` in `2. Create a Post - REQ.BODY FOR MIDDLEWARE`. Thx 2x <@UCBDBB3LZ>! :clap:\n\n\u2022 Added language that helps the implementer further think through embedded document references, _including_ documentation on the concept of embedded references in `11. Comments on Comments: Part Deux`. Thx <@UCBQJD3NW>! :tada:\n\n*The remainder of issues are filed as `enhancement` requests and are part of my Asana backlog, ready and waiting for a free hour so I can further improve the tutorial based on your feedback and suggestions.*  Furthermore, I have staff eyes on this as well --- Milad is completing this tutorial step by step in-between classes and will deliver feedback for me on Friday. :+1:\n\nThanks so much and keep 'em coming! :smile:", 
+        "author_link": "https://product-college.slack.com/team/UC36F4P2M", 
+        "ts": "1542183401.027100", 
+        "author_name": "Dani Roxberry [BEW]", 
+        "channel_name": "bew1-2", 
+        "channel_id": "CCH3RT7V3", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://product-college.slack.com/archives/CCH3RT7V3/p1542183401027100", 
+        "author_subname": "Dani Roxberry [BEW]", 
+        "fallback": "[November 14th, 2018 12:16 AM] dani: <!here>  *Latest `reddit.js` pushed to production. This release fixes the following issues:*\n\n\u2022 Fix new post route call in `4. Testing Posts`. Thx <@UCC0H4UJE>! :eyes:\n\n\u2022 Fix improper reference to `./data/reddit-db/` in `2. Create a Post`. Thx <@UCBDBB3LZ>! :raised_hands:\n\n\u2022 Added language that informs and educates re:`express-validator` in `2. Create a Post - REQ.BODY FOR MIDDLEWARE`. Thx 2x <@UCBDBB3LZ>! :clap:\n\n\u2022 Added language that helps the implementer further think through embedded document references, _including_ documentation on the concept of embedded references in `11. Comments on Comments: Part Deux`. Thx <@UCBQJD3NW>! :tada:\n\n*The remainder of issues are filed as `enhancement` requests and are part of my Asana backlog, ready and waiting for a free hour so I can further improve the tutorial based on your feedback and suggestions.*  Furthermore, I have staff eyes on this as well --- Milad is completing this tutorial step by step in-between classes and will deliver feedback for me on Friday. :+1:\n\nThanks so much and keep 'em coming! :smile:", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-09/413908231171_1f74ed174abdfc3633f8_48.png", 
+        "id": 1
+      }
+    ], 
+    "text": "FYI!\n\n<https://product-college.slack.com/archives/CCH3RT7V3/p1542183401027100>", 
+    "ts": "1542183466.002800", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FE1B1N2L8", 
+        "thumb_480_h": 461, 
+        "original_h": 720, 
+        "thumb_360_w": 360, 
+        "title": "world-destroyed-js.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE1B1N2L8/world-destroyed-js.jpg", 
+        "thumb_720_h": 691, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_80.jpg", 
+        "thumb_360_h": 346, 
+        "size": 209291, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1542087660, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE1B1N2L8/download/world-destroyed-js.jpg", 
+        "user": "UC36F4P2M", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE1B1N2L8-fc69d402c4", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FE1B1N2L8/world-destroyed-js.jpg", 
+        "name": "world-destroyed-js.jpg", 
+        "created": 1542087660, 
+        "original_w": 750, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE1B1N2L8-b7b08d35ca/world-destroyed-js_720.jpg"
+      }
+    ], 
+    "thread_ts": "1542077736.000800", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBHS9M3N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "earth_americas", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "boom", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "sob", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBHS9M3N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "javascript", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBHS9M3N"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1542087663.001000", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5d878c0-9624-47a7-a2d1-0f7d2beaf806", 
+    "thread_ts": "1542077736.000800", 
+    "latest_reply": "1542087663.001000", 
+    "attachments": [
+      {
+        "image_bytes": 32160, 
+        "original_url": "https://dev.to/basedenergy/what-is-this-4onl", 
+        "service_name": "The Practical Dev", 
+        "title": "What is \"This\"?", 
+        "image_width": 500, 
+        "title_link": "https://dev.to/basedenergy/what-is-this-4onl", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--G8WXj8pw--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://fsmedia.imgix.net/40/d4/4a/fd/3a5e/49a7/a675/9a976d8f24bf/is-this-a-pigeon-meme.jpeg%3Frect%3D0%252C61%252C650%252C325%26dpr%3D2%26auto%3Dformat%252Ccompress%26w%3D650", 
+        "text": "short, simple breakdown of \"this\" keyword", 
+        "from_url": "https://dev.to/basedenergy/what-is-this-4onl", 
+        "fallback": "The Practical Dev: What is \"This\"?", 
+        "service_icon": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/apple-icon-5c6fa9f2bce280428589c6195b7f1924206a53b782b371cfe2d02da932c8c173.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1542087663.001000"
+      }
+    ], 
+    "ts": "1542077736.000800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "text": "I\u2019m sorry understanding `this` is such a challenge in JavaScript: <https://dev.to/basedenergy/what-is-this-4onl>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "7af9a791-d1b8-4a85-96b5-122544aefc45", 
+    "thread_ts": "1541737372.013500", 
+    "text": "I think they'll just become few ", 
+    "ts": "1541790330.018100", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 450, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FE0AUQ3C5", 
+        "thumb_480_h": 270, 
+        "original_h": 540, 
+        "thumb_360_w": 360, 
+        "title": "0806-Took-Jerbs.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE0AUQ3C5/0806-took-jerbs.jpg", 
+        "thumb_720_h": 405, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_80.jpg", 
+        "thumb_360_h": 203, 
+        "size": 74372, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_800.jpg", 
+        "timestamp": 1541789171, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE0AUQ3C5/download/0806-took-jerbs.jpg", 
+        "user": "UCBQH1P6E", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE0AUQ3C5-849f56688b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQH1P6E/FE0AUQ3C5/0806-took-jerbs.jpg", 
+        "name": "0806-Took-Jerbs.jpg", 
+        "created": 1541789171, 
+        "original_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE0AUQ3C5-1e8eed4339/0806-took-jerbs_720.jpg"
+      }
+    ], 
+    "thread_ts": "1541737372.013500", 
+    "text": "Back-end developers to front-end developers in the not so distant future...", 
+    "upload": true, 
+    "ts": "1541789175.017700", 
+    "display_as_bot": false, 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13081AC2-9D77-45CA-9E3F-0081A792BC79", 
+    "thread_ts": "1541737372.013500", 
+    "text": "This blew my mind a little :hushed:", 
+    "ts": "1541784584.017500", 
+    "user": "U6XCTHTQQ", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "264aaeca-fc3f-457f-80b9-cf61bc315c88", 
+    "thread_ts": "1541737372.013500", 
+    "attachments": [
+      {
+        "image_bytes": 514296, 
+        "original_url": "https://media1.tenor.com/images/94c129b1f9b9adb03d2274531666fd11/tenor.gif?itemid=8629974", 
+        "image_width": 498, 
+        "image_height": 498, 
+        "image_url": "https://media1.tenor.com/images/94c129b1f9b9adb03d2274531666fd11/tenor.gif?itemid=8629974", 
+        "from_url": "https://media1.tenor.com/images/94c129b1f9b9adb03d2274531666fd11/tenor.gif?itemid=8629974", 
+        "fallback": "498x498px image", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": " <https://media1.tenor.com/images/94c129b1f9b9adb03d2274531666fd11/tenor.gif?itemid=8629974> ", 
+    "ts": "1541772640.016800", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "20a48aa2-9c87-47fa-b9c8-e0c94ec68509", 
+    "thread_ts": "1541737372.013500", 
+    "text": "Why am I crying in the club rn?", 
+    "ts": "1541763949.016600", 
+    "user": "UCD9FM8GN", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "967B28A2-3B49-42C3-A521-3C5050E4382F", 
+    "thread_ts": "1541737372.013500", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E", 
+          "U6XCTHTQQ"
+        ]
+      }
+    ], 
+    "text": "they made sense out of serverless by releasing a platform that enables serverless servers :scream: love zeit on so many levels rofl", 
+    "ts": "1541738287.016100", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bf415827-9a45-46c1-a0b2-d3be15a2d170", 
+    "thread_ts": "1541737372.013500", 
+    "text": "Pair this with a cloud nosql db like fauna would be pretty easy to deploy :thinking_face: . I'm super-excited about this!", 
+    "ts": "1541737999.013800", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e7aa95b1-1135-4e8d-95b5-0b6d929ae6ef", 
+    "thread_ts": "1541737372.013500", 
+    "text": "I :heart: now...this looks even better than netlify's implementation of lambdas :shocked_face_with_exploding_head:", 
+    "ts": "1541737666.013600", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1D1068E5-C904-4AA9-B69B-19F447E17105", 
+    "thread_ts": "1541737372.013500", 
+    "latest_reply": "1541790330.018100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UC36F4P2M", 
+      "UCD9FM8GN", 
+      "U6XCTHTQQ"
+    ], 
+    "text": "\u203c\ufe0f this release today just might make me love functions as a service - <https://zeit.co/blog/now-2>", 
+    "ts": "1541737372.013500", 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1541737666.013600"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1541737999.013800"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541738287.016100"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1541763949.016600"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1541772640.016800"
+      }, 
+      {
+        "user": "U6XCTHTQQ", 
+        "ts": "1541784584.017500"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1541789175.017700"
+      }, 
+      {
+        "user": "UCD9FM8GN", 
+        "ts": "1541790330.018100"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 222, 
+        "filetype": "png", 
+        "thumb_800_h": 1732, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDXNQT1EU", 
+        "thumb_480_h": 480, 
+        "original_h": 2436, 
+        "thumb_360_w": 166, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDXNQT1EU/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_64.png", 
+        "thumb_720_w": 333, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 473394, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_800.png", 
+        "timestamp": 1541646224, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDXNQT1EU/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDXNQT1EU-3d69e9852f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FDXNQT1EU/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1541646224, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1125, 
+        "thumb_960_w": 443, 
+        "thumb_1024_w": 473, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDXNQT1EU-d2486d0ec2/image_from_ios_720.png"
+      }
+    ], 
+    "thread_ts": "1541630978.009000", 
+    "ts": "1541646224.011800", 
+    "text": "After \u2018/posts/:id I had a ending parentheses right there before the comma lol", 
+    "upload_reply_to": "AEE72DDE-987B-49AF-9B85-7B68583BACB7", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85E62418-35A1-421C-A071-814838384B0F", 
+    "thread_ts": "1541630978.009000", 
+    "text": "Found the bug, silly syntax error :sob:", 
+    "ts": "1541646179.011600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09f16316-2739-4af3-b4ec-0aaab93c7d01", 
+    "attachments": [
+      {
+        "original_url": "https://tls13.ulfheim.net", 
+        "text": "Every byte of a TLS 1.3 connection explained and reproduced", 
+        "title": "The Illustrated TLS 1.3 Connection: Every Byte Explained", 
+        "title_link": "https://tls13.ulfheim.net/", 
+        "service_name": "tls13.ulfheim.net", 
+        "from_url": "https://tls13.ulfheim.net/", 
+        "fallback": "The Illustrated TLS 1.3 Connection: Every Byte Explained", 
+        "id": 1
+      }
+    ], 
+    "text": ":book: *The New Illustrated TLS Connection*: <https://tls13.ulfheim.net>  ---  rad resource for those of you into exploring protocols or security, and a great follow up to BEW 1.2's _How The Internet Works, Part 2_ presentations!", 
+    "ts": "1541643881.011000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "963b4cc8-eeef-4be8-a5b5-4f2069b2093f", 
+    "thread_ts": "1541630978.009000", 
+    "latest_reply": "1541646224.011800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "text": "Is anyone else having trouble at the end of page 6, associating comments with a post? My comment post route never even gets called, having a tough time debug it :confused:", 
+    "ts": "1541630978.009000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541646179.011600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541646224.011800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "ecf48b52-a2ef-4a75-ab50-5fcf2f906a29", 
+    "thread_ts": "1541617593.003500", 
+    "attachments": [
+      {
+        "image_bytes": 27054, 
+        "original_url": "https://expressjs.com/en/guide/routing.html", 
+        "service_name": "expressjs.com", 
+        "title": "Express routing", 
+        "image_width": 435, 
+        "title_link": "https://expressjs.com/en/guide/routing.html", 
+        "image_height": 157, 
+        "image_url": "https://expressjs.com/images/express-facebook-share.png", 
+        "from_url": "https://expressjs.com/en/guide/routing.html", 
+        "fallback": "Express routing", 
+        "service_icon": "https://expressjs.com/images/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "It does look like you can specify what type of string can be matched by the route parameter \u201cTo have more control over the exact string that can be matched by a route parameter, you can append a regular expression in parentheses (()): ```Route path: /user/:userId(\\d+)\nRequest URL: <http://localhost:3000/user/42>\nreq.params: {\"userId\": \"42\"}```\u201d -<https://expressjs.com/en/guide/routing.html>", 
+    "ts": "1541626438.007500", 
+    "subtype": "thread_broadcast", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "c64753f2-b225-4f22-b3d6-d24ad31d74d3", 
+      "thread_ts": "1541617593.003500", 
+      "latest_reply": "1541626438.007500", 
+      "subscribed": false, 
+      "reply_users": [
+        "UC36F4P2M", 
+        "UCDAETD5L", 
+        "U1HBKMW8Y", 
+        "U6YCV95L7"
+      ], 
+      "text": "Is anyone available to help me on Reddit Clone, I'm still in the beginning. For some reason, my get post/:id route is like overwriting my post/new route, my program is thinking new is an idea and won't load the new post form :confused:", 
+      "ts": "1541617593.003500", 
+      "type": "message", 
+      "reply_count": 12, 
+      "user": "UCDAETD5L", 
+      "replies": [
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617648.003600"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617685.003800"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617690.004000"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617692.004200"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617708.004400"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617723.004600"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617780.004800"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617808.005000"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617818.005300"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617837.005500"
+        }, 
+        {
+          "user": "U1HBKMW8Y", 
+          "ts": "1541621702.006200"
+        }, 
+        {
+          "user": "U6YCV95L7", 
+          "ts": "1541626438.007500"
+        }
+      ], 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "c25bf0be-1f2f-416f-9ddf-d7d2487a75ae", 
+    "attachments": [
+      {
+        "image_bytes": 97109, 
+        "original_url": "https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "The 2018 Web Developer Roadmap \u2013 codeburst", 
+        "ts": 1516630676, 
+        "title_link": "https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*_wZhhTstI_DCebB2fK2c5g.png", 
+        "image_width": 575, 
+        "service_name": "codeburst", 
+        "from_url": "https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d", 
+        "fallback": "codeburst: The 2018 Web Developer Roadmap \u2013 codeburst", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*mNmxddJJTzkiBfK77mWuGA.png", 
+        "text": "An illustrated guide to becoming a Frontend or Backend Developer with links to courses", 
+        "id": 1
+      }
+    ], 
+    "text": "Web dev skills roadmap diagrams: <https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d>\nMore detailed frontend, backend, and dev ops roadmaps: <https://github.com/kamranahmedse/developer-roadmap>", 
+    "ts": "1541621809.007100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "429dcb55-6b4d-45b4-97ac-d96dc39abb02", 
+    "thread_ts": "1541617593.003500", 
+    "text": "Flask allows you to specify the type to match on for pieces of the route like this: `@app.route(\"/post/&lt;int:id&gt;\")`\n\nMaybe NodeJS supports this too\u2026?", 
+    "ts": "1541621702.006200", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29729f38-e3a1-4539-ac04-5e43f41d957a", 
+    "thread_ts": "1541617593.003500", 
+    "text": "np i've generated this bug plenty of times :joy:", 
+    "ts": "1541617837.005500", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "62535fc1-084e-48a7-8e1d-46fdb937ac24", 
+    "thread_ts": "1541617593.003500", 
+    "text": "you could see this yourself by adding a `console.log(req.params.id)` to top of your `/post/:id` route.", 
+    "ts": "1541617818.005300", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a614493b-d66e-4193-8ddd-3c33f0d7647b", 
+    "thread_ts": "1541617593.003500", 
+    "text": "Okay sweet makes total sense, great to know, thank you!!", 
+    "ts": "1541617808.005000", 
+    "subtype": "thread_broadcast", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "c64753f2-b225-4f22-b3d6-d24ad31d74d3", 
+      "thread_ts": "1541617593.003500", 
+      "latest_reply": "1541626438.007500", 
+      "subscribed": false, 
+      "reply_users": [
+        "UC36F4P2M", 
+        "UCDAETD5L", 
+        "U1HBKMW8Y", 
+        "U6YCV95L7"
+      ], 
+      "text": "Is anyone available to help me on Reddit Clone, I'm still in the beginning. For some reason, my get post/:id route is like overwriting my post/new route, my program is thinking new is an idea and won't load the new post form :confused:", 
+      "ts": "1541617593.003500", 
+      "type": "message", 
+      "reply_count": 12, 
+      "user": "UCDAETD5L", 
+      "replies": [
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617648.003600"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617685.003800"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617690.004000"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617692.004200"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617708.004400"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617723.004600"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617780.004800"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1541617808.005000"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617818.005300"
+        }, 
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1541617837.005500"
+        }, 
+        {
+          "user": "U1HBKMW8Y", 
+          "ts": "1541621702.006200"
+        }, 
+        {
+          "user": "U6YCV95L7", 
+          "ts": "1541626438.007500"
+        }
+      ], 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "4706a7ab-393c-4b44-a17a-1df6d0a48cda", 
+    "thread_ts": "1541617593.003500", 
+    "text": "`/post/new` is more specific than `/post/:id`  --- additionally, if you don't change the first part of the route, the `:id` wildcard matches on... gasp... `new`!", 
+    "ts": "1541617780.004800", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "434846e9-37a9-44c0-b428-c05607dff13e", 
+    "thread_ts": "1541617593.003500", 
+    "text": "express pattern matches route declarations procedurally :stuck_out_tongue:", 
+    "ts": "1541617723.004600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "87e02eb2-a842-4973-963a-0fcf0fcddc3e", 
+    "thread_ts": "1541617593.003500", 
+    "text": "Should just work :sneezing_face:", 
+    "ts": "1541617708.004400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5b77c820-c4c2-458a-a9d6-3f3f422a923f", 
+    "thread_ts": "1541617593.003500", 
+    "text": "Why though!? That's lame", 
+    "ts": "1541617692.004200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "312b80d5-b46e-4712-b864-398a38f95a3c", 
+    "thread_ts": "1541617593.003500", 
+    "text": "and/or modify the name of the new route: `/posts/new` and `/post/:id` make lots of sense too :smile:", 
+    "ts": "1541617690.004000", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "31c2bd37-12be-4714-86c9-62d6dae06a3e", 
+    "thread_ts": "1541617593.003500", 
+    "text": "COoool", 
+    "ts": "1541617685.003800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc50cce1-c233-454c-9a49-04ab70489ffb", 
+    "thread_ts": "1541617593.003500", 
+    "text": "change the order of your routes in your controller file :slightly_smiling_face:", 
+    "ts": "1541617648.003600", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c64753f2-b225-4f22-b3d6-d24ad31d74d3", 
+    "thread_ts": "1541617593.003500", 
+    "latest_reply": "1541626438.007500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M", 
+      "UCDAETD5L", 
+      "U1HBKMW8Y", 
+      "U6YCV95L7"
+    ], 
+    "text": "Is anyone available to help me on Reddit Clone, I'm still in the beginning. For some reason, my get post/:id route is like overwriting my post/new route, my program is thinking new is an idea and won't load the new post form :confused:", 
+    "ts": "1541617593.003500", 
+    "type": "message", 
+    "reply_count": 12, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617648.003600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541617685.003800"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617690.004000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541617692.004200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541617708.004400"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617723.004600"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617780.004800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1541617808.005000"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617818.005300"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1541617837.005500"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1541621702.006200"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1541626438.007500"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "763F2AAA-4B64-47B8-9ED2-B1FAAA46047D", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "U6XCTHTQQ", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 107295, 
+        "original_url": "https://dev.to/shikaan/design-patterns-in-web-development-2gbp", 
+        "service_name": "The Practical Dev", 
+        "title": "Design Patterns in Web Development", 
+        "image_width": 500, 
+        "title_link": "https://dev.to/shikaan/design-patterns-in-web-development-2gbp", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--hTA7A98v--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://food-beverage.pall.com/content/dam/pall/food-beverage/header-images/fb-segment-ingredients-header.jpg", 
+        "text": "Pilot episode of a series about design patterns and how to use them", 
+        "from_url": "https://dev.to/shikaan/design-patterns-in-web-development-2gbp", 
+        "fallback": "The Practical Dev: Design Patterns in Web Development", 
+        "service_icon": "https://practicaldev-herokuapp-com.freetls.fastly.net/assets/apple-icon-5c6fa9f2bce280428589c6195b7f1924206a53b782b371cfe2d02da932c8c173.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://dev.to/shikaan/design-patterns-in-web-development-2gbp>  \n\nlevel up your bew skills with this awesome intro to design patterns - for js and python!", 
+    "ts": "1541616948.001800", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0c24650e-6453-40e8-81aa-0103ef074971", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1541372550.000000"
+    }, 
+    "thread_ts": "1541303030.004000", 
+    "text": "I'm going to go with a very dirty solution to move on (ie check for duplicates once, then tack on a random number between 1 and million and throw an error if that wasn't unique)  so I can move on to other features. Hopefully I can get help from someone in person tmrw", 
+    "ts": "1541372456.006400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2270e282-1099-40e0-bccb-4e9b5403e489", 
+    "thread_ts": "1541303030.004000", 
+    "text": "yes, latest version is here: <https://github.com/MakeItAwesome/Voters-Guide/blob/generate-unique-codename/models/user.js>", 
+    "ts": "1541369203.006200", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DC0FB06C-E236-4949-9F2B-F39791E2671E", 
+    "thread_ts": "1541303030.004000", 
+    "text": "Is there an error? Is this on GitHub?", 
+    "ts": "1541363704.006000", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a3f2f6e1-a500-4a21-ad43-93bf327e0719", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1541356783.000000"
+    }, 
+    "thread_ts": "1541303030.004000", 
+    "text": "thanks <@U6YCV95L7>. when i do that, `console.log(result)` never gets executed... :thinking_face:", 
+    "ts": "1541356763.005300", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "abfb5902-c706-4e4f-a984-ff7dbd561cc9", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1541313548.000000"
+    }, 
+    "thread_ts": "1541303030.004000", 
+    "text": "I want to say it\u2019s because the console log of the result from isUnique finishes before the function isUnique finishes, but the console log from the function is printed before console log of the result. Can you try this ```isUnique(codeName)\n\t.then(function (result) {\n  \t\tconsole.log(result);\n\t});``` instead of the ```let isCodeNameUnique \nconsole.log``` and see if it\u2019s the same?", 
+    "ts": "1541313395.004400", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5367d82c-3056-4034-be59-8e9d70f90823", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1541303295.000000"
+    }, 
+    "latest_reply": "1541372456.006400", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1541303030.004000", 
+    "text": "can anyone explain why the result of this function is undefined?\n\n```UserSchema.pre('save', function(next) {\n  // before saving user\n  let user = this;\n  let codeName = generateCodeName(user.name);\n  let isCodeNameUnique = isUnique(codeName)\n  console.log(\"the result of isUnique(codeName) is: \" + isCodeNameUnique);\n  [...]\n}\n\nfunction isUnique(codeName) {\n  User.findOne({\n    // look up user by codeName\n      codeName: codeName\n    })\n    .exec(function(err, user) {\n      if (err) {\n        return next(err)\n      } else if (!user) {\n        console.log('found nobody with that code name');\n        return false; // being sent back as undefined\n      } else {\n        console.log('found somebody with code name');\n        return true; // being sent back as undefined\n      }\n    });\n}\n```\n\nCONSOLE LOG when codeName is taken:\n```=&gt; found somebody with code name\n=&gt; the result of isUnique(codeName) is: undefined```\n\nCONSOLE LOG when codeName is unique:\n```=&gt; found nobody with that code name\n=&gt; the result of isUnique(codeName) is: undefined```", 
+    "ts": "1541303030.004000", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1541313395.004400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1541356763.005300"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1541363704.006000"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1541369203.006200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1541372456.006400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1540840597.000400", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1540840457.000200", 
+    "text": "<@U1D40QFD4> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "5c5cc8e7-75ee-4e9d-b2d6-e9342d3578c5", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pray", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCDAETD5L", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCBS4EW59", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "muscle", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCCTF62ET", 
+          "UCBDDKQ65"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "ok_hand", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCC0HC7D0", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dani", 
+        "users": [
+          "UCCTF62ET"
+        ]
+      }
+    ], 
+    "text": "<!channel> i wanted to give y'all a shoutout for the *great, actionable feedback from term 1 --- you are heard!* please see my pinned post above for what i'm doing to make BEW extra awesome!", 
+    "ts": "1540579041.022700", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "775cc6b3-448d-4c3a-99ae-2984a5830522", 
+    "text": "My bad those last post should be in <#C2DA91MNY|resources>", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1540578337.021200"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1540578042.018600", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "fca804ed-56bb-490e-a7d0-8f7dbf07c0ab", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1540579104.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "sunglasses", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCC0HC7D0", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCC0HC7D0", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "luke", 
+        "users": [
+          "UCBS4EW59", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "In an effort to improve the track experience for each and every one of us, i wanted to make some of my action items visible to the group:\n\n1. :pencil: I'm *actively fixing tutorials*, and we are going to leverage this unique opportunity in class --- 1.2 students, I'll be going through my changes with you at the *start of class on Monday* --- we'll *discuss the benefits of refactoring, what I changed, and why I changed it!* I'll also be building in some time on Monday to officially kick-off starting the tutorial, give you opportunities to ask questions, etc.\n2. :slack: Establishing a Slack channel for the BEW track to enhance visibility on curriculum development and facilitate better instructor interaction and community support.\n3.  :date: Making my schedule more transparent and available to y'all through my new Calendly link: <http://make.sc/dani-cal|make.sc/dani-cal>. This makes the process of scheduling/rescheduling/cancelling one-on-one time with me _way_ easier. This should lead to more productive coding sessions when you have a question or concern!\n4. :bread: Baking in *more lab time in class, more live code demonstrations, and opportunities for more code reviews* so we can all level up together!\n5. :bulb: Reminding y'all that I'm always open to listening to any and all ideas, questions, comments, hopes, dreams, prayers, frustrations, whatever! I'm here to help! :+1:", 
+    "pinned_info": {
+      "pinned_ts": 1540578263, 
+      "channel": "CDPLRF7SR", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1540577947.018400", 
+    "pinned_to": [
+      "CDPLRF7SR"
+    ], 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "de258ef3-1dbc-478f-8155-cb6bef68f248", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "and all credit to <@UCBDA2GGH> for the obviously awesome name", 
+    "ts": "1540577199.008800", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5efeced6-1f65-437c-a88c-7b30ef0eaeb0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "hey folks!\n\ni wanted to create an *official channel for the BEW track*: a place where you can post cool articles, provide feedback, make any issues visible to faculty, and support and encourage one another on your BEW journey! :smile:", 
+    "pinned_info": {
+      "pinned_ts": 1540578269, 
+      "channel": "CDPLRF7SR", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1540577172.008300", 
+    "pinned_to": [
+      "CDPLRF7SR"
+    ], 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4a86de99-5c3c-4861-b60f-9e3e85df72f3", 
+    "text": "Loving the name :wink:", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1540577171.008200"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1540577091.006700", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1540577079.006500", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1540577079.006300", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1540577079.006100", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1540577079.005900", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1540577078.005700", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1540577078.005500", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1540577078.005300", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1540577078.005100", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHMLWEQ> has joined the channel", 
+    "ts": "1540577078.004900", 
+    "subtype": "channel_join", 
+    "user": "UCBHMLWEQ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1540577078.004700", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1540577078.004500", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBPUT6AX> has joined the channel", 
+    "ts": "1540577078.004300", 
+    "subtype": "channel_join", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1540577077.004100", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1540577077.003900", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1540577077.003700", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1540577077.003500", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1540577077.003300", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1540577077.003100", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1540577077.002900", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1540577077.002700", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1540577076.002500", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1540577076.002300", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1540577076.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCFCGA3C1> has joined the channel", 
+    "ts": "1540577076.001900", 
+    "subtype": "channel_join", 
+    "user": "UCFCGA3C1", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBDDKQ65> has joined the channel", 
+    "ts": "1540577076.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBDDKQ65", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1540577075.001500", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1540577075.001300", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1540577075.001100", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCRX3BB9> has joined the channel", 
+    "ts": "1540577075.000900", 
+    "subtype": "channel_join", 
+    "user": "UCCRX3BB9", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1540577075.000700", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCL1R3EZ> has joined the channel", 
+    "ts": "1540577075.000500", 
+    "subtype": "channel_join", 
+    "user": "UCCL1R3EZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: a channel for students on the BEW track to assist one another, provide feedback, or access instructor/ta support", 
+    "ts": "1540576870.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "a channel for students on the BEW track to assist one another, provide feedback, or access instructor/ta support"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "<@UC36F4P2M> has joined the channel", 
+    "ts": "1540576869.000200", 
+    "subtype": "channel_join", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }
+]

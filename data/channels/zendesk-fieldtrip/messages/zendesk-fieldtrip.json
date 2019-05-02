@@ -1,0 +1,1016 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1556385896.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1556337505.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1556212282.000400", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1556052216.000200", 
+    "text": "<@UCC0KLBPU> has left the channel"
+  }, 
+  {
+    "client_msg_id": "f397d87a-07fe-4241-b78f-c9d6f9d29c99", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "caroline", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "and yes just send me the info in one go", 
+    "ts": "1555350978.012600", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2ea98457-ca36-4d61-9a3d-a19d29f1167a", 
+    "text": "You can actually just send me the info you want submitted in your application", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1555350969.012300"
+  }, 
+  {
+    "client_msg_id": "233c52b4-6542-4318-a31e-e53233d8834e", 
+    "text": "Also, to confirm we're also supposed to apply online, right?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555350938.011600"
+  }, 
+  {
+    "client_msg_id": "471fb2bd-bc7d-48a3-9f0a-6df8ccceba0d", 
+    "text": "<@UCJ72FALU> If we're applying for multiple positions, should we just send the info for both of them to you in one go?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555350918.011100"
+  }, 
+  {
+    "client_msg_id": "31efc682-6d72-456d-9c00-e25c65940256", 
+    "edited": {
+      "user": "UCJ72FALU", 
+      "ts": "1555350663.000000"
+    }, 
+    "text": "Reminder to stop by my desk and sign Nicole's card", 
+    "ts": "1555350638.010400", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "04585362-ac87-489c-b406-b217c783f6a2", 
+    "attachments": [
+      {
+        "image_bytes": 62255, 
+        "original_url": "https://forms.gle/gxoU1JKpBsmrqfn26", 
+        "service_name": "Google Docs", 
+        "title": "Field Trip Feedback Form", 
+        "image_width": 333, 
+        "title_link": "https://forms.gle/gxoU1JKpBsmrqfn26", 
+        "image_height": 250, 
+        "image_url": "https://lh4.googleusercontent.com/o9n6yBY3DWNXnQkRjIRdqyE-uNq7gGVc89Biy5PEYmsvh3CgyQKzZBmrWkFuw6Q5BbM", 
+        "from_url": "https://forms.gle/gxoU1JKpBsmrqfn26", 
+        "fallback": "Google Docs: Field Trip Feedback Form", 
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> Please take a minute to fill out this feedback form -this feedback is crucial to how field trips will be implemented next year. <https://forms.gle/gxoU1JKpBsmrqfn26>", 
+    "ts": "1555350623.009900", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e1465afb-af61-427d-ba67-a20a93210e88", 
+    "text": "Diego offered to share his contact information with all of you, for any other panelists that you would like to connect with you can add them on LinkedIn!\n<mailto:dlugo@zendesk.com|dlugo@zendesk.com>", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1555105365.008200"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "docx", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHHNTLK98", 
+        "size": 14508, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHNTLK98-15525efbe3/cloud_engineering_intern-_summer_2019__1__thumb_pdf.png", 
+        "title": "Cloud Engineering Intern- Summer 2019 (1).docx", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHHNTLK98/cloud_engineering_intern-_summer_2019__1_.docx", 
+        "editable": false, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555105290, 
+        "thumb_pdf_w": 935, 
+        "converted_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHNTLK98-15525efbe3/cloud_engineering_intern-_summer_2019__1__converted.pdf", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHHNTLK98/download/cloud_engineering_intern-_summer_2019__1_.docx", 
+        "user": "UCJ72FALU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Word Document", 
+        "is_external": false, 
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHHNTLK98-59cc497143", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FHHNTLK98/cloud_engineering_intern-_summer_2019__1_.docx", 
+        "name": "Cloud Engineering Intern- Summer 2019 (1).docx", 
+        "created": 1555105290, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555105293.007300", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "docx", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHV39ECAZ", 
+        "size": 30605, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHV39ECAZ-cfe13ff159/regional_marketing_campaigns_intern_thumb_pdf.png", 
+        "title": "Regional Marketing Campaigns Intern.docx", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHV39ECAZ/regional_marketing_campaigns_intern.docx", 
+        "editable": false, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555105271, 
+        "thumb_pdf_w": 935, 
+        "converted_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHV39ECAZ-cfe13ff159/regional_marketing_campaigns_intern_converted.pdf", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHV39ECAZ/download/regional_marketing_campaigns_intern.docx", 
+        "user": "UCJ72FALU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Word Document", 
+        "is_external": false, 
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHV39ECAZ-6c25d52238", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FHV39ECAZ/regional_marketing_campaigns_intern.docx", 
+        "name": "Regional Marketing Campaigns Intern.docx", 
+        "created": 1555105271, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555105274.007000", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHZ1QM2VC", 
+        "size": 95486, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZ1QM2VC-274d7dda1f/security_intern_job_description__1__thumb_pdf.png", 
+        "title": "Security Intern Job Description (1).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZ1QM2VC/security_intern_job_description__1_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555105261, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZ1QM2VC/download/security_intern_job_description__1_.pdf", 
+        "user": "UCJ72FALU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZ1QM2VC-030b4eeac0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FHZ1QM2VC/security_intern_job_description__1_.pdf", 
+        "name": "Security Intern Job Description (1).pdf", 
+        "created": 1555105261, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555105263.006700", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "docx", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHNRRLHEV", 
+        "size": 45882, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNRRLHEV-a2513ea6ac/data_analyst_intern__summer_2019___thumb_pdf.png", 
+        "title": "Data Analyst Intern (Summer 2019) .docx", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHNRRLHEV/data_analyst_intern__summer_2019__.docx", 
+        "editable": false, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555105242, 
+        "thumb_pdf_w": 935, 
+        "converted_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHNRRLHEV-a2513ea6ac/data_analyst_intern__summer_2019___converted.pdf", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHNRRLHEV/download/data_analyst_intern__summer_2019__.docx", 
+        "user": "UCJ72FALU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Word Document", 
+        "is_external": false, 
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHNRRLHEV-55eee0da04", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FHNRRLHEV/data_analyst_intern__summer_2019__.docx", 
+        "name": "Data Analyst Intern (Summer 2019) .docx", 
+        "created": 1555105242, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "<!channel> <@UCC0KLBPU> Thank you for sharing your photos and notes with the group :camera: As promised, below are the open intern roles open at Zendesk :grinning:\n\n*2 IMPORTANT NOTES: *\n1. Let me know what positions (if any) you are interested in and will apply for so I can let Nicole know and she can flag your resume for the hiring manager.\n2. If you have a cover letter/portfolio you would like to include you can send to me and I will pass along to Nicole\n\n*Open Roles/Attached Job Descriptions:*\n-Data Analyst Intern\n-Regional Marketing Ops Intern\n-Corporate Security Intern\n-Cloud Engineering Intern position open in our Madison, WI office if any of the students would be interested in that opportunity (attached)!", 
+    "upload": true, 
+    "ts": "1555105244.006400", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5e61a81-e270-4615-b959-9864d7afe77d", 
+    "text": "Thanks!! <@UCBHQSTB6> :smile:", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555089065.001400"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHU9QQBRA", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHU9QQBRA/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1325527, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_800.jpg", 
+        "timestamp": 1555088984, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHU9QQBRA/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_1024.jpg", 
+        "user": "UCBHQSTB6", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHU9QQBRA-b0d2e627e5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHQSTB6/FHU9QQBRA/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555088984, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHU9QQBRA-4dd14a4961/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "E9CC6DFE-2217-4A9D-AE3D-751B73843ACA", 
+    "text": "<@UCB8U00KA> ", 
+    "upload": true, 
+    "ts": "1555088989.000900", 
+    "display_as_bot": false, 
+    "user": "UCBHQSTB6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ca14e0d8-acfe-443d-b332-7d9a1fac1c50", 
+    "text": "<!channel> Could anyone take a picture of Nicole Mullen's card and post it? I lost mine already.", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555088655.000800"
+  }, 
+  {
+    "client_msg_id": "89685586-00bb-434e-b29e-cbab3ff506cf", 
+    "thread_ts": "1555018152.004100", 
+    "text": "Thanks for taking us!", 
+    "ts": "1555020131.005500", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bc11fbc3-895f-4738-a19e-a515a349c648", 
+    "thread_ts": "1555018152.004100", 
+    "text": "Great!", 
+    "ts": "1555018954.005000", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "60cdd742-c607-417c-b931-75758d2ea146", 
+    "thread_ts": "1555018152.004100", 
+    "text": "coming by nowq", 
+    "ts": "1555018689.004800", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "97d4e988-5a90-4724-8ab6-a9b3667572c7", 
+    "thread_ts": "1555018152.004100", 
+    "latest_reply": "1555020131.005500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU", 
+      "UCJ72FALU", 
+      "UCB8U00KA"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB58P2V6", 
+          "UCB8T1AG0", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "thankyou", 
+        "users": [
+          "UCB58P2V6", 
+          "UCB8T1AG0", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pray", 
+        "users": [
+          "UCB58P2V6", 
+          "UCB8T1AG0", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "caroline", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel> Thank you for representing Make School so well today at Zendesk! I love hearing all your thoughtful questions. I am still waiting on Nicole to send me the open positions and panelist contact information and will send that to you as soon as I get it.\n\nIn the meantime, I have a card on my desk that I would like everyone to sign as a thank you and I will send it to the Nicole. Drop by anytime today or tomorrow to sign. I appreciate it!", 
+    "ts": "1555018152.004100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1555018689.004800"
+      }, 
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1555018954.005000"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1555020131.005500"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "85efae25-1f5c-4fc9-8fd1-5d6e65484f74", 
+    "text": "<!channel> I am looking forward to our trip to Zendesk this morning! See everyone in the lobby at *10:30am*!:grinning:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1555002023.001900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHMA50GAV", 
+        "size": 105788, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHMA50GAV-63d2641386/matthewharrilal-resume_thumb_pdf.png", 
+        "title": "MatthewHarrilal-Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHMA50GAV/matthewharrilal-resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555000201, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHMA50GAV/download/matthewharrilal-resume.pdf", 
+        "user": "U6XDGCKFF", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHMA50GAV-8154783037", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XDGCKFF/FHMA50GAV/matthewharrilal-resume.pdf", 
+        "name": "MatthewHarrilal-Resume.pdf", 
+        "created": 1555000201, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555000203.000600", 
+    "display_as_bot": false, 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHF33BTM1", 
+        "size": 82719, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHF33BTM1-f184d98a91/jazua_cv_internships__2__thumb_pdf.png", 
+        "title": "jazua_cv_internships (2).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHF33BTM1/jazua_cv_internships__2_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554939680, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHF33BTM1/download/jazua_cv_internships__2_.pdf", 
+        "user": "U8NMLKGDU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHF33BTM1-b8e500cecc", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NMLKGDU/FHF33BTM1/jazua_cv_internships__2_.pdf", 
+        "name": "jazua_cv_internships (2).pdf", 
+        "created": 1554939680, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554939682.005900", 
+    "display_as_bot": false, 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2b3a5f01-e06b-4dfe-bc2e-2e5083420153", 
+    "text": "REMINDER to let your instructors know that you will be missing programming lab for the field trip", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1554935727.005800"
+  }, 
+  {
+    "client_msg_id": "ab11c7b6-09fe-44a2-8861-84314cef3e12", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "caroline", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDPM021J", 
+          "UCB8T1AG0", 
+          "UCBHS20S0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDPM021J", 
+          "UCBHS20S0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDPM021J", 
+          "UCBHS20S0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alien", 
+        "users": [
+          "UCBHS20S0"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hi All! Here is the break down for tomorrow's field-trip.\n\n10:30am - Meet in Make School Lobby :make-school:\n10:35am-10:50pm - Walk to Zendesk :walking:\n10:50am-11:00am - Check in :white_check_mark:\n11:00am-11:30pm - Building Tour :classical_building:\n11:30am-12:15pm - Panel Q&amp;A :two_women_holding_hands::two_men_holding_hands:\n12:15pm-12:30pm - Walk back to Make School :woman-walking:\n\n*It is really important that you all show up tomorrow and that we are on time. They are taking the time out of their day to create a valuable experience for us. We want to show them our respect by paying attention, asking thoughtful questions, and showing up and being on time.* :clock1::heavy_check_mark::slightly_smiling_face:\n\nNOTE:  Zendesk has ordered some mediterranean food for the students to pick at (pita, hummus, falafel) - it may not be enough for a full lunch so if anyone wants to bring their own food feel free :slightly_smiling_face:\n\nPlease let me know if you have any questions!", 
+    "ts": "1554923815.004300", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1554916601.000200", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHRAP02GM", 
+        "size": 127996, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHRAP02GM-cbb542414a/technical_resume__1__thumb_pdf.png", 
+        "title": "Technical resume (1).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHRAP02GM/technical_resume__1_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554656929, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHRAP02GM/download/technical_resume__1_.pdf", 
+        "user": "UCBHQSTB6", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHRAP02GM-4e9ce77c3d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHQSTB6/FHRAP02GM/technical_resume__1_.pdf", 
+        "name": "Technical resume (1).pdf", 
+        "created": 1554656929, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554656931.000300", 
+    "display_as_bot": false, 
+    "user": "UCBHQSTB6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "86ee3e87-a3f5-4314-8fbe-77224bb05a64", 
+    "text": ":+1:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1554429197.009900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHPMSST6Z", 
+        "size": 250816, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHPMSST6Z-247562686a/botcher.e.resume.apr2019_thumb_pdf.png", 
+        "title": "Botcher.E.Resume.Apr2019.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHPMSST6Z/botcher.e.resume.apr2019.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554426804, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHPMSST6Z/download/botcher.e.resume.apr2019.pdf", 
+        "user": "UCBHS20S0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHPMSST6Z-29219f7999", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHS20S0/FHPMSST6Z/botcher.e.resume.apr2019.pdf", 
+        "name": "Botcher.E.Resume.Apr2019.pdf", 
+        "created": 1554426804, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "client_msg_id": "e41451c9-5787-42f4-a08c-3004645347bb", 
+    "text": "Resume", 
+    "upload": true, 
+    "ts": "1554428959.009500", 
+    "display_as_bot": false, 
+    "user": "UCBHS20S0", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1554422389.008600", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FH9A7BG3U", 
+        "size": 79180, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FH9A7BG3U-a620abfeb7/noah_woodward_02_27_2019_thumb_pdf.png", 
+        "title": "noah_woodward_02_27_2019.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH9A7BG3U/noah_woodward_02_27_2019.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554417767, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH9A7BG3U/download/noah_woodward_02_27_2019.pdf", 
+        "user": "UCDPM021J", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH9A7BG3U-ed1994ab32", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDPM021J/FH9A7BG3U/noah_woodward_02_27_2019.pdf", 
+        "name": "noah_woodward_02_27_2019.pdf", 
+        "created": 1554417767, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554417769.008100", 
+    "display_as_bot": false, 
+    "user": "UCDPM021J", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FH973M2R1", 
+        "size": 67016, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FH973M2R1-8f4aeb427e/drake-resume_thumb_pdf.png", 
+        "title": "Drake-resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH973M2R1/drake-resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554417732, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH973M2R1/download/drake-resume.pdf", 
+        "user": "UCC4TPF5K", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH973M2R1-ed299d439b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC4TPF5K/FH973M2R1/drake-resume.pdf", 
+        "name": "Drake-resume.pdf", 
+        "created": 1554417732, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "client_msg_id": "bd8816cb-3f73-4e5d-accb-1b166c24e7be", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554417734.007800", 
+    "display_as_bot": false, 
+    "user": "UCC4TPF5K", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHLN67YAU", 
+        "size": 54580, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHLN67YAU-cd8e93d0b3/connors-res_thumb_pdf.png", 
+        "title": "Connor-Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHLN67YAU/connors-res.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554417098, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHLN67YAU/download/connors-res.pdf", 
+        "user": "UCBDDHX7T", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHLN67YAU-f18d740cef", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDDHX7T/FHLN67YAU/connors-res.pdf", 
+        "name": "Connors-res.pdf", 
+        "created": 1554417098, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554417100.007500", 
+    "display_as_bot": false, 
+    "user": "UCBDDHX7T", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHQHQDRB8", 
+        "size": 33179, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQHQDRB8-dd0024e403/faithchikwekweresume_thumb_pdf.png", 
+        "title": "FaithChikwekweResume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHQHQDRB8/faithchikwekweresume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554416706, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHQHQDRB8/download/faithchikwekweresume.pdf", 
+        "user": "UCB8U00KA", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHQHQDRB8-c18391af8f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8U00KA/FHQHQDRB8/faithchikwekweresume.pdf", 
+        "name": "FaithChikwekweResume.pdf", 
+        "created": 1554416706, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554416708.007200", 
+    "display_as_bot": false, 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FH961417V", 
+        "size": 128356, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FH961417V-0141f99aad/resume_thumb_pdf.png", 
+        "title": "Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH961417V/resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554414752, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH961417V/download/resume.pdf", 
+        "user": "UCC0KLBPU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH961417V-cdc49d8121", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FH961417V/resume.pdf", 
+        "name": "Resume.pdf", 
+        "created": 1554414752, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "client_msg_id": "75ab9872-4ce4-41aa-acc4-84f76049b63e", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554414753.006600", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "619005dc-6b91-47ca-819d-2d0a7599029d", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCBHQSTB6", 
+          "UCBDDHX7T", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<!channel> This is the group the will be participating in the Zendesk field trip next Thursday! Stay tuned for further details :make-school::star:\n\nIn the meantime, Zendesk has asked for a copy of each of your resumes to help determine who will be on the panel and have them in case any hiring managers want to take a look at them :tada:\n\nPlease send me a copy of your resume. You can do so here or message me privately. Whatever you prefer :slightly_smiling_face:", 
+    "ts": "1554411097.006100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1554410789.002800", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1554410788.002600", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1554410788.002400", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1554410788.002200", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1554410788.002000", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1554410788.001800", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1554410787.001600", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1554410787.001400", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1554410787.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1554410787.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1554410787.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1554410786.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1554410786.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1554410785.000200", 
+    "text": "<@UCJ72FALU> has joined the channel"
+  }
+]

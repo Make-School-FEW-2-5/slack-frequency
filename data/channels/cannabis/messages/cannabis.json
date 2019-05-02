@@ -1,0 +1,2234 @@
+[
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1556736900.089900", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "<@UCCS7HWGP> has left the channel", 
+    "ts": "1556734884.089700", 
+    "subtype": "channel_leave", 
+    "user": "UCCS7HWGP", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "smoking", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1556302281.087700", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1556055102.086100", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dash", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "<@U6Y6KU78W> has left the channel", 
+    "ts": "1556036802.085900", 
+    "subtype": "channel_leave", 
+    "user": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1555992727.085700", 
+    "text": "<@U1YM6H8MA> has left the channel"
+  }, 
+  {
+    "text": "<@UC36F4P2M> has joined the channel", 
+    "ts": "1555986408.085200", 
+    "subtype": "channel_join", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "fd745830-ab21-4b58-b85c-a283b28feb34", 
+    "thread_ts": "1555970823.083300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "oh my god", 
+    "ts": "1555978926.084200", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "AEFCC11B-2DDC-43C4-89BD-F85EA26F01C1", 
+    "thread_ts": "1555970823.083300", 
+    "latest_reply": "1555978926.084200", 
+    "attachments": [
+      {
+        "image_bytes": 52226, 
+        "original_url": "https://www.forbes.com/sites/katieshapiro/2019/04/22/cannabis-tech-company-pax-labs-raises-420-million-and-reaches-unicorn-status-on-420/#8e549ef41b0d", 
+        "service_name": "Forbes", 
+        "title": "Cannabis Tech Company PAX Labs Raises $420 Million And Reaches Unicorn Status On 4/20", 
+        "image_width": 476, 
+        "title_link": "https://www.forbes.com/sites/katieshapiro/2019/04/22/cannabis-tech-company-pax-labs-raises-420-million-and-reaches-unicorn-status-on-420/#8e549ef41b0d", 
+        "image_height": 250, 
+        "image_url": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fblogs-images.forbes.com%2Fkatieshapiro%2Ffiles%2F2019%2F04%2FPAX_PressBody_740x400_12.jpg", 
+        "text": "The popular vaporizer maker received the record-breaking amount in equity financing from Tiger Global Management, Tao Capital Partners, Prescott General Partners and Redmile Group.", 
+        "from_url": "https://www.forbes.com/sites/katieshapiro/2019/04/22/cannabis-tech-company-pax-labs-raises-420-million-and-reaches-unicorn-status-on-420/#8e549ef41b0d", 
+        "fallback": "Forbes: Cannabis Tech Company PAX Labs Raises $420 Million And Reaches Unicorn Status On 4/20", 
+        "service_icon": "https://www.forbes.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "elon", 
+        "users": [
+          "UCBQJD3NW", 
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "whoa", 
+        "users": [
+          "UCBQJD3NW", 
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "vape-nation", 
+        "users": [
+          "UCBQJD3NW", 
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "herb", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "moneybag", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "money_mouth_face", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U8NHWGBGW", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCC4S13NZ"
+    ], 
+    "replies": [
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1555978926.084200"
+      }
+    ], 
+    "ts": "1555970823.083300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6ZCE0AKG", 
+    "text": "$420 mil on 4/20\n\n<https://www.forbes.com/sites/katieshapiro/2019/04/22/cannabis-tech-company-pax-labs-raises-420-million-and-reaches-unicorn-status-on-420/#8e549ef41b0d>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "0c74e100-845b-46fe-b1ad-f2354334db64", 
+    "thread_ts": "1555873875.078000", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Their 50th anniversary is going to be on 4/20/69. Nice.", 
+    "ts": "1555885767.080100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ2E13TNU", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ2E13TNU/img_1499.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 1224116, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_800.jpg", 
+        "timestamp": 1555873871, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ2E13TNU/download/img_1499.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_1024.jpg", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ2E13TNU-de007cc424", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FJ2E13TNU/img_1499.jpg", 
+        "name": "IMG_1499.JPG", 
+        "created": 1555873871, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2E13TNU-84239cc3e4/img_1499_720.jpg"
+      }
+    ], 
+    "thread_ts": "1555873875.078000", 
+    "latest_reply": "1555885767.080100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0"
+    ], 
+    "reactions": [
+      {
+        "count": 12, 
+        "name": "100", 
+        "users": [
+          "U6X9L8VAN", 
+          "U6YMU9QCF", 
+          "UCC37PD6D", 
+          "UCD53TKCN", 
+          "UCC4S13NZ", 
+          "UCC0GD5V0", 
+          "U6ZCE0AKG", 
+          "U6Y6KU78W", 
+          "UCBS1DSF5", 
+          "U6YHCA79U", 
+          "UCHK87XEJ", 
+          "UCH838UC9"
+        ]
+      }, 
+      {
+        "count": 13, 
+        "name": "heart", 
+        "users": [
+          "U6X9L8VAN", 
+          "U6YMU9QCF", 
+          "UCC37PD6D", 
+          "UCD53TKCN", 
+          "UCC4S13NZ", 
+          "UCC0GD5V0", 
+          "U6ZCE0AKG", 
+          "U6Y6KU78W", 
+          "UCBS1DSF5", 
+          "U6YHCA79U", 
+          "UCHK87XEJ", 
+          "U8NHWGBGW", 
+          "UCH838UC9"
+        ]
+      }, 
+      {
+        "count": 10, 
+        "name": "wedding", 
+        "users": [
+          "U6X9L8VAN", 
+          "U6YMU9QCF", 
+          "UCC37PD6D", 
+          "UCC4S13NZ", 
+          "UCC0GD5V0", 
+          "U6ZCE0AKG", 
+          "U6Y6KU78W", 
+          "UCBS1DSF5", 
+          "U6YHCA79U", 
+          "UCHK87XEJ"
+        ]
+      }
+    ], 
+    "text": ":desert_island::sunglasses::wedding: Lisa &amp; Mike, est. 4.20.19", 
+    "upload": true, 
+    "ts": "1555873875.078000", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1555885767.080100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1d56e84e-2f7f-43a3-b54d-1d37dcf52bb6", 
+    "attachments": [
+      {
+        "thumb_height": 1000, 
+        "thumb_url": "https://preview.redd.it/8gl61d2iqht21.gif?format=png8&s=df1b0c03494bd0a0a6e611e752274a86070004e8", 
+        "thumb_width": 1400, 
+        "original_url": "https://www.reddit.com/r/dataisbeautiful/comments/bfhl3f/animating_the_legalization_of_marijuana_in_the/?utm_source=share&amp;utm_medium=web2x", 
+        "service_name": "reddit", 
+        "title": "r/dataisbeautiful - Animating the legalization of Marijuana in the United States 1995 - 2019 [OC]", 
+        "title_link": "https://www.reddit.com/r/dataisbeautiful/comments/bfhl3f/animating_the_legalization_of_marijuana_in_the/?utm_source=share&utm_medium=web2x", 
+        "text": "3,252 votes and 203 comments so far on Reddit", 
+        "from_url": "https://www.reddit.com/r/dataisbeautiful/comments/bfhl3f/animating_the_legalization_of_marijuana_in_the/?utm_source=share&utm_medium=web2x", 
+        "fallback": "reddit: r/dataisbeautiful - Animating the legalization of Marijuana in the United States 1995 - 2019 [OC]", 
+        "service_icon": "https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Thought this would be interesting: <https://www.reddit.com/r/dataisbeautiful/comments/bfhl3f/animating_the_legalization_of_marijuana_in_the/?utm_source=share&amp;utm_medium=web2x>", 
+    "ts": "1555820713.077800", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "145B81EE-4903-4A97-821B-2FA4B1219C08", 
+    "thread_ts": "1555811255.075700", 
+    "text": "Think most of us left, it was getting a bit chilly ", 
+    "ts": "1555811393.077300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B3218131-1EE0-40F2-A48C-43C689E94585", 
+    "text": "Where you guys at?", 
+    "type": "message", 
+    "user": "U1YM6H8MA", 
+    "ts": "1555811373.077200"
+  }, 
+  {
+    "client_msg_id": "810A85FE-22F8-4919-8DB7-EC4AF81B6BE4", 
+    "edited": {
+      "user": "UCBHS9M3N", 
+      "ts": "1555811272.000000"
+    }, 
+    "latest_reply": "1555811393.077300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "thread_ts": "1555811255.075700", 
+    "text": "Who at Delores park? <!channel> ", 
+    "ts": "1555811255.075700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBHS9M3N", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1555811393.077300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "97B86957-51D3-4C26-B513-E22A54D52036", 
+    "thread_ts": "1555796950.067300", 
+    "text": "Where r u", 
+    "ts": "1555803819.074700", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C370A72A-22BD-4A32-8309-0773291783FB", 
+    "thread_ts": "1555796950.067300", 
+    "text": "Yes", 
+    "ts": "1555803811.074300", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1555796950.067300", 
+    "text": "Are you set up?", 
+    "ts": "1555802553.074000", 
+    "user": "U703HM5PY", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHQPPCAH0", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHQPPCAH0/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 2236290, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_800.jpg", 
+        "timestamp": 1555801496, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHQPPCAH0/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_1024.jpg", 
+        "user": "U6ZCE0AKG", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHQPPCAH0-1c09efca05", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6ZCE0AKG/FHQPPCAH0/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555801496, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHQPPCAH0-7d0cb86cf5/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "99FBD309-30A4-4828-826E-07A5E15234FA", 
+    "text": "Come for the snacks", 
+    "upload": true, 
+    "ts": "1555801496.073100", 
+    "display_as_bot": false, 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ24JLR6H", 
+        "size": 21074759, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ24JLR6H/file_from_ios.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555800953, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ24JLR6H/download/file_from_ios.mov", 
+        "user": "U6ZCE0AKG", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "name": "File from iOS.MOV", 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ24JLR6H-0421898c94", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6ZCE0AKG/FJ24JLR6H/file_from_ios.mov", 
+        "is_external": false, 
+        "created": 1555800953, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "We're here! About to get it started!", 
+    "upload": true, 
+    "ts": "1555800954.072800", 
+    "display_as_bot": false, 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1555796950.067300", 
+    "text": "Heading over now", 
+    "ts": "1555800657.072600", 
+    "user": "U703HM5PY", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9F2EF84C-25DC-4F8B-9E24-67C128EAA343", 
+    "thread_ts": "1555796950.067300", 
+    "text": "We'll be set up in 20 mins", 
+    "ts": "1555799612.072200", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "07811C63-AD8E-473E-8A2E-3E2E0D7419B7", 
+    "thread_ts": "1555796950.067300", 
+    "text": "Grabbing snacks", 
+    "ts": "1555799598.071600", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "text": "Why would someone add something like that! People are silly.", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1555799430.071200"
+  }, 
+  {
+    "client_msg_id": "2029ece3-45a6-44cc-9874-61bbd08283b8", 
+    "thread_ts": "1555796950.067300", 
+    "text": "Here where yall at?", 
+    "ts": "1555799375.071000", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4B22ECA4-5469-4385-8453-7D91BF87A7BE", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "anguished", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YMU9QCF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dizzy_face", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YMU9QCF", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Dont trust unlicensed dealers in the park!  There is known to be fentanyl laced weed being sold at this event in particular", 
+    "ts": "1555799365.070900", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ40SPYJK", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ40SPYJK/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1439401, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_800.jpg", 
+        "timestamp": 1555799298, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ40SPYJK/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_1024.jpg", 
+        "user": "UCBDPE94Z", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ40SPYJK-ef4588cf6b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDPE94Z/FJ40SPYJK/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555799298, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ40SPYJK-67fb664130/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "FF34E854-F5FB-4353-B3A5-6412B2689171", 
+    "text": "I was there I got a lot of videos on snap", 
+    "upload": true, 
+    "ts": "1555799298.069200", 
+    "display_as_bot": false, 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "67AFDEF4-77BE-46CC-9A71-0ECA828491B6", 
+    "thread_ts": "1555796950.067300", 
+    "text": "Heading over now ", 
+    "ts": "1555797949.069000", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "645FB46A-C25E-4824-A10D-DA6C4107AC3C", 
+    "text": "I\u2019m at a car show in the mission if anyone is interested", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1555797787.068700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ2459VJ9", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ2459VJ9/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 8345349, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1555797709, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ2459VJ9/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_1024.jpg", 
+        "user": "U703HM5PY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ2459VJ9-2052185318", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U703HM5PY/FJ2459VJ9/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1555797709, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ2459VJ9-aeb09fb2f8/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "text": "Hippie hill is a zoo, this is the gate to get in.", 
+    "upload_reply_to": "0EBFFAA7-AF14-4717-B018-B2694F24EDA8", 
+    "ts": "1555797718.067900", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09e5e76e-806f-46f7-9ce9-89a3cdd18389", 
+    "thread_ts": "1555796950.067300", 
+    "text": "I\u2019m about to head to dolores park", 
+    "ts": "1555797501.067700", 
+    "user": "UCHK87XEJ", 
+    "parent_user_id": "U6Y6KU78W", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "88BC6865-7007-4247-B5A4-87ABE3413823", 
+    "text": "I\u2019m at Dolores park ", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1555796959.067600"
+  }, 
+  {
+    "client_msg_id": "9C5B27D7-930C-4F05-AA2D-A89F2FF6C588", 
+    "thread_ts": "1555796950.067300", 
+    "latest_reply": "1555803819.074700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCHK87XEJ", 
+      "U6ZCE0AKG", 
+      "U6X9L8VAN", 
+      "U703HM5PY"
+    ], 
+    "text": "<!channel> where is everyone? ", 
+    "ts": "1555796950.067300", 
+    "type": "message", 
+    "reply_count": 9, 
+    "user": "U6Y6KU78W", 
+    "replies": [
+      {
+        "user": "UCHK87XEJ", 
+        "ts": "1555797501.067700"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555797949.069000"
+      }, 
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1555799375.071000"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555799598.071600"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555799612.072200"
+      }, 
+      {
+        "user": "U703HM5PY", 
+        "ts": "1555800657.072600"
+      }, 
+      {
+        "user": "U703HM5PY", 
+        "ts": "1555802553.074000"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555803811.074300"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555803819.074700"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "dd9ef3b1-6257-475c-820f-9ce93f60b15f", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "ambulance", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "I got incredibly rekt last night, just revived, heading over to Dolores right now, will try to find space for us", 
+    "ts": "1555796267.066300", 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7fba8b1-3e60-424d-8de1-3f43ba90da2b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBDPE94Z"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raising_hand::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Max and I are heading there in a bit", 
+    "ts": "1555787198.065400", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "86C4F5F3-7937-4FEA-98FE-A3AF987EFA29", 
+    "text": "<!channel> ", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1555786845.065000"
+  }, 
+  {
+    "client_msg_id": "C69C53E6-F371-48CF-931C-C4CC061E37C0", 
+    "text": "Is anyone from make school @ hippy hill?  Im with wesley", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1555786648.064800"
+  }, 
+  {
+    "client_msg_id": "E3DF167D-BD1B-4EE8-84FC-6828113769B8", 
+    "edited": {
+      "user": "UCBDPE94Z", 
+      "ts": "1555774575.000000"
+    }, 
+    "text": "Hey guys.  Im not suggesting anything but I found 2 great websites.  My appreciation as a backend engineer knows no bounds.   <http://Lysergi.com|Lysergi.com> and <http://erowid.org|erowid.org>", 
+    "ts": "1555774560.063900", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D8FDEADB-79E9-44FB-BC92-04A7A9EADE25", 
+    "edited": {
+      "user": "UCBHS20S0", 
+      "ts": "1555774161.000000"
+    }, 
+    "attachments": [
+      {
+        "fallback": "wikipedia: History of lysergic acid diethylamide", 
+        "image_bytes": 570486, 
+        "original_url": "https://en.m.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide?wprov=sfti1", 
+        "title": "History of lysergic acid diethylamide", 
+        "text": "The psychedelic drug (or entheogen) lysergic acid diethylamide (LSD) was first synthesized on November 16, 1938 by the Swiss chemist Albert Hofmann in the Sandoz (now Novartis) laboratories in Basel, Switzerland. It was not until five years later on April 19, 1943, that the psychedelic properties were found.", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 800, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.m.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide?wprov=sfti1", 
+        "image_height": 800, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ruby_Slippers_LSD_Sheet.jpg", 
+        "from_url": "https://en.m.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide?wprov=sfti1", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "text": "4:20 is for amateurs... happy belated Bicycle day wonkitties\n\n<https://en.m.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide?wprov=sfti1>", 
+    "ts": "1555771488.060200", 
+    "user": "UCBHS20S0", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1555713111.000000"
+    }, 
+    "attachments": [
+      {
+        "fallback": "[April 18th, 2019 2:28 PM] rohan: :rotating_light: 4/20 \ud835\udd4f Make School:rotating_light:\n\n*Hippie Hill @ 11:00 AM*\nSince ~1970 stoners from around the world have held the tradition of amassing on Hippie Hill (they can't arrest everyone :man-shrugging:). Come for an amazing congregation of weed culture.\n\n*Dolores Park @ 3:00 PM*\nThis is the one! To show your support for the Make School community bring:\n+ Liquids :eyes::thinking_face:\n+ Herb of your preferred nature, in your preferred form :herb::herb:\n+ Speakers\n+ Towels, blankets, mats, carpets\n+ Experience building equipment - footballs, tennis balls, coloring books, sparklers, party favors\n\nWe'll be passing a 12 inch cone as a testament to our togetherness, burning off any ill sentiments we may have held in the past, together. :man-woman-boy-boy::woman-woman-girl-girl::woman-woman-boy::man-man-girl::man-woman-boy-boy::woman-girl::family::man-man-girl::woman-woman-girl-boy::woman-girl-boy:\n\n*Coffee Cultures @ 8*\nTo round out a day of building our community we'll show support for one our members - <@UCB91TXS4>, showing up certainly for some great music, but potentially also for free hats!\n\nRemember - anyone can get a job in software, but only Make Schoolers can build the Make School community.", 
+        "author_link": "https://makeschoolstudents.slack.com/team/U6ZCE0AKG", 
+        "is_thread_root_unfurl": true, 
+        "text": ":rotating_light: 4/20 \ud835\udd4f Make School:rotating_light:\n\n*Hippie Hill @ 11:00 AM*\nSince ~1970 stoners from around the world have held the tradition of amassing on Hippie Hill (they can't arrest everyone :man-shrugging:). Come for an amazing congregation of weed culture.\n\n*Dolores Park @ 3:00 PM*\nThis is the one! To show your support for the Make School community bring:\n+ Liquids :eyes::thinking_face:\n+ Herb of your preferred nature, in your preferred form :herb::herb:\n+ Speakers\n+ Towels, blankets, mats, carpets\n+ Experience building equipment - footballs, tennis balls, coloring books, sparklers, party favors\n\nWe'll be passing a 12 inch cone as a testament to our togetherness, burning off any ill sentiments we may have held in the past, together. :man-woman-boy-boy::woman-woman-girl-girl::woman-woman-boy::man-man-girl::man-woman-boy-boy::woman-girl::family::man-man-girl::woman-woman-girl-boy::woman-girl-boy:\n\n*Coffee Cultures @ 8*\nTo round out a day of building our community we'll show support for one our members - <@UCB91TXS4>, showing up certainly for some great music, but potentially also for free hats!\n\nRemember - anyone can get a job in software, but only Make Schoolers can build the Make School community.", 
+        "footer": "Thread in #cannabis", 
+        "ts": "1555622909.021200", 
+        "author_name": "Rohan Mishra", 
+        "is_share": true, 
+        "channel_name": "cannabis", 
+        "channel_id": "CJ0QBPAAH", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Rohan Mishra", 
+        "from_url": "https://makeschoolstudents.slack.com/archives/CJ0QBPAAH/p1555622909021200?thread_ts=1555622909021200&cid=CJ0QBPAAH", 
+        "author_icon": "https://avatars.slack-edge.com/2017-10-17/258472081239_e6af11726cad42da51bd_48.jpg", 
+        "author_id": "U6ZCE0AKG", 
+        "color": "D0D0D0"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCHK87XEJ", 
+          "UCBHS20S0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "elon", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCBHS20S0"
+        ]
+      }
+    ], 
+    "text": "I added KJ's Listening Party to the 4/20 schedule - three seperate EPs while on a higher plane with an Americano in one hand sounds like a vibe to me :fire:", 
+    "ts": "1555713045.058400", 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b1d9173-1de2-483b-a95a-d06c64d75eca", 
+    "thread_ts": "1555678433.046900", 
+    "text": "kindly appreciate it", 
+    "ts": "1555704721.051800", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e30ed44-51f3-4194-895d-1e7612c22147", 
+    "thread_ts": "1555622909.021200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand::skin-tone-6", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "I hope to be out there until the sun sets - Google says that's around 7:50 tomorrow", 
+    "ts": "1555701355.050500", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1776c369-3387-4a4e-ab7a-8d35cc1bf2a0", 
+    "thread_ts": "1555622909.021200", 
+    "text": "How late are y'all gonna stay at Dolores? My church is having a pot luck this day until 7", 
+    "ts": "1555700211.050300", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ3P9FAK0", 
+        "size": 139406, 
+        "original_h": 191, 
+        "thumb_360_w": 335, 
+        "title": "Pasted image at 2019-04-19, 10:19 AM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ3P9FAK0/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3P9FAK0-e1b37c6595/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3P9FAK0-e1b37c6595/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3P9FAK0-e1b37c6595/image_80.png", 
+        "thumb_360_h": 191, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555694349, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3P9FAK0-e1b37c6595/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ3P9FAK0/download/image.png", 
+        "user": "UCD53TKCN", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ3P9FAK0-5e28574a48", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD53TKCN/FJ3P9FAK0/image.png", 
+        "name": "image.png", 
+        "created": 1555694349, 
+        "original_w": 335, 
+        "mode": "hosted"
+      }
+    ], 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1555694360.000000"
+    }, 
+    "thread_ts": "1555688678.047600", 
+    "text": "^", 
+    "upload": true, 
+    "ts": "1555694351.049500", 
+    "display_as_bot": false, 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "f06d86d3-df96-4cf9-941c-4a41e159702b", 
+    "thread_ts": "1555688678.047600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "two", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "porque no los dos", 
+    "ts": "1555693892.049300", 
+    "user": "U6YV4A45C", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "609FCA3B-C852-40C8-B03C-107F362A7D5F", 
+    "thread_ts": "1555678433.046900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "Will put you on the \"In Spirit\" list ", 
+    "ts": "1555691608.048400", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9fc0a292-76f8-4153-8769-644bb354987d", 
+    "thread_ts": "1555688678.047600", 
+    "latest_reply": "1555694351.049500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YV4A45C", 
+      "UCD53TKCN"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "Hippie hill &gt; Delores park", 
+    "ts": "1555688678.047600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBS4EW59", 
+    "replies": [
+      {
+        "user": "U6YV4A45C", 
+        "ts": "1555693892.049300"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1555694351.049500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "6dacc5fc-5f98-471a-824a-95b042f25795", 
+    "thread_ts": "1555678433.046900", 
+    "latest_reply": "1555704721.051800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6ZCE0AKG", 
+      "U6YHCA79U"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "cry", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCDAKSB7Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "yuno", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "oh man, make sure to celebrate the holidaze this weekend for me. Unfortunately, Texas is a very conservative state, plus I know work for the government so I won't be able to celebrate this year", 
+    "ts": "1555678433.046900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YHCA79U", 
+    "replies": [
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555691608.048400"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1555704721.051800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1555654142.044200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1555649497.044000", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NHWGBGW", 
+    "ts": "1555644553.043500", 
+    "text": "<@U8NHWGBGW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1555644261.043300", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1555640037.041900", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "client_msg_id": "a7bc74ea-c3ad-44b5-ac58-d70327b80b4e", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "disappointed", 
+        "users": [
+          "UCC4S13NZ", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "broken_heart", 
+        "users": [
+          "UCC4S13NZ", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "wave", 
+        "users": [
+          "UCC4S13NZ", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "I wish you all well, but I'm not one for the tree. :evergreen_tree: Make sure to enjoy it for those who can't like myself. :fog:", 
+    "ts": "1555640030.041700", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1555634765.040800", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1555634765.040600", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1555634765.040400", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@UF83RJTHD> has joined the channel", 
+    "ts": "1555634765.040200", 
+    "subtype": "channel_join", 
+    "user": "UF83RJTHD", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1555634765.040000", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1555634765.039800", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCCRGTD0X"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1555633315.038300", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1555633237.037900", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1555633206.037700", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1555632711.037100", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1555631445.036200", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1555631445.036000", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1555631444.035800", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCC0GL52N"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "elon", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1555631034.035500", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C9AAB748-E217-4B37-90EB-0FCD5886AD14", 
+    "text": "Feel free to add whomever I just added those who uhhh I was \"familiar\" w", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1555630112.035100"
+  }, 
+  {
+    "client_msg_id": "DB0F0C63-72BC-41A4-9636-153FBEE9D4B2", 
+    "thread_ts": "1555625852.028200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "UCCSGECPJ"
+        ]
+      }
+    ], 
+    "text": "we'll make an \"In Spirit\" list and will puff one out for you :fire::ok_hand:", 
+    "ts": "1555629857.031700", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "UCCSGECPJ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1555629829.030900", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1555629243.030000", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a5f71325-33b0-4f1f-ba82-e6f25c96f9c0", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCC4S13NZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCC4S13NZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCC4S13NZ"
+        ]
+      }
+    ], 
+    "text": "420", 
+    "ts": "1555626698.029700", 
+    "user": "UCBP5EN5S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "98f3ffff-0ccb-4c38-90ab-aa61549fe1ab", 
+    "text": "lmaooo", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1555626693.029500"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ0UQBW1K", 
+        "size": 6766, 
+        "original_h": 240, 
+        "thumb_360_w": 210, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0UQBW1K/45347907_702061760165319_3230053691377582080_n.jpg", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0UQBW1K-a9e1435319/45347907_702061760165319_3230053691377582080_n_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0UQBW1K-a9e1435319/45347907_702061760165319_3230053691377582080_n_64.jpg", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0UQBW1K-a9e1435319/45347907_702061760165319_3230053691377582080_n_80.jpg", 
+        "thumb_360_h": 240, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555626312, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0UQBW1K-a9e1435319/45347907_702061760165319_3230053691377582080_n_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0UQBW1K/download/45347907_702061760165319_3230053691377582080_n.jpg", 
+        "user": "U6X9L8VAN", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ0UQBW1K-b65335668f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6X9L8VAN/FJ0UQBW1K/45347907_702061760165319_3230053691377582080_n.jpg", 
+        "name": "45347907_702061760165319_3230053691377582080_n.jpg", 
+        "created": 1555626312, 
+        "original_w": 210, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCBDPE94Z"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555626313.028600", 
+    "display_as_bot": false, 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ddf65fa5-2cca-4914-a346-a18e6fd6ff05", 
+    "thread_ts": "1555625852.028200", 
+    "latest_reply": "1555629857.031700", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6ZCE0AKG"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "Man this is great lol. Wish I could make it - send pics haha", 
+    "ts": "1555625852.028200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCSGECPJ", 
+    "replies": [
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555629857.031700"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "c2bcdb5d-a626-4ad3-9ec5-9a82dac12e16", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart_eyes", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCC4S13NZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "This is cracking me up.", 
+    "ts": "1555625849.028100", 
+    "user": "U703HM5PY", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1555625149.027000", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1555625149.026800", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1555625149.026600", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1555625149.026400", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1555625149.026200", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6XDKSREZ> has joined the channel", 
+    "ts": "1555625149.026000", 
+    "subtype": "channel_join", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1555625149.025800", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U1YM6H8MA> has joined the channel", 
+    "ts": "1555625149.025600", 
+    "subtype": "channel_join", 
+    "user": "U1YM6H8MA", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U72SB0WG6> has joined the channel", 
+    "ts": "1555625148.025400", 
+    "subtype": "channel_join", 
+    "user": "U72SB0WG6", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1555625148.025200", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBP4M9C4> has joined the channel", 
+    "ts": "1555625148.025000", 
+    "subtype": "channel_join", 
+    "user": "UCBP4M9C4", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1555625148.024800", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1555625148.024600", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1555625148.024400", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1555625148.024200", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1555625147.024000", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1555625147.023800", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1555625147.023600", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1555625147.023400", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1555625147.023200", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1555625147.023000", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1555625146.022800", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1555625146.022600", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1555625146.022400", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1555625146.022200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1555625146.022000", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1555625146.021800", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1555625145.021600", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1555625145.021400", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "client_msg_id": "9B8458AB-B49A-4EF9-870A-F84DE5D8BEF4", 
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1555713155.000000"
+    }, 
+    "latest_reply": "1555701355.050500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "U6ZCE0AKG"
+    ], 
+    "thread_ts": "1555622909.021200", 
+    "text": ":rotating_light: 4/20 \ud835\udd4f Make School:rotating_light:\n\n*Hippie Hill @ 11:00 AM*\nSince ~1970 stoners from around the world have held the tradition of amassing on Hippie Hill (they can't arrest everyone :man-shrugging:). Come for an amazing congregation of weed culture.\n\n*Dolores Park @ 3:00 PM*\nThis is the one! To show your support for the Make School community bring:\n+ Liquids :eyes::thinking_face:\n+ Herb of your preferred nature, in your preferred form :herb::herb:\n+ Speakers\n+ Towels, blankets, mats, carpets\n+ Experience building equipment - footballs, tennis balls, coloring books, sparklers, party favors\n\nWe'll be passing a 12 inch cone as a testament to our togetherness, burning off any ill sentiments we may have held in the past, together. :man-woman-boy-boy::woman-woman-girl-girl::woman-woman-boy::man-man-girl::man-woman-boy-boy::woman-girl::family::man-man-girl::woman-woman-girl-boy::woman-girl-boy:\n\n*Coffee Cultures @ 8*\nTo round out a day of building our community we'll support for one of our members - <@UCB91TXS4>, showing up certainly for some great music, but potentially also for free hats!\n\nRemember - anyone can get a job in software, but only Make Schoolers can build the Make School community.", 
+    "pinned_info": {
+      "pinned_ts": 1555695457, 
+      "channel": "CJ0QBPAAH", 
+      "pinned_by": "U6ZCE0AKG"
+    }, 
+    "ts": "1555622909.021200", 
+    "pinned_to": [
+      "CJ0QBPAAH"
+    ], 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6ZCE0AKG", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555700211.050300"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555701355.050500"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "rocket", 
+        "users": [
+          "UCCSGECPJ", 
+          "UCDAETD5L", 
+          "UCHK87XEJ", 
+          "UCBDDHX7T", 
+          "U6Y6KU78W", 
+          "UCBQJD3NW", 
+          "U6ZCE0AKG", 
+          "UCB91TXS4"
+        ]
+      }, 
+      {
+        "count": 8, 
+        "name": "blue_heart", 
+        "users": [
+          "UCHK87XEJ", 
+          "UCBDDHX7T", 
+          "UCB8T1AG0", 
+          "U6Y6KU78W", 
+          "UCC4S13NZ", 
+          "UCBQJD3NW", 
+          "UCB91TXS4", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ0U4DX4G", 
+        "thumb_480_h": 189, 
+        "original_h": 302, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-18 at 1.34.32 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0U4DX4G/screen_shot_2019-04-18_at_1.34.32_pm.png", 
+        "thumb_720_h": 283, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_80.png", 
+        "thumb_360_h": 142, 
+        "size": 56432, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555619687, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ0U4DX4G/download/screen_shot_2019-04-18_at_1.34.32_pm.png", 
+        "user": "U6ZCE0AKG", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ0U4DX4G-63d7c2b616", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6ZCE0AKG/FJ0U4DX4G/screen_shot_2019-04-18_at_1.34.32_pm.png", 
+        "name": "Screen Shot 2019-04-18 at 1.34.32 PM.png", 
+        "created": 1555619687, 
+        "original_w": 768, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ0U4DX4G-f51a4fdb3e/screen_shot_2019-04-18_at_1.34.32_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1555617342.008100", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555619689.010600", 
+    "display_as_bot": false, 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "herb", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6YMU9QCF", 
+          "UCDAETD5L", 
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "maple_leaf", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tumbleweed", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "<@U6YMU9QCF> set the channel topic: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb:", 
+    "ts": "1555619393.009400", 
+    "topic": ":herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb:", 
+    "subtype": "channel_topic", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fc8af24d-3485-453b-b78a-8f9671859940", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "herb", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6ZCE0AKG", 
+          "UCDAETD5L", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": ":herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb:", 
+    "ts": "1555619378.009300", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b650f3c2-9f68-4e95-a524-952b8a755ebb", 
+    "thread_ts": "1555617038.003500", 
+    "attachments": [
+      {
+        "fallback": "wikipedia: 420 (cannabis culture)", 
+        "image_bytes": 754083, 
+        "original_url": "https://en.wikipedia.org/wiki/420_(cannabis_culture)", 
+        "title": "420 (cannabis culture)", 
+        "text": "420, 4:20, or 4/20  (pronounced four-twenty) is slang in cannabis culture for the consumption of cannabis, especially smoking cannabis around the time 4:20 p.m. (or 16:20 in 24-hour notation) and also refers to cannabis-oriented celebrations that take place annually on April 20 (which is 4/20 in U.S. form).", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 1200, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.wikipedia.org/wiki/420_(cannabis_culture)", 
+        "image_height": 1589, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Louis_Pasteur_statue%2C_San_Rafael_High_School_%28crop%29.jpg/1200px-Louis_Pasteur_statue%2C_San_Rafael_High_School_%28crop%29.jpg", 
+        "from_url": "https://en.wikipedia.org/wiki/420_(cannabis_culture)", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "text": "More on 4/20 - <https://en.wikipedia.org/wiki/420_(cannabis_culture)>", 
+    "ts": "1555619145.008500", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "004267f8-6731-4504-a509-60cfe43d6322", 
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1555618398.000000"
+    }, 
+    "thread_ts": "1555617342.008100", 
+    "text": "I created <#CJ0QBPAAH|cannabis> primary to enable us to have a good time this weekend, but also to enable my peers to develop a greater bond with something they may view as a party drug.\n\nI think that society's misunderstanding of marijuana is synonymous with soceity's lack of awareness of \"The Education Industry\" - we take things at face value (perhaps out of convenience), but to be at MS at this point, one must have fought their way through the reality distortion field (somewhat) which surrounds education.\n\nIn a similar manner, I see this channel as an opportunity to bring my peers beyond marijuana's reality distortion field into the casual lack-of-knowing that is Cannabis. Truly, we cannot even begin to comprehend the nature of cannabis, as we do not even have a baseline definition of what Cannabis is. And yet, many of us are consumers.\n\nWe know that after K-12, we're supposed to go slog through four years of hell to get a degree, just as we know Cannabis makes people lazy.\n\n<#CJ0QBPAAH|cannabis> is an opportunity to develop your own, informed opinion on Cannabis, while cultivating relationships with buds along the way.\n\n---\n\nMy interest in Cannabis grew because of the potential to make $$$ - in more ways than one.\n\nLater, I started consuming, and through this, was birthed into reality. I never gave much thought to the heat of the sun, or the enchaining capabilities of salt, but I became aware through Cannabis. Through the simple enhancement of my senses I was more interconnected with reality, something I had struggled with in the past. I was always in my head, thinking. Marijuana helped me appreciate the true meaning of being a human, having a body, and being able to experience life at it is.\n\nThis is just the tip of the ice-burg for me, but before this post gets too long I want say thanks for joining and hope we can burn together", 
+    "ts": "1555617971.008200", 
+    "user": "U6ZCE0AKG", 
+    "parent_user_id": "U6ZCE0AKG", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "720dd8cc-c755-4672-a4cb-0a785a21de65", 
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1555619163.000000"
+    }, 
+    "latest_reply": "1555619689.010600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6ZCE0AKG"
+    ], 
+    "thread_ts": "1555617342.008100", 
+    "text": "In this thread, we share why we joined <#CJ0QBPAAH|cannabis>/are interested in Cannabis", 
+    "ts": "1555617342.008100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6ZCE0AKG", 
+    "replies": [
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555617971.008200"
+      }, 
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555619689.010600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "2E9E116C-5098-4B99-B773-F1D507EAD613", 
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1555617051.000000"
+    }, 
+    "latest_reply": "1555619145.008500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6ZCE0AKG"
+    ], 
+    "thread_ts": "1555617038.003500", 
+    "text": "As you may be aware, April 20th is quite a important day for Cannabis, but are you familiar with the fantastical origins of 4/20? \n\n&gt; In 1971, five high school students \u2013 Steve Capper, Dave Reddix, Jeffrey Noel, Larry Schwartz, and Mark Gravich - in San Rafael, California, calling themselves the Waldos because \"their chosen hang-out spot was a wall outside the school\", used the term in connection with a 1971 plan to search for an abandoned cannabis crop that they had learned about, based on a treasure map made by the grower. \n\n&gt; The Waldos designated the Louis Pasteur statue on the grounds of San Rafael High School as their meeting place, and 4:20 p.m. as their meeting time. The Waldos referred to this plan with the phrase \"4:20 Louis\". \n\n&gt; After several failed attempts to find the crop, the group eventually shortened their phrase to simply \"4:20\", which ultimately evolved into a code-word that the teens used to mean consuming cannabis.", 
+    "ts": "1555617038.003500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6ZCE0AKG", 
+    "replies": [
+      {
+        "user": "U6ZCE0AKG", 
+        "ts": "1555619145.008500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1555616831.000500", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "U6ZCE0AKG"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> set the channel purpose: Cannabis is a multi-billion dollar tech sector on :fire:. MS is nestled in the hotbed (or should I say hotbox) of Canna-tech. Here, we buds are coming together to share resources which leverages MS's unique positioning to enable students to elevate...", 
+    "ts": "1555616787.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "purpose": "Cannabis is a multi-billion dollar tech sector on :fire:. MS is nestled in the hotbed (or should I say hotbox) of Canna-tech. Here, we buds are coming together to share resources which leverages MS's unique positioning to enable students to elevate..."
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1555616787.000200", 
+    "text": "<@U6ZCE0AKG> has joined the channel"
+  }
+]

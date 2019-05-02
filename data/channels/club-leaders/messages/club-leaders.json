@@ -1,0 +1,1047 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1556221037.000200", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1554245505.000200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307374.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1550645592.000200", 
+    "text": "<@UCC4U4V53> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1549695062.000200", 
+    "text": "<@U1HBKMW8Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JMBMM", 
+    "ts": "1549578246.000200", 
+    "text": "<@UCD1JMBMM> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1548293884.000400", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1548291705.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1548206059.000200", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1547752913.000200", 
+    "text": "<@UCBS3LMDZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1547086189.000200", 
+    "text": "<@UCC0FMXCJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1546906405.000200", 
+    "text": "<@UCC4RHFU5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1544750737.000200", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1543530244.000700", 
+    "text": "<@UCBS25JKD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1543449305.000400", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1543430788.000200", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1542242962.000900", 
+    "text": "<@UCB8T79UG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1542079817.000700", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1541660950.000500", 
+    "text": "<@UCC0HC7D0> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1541435347.000200", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "client_msg_id": "31df8f39-a041-4805-8540-2c4523cdbbeb", 
+    "thread_ts": "1540868415.003400", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0FMXCJ"
+        ]
+      }
+    ], 
+    "text": "I don't have a form for you <@UCC0FMXCJ>!", 
+    "ts": "1540868915.003800", 
+    "user": "U9PA0BZQW", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d174a29d-bfd1-4c24-bdfe-643cf81db6e2", 
+    "thread_ts": "1540868415.003400", 
+    "text": "Is there a way to check if we already submitted?", 
+    "ts": "1540868446.003600", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e41862d5-6db9-4b26-a201-cb4922cf3449", 
+    "thread_ts": "1540868415.003400", 
+    "latest_reply": "1540868915.003800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ", 
+      "U9PA0BZQW"
+    ], 
+    "text": "<!channel> As a reminder, please submit this form to register as an  official Make School Club by EOD :make-school:: <https://docs.google.com/forms/d/1etmb8-4RM0ADYH2WNYmmLdTpGQJwd9K6BXedVuUeCj8/edit>\n\nI will be working on making clubs more visible to the entire school :school:  They will be displayed in the Great Hall :slightly_smiling_face: :tada:", 
+    "ts": "1540868415.003400", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1540868446.003600"
+      }, 
+      {
+        "user": "U9PA0BZQW", 
+        "ts": "1540868915.003800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540780804.000400", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1540593775.000200", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1540507240.000200", 
+    "text": "<@UCFCFQ7KK> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1540414519.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1540361865.000200", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1540351802.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "client_msg_id": "b80c0dc2-cc59-4d37-9585-a3890fdba252", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chart_with_upwards_trend", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "megan", 
+        "users": [
+          "UCB8U00KA", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> whoo 12 clubs registered now! :make-school: thanks, everyone!! more to come shortly regarding visibility of clubs! :trophy:", 
+    "ts": "1540242330.000100", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6e740efe-5c50-452a-8e17-4fa0027ab02c", 
+    "text": "<!channel> As mentioned in All Hands, please submit this form to register as an official club :make-school:: <https://docs.google.com/forms/d/1etmb8-4RM0ADYH2WNYmmLdTpGQJwd9K6BXedVuUeCj8/edit>\n\nOnce clubs are registered, we will be able to provide more visibility to the entire school as discussed in our last meeting :tada::star::white_check_mark:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1540238596.000100"
+  }, 
+  {
+    "client_msg_id": "eff014e1-9749-4f57-800b-d2888e7280d3", 
+    "text": "<!channel> thank you for meeting yesterday! :make-school: SUMMARY:\n\nChallenges: meeting space, low slack engagement, visibility of clubs\n\nSolutions: :white_check_mark:\nMake School open until 8pm Tues/Wed/Thurs :star:\nMegan to create bulletin board/visibility of all clubs :heavy_check_mark:\nStudents to use \"Student Clubs Calendar\" when scheduling &amp; ask <@UCJ72FALU> to book you a room :+1:\n\nWins: successful meetings :trophy:\n\nPlease submit this form to Register as an official club (ONE form/club):\n<https://goo.gl/forms/9YUU58QwBNDXhx0t2>\n\nIf your club needs funding, please submit this request form (not required):\n<https://goo.gl/forms/htz5rsrpcdiku4ib2>\n\nLet me know if you have questions! THANK YOU! :star2:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1539362743.000100"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1539361416.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1539305615.000200", 
+    "text": "<@UCBHEGLKB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1539288663.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1539288074.000200", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "client_msg_id": "59373379-371f-417d-a1fa-2315cd88d290", 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "megan", 
+        "users": [
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCD1JMBMM", 
+          "U1HBKMW8Y", 
+          "UCB8YJNBT", 
+          "UCBKC02JY", 
+          "U9PA0BZQW"
+        ]
+      }
+    ], 
+    "text": "Sorry i had to leave early -- thank you for facilitating <@U9PA0BZQW> you are a rockstar!", 
+    "ts": "1539286657.000200", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1539286034.000200", 
+    "text": "<@UCBS37LKV> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "72c20858-a60c-4622-b8cb-033087a6a920", 
+    "thread_ts": "1537481303.000100", 
+    "text": "<@UCJ72FALU> can I get an invite to the club calendar?", 
+    "ts": "1539286004.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5c8b78a0-cd33-4a67-adba-d16f69c20e10", 
+    "text": "<!channel> club leader meeting about to start in Golden Gate!", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1539285055.000100"
+  }, 
+  {
+    "client_msg_id": "8b719c52-04f8-47b1-8c86-ef65ef4b6123", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "megan", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel> reminder that the Club Leaders meeting will take place at 12 noon today in the Golden Gate room :tada:\n\nYou can leave the feedback session early to attend! :make-school:\n\nSee you soon! :white_check_mark:", 
+    "ts": "1539280537.000100", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1539275371.000200", 
+    "text": "<@UCBPUT6AX> has left the channel"
+  }, 
+  {
+    "client_msg_id": "aa90e697-18d0-4d34-8ba2-4f928e41620e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> we will have a club leaders meeting next Thursday, October 11th at 12 noon - look for calendar invite shortly :calendar:. It looks like there aren't any club meetings planned then! (please use the \"Student Clubs\" calendar to share when your meetings are.\n\nMeeting agenda: :heavy_check_mark:\nStatus of clubs: aligned with what defines a club at Make School :make-school:\n\nWhat clubs don't exist/need leaders :thinking_face:\n\nClub funds process :moneybag:\n\nDiscuss challenges/wins :trophy:\n\nMeeting times/using \"Student clubs calendar\" :white_check_mark:\n\nlet me know if there is anything else the group should discuss :tada:", 
+    "ts": "1538767413.000100", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9bec7ecb-21b9-40eb-afc3-b8fc8f4cd41a", 
+    "thread_ts": "1537481303.000100", 
+    "text": "<@U2QTVG278> Thank you for including context around the importance of using the first person :slightly_smiling_face:", 
+    "ts": "1538005040.000100", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29D5EA43-536A-407B-9AD6-E8BC45CF9CD1", 
+    "thread_ts": "1537481303.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "unicorn_face", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "I did!", 
+    "ts": "1537740739.000100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a97bc9a9-a6f4-4f5c-85f4-2a6d3d1e6460", 
+    "thread_ts": "1537481303.000100", 
+    "text": "<@UCBDA2GGH> or <@UCC0GD5V0> did you guys receive this?", 
+    "ts": "1537740696.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1537576983.000200", 
+    "text": "<@UCBHQSTB6> has left the channel"
+  }, 
+  {
+    "client_msg_id": "6b8b2482-09dc-402a-b602-5aaf36f92ec9", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pingree", 
+        "users": [
+          "UCC0FMXCJ", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<!channel> let me know if you have any questions!", 
+    "ts": "1537481324.000100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "35adcfaa-a838-46a8-a05b-161bc3ff0675", 
+    "thread_ts": "1537481303.000100", 
+    "latest_reply": "1539286004.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA", 
+      "UCBDA2GGH", 
+      "UCJ72FALU"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> just sent out an invite for our new Student Clubs Calendar :calendar: Slack me know if you didn't receive it :heavy_check_mark::slack: Add all your re-occurring meetings and any events  to this calendar. First come first serve for scheduling your meetings &amp; events. Please refer to the calendar as we don't want schedule meetings over already existing meetings because a lot of students are in multiple clubs :grinning::make-school:", 
+    "ts": "1537481303.000100", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1537740696.000100"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1537740739.000100"
+      }, 
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1538005040.000100"
+      }, 
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1539286004.000100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "d281dacd-cfad-4b0e-bc9b-8c5987703f88", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB8U00KA", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "<!channel> if you missed the Club Meeting today, please refer to this doc: :tada:\n\n<https://docs.google.com/document/d/15VvtncX-4lkHvmhg90VxVY5nm6_rE3o-MU_HnVVpgiQ/edit#heading=h.en76j61oskjf>", 
+    "ts": "1537475525.000100", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2325e8aa-a610-400f-aaf2-757c1df57b27", 
+    "reactions": [
+      {
+        "count": 11, 
+        "name": "+1", 
+        "users": [
+          "UCC0FMXCJ", 
+          "U1HBKMW8Y", 
+          "UCBS25JKD", 
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "UCBDPE94Z", 
+          "UCD1JMBMM", 
+          "UCC0GD5V0", 
+          "UCBKC02JY", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "slack", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBS25JKD", 
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCD1JMBMM", 
+          "UCC0GD5V0", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "speaking_head_in_silhouette", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBS25JKD", 
+          "UCB8T79UG", 
+          "UCD1JMBMM", 
+          "UCC0GD5V0", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBS25JKD", 
+          "UCB8T79UG", 
+          "UCD1JMBMM", 
+          "UCDAETD5L", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "rocket", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCB8T79UG", 
+          "UCD1JMBMM", 
+          "UCDAETD5L", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "luke", 
+        "users": [
+          "UCBS4EW59", 
+          "UCD1JMBMM", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "<!channel> use this channel to communicate with other club leaders! :make-school::star2:", 
+    "ts": "1537473270.000100", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1537231160.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1537222975.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1537222975.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1537222974.001400", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1537222974.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1537222974.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1537222974.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCB3XNQFJ> has joined the channel", 
+    "ts": "1537222974.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB3XNQFJ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1537222974.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1537222974.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1537222973.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1537222973.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1537222973.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1537222973.000700", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1537222973.000500", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1537222973.000300", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1537222973.000100", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1537222972.002600", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1537222972.002400", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1537222972.002200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1537222972.002000", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBPUT6AX> has joined the channel", 
+    "ts": "1537222972.001800", 
+    "subtype": "channel_join", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1537222972.001600", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1537222972.001400", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1537222972.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1537222972.001000", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1537222972.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1537222972.000600", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1537222972.000400", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBDBLTFB> has joined the channel", 
+    "ts": "1537222972.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBLTFB", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1537222971.002400", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1537222971.002200", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1537222971.002000", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1537222971.001800", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1537222971.001600", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCD1JMBMM> has joined the channel", 
+    "ts": "1537222971.001400", 
+    "subtype": "channel_join", 
+    "user": "UCD1JMBMM", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1537222971.001200", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1537222971.001000", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1537222971.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1537222971.000600", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1537222971.000400", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1537222971.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1537222970.000600", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1537222970.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1537222970.000200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "U9PA0BZQW"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "hero", 
+        "users": [
+          "UCBKC02JY", 
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "inviter": "U2C90LDS9", 
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1537221498.000300", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U2C90LDS9> set the channel purpose: For club leaders to discuss club leadership best practices, logistics, issues that arise, and more", 
+    "ts": "1537221498.000100", 
+    "subtype": "channel_purpose", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "purpose": "For club leaders to discuss club leadership best practices, logistics, issues that arise, and more"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1537221497.000200", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }
+]

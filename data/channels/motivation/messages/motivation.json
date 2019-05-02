@@ -1,0 +1,2509 @@
+[
+  {
+    "client_msg_id": "181f4dc0-ef98-4466-97c1-1c1c47927390", 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "author_link": "https://twitter.com/HumansOfLambda/status/1086045396541988864", 
+        "text": "\"Is there something you wish you could tell yourself, if you were just starting out again?\"\n\nStudent: \"Don't beat yourself up if you don't get something right away. Don't be hard on yourself, and don't denigrate yourself: you\u2019re doing just fine, and it's part of the process.\"", 
+        "original_url": "https://twitter.com/HumansOfLambda/status/1086045396541988864", 
+        "ts": 1547768374, 
+        "author_name": "Humans Of Lambda School", 
+        "service_url": "https://twitter.com/", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/HumansOfLambda/status/1086045396541988864", 
+        "author_subname": "@HumansOfLambda", 
+        "fallback": "<https://twitter.com/HumansOfLambda|@HumansOfLambda>: \"Is there something you wish you could tell yourself, if you were just starting out again?\"\n\nStudent: \"Don't beat yourself up if you don't get something right away. Don't be hard on yourself, and don't denigrate yourself: you\u2019re doing just fine, and it's part of the process.\"", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1071205505098440704/zBQHXx--_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://twitter.com/HumansOfLambda/status/1086045396541988864>", 
+    "ts": "1548454355.000200", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1542157540.000200", 
+    "text": "<@UCC4U4V53> has joined the channel"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1540492863.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "6c004433-242d-48a8-a6b4-852afb4717c8", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "<@U6YGZN9HD>: I moved your Cult of Done post from <#C1D3YFP6G|general> to here ^", 
+    "ts": "1540492860.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e9d0326b-269f-414c-ba27-c1d2942e276c", 
+    "attachments": [
+      {
+        "image_bytes": 277880, 
+        "original_url": "https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "2 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "The Cult of Done Manifesto \u2013 Bre Pettis \u2013 Medium", 
+        "ts": 1470146144, 
+        "title_link": "https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*bIHFnTkfqOZYy_bt-jj11A.png", 
+        "image_width": 193, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13", 
+        "fallback": "Medium: The Cult of Done Manifesto \u2013 Bre Pettis \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "The Cult of Done Manifesto is a special document. Written from bed with Kio Stark in our first few months of dating. It was one of those\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "Visuals of the Cult of Done Manifesto: <https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13>", 
+    "ts": "1540492828.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[October 24th, 2018 12:58 PM] egon: For all the people that has ever struggled to get things done, check this out:\nTHE CULT OF DONE MANIFESTO\nBre Pettis and Kio Stark\n* There are three states of being.\nNot knowing, action and completion.\n* Accept that everything is a draft.\nIt helps to get done.\n* There is no editing stage.\n* Pretending you know what you\u2019re doing\nis almost the same as knowing what you\nare doing, so just accept that you know\nwhat you\u2019re doing even if you don\u2019t\nand do it.\n* Banish procrastination. If you wait more\nthan a week to get an idea done, abandon it.\n* The point of being done is not to finish but\nto get other things done.\n* Once you\u2019re done you can throw it away.\n* Laugh at perfection. It\u2019s boring and keeps\nyou from being done.\n* People without dirty hands are wrong.\nDoing something makes you right.\n* Failure counts as done. So do mistakes.\n* Destruction is a variant of done.\n* If you have an idea and publish it on the\ninternet, that counts as a ghost of done.\n* Done is the engine of more.", 
+        "author_link": "https://product-college.slack.com/team/U6YGZN9HD", 
+        "color": "D0D0D0", 
+        "text": "For all the people that has ever struggled to get things done, check this out:\nTHE CULT OF DONE MANIFESTO\nBre Pettis and Kio Stark\n* There are three states of being.\nNot knowing, action and completion.\n* Accept that everything is a draft.\nIt helps to get done.\n* There is no editing stage.\n* Pretending you know what you\u2019re doing\nis almost the same as knowing what you\nare doing, so just accept that you know\nwhat you\u2019re doing even if you don\u2019t\nand do it.\n* Banish procrastination. If you wait more\nthan a week to get an idea done, abandon it.\n* The point of being done is not to finish but\nto get other things done.\n* Once you\u2019re done you can throw it away.\n* Laugh at perfection. It\u2019s boring and keeps\nyou from being done.\n* People without dirty hands are wrong.\nDoing something makes you right.\n* Failure counts as done. So do mistakes.\n* Destruction is a variant of done.\n* If you have an idea and publish it on the\ninternet, that counts as a ghost of done.\n* Done is the engine of more.", 
+        "footer": "Posted in #general", 
+        "ts": "1540411087.000100", 
+        "author_name": "Egon Fiedler", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Egon Fiedler", 
+        "from_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1540411087000100", 
+        "author_icon": "https://secure.gravatar.com/avatar/56debe88aa1ee7f83077dc851256ae2d.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0025-48.png", 
+        "author_id": "U6YGZN9HD"
+      }
+    ], 
+    "ts": "1540492810.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1540421498.000200", 
+    "text": "<@U6YBN8NJ2> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1540315208.000200", 
+    "text": "<@U6YFC7074> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1539199266.000200", 
+    "text": "<@U6YGZN9HD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538809059.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1536770387.000200", 
+    "text": "<@U6YCJRXGF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1526072241.000020", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YD3BYBD", 
+    "ts": "1524685060.000621", 
+    "text": "<@U6YD3BYBD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1522870616.000105", 
+    "text": "<@U6XCTHTQQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1520969398.000295", 
+    "text": "<@U9PA0BZQW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WQK3Q73", 
+    "ts": "1520542899.000481", 
+    "text": "<@U6WQK3Q73> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1520540492.000042", 
+    "text": "<@U6YV4A45C> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 480, 
+        "thumb_width": 480, 
+        "footer": "Twitter", 
+        "text": "In 1978, Jadav Payeng began planting a tree every day for 37 years \u2014 the results are stunning.\n\nOne person can make a big difference. #MondayMotivation :evergreen_tree::deciduous_tree::palm_tree:", 
+        "author_link": "https://twitter.com/ValaAfshar/status/968101707791110144", 
+        "ts": 1519648408, 
+        "author_name": "Vala Afshar", 
+        "video_html": "<video controls poster=\"https://pbs.twimg.com/ext_tw_video_thumb/940320392874377216/pu/img/7AYRAUbXeGAys9kO.jpg\" width=\"480\" height=\"480\"><source type=\"video/mp4\" src=\"https://video.twimg.com/ext_tw_video/940320392874377216/pu/vid/480x480/9I5_xffY1-mjG9pf.mp4\"></video>", 
+        "video_html_height": 480, 
+        "video_html_width": 480, 
+        "service_url": "https://twitter.com/", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1259558245/vala_300dpi_normal.jpg", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/ValaAfshar/status/968101707791110144", 
+        "author_subname": "@ValaAfshar", 
+        "fallback": "<https://twitter.com/ValaAfshar|@ValaAfshar>: In 1978, Jadav Payeng began planting a tree every day for 37 years \u2014 the results are stunning.\n\nOne person can make a big difference. #MondayMotivation :evergreen_tree::deciduous_tree::palm_tree: <https://pbs.twimg.com/ext_tw_video_thumb/940320392874377216/pu/img/7AYRAUbXeGAys9kO.jpg>", 
+        "thumb_url": "https://pbs.twimg.com/ext_tw_video_thumb/940320392874377216/pu/img/7AYRAUbXeGAys9kO.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://twitter.com/ValaAfshar/status/968101707791110144>", 
+    "ts": "1519680651.000348", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1518990559.000135", 
+    "text": "<@U6XDKSREZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517983942.000178", 
+    "text": "<@U8M6V7F3K> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1517807975.000045", 
+    "text": "<@U8M6V7F3K> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMF5THV", 
+    "ts": "1517525240.000413", 
+    "text": "<@U6YMF5THV> has left the channel"
+  }, 
+  {
+    "text": "Ray Dalio :raised_hands::skin-tone-3:", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1512943196.000022"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "heavy_plus_sign", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1512854546.000103", 
+    "text": "\u201cWith enough hard work, you can do anything you want, but not everything.\u201d\n- Ray Dalio, Founder and Investor at Bridgewater Associates\n\nFocus on what matters, don\u2019t take half measures on a bunch of projects. Only full measures on what matters!"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "reactions": [
+          {
+            "count": 1, 
+            "name": "100", 
+            "users": [
+              "U6XRWEQGY"
+            ]
+          }
+        ], 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 450, 
+        "id": "F8BHW5H0A", 
+        "thumb_480_h": 480, 
+        "original_h": 1334, 
+        "thumb_360_w": 202, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F8BHW5H0A/image_uploaded_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 484768, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_800.png", 
+        "timestamp": 1512700525, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F8BHW5H0A/download/image_uploaded_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_1024.png", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F8BHW5H0A-66dec63a71", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F8BHW5H0A/image_uploaded_from_ios.png", 
+        "name": "Image uploaded from iOS.png", 
+        "created": 1512700525, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 750, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F8BHW5H0A-20cfae16bf/image_uploaded_from_ios_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6XRWEQGY"
+        ]
+      }
+    ], 
+    "ts": "1512700528.000072", 
+    "text": "", 
+    "upload_reply_to": "D082CD28-D937-4E13-BC7E-B2756C3CE6CB", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1511992800.000330", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "text": "<http://blog.thefirehoseproject.com/posts/how-youll-know-youre-ready-to-be-a-web-developer/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 356, 
+        "thumb_width": 720, 
+        "title": "How You'll Know You're Ready to Be a Web Developer", 
+        "service_name": "Firehose", 
+        "ts": 1438682427, 
+        "title_link": "http://blog.thefirehoseproject.com/posts/how-youll-know-youre-ready-to-be-a-web-developer/", 
+        "text": "In the beginning, things seem simple, but you'll soon realize you're not in wonderland anymore. You\u2019ll be ready when you feel like you can honestly say...", 
+        "from_url": "http://blog.thefirehoseproject.com/posts/how-youll-know-youre-ready-to-be-a-web-developer/", 
+        "fallback": "Firehose: How You'll Know You're Ready to Be a Web Developer", 
+        "thumb_url": "http://165.227.208.227/posts/wp-content/uploads/2015/08/01-1.bmp", 
+        "id": 1
+      }
+    ], 
+    "ts": "1511707476.000053", 
+    "user": "U6WQK3Q73"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "reactions": [
+          {
+            "count": 3, 
+            "name": "thumbsup_all", 
+            "users": [
+              "U6YMU9QCF", 
+              "U1HBKMW8Y", 
+              "U6XJLPQ9Y"
+            ]
+          }
+        ], 
+        "filetype": "jpg", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F8582TFM1", 
+        "thumb_480_h": 480, 
+        "original_h": 2208, 
+        "thumb_360_w": 203, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F8582TFM1/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1128569, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1511580524, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F8582TFM1/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F8582TFM1-c45ffd45cb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/F8582TFM1/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1511580524, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F8582TFM1-1d07813ec2/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6YMU9QCF", 
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "ts": "1511580527.000093", 
+    "text": "", 
+    "upload_reply_to": "B347080B-A4E1-4791-B970-89879D869E7F", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://youtu.be/MTjnHzjYzgU>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/MTjnHzjYzgU/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "title": "Karim Abouelnaga: I Wake Up Every Day At 4:30 - Relentless | Forbes", 
+        "service_name": "YouTube", 
+        "author_link": "https://www.youtube.com/user/forbes", 
+        "video_html_width": 400, 
+        "author_name": "Forbes", 
+        "title_link": "https://youtu.be/MTjnHzjYzgU", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/MTjnHzjYzgU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/MTjnHzjYzgU", 
+        "fallback": "YouTube Video: Karim Abouelnaga: I Wake Up Every Day At 4:30 - Relentless | Forbes", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1510608411.000233", 
+    "user": "U6XJLPQ9Y"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "text": "It's always easier to keep consuming - keep listening, reading, wanting  to consume more. But to DO, to LIVE, is to be self aware (scary!).", 
+        "author_link": "https://twitter.com/berkun/status/927009783714004994", 
+        "ts": 1509851330, 
+        "author_name": "Scott Berkun", 
+        "service_url": "https://twitter.com/", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/berkun/status/927009783714004994", 
+        "author_subname": "@berkun", 
+        "fallback": "<https://twitter.com/berkun|@berkun>: It's always easier to keep consuming - keep listening, reading, wanting  to consume more. But to DO, to LIVE, is to be self aware (scary!).", 
+        "author_icon": "https://pbs.twimg.com/profile_images/879822825078632448/dx7kPoWa_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Motivation to DO more: <https://twitter.com/berkun/status/927009783714004994> (click to read the whole thread)", 
+    "ts": "1510195470.000155", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/xY48e1oDXSU/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "title": "Jordan Peterson - Wasting Time and Opportunities", 
+        "service_name": "YouTube", 
+        "author_link": "https://www.youtube.com/channel/UCo9QgwWCNEhDxL1gH-jxa8Q", 
+        "video_html_width": 400, 
+        "author_name": "Bite-sized Philosophy", 
+        "title_link": "https://www.youtube.com/watch?v=xY48e1oDXSU", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/xY48e1oDXSU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=xY48e1oDXSU", 
+        "fallback": "YouTube Video: Jordan Peterson - Wasting Time and Opportunities", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Some pretty interesting concepts he shares with undergraduates. Peterson is a Psychology Professor\n<https://www.youtube.com/watch?v=xY48e1oDXSU>", 
+    "ts": "1509334281.000041", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U6YHKG1RQ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/nnqX_eVSYYI/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "title": "The Day Kobe Became the BLACK MAMBA", 
+        "service_name": "YouTube", 
+        "author_link": "https://www.youtube.com/user/andergra000", 
+        "video_html_width": 400, 
+        "author_name": "JxmyHighroller", 
+        "title_link": "https://www.youtube.com/watch?v=nnqX_eVSYYI", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/nnqX_eVSYYI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=nnqX_eVSYYI", 
+        "fallback": "YouTube Video: The Day Kobe Became the BLACK MAMBA", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=nnqX_eVSYYI>", 
+    "ts": "1509071630.000125", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "The one question that changed the trajectory of his life ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1507654603.000315"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6YHKG1RQ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "author_link": "https://www.facebook.com/goalcast/", 
+        "service_name": "Facebook", 
+        "author_name": "Goalcast", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/goalcast/videos/1587331594677358/", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.facebook.com/goalcast/videos/1587331594677358/>", 
+    "ts": "1507654463.000299", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 450, 
+        "id": "F7DV4KTDW", 
+        "thumb_480_h": 480, 
+        "original_h": 1334, 
+        "thumb_360_w": 202, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F7DV4KTDW/image_uploaded_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 418673, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_800.png", 
+        "timestamp": 1507306490, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F7DV4KTDW/download/image_uploaded_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_1024.png", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F7DV4KTDW-b6d30d2316", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F7DV4KTDW/image_uploaded_from_ios.png", 
+        "name": "Image uploaded from iOS.png", 
+        "created": 1507306490, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 750, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7DV4KTDW-e116f738fc/image_uploaded_from_ios_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "58F7A98B-AA6C-4261-A313-64A4F2C0C8ED", 
+    "ts": "1507306493.000146", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "facepunch::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "author_link": "https://www.facebook.com/raydalio/", 
+        "service_name": "Facebook", 
+        "author_name": "Ray Dalio", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/raydalio/videos/374829956272019/", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.facebook.com/raydalio/videos/374829956272019/>\n\nRay Dalio, one of the best hedge fund managers of all time", 
+    "ts": "1507219027.000728", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F79CTUCUA", 
+        "thumb_480_h": 480, 
+        "original_h": 720, 
+        "thumb_360_w": 360, 
+        "title": "Architect of the future", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_80.png", 
+        "thumb_360_h": 360, 
+        "size": 589442, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1506490685, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/download/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "user": "U6YMU9QCF", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F79CTUCUA-5e12ce26fe", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YMU9QCF/F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "name": "Pasted image at 2017_09_26 10_37 PM.png", 
+        "created": 1506490685, 
+        "original_w": 720, 
+        "mode": "hosted"
+      }
+    ], 
+    "comment": {
+      "comment": "ooo i felt this one", 
+      "created": 1506538545, 
+      "timestamp": 1506538545, 
+      "is_intro": false, 
+      "user": "U6YV4A45C", 
+      "id": "Fc7AN9ABHU"
+    }, 
+    "text": "<@U6YV4A45C> commented on <@U6YMU9QCF>\u2019s file <https://makeschoolstudents.slack.com/files/U6YMU9QCF/F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png|Architect of the future>: ooo i felt this one", 
+    "ts": "1506538545.000061", 
+    "subtype": "file_comment", 
+    "is_intro": false, 
+    "file": {
+      "thumb_480_w": 480, 
+      "filetype": "png", 
+      "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_480.png", 
+      "display_as_bot": false, 
+      "has_rich_preview": false, 
+      "id": "F79CTUCUA", 
+      "thumb_480_h": 480, 
+      "original_h": 720, 
+      "thumb_360_w": 360, 
+      "title": "Architect of the future", 
+      "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+      "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_360.png", 
+      "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_64.png", 
+      "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_80.png", 
+      "thumb_360_h": 360, 
+      "size": 589442, 
+      "external_type": "", 
+      "username": "", 
+      "timestamp": 1506490685, 
+      "public_url_shared": false, 
+      "editable": false, 
+      "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_160.png", 
+      "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/download/pasted_image_at_2017_09_26_10_37_pm.png", 
+      "user": "U6YMU9QCF", 
+      "image_exif_rotation": 1, 
+      "is_public": true, 
+      "is_starred": false, 
+      "pretty_type": "PNG", 
+      "is_external": false, 
+      "mimetype": "image/png", 
+      "permalink_public": "https://slack-files.com/T1D4KRBR8-F79CTUCUA-5e12ce26fe", 
+      "permalink": "https://makeschoolstudents.slack.com/files/U6YMU9QCF/F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+      "name": "Pasted image at 2017_09_26 10_37 PM.png", 
+      "created": 1506490685, 
+      "original_w": 720, 
+      "mode": "hosted"
+    }, 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 8, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YBN8NJ2", 
+              "U6XV0FFEW", 
+              "U6YFC7074", 
+              "U6YV4A45C", 
+              "U1HBKMW8Y", 
+              "U6YMU9QCF", 
+              "U6YGZN9HD"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "aakash", 
+            "users": [
+              "U6YGZN9HD"
+            ]
+          }
+        ], 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F79CTUCUA", 
+        "thumb_480_h": 480, 
+        "original_h": 720, 
+        "thumb_360_w": 360, 
+        "title": "Architect of the future", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_80.png", 
+        "thumb_360_h": 360, 
+        "size": 589442, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1506490685, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/download/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "user": "U6YMU9QCF", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F79CTUCUA-5e12ce26fe", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YMU9QCF/F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "name": "Pasted image at 2017_09_26 10_37 PM.png", 
+        "created": 1506490685, 
+        "original_w": 720, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YBN8NJ2", 
+          "U6XV0FFEW", 
+          "U6YFC7074", 
+          "U6YV4A45C", 
+          "U1HBKMW8Y", 
+          "U6YMU9QCF", 
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1506538544.000444", 
+    "display_as_bot": false, 
+    "user": "U6YV4A45C", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 8, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YBN8NJ2", 
+              "U6XV0FFEW", 
+              "U6YFC7074", 
+              "U6YV4A45C", 
+              "U1HBKMW8Y", 
+              "U6YMU9QCF", 
+              "U6YGZN9HD"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "aakash", 
+            "users": [
+              "U6YGZN9HD"
+            ]
+          }
+        ], 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F79CTUCUA", 
+        "thumb_480_h": 480, 
+        "original_h": 720, 
+        "thumb_360_w": 360, 
+        "title": "Architect of the future", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_80.png", 
+        "thumb_360_h": 360, 
+        "size": 589442, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1506490685, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F79CTUCUA-031487c54c/pasted_image_at_2017_09_26_10_37_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F79CTUCUA/download/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "user": "U6YMU9QCF", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F79CTUCUA-5e12ce26fe", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YMU9QCF/F79CTUCUA/pasted_image_at_2017_09_26_10_37_pm.png", 
+        "name": "Pasted image at 2017_09_26 10_37 PM.png", 
+        "created": 1506490685, 
+        "original_w": 720, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YBN8NJ2", 
+          "U6XV0FFEW", 
+          "U6YFC7074", 
+          "U6YV4A45C", 
+          "U1HBKMW8Y", 
+          "U6YMU9QCF", 
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1506490688.000008", 
+    "display_as_bot": false, 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 24466, 
+        "title": "A Harvard junior who received internship offers from Google, Apple, Facebook, and more shares her 7 tips to ace an interview", 
+        "service_name": "Business Insider", 
+        "image_width": 500, 
+        "title_link": "http://www.businessinsider.com/how-to-interview-internship-google-apple-facebook-2017-1?utm_content=buffer404e1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti", 
+        "image_height": 250, 
+        "image_url": "http://static4.businessinsider.com/image/587e2e198e91c6f71e761a8f-506-253/a-harvard-junior-who-received-internship-offers-from-google-apple-facebook-and-more-shares-her-7-tips-to-ace-an-interview.jpg", 
+        "text": "This Harvard student received internship offers from Google, Apple, Facebook, Microsoft, McKinsey, Bain, Goldman Sachs, and Morgan Stanley.", 
+        "from_url": "http://www.businessinsider.com/how-to-interview-internship-google-apple-facebook-2017-1?utm_content=buffer404e1&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer-ti", 
+        "fallback": "Business Insider: A Harvard junior who received internship offers from Google, Apple, Facebook, and more shares her 7 tips to ace an interview", 
+        "service_icon": "http://static4.businessinsider.com/assets/images/us/favicons/apple-touch-icon.png?v=BI-US-2017-06-22", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://www.businessinsider.com/how-to-interview-internship-google-apple-facebook-2017-1?utm_content=buffer404e1&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer-ti>", 
+    "ts": "1506489552.000132", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 423, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F78KA4KA4", 
+        "thumb_480_h": 254, 
+        "original_h": 1011, 
+        "thumb_360_w": 360, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F78KA4KA4/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 381, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 190, 
+        "size": 1206201, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1506463386, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F78KA4KA4/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_1024.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F78KA4KA4-d6f69d8596", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F78KA4KA4/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1506463386, 
+        "thumb_1024_h": 541, 
+        "thumb_960_h": 507, 
+        "original_w": 1913, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F78KA4KA4-a508c905b9/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "7863EDFB-D80B-415F-B5FC-E178F3C7D5E5", 
+    "ts": "1506463390.000072", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F75QERTDE", 
+        "thumb_480_h": 333, 
+        "original_h": 528, 
+        "thumb_360_w": 360, 
+        "title": "habittracker.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/habittracker.jpg", 
+        "thumb_720_h": 499, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_80.jpg", 
+        "thumb_360_h": 249, 
+        "size": 222042, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1505967852, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/download/habittracker.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F75QERTDE-06ada5aef2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F75QERTDE/habittracker.jpg", 
+        "name": "habittracker.jpg", 
+        "created": 1505967852, 
+        "original_w": 762, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_720.jpg"
+      }
+    ], 
+    "comment": {
+      "comment": "Awesome, <@U6XJLPQ9Y>", 
+      "created": 1506461606, 
+      "timestamp": 1506461606, 
+      "is_intro": false, 
+      "user": "U2C90LDS9", 
+      "id": "Fc78NSV2V7"
+    }, 
+    "text": "<@U2C90LDS9> commented on <@U6XJLPQ9Y>\u2019s file <https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F75QERTDE/habittracker.jpg|habittracker.jpg>: Awesome, <@U6XJLPQ9Y>", 
+    "ts": "1506461606.000117", 
+    "subtype": "file_comment", 
+    "is_intro": false, 
+    "file": {
+      "thumb_480_w": 480, 
+      "filetype": "jpg", 
+      "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_480.jpg", 
+      "display_as_bot": false, 
+      "has_rich_preview": false, 
+      "id": "F75QERTDE", 
+      "thumb_480_h": 333, 
+      "original_h": 528, 
+      "thumb_360_w": 360, 
+      "title": "habittracker.jpg", 
+      "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/habittracker.jpg", 
+      "thumb_720_h": 499, 
+      "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_360.jpg", 
+      "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_64.jpg", 
+      "thumb_720_w": 720, 
+      "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_80.jpg", 
+      "thumb_360_h": 249, 
+      "size": 222042, 
+      "external_type": "", 
+      "username": "", 
+      "timestamp": 1505967852, 
+      "public_url_shared": false, 
+      "editable": false, 
+      "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_160.jpg", 
+      "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/download/habittracker.jpg", 
+      "user": "U6XJLPQ9Y", 
+      "image_exif_rotation": 1, 
+      "is_public": true, 
+      "is_starred": false, 
+      "pretty_type": "JPEG", 
+      "is_external": false, 
+      "mimetype": "image/jpeg", 
+      "permalink_public": "https://slack-files.com/T1D4KRBR8-F75QERTDE-06ada5aef2", 
+      "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F75QERTDE/habittracker.jpg", 
+      "name": "habittracker.jpg", 
+      "created": 1505967852, 
+      "original_w": 762, 
+      "mode": "hosted", 
+      "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_720.jpg"
+    }, 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6WQK3Q73", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "http://impacttheory.com/wp-content/uploads/2017/09/impact-theory-yt-thumbnail-eric-barker.jpg", 
+        "thumb_width": 640, 
+        "title": "Eric Barker on How Your Personality Can Sabotage Your Success | Impact Theory", 
+        "service_name": "Impact Theory", 
+        "title_link": "http://impacttheory.com/episode/eric-barker/", 
+        "text": "Eric Barker is redefining the rules of success. Leaving behind an illustrious career as a screenwriter for Disney and Fox...", 
+        "from_url": "http://impacttheory.com/episode/eric-barker/", 
+        "fallback": "Impact Theory: Eric Barker on How Your Personality Can Sabotage Your Success | Impact Theory", 
+        "service_icon": "http://impacttheory.com/wp-content/uploads/2017/01/fav.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<@U6WQK3Q73> Showed me this episode: <http://impacttheory.com/episode/eric-barker/> &lt;-- awesome episode!\nIts really awesome how Eric was able to explain the steps to turn wishes in to a plan and knowing when a its a good plan when it needs to be re-evaulated", 
+    "ts": "1506381150.000239", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "alan", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YBN8NJ2"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YBN8NJ2"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YBN8NJ2", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506369997.000504", 
+    "text": "\u201cThe cure for boredom is curiosity. There is no cure for curiosity.\u201d \u2014Dorothy Parker"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1506233319.000037", 
+    "text": "<@U6Y6KU78W> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9MDMC2", 
+    "ts": "1506179726.000072", 
+    "text": "<@U6X9MDMC2> has left the channel"
+  }, 
+  {
+    "text": "I'm going to name Jonathan Chen as motivation mvp", 
+    "type": "message", 
+    "user": "U6WQK3Q73", 
+    "ts": "1506156225.000047", 
+    "edited": {
+      "user": "U6WQK3Q73", 
+      "ts": "1506156265.000000"
+    }
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1506139851.000034", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "text": "- Livia", 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1506137166.000032"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "100", 
+        "users": [
+          "U6WQK3Q73", 
+          "U6XRWEQGY", 
+          "U6YMU9QCF", 
+          "U6YHKG1RQ", 
+          "U6XJLPQ9Y", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1506137108.000056", 
+    "text": "Intelligence is not how many pointless math things that you understand\nBut rather the ability to understand the people around you\nIntelligence is not how many words you can spell\nBut being able to choose the right ones in times of need\nIntelligence is not how many stupid history passages you read\nBut reading things that matter and have meanings; like poems\nIntelligence is not leaving to be with the conformists\nBut being smart enough to rebel against them\nIntelligence isn\u2019t going to school for years just to throw your life away\nIntelligence is being able to live your life how you want to."
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1506093472.000161", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "raised_hands", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YGZN9HD", 
+          "U6XRWEQGY", 
+          "U6WQK3Q73", 
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1506044976.000095", 
+    "text": "Most of us live our lives by accident \u2014 we live as it happens.\n\nFulfillment comes when we live our lives on purpose."
+  }, 
+  {
+    "thread_ts": "1505973137.000140", 
+    "text": "stop lmfao", 
+    "ts": "1506014563.000348", 
+    "user": "U6YV4A45C", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://www.facebook.com/Famouslos32/videos/521902751490803/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "author_link": "https://www.facebook.com/Famouslos32/", 
+        "service_name": "Facebook", 
+        "author_name": "Famouslos32", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/Famouslos32/videos/521902751490803/", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505978401.000231", 
+    "user": "U6XJLPQ9Y"
+  }, 
+  {
+    "thread_ts": "1505973137.000140", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6WQK3Q73", 
+          "U6YHKG1RQ"
+        ]
+      }
+    ], 
+    "text": "He was outstanding in his field...", 
+    "ts": "1505976797.000133", 
+    "user": "U6XJLPQ9Y", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1505973137.000140", 
+    "text": "Why?", 
+    "ts": "1505976104.000110", 
+    "user": "U6YMU9QCF", 
+    "parent_user_id": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1505973137.000140", 
+    "latest_reply": "1506014563.000348", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YMU9QCF", 
+      "U6XJLPQ9Y", 
+      "U6YV4A45C"
+    ], 
+    "text": "Why did the scarecrow win an award?", 
+    "ts": "1505973137.000140", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6XJLPQ9Y", 
+    "replies": [
+      {
+        "user": "U6YMU9QCF", 
+        "ts": "1505976104.000110"
+      }, 
+      {
+        "user": "U6XJLPQ9Y", 
+        "ts": "1505976797.000133"
+      }, 
+      {
+        "user": "U6YV4A45C", 
+        "ts": "1506014563.000348"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 3, 
+            "name": "100", 
+            "users": [
+              "U6WQK3Q73", 
+              "U6XJLPQ9Y", 
+              "U1HBKMW8Y"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "chart_with_upwards_trend", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "rocket", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }
+        ], 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F76E8FDQS-8ce4837dd3/pasted_image_at_2017_09_20_09_41_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F76E8FDQS", 
+        "thumb_480_h": 212, 
+        "original_h": 214, 
+        "thumb_360_w": 360, 
+        "title": "Simple Mathematics for a Good Life", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F76E8FDQS/pasted_image_at_2017_09_20_09_41_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F76E8FDQS-8ce4837dd3/pasted_image_at_2017_09_20_09_41_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F76E8FDQS-8ce4837dd3/pasted_image_at_2017_09_20_09_41_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F76E8FDQS-8ce4837dd3/pasted_image_at_2017_09_20_09_41_pm_80.png", 
+        "thumb_360_h": 159, 
+        "size": 61076, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1505968908, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F76E8FDQS-8ce4837dd3/pasted_image_at_2017_09_20_09_41_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F76E8FDQS/download/pasted_image_at_2017_09_20_09_41_pm.png", 
+        "user": "U6YMU9QCF", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F76E8FDQS-d2891f68af", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YMU9QCF/F76E8FDQS/pasted_image_at_2017_09_20_09_41_pm.png", 
+        "name": "Pasted image at 2017_09_20 09_41 PM.png", 
+        "created": 1505968908, 
+        "original_w": 484, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "U6WQK3Q73", 
+          "U6XJLPQ9Y", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chart_with_upwards_trend", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1505968910.000066", 
+    "display_as_bot": false, 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1505968659.000015", 
+    "text": "Oh that\u2019s dope dude"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U2C90LDS9"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WQK3Q73", 
+    "ts": "1505968626.000018", 
+    "text": "Nice! <@U6XJLPQ9Y>"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 5, 
+            "name": "muscle", 
+            "users": [
+              "U6XRWEQGY", 
+              "U6Y6KU78W", 
+              "U6WQK3Q73", 
+              "U6YMU9QCF", 
+              "U6YV4A45C"
+            ]
+          }
+        ], 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F75QERTDE", 
+        "thumb_480_h": 333, 
+        "original_h": 528, 
+        "thumb_360_w": 360, 
+        "title": "habittracker.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/habittracker.jpg", 
+        "thumb_720_h": 499, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_80.jpg", 
+        "thumb_360_h": 249, 
+        "size": 222042, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1505967852, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F75QERTDE/download/habittracker.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F75QERTDE-06ada5aef2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F75QERTDE/habittracker.jpg", 
+        "name": "habittracker.jpg", 
+        "created": 1505967852, 
+        "original_w": 762, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F75QERTDE-b6784dcbf9/habittracker_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "muscle", 
+        "users": [
+          "U6XRWEQGY", 
+          "U6Y6KU78W", 
+          "U6WQK3Q73", 
+          "U6YMU9QCF", 
+          "U6YV4A45C"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1505967854.000088", 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sleuth_or_spy", 
+        "users": [
+          "U6YV4A45C"
+        ]
+      }
+    ], 
+    "text": "<@U6ZCE0AKG> has left the channel", 
+    "ts": "1505845716.000089", 
+    "subtype": "channel_leave", 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1505626249.000012", 
+    "text": "<@U6YMU9QCF> I was thinking the same thing LOL", 
+    "ts": "1505756442.000429", 
+    "user": "U6XJLPQ9Y", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1505626249.000012", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wink", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "You just need that little extra", 
+    "ts": "1505629129.000023", 
+    "user": "U6YMU9QCF", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1505626249.000012", 
+    "latest_reply": "1505756442.000429", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YMU9QCF", 
+      "U6XJLPQ9Y"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pray", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "text": "To be extraordinary you can not be ordinary", 
+    "ts": "1505626249.000012", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6XDGCKFF", 
+    "replies": [
+      {
+        "user": "U6YMU9QCF", 
+        "ts": "1505629129.000023"
+      }, 
+      {
+        "user": "U6XJLPQ9Y", 
+        "ts": "1505756442.000429"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 1, 
+            "name": "facepunch::skin-tone-5", 
+            "users": [
+              "U6WQK3Q73"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "surfer", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }
+        ], 
+        "filetype": "jpg", 
+        "thumb_800_h": 649, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F73EM79SL", 
+        "thumb_480_h": 390, 
+        "original_h": 1559, 
+        "thumb_360_w": 360, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F73EM79SL/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 584, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 292, 
+        "size": 1563413, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1505539247, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F73EM79SL/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_1024.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F73EM79SL-c2e0b9cd4c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F73EM79SL/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1505539247, 
+        "thumb_1024_h": 831, 
+        "thumb_960_h": 779, 
+        "original_w": 1921, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F73EM79SL-8a8a2e7473/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "facepunch::skin-tone-5", 
+        "users": [
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "surfer", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "ts": "1505539251.000071", 
+    "text": "", 
+    "upload_reply_to": "E36BB146-4215-4E79-838F-5143CE175A20", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 4, 
+            "name": "facepunch", 
+            "users": [
+              "U6YBN8NJ2", 
+              "U6YFF5B50", 
+              "U1HBKMW8Y", 
+              "U6WQK3Q73"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "boom", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }
+        ], 
+        "filetype": "jpg", 
+        "thumb_800_h": 731, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F72PBLYKA", 
+        "thumb_480_h": 439, 
+        "original_h": 1746, 
+        "thumb_360_w": 360, 
+        "title": "Image uploaded from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F72PBLYKA/image_uploaded_from_ios.jpg", 
+        "thumb_720_h": 658, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_80.jpg", 
+        "thumb_360_h": 329, 
+        "size": 1271526, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_800.jpg", 
+        "timestamp": 1505424776, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F72PBLYKA/download/image_uploaded_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_1024.jpg", 
+        "user": "U6XJLPQ9Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F72PBLYKA-ce6a7bbc3c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F72PBLYKA/image_uploaded_from_ios.jpg", 
+        "name": "Image uploaded from iOS.jpg", 
+        "created": 1505424776, 
+        "thumb_1024_h": 936, 
+        "thumb_960_h": 878, 
+        "original_w": 1910, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F72PBLYKA-e8ee209912/image_uploaded_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "facepunch", 
+        "users": [
+          "U6YBN8NJ2", 
+          "U6YFF5B50", 
+          "U1HBKMW8Y", 
+          "U6WQK3Q73"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "boom", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "ts": "1505424780.000297", 
+    "text": "", 
+    "upload_reply_to": "7B169E23-51AD-421F-B11B-E4CA3762CEAB", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1D40QFD4", 
+    "ts": "1505341397.000124", 
+    "text": "<@U1D40QFD4> has left the channel"
+  }, 
+  {
+    "text": "<https://www.facebook.com/boldceo/videos/2066815166880541/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "author_link": "https://www.facebook.com/boldceo/", 
+        "service_name": "Facebook", 
+        "author_name": "Brian Cristiano", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/boldceo/videos/2066815166880541/", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505335024.000497", 
+    "user": "U6XJLPQ9Y"
+  }, 
+  {
+    "text": "<https://journal.thriveglobal.com/free-will-willpower-are-becoming-a-thing-of-the-past-heres-what-you-can-do-about-it-58799091fb8a?source=linkShare-e5c758c4af8d-1505161626>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 235216, 
+        "title": "Free-Will &amp; Willpower Are Becoming A Thing Of The Past. Here\u2019s What You Can Do About It.", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "ts": 1505152925, 
+        "title_link": "https://journal.thriveglobal.com/free-will-willpower-are-becoming-a-thing-of-the-past-heres-what-you-can-do-about-it-58799091fb8a?source=linkShare-e5c758c4af8d-1505161626", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*vo2oJFB9wT4Nf9YmDoKHag.jpeg", 
+        "image_width": 375, 
+        "service_name": "Medium", 
+        "from_url": "https://journal.thriveglobal.com/free-will-willpower-are-becoming-a-thing-of-the-past-heres-what-you-can-do-about-it-58799091fb8a?source=linkShare-e5c758c4af8d-1505161626", 
+        "fallback": "Medium: Free-Will &amp; Willpower Are Becoming A Thing Of The Past. Here\u2019s What You Can Do About It.", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*pJB1GHII0Xdst93hke6KDw.png", 
+        "text": "The global environment has dramatically changed in the past 25 years.", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505161652.000382", 
+    "user": "U6XJLPQ9Y"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "reactions": [
+          {
+            "count": 5, 
+            "name": "+1", 
+            "users": [
+              "U6XJLPQ9Y", 
+              "U6YMU9QCF", 
+              "U6WQK3Q73", 
+              "U6Y6KU78W", 
+              "U6YHCA79U"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "pray", 
+            "users": [
+              "U6YHCA79U"
+            ]
+          }
+        ], 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F71CT9YHG", 
+        "thumb_480_h": 480, 
+        "original_h": 2448, 
+        "thumb_360_w": 360, 
+        "title": "You may be disappointed if you fail, but you are doomed if you don't try.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F71CT9YHG/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1349859, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_800.jpg", 
+        "timestamp": 1505160878, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F71CT9YHG/download/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_1024.jpg", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F71CT9YHG-f51bf9e92d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F71CT9YHG/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try.jpg", 
+        "name": "You may be disappointed if you fail, but you are doomed if you don't try.jpg", 
+        "created": 1505160878, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 2448, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F71CT9YHG-db036d9a2b/you_may_be_disappointed_if_you_fail__but_you_are_doomed_if_you_don_t_try_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6YMU9QCF", 
+          "U6WQK3Q73", 
+          "U6Y6KU78W", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1505160883.000141", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1505136891.000333", 
+    "text": "<@U6WRNH1JM> has left the channel"
+  }, 
+  {
+    "text": "<https://www.facebook.com/goalcast/videos/1557107097699808/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "author_link": "https://www.facebook.com/goalcast/", 
+        "service_name": "Facebook", 
+        "author_name": "Goalcast", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/goalcast/videos/1557107097699808/", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505116479.000229", 
+    "user": "U6XJLPQ9Y"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WL7LX8Q", 
+    "ts": "1505090614.000040", 
+    "text": "<@U6WL7LX8Q> has left the channel"
+  }, 
+  {
+    "text": "<@U237ELPUH> has joined the channel", 
+    "ts": "1505079352.000034", 
+    "subtype": "channel_join", 
+    "user": "U237ELPUH", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U48LVBV34> has joined the channel", 
+    "ts": "1505079352.000030", 
+    "subtype": "channel_join", 
+    "user": "U48LVBV34", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1505079352.000020", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U28S64ZJ5> has joined the channel", 
+    "ts": "1505079352.000014", 
+    "subtype": "channel_join", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U1D40QFD4> has joined the channel", 
+    "ts": "1505079352.000005", 
+    "subtype": "channel_join", 
+    "user": "U1D40QFD4", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U2C90LDS9> has joined the channel", 
+    "ts": "1505079351.000092", 
+    "subtype": "channel_join", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "attachments": [
+      {
+        "channel_id": "C71V02WP9", 
+        "is_msg_unfurl": true, 
+        "text": "<@U6YMU9QCF> set the channel purpose: We're human, and humans require motivation, energy, a spark of madness, and just a little push to do great things. Here's any resources, advice, stories, and feedback for getting started, pushing through difficulty, and reaching your goals!", 
+        "msg_subtype": "channel_purpose", 
+        "author_link": "https://makeschoolstudents.slack.com/team/U6YMU9QCF", 
+        "ts": "1505077038.000058", 
+        "author_name": "Aakash (Kash) Sudhakar", 
+        "channel_name": "motivation", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Aakash (Kash) Sudhakar", 
+        "author_id": "U6YMU9QCF", 
+        "author_icon": "https://avatars.slack-edge.com/2019-02-07/545675858482_52def58bec4ab617bdba_48.jpg", 
+        "fallback": "[September 10th, 2017 1:57 PM] aakashsudhakar: <@U6YMU9QCF> set the channel purpose: We're human, and humans require motivation, energy, a spark of madness, and just a little push to do great things. Here's any resources, advice, stories, and feedback for getting started, pushing through difficulty, and reaching your goals!"
+      }
+    ], 
+    "subtype": "pinned_item", 
+    "text": "<@U6YBN8NJ2> pinned a message to this channel.", 
+    "ts": "1505078096.000114", 
+    "item_type": "C", 
+    "user": "U6YBN8NJ2", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://www.youtube.com/watch?v=z1PSbDmV8Gw>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/z1PSbDmV8Gw/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "title": "The Mind - Motivational Video", 
+        "service_name": "YouTube", 
+        "author_link": "https://www.youtube.com/user/TheMiro0r", 
+        "video_html_width": 400, 
+        "author_name": "Mateusz M", 
+        "title_link": "https://www.youtube.com/watch?v=z1PSbDmV8Gw", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/z1PSbDmV8Gw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=z1PSbDmV8Gw", 
+        "fallback": "YouTube Video: The Mind - Motivational Video", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1505077662.000003", 
+    "user": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1505077642.000022", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> has joined the channel", 
+    "ts": "1505077642.000008", 
+    "subtype": "channel_join", 
+    "user": "U6XE4NNSZ", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1505077641.000130", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1505077641.000115", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6X1RFGBS> has joined the channel", 
+    "ts": "1505077641.000106", 
+    "subtype": "channel_join", 
+    "user": "U6X1RFGBS", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XDV6CVA> has joined the channel", 
+    "ts": "1505077641.000101", 
+    "subtype": "channel_join", 
+    "user": "U6XDV6CVA", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1505077641.000092", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YFF5B50> has joined the channel", 
+    "ts": "1505077641.000087", 
+    "subtype": "channel_join", 
+    "user": "U6YFF5B50", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1505077641.000075", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6WQK3Q73> has joined the channel", 
+    "ts": "1505077641.000068", 
+    "subtype": "channel_join", 
+    "user": "U6WQK3Q73", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1505077641.000053", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1505077641.000044", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6WPBB4TB> has joined the channel", 
+    "ts": "1505077641.000038", 
+    "subtype": "channel_join", 
+    "user": "U6WPBB4TB", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1505077641.000029", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6X9MDMC2> has joined the channel", 
+    "ts": "1505077641.000017", 
+    "subtype": "channel_join", 
+    "user": "U6X9MDMC2", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1505077641.000011", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YHKG1RQ> has joined the channel", 
+    "ts": "1505077640.000096", 
+    "subtype": "channel_join", 
+    "user": "U6YHKG1RQ", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1505077640.000085", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1505077640.000077", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1505077640.000070", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6WRNH1JM> has joined the channel", 
+    "ts": "1505077640.000060", 
+    "subtype": "channel_join", 
+    "user": "U6WRNH1JM", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XRWEQGY> has joined the channel", 
+    "ts": "1505077640.000052", 
+    "subtype": "channel_join", 
+    "user": "U6XRWEQGY", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1505077640.000040", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6WL7LX8Q> has joined the channel", 
+    "ts": "1505077640.000032", 
+    "subtype": "channel_join", 
+    "user": "U6WL7LX8Q", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U70ECUX2T> has joined the channel", 
+    "ts": "1505077640.000020", 
+    "subtype": "channel_join", 
+    "user": "U70ECUX2T", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1505077640.000008", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YD3BYBD> has joined the channel", 
+    "ts": "1505077639.000133", 
+    "subtype": "channel_join", 
+    "user": "U6YD3BYBD", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1505077639.000118", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YBN8NJ2> has joined the channel", 
+    "ts": "1505077639.000112", 
+    "subtype": "channel_join", 
+    "user": "U6YBN8NJ2", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1505077639.000102", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1505077639.000095", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1505077639.000089", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6XDKSREZ> has joined the channel", 
+    "ts": "1505077639.000085", 
+    "subtype": "channel_join", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> set the channel purpose: We're human, and humans require motivation, energy, a spark of madness, and just a little push to do great things. Here's any resources, advice, stories, and feedback for getting started, pushing through difficulty, and reaching your goals!", 
+    "ts": "1505077038.000058", 
+    "subtype": "channel_purpose", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "purpose": "We're human, and humans require motivation, energy, a spark of madness, and just a little push to do great things. Here's any resources, advice, stories, and feedback for getting started, pushing through difficulty, and reaching your goals!"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1505077037.000063", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }
+]

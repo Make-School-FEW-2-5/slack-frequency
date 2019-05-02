@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "status_expiration": 0, 
+    "display_name": "Kathleen", 
+    "status_emoji": "", 
+    "avatar_hash": "gca7552375de", 
+    "title": "", 
+    "status_text_canonical": "", 
+    "skype": "", 
+    "real_name": "Kathleen Wang", 
+    "image_24": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-24.png", 
+    "phone": "", 
+    "real_name_normalized": "Kathleen Wang", 
+    "image_512": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-512.png", 
+    "display_name_normalized": "Kathleen", 
+    "image_32": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-32.png", 
+    "image_48": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-48.png", 
+    "team": "T1D4KRBR8", 
+    "image_72": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-72.png", 
+    "status_text": "", 
+    "email": "kathleen.wang@students.makeschool.com", 
+    "image_192": "https://secure.gravatar.com/avatar/ca7552375de886340c48e9d168fc4316.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0023-192.png"
+  }, 
+  "updated": 1553308226, 
+  "name": "kathleen.wang", 
+  "presence": "away", 
+  "deleted": true, 
+  "is_app_user": false, 
+  "is_bot": false, 
+  "team_id": "T1D4KRBR8", 
+  "id": "UCC4RS9KP"
+}

@@ -1,0 +1,1343 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1556732720.015700", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "client_msg_id": "c22f55e6-8ec4-479b-823b-da1ae534bb5f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "pikachu", 
+        "users": [
+          "UCBHLEZEY", 
+          "UCBQJD3NW", 
+          "UCC0GL52N", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "twilio", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Any Pikachu fans want to go to a free viewing (sponsored by Twilio) on May 11th?  <http://sfmay11detectivepikachushowing.splashthat.com|sfmay11detectivepikachushowing.splashthat.com>", 
+    "ts": "1556732616.014800", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC6K65P", 
+    "ts": "1556671858.014100", 
+    "text": "<@UCBC6K65P> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "7f9edeec-98b5-4e75-8e9b-aa9f23306eba", 
+    "edited": {
+      "user": "UCB8T1AG0", 
+      "ts": "1556670553.000000"
+    }, 
+    "text": "I'll be walking over from Make School at 6:40 if anyone wants to join.", 
+    "ts": "1556670483.013700", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 222, 
+        "filetype": "png", 
+        "thumb_800_h": 1731, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJCTNUK9V", 
+        "thumb_480_h": 480, 
+        "original_h": 1792, 
+        "thumb_360_w": 166, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJCTNUK9V/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_64.png", 
+        "thumb_720_w": 333, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 847890, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_800.png", 
+        "timestamp": 1556670327, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJCTNUK9V/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_1024.png", 
+        "user": "UCB3PRBME", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJCTNUK9V-044511e9c7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3PRBME/FJCTNUK9V/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1556670327, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 828, 
+        "thumb_960_w": 444, 
+        "thumb_1024_w": 473, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCTNUK9V-3933f2e0b2/image_from_ios_720.png"
+      }
+    ], 
+    "client_msg_id": "8EA6432A-67CE-44D6-A580-1C532526C00E", 
+    "text": "These 3 seats are separate so if you don\u2019t mind sitting alone during the movie take one of these seats pls! ", 
+    "upload": true, 
+    "ts": "1556670327.012900", 
+    "display_as_bot": false, 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 222, 
+        "filetype": "png", 
+        "thumb_800_h": 1731, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHZK41D9R", 
+        "thumb_480_h": 480, 
+        "original_h": 1792, 
+        "thumb_360_w": 166, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZK41D9R/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_64.png", 
+        "thumb_720_w": 333, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 741988, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_800.png", 
+        "timestamp": 1556670280, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZK41D9R/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_1024.png", 
+        "user": "UCB3PRBME", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZK41D9R-27b57c754f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3PRBME/FHZK41D9R/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1556670280, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 828, 
+        "thumb_960_w": 444, 
+        "thumb_1024_w": 473, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZK41D9R-bcd2bc65cc/image_from_ios_720.png"
+      }
+    ], 
+    "client_msg_id": "796B2169-452E-4DA6-8590-43A47D2B09E5", 
+    "text": "These seats are together !! ", 
+    "upload": true, 
+    "ts": "1556670280.012500", 
+    "display_as_bot": false, 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "125DF353-A4C1-4B2D-B06A-784BA6FABCDC", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCB8WCDTJ", 
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "text": "<@UCB8T1AG0> <@U6YCV95L7> <@UF83RJTHD> <@UCBHLEZEY> <@U6XDGCKFF> <@UCBC6K65P> <@UCB8WCDTJ> <@U6X9L8VAN> <@UCC0GL52N> \nHey guys, I unfortunately won\u2019t be able to make the movie tonight. But I already called AMC Kabuki &amp; if you just say my name at the box office you\u2019ll be able to get your tickets. I also will attach the confirmation email. If you have any trouble whatsoever call or text me 6197230033 ", 
+    "ts": "1556670207.012400", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1556663222.008700", 
+    "text": "<@UCHK87XEJ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "98DAB895-FD83-4F75-96EE-C2711EB99B15", 
+    "thread_ts": "1556660962.008000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "It\u2019s assigned ", 
+    "ts": "1556661277.008400", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5484b365-e9ac-4706-9546-fdb3e010c035", 
+    "thread_ts": "1556660962.008000", 
+    "latest_reply": "1556661277.008400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "text": "Is the theater assigned seating, or should we arrive early to get seats?", 
+    "ts": "1556660962.008000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8T1AG0", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1556661277.008400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "D9739DDE-98C4-45D7-8286-385D60379AF4", 
+    "text": "Probably won\u2019t be attending tonight, so if anyone wants to see End Game for free, you can have my ticket ", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1556653275.006700"
+  }, 
+  {
+    "client_msg_id": "7421757E-8403-408E-81D1-08F9E9962EFC", 
+    "edited": {
+      "user": "UCB3PRBME", 
+      "ts": "1556585302.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "movie_camera", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCB8WCDTJ", 
+          "UCBHLEZEY", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<@UCB8T1AG0> <@U6YCV95L7> <@UF83RJTHD> <@UCBQJD3NW> <@UCBHLEZEY> <@UCB8WCDTJ> <@U6X9L8VAN> <@UCC0GL52N> Looking forward to seeing Endgame with y\u2019all tomorrow night! I\u2019ll be at AMC Kabuki at 7pm with y\u2019all tickets. If you want to walk over to Kabuki together with anyone from Vantaggio or Make School feel free to arrange that as a thread below", 
+    "ts": "1556585181.003400", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29649144-648F-4AEA-8C19-5CA1877F117A", 
+    "edited": {
+      "user": "UCB3PRBME", 
+      "ts": "1556113480.000000"
+    }, 
+    "thread_ts": "1556037340.009300", 
+    "text": "Tuesday 4/30 at AMC Kabuki at 7:15pm", 
+    "ts": "1556113453.015100", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 787, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ4JLQCUD", 
+        "thumb_480_h": 472, 
+        "original_h": 815, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4JLQCUD/image_from_ios.jpg", 
+        "thumb_720_h": 709, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_80.jpg", 
+        "thumb_360_h": 354, 
+        "size": 79709, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_800.jpg", 
+        "timestamp": 1556066611, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4JLQCUD/download/image_from_ios.jpg", 
+        "user": "UCB3PRBME", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ4JLQCUD-54e36c8ae2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3PRBME/FJ4JLQCUD/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556066611, 
+        "original_w": 828, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4JLQCUD-51510569fa/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "ED07BF58-92E5-4773-992E-FAA05DCE038C", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556066612.012500", 
+    "display_as_bot": false, 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8285ffbc-bf7f-4a34-8f4a-9d150855a59d", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1556060964.000000"
+    }, 
+    "thread_ts": "1556037340.009300", 
+    "text": "Which theater and at what time/date?", 
+    "ts": "1556060841.012100", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9FB935A2-1600-422B-8CB8-9AF800E77990", 
+    "thread_ts": "1556037340.009300", 
+    "text": "Got the tickets y\u2019all ", 
+    "ts": "1556060743.011900", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a134f2d6-3086-4af6-adaa-3a1644af3d80", 
+    "edited": {
+      "user": "UCCTF62ET", 
+      "ts": "1556048327.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "night_with_stars", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "crown", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "left_right_arrow", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "captain-rainbow", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "earth_americas", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "question", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "speak_no_evil", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "I heard the knight king was actually captain america", 
+    "ts": "1556048317.011400", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e078f784-0de9-4f3f-8ffe-f5a86dd2c852", 
+    "edited": {
+      "user": "U6YMU9QCF", 
+      "ts": "1556047011.000000"
+    }, 
+    "text": "I heard that Jon Snow dies in Endgame :eyes: :troll:", 
+    "ts": "1556046982.010900", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1556041746.010500", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1556038128.009600", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "ec9db194-7535-4add-9211-c2089c25bd91", 
+    "edited": {
+      "user": "UCB3PRBME", 
+      "ts": "1556038975.000000"
+    }, 
+    "latest_reply": "1556113453.015100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "U6YCV95L7"
+    ], 
+    "thread_ts": "1556037340.009300", 
+    "text": "<@UCBQJD3NW> <@U6YCV95L7> <@UCBHLEZEY> <@UF83RJTHD> <@UCB8WCDTJ> <@UCC0GL52N>,  If you can, Venmo (Nyapal-Gatkuoth) or CashApp ($Nyapal) me $6 by 3pm today. If you can't get the $ to me by 3pm today, DM me. I'll be buying tickets then!", 
+    "ts": "1556037340.009300", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCB3PRBME", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1556060743.011900"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556060841.012100"
+      }, 
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1556113453.015100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "movie_camera", 
+        "users": [
+          "UCB8WCDTJ", 
+          "UCC4U4V53"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1555964655.006100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "a425e8d8-15e4-471c-a02c-8eb5f6d59379", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "end", 
+        "users": [
+          "UCBQJD3NW", 
+          "U6YCV95L7", 
+          "UCBHLEZEY", 
+          "UCC0GL52N", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "hero", 
+        "users": [
+          "UF83RJTHD", 
+          "UCBHLEZEY", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "<!channel> it looks like tickets for Endgame are going really fast, if you'd definitely be interested in going react to this post so I can get a head count. Once I figure out how many people are actually interested in going I'll see which theatre (Metreon or Kabuki) would best accommodate us. Tickets are $6, est time is 7:30, next Tuesday!", 
+    "ts": "1555959687.005800", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bed5a393-ef04-4a7e-8418-f7dd9d1a10b5", 
+    "attachments": [
+      {
+        "thumb_height": 1080, 
+        "thumb_url": "https://amc-theatres-res.cloudinary.com/image/upload/v1553780945/amc-cdn/general/55a1f490-5a67-446f-a114-ec7e225c5faa/SpiritedAway.jpg", 
+        "thumb_width": 1920, 
+        "original_url": "https://www.amctheatres.com/amc-scene/9-films-showing-at-studio-ghibli-fest-2019", 
+        "text": "Good news, anime fans: the awe-inspiring series from GKIDS and Fathom Events is back at AMC \u2014 and with it, some of our favorite stories and faces. Studio Ghibli Fest 2019 kicks off April 7 with...", 
+        "title": "9 Films Showing at Studio Ghibli Fest 2019", 
+        "title_link": "https://www.amctheatres.com/amc-scene/9-films-showing-at-studio-ghibli-fest-2019", 
+        "service_name": "amctheatres.com", 
+        "from_url": "https://www.amctheatres.com/amc-scene/9-films-showing-at-studio-ghibli-fest-2019", 
+        "fallback": "9 Films Showing at Studio Ghibli Fest 2019", 
+        "service_icon": "https://amc-theatres-res.cloudinary.com/amc-cdn/static/images/favicon/apple-touch-icon.png?v=2", 
+        "id": 1
+      }
+    ], 
+    "text": "Studio Ghibli Fest that's on going throughout the year: <https://www.amctheatres.com/amc-scene/9-films-showing-at-studio-ghibli-fest-2019>", 
+    "ts": "1555958253.002600", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1555957214.002100", 
+    "text": "<@UCB8WCDTJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1555957177.001900", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1555957174.001700", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1555957138.001300", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1555956827.001000", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "1436c80e-b9d7-4883-ad74-09c34e7c97ad", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U6YCV95L7", 
+          "UCB8WCDTJ", 
+          "UCBHLEZEY"
+        ]
+      }
+    ], 
+    "text": "<!here> would anyone be interested in watching Avengers Endgame? It'd be Tuesday April 30th at 7:30pm", 
+    "ts": "1555956701.000700", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2A1A9F3F-B274-4C7B-BCDA-38C137CC9AD6", 
+    "thread_ts": "1555547057.000700", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "Yoooo I\u2019m down ", 
+    "ts": "1555558534.001600", 
+    "user": "UCC4U4V53", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 443, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ1P301NK", 
+        "thumb_480_h": 266, 
+        "original_h": 791, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-17 at 5.27.34 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1P301NK/screen_shot_2019-04-17_at_5.27.34_pm.png", 
+        "thumb_720_h": 399, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_80.png", 
+        "thumb_360_h": 199, 
+        "size": 124163, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_800.png", 
+        "timestamp": 1555547350, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1P301NK/download/screen_shot_2019-04-17_at_5.27.34_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_1024.png", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ1P301NK-5a7bbf3f86", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FJ1P301NK/screen_shot_2019-04-17_at_5.27.34_pm.png", 
+        "name": "Screen Shot 2019-04-17 at 5.27.34 PM.png", 
+        "created": 1555547350, 
+        "thumb_1024_h": 567, 
+        "thumb_960_h": 531, 
+        "original_w": 1429, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1P301NK-fe3192c88a/screen_shot_2019-04-17_at_5.27.34_pm_720.png"
+      }
+    ], 
+    "text": "<@UCB3PRBME>", 
+    "upload": true, 
+    "ts": "1555547354.001000", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "389c0d2e-cb07-4ca0-becc-0aea704430c6", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1555547079.000000"
+    }, 
+    "latest_reply": "1555558534.001600", 
+    "attachments": [
+      {
+        "image_bytes": 364689, 
+        "original_url": "https://news.avclub.com/say-goodbye-to-sleep-amc-is-showing-all-22-marvel-movi-1833744968", 
+        "service_name": "News", 
+        "title": "Say goodbye to sleep, AMC is showing all 22 Marvel movies in an insane 59-hour marathon", 
+        "image_width": 444, 
+        "title_link": "https://news.avclub.com/say-goodbye-to-sleep-amc-is-showing-all-22-marvel-movi-1833744968", 
+        "image_height": 250, 
+        "image_url": "https://i.kinja-img.com/gawker-media/image/upload/s--PKwZNIii--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/xkynfdiopa6xgskxfbt4.jpg", 
+        "text": "Now that spring has finally arrived, many of us are rejoicing over the warmer temperatures and the glorious gift of leaving work when the sun is still out. But soon, a select brave (er, insane) few will venture out of the daylight and into darkness to complete an honorable (again, insane) mission: watching every Marvel movie back-to-back for a whole two and a half days.", 
+        "from_url": "https://news.avclub.com/say-goodbye-to-sleep-amc-is-showing-all-22-marvel-movi-1833744968", 
+        "fallback": "News: Say goodbye to sleep, AMC is showing all 22 Marvel movies in an insane 59-hour marathon", 
+        "service_icon": "https://i.kinja-img.com/gawker-media/image/upload/s--2rAgV5LF--/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/yfomencyqsnsfvqlfhnt.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "thread_ts": "1555547057.000700", 
+    "text": "<@UCB3PRBME> You know what to do!\nPlaying at the AMC Metreon in SF  starting  Tuesday, April 23\nIf you've got nothing else to do for a while, <https://news.avclub.com/say-goodbye-to-sleep-amc-is-showing-all-22-marvel-movi-1833744968>", 
+    "reply_users": [
+      "UCC4U4V53"
+    ], 
+    "ts": "1555547057.000700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCC4U4V53", 
+        "ts": "1555558534.001600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1555467616.009600", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "client_msg_id": "F2E450E5-8076-41DE-9DAB-FE4FCF25E26F", 
+    "text": "I\u2019m here. Holler when you guys get here.", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1555467284.009400"
+  }, 
+  {
+    "client_msg_id": "A9920506-92F5-4043-9D97-950FBCBBF6B9", 
+    "text": "<!channel> Stephanie is leading the group to AMC Metreon!! ", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555466719.008800"
+  }, 
+  {
+    "client_msg_id": "9C5C8AE4-DCD4-4694-BAB1-DEB6EAC74722", 
+    "text": "Hey peeps! We left Make School. Be on your way", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555466500.007600"
+  }, 
+  {
+    "client_msg_id": "40E29499-11FF-48D0-ABEF-82417463E529", 
+    "thread_ts": "1555459587.004000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "school_satchel", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Metreon is my go to theatre and it\u2019s the same way!! ", 
+    "ts": "1555463811.006300", 
+    "user": "UCBS1DSF5", 
+    "parent_user_id": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A3A875A7-ABDB-4694-8F77-071CFA377A96", 
+    "thread_ts": "1555459410.002000", 
+    "text": "Totally cool! We\u2019re probably gonna be there at 7:05-7:10. For anyone who wants to meet us there ", 
+    "ts": "1555460022.005600", 
+    "subtype": "thread_broadcast", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "71d58d0b-a765-457f-9b74-94de113c4063", 
+      "thread_ts": "1555459410.002000", 
+      "latest_reply": "1555460022.005600", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCB3PRBME"
+      ], 
+      "text": "oh fuck i forgot thats happening", 
+      "ts": "1555459410.002000", 
+      "type": "message", 
+      "reply_count": 1, 
+      "user": "UCBS1DSF5", 
+      "replies": [
+        {
+          "user": "UCB3PRBME", 
+          "ts": "1555460022.005600"
+        }
+      ], 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "client_msg_id": "02f90ee0-2ba5-4d61-a521-890a636baebd", 
+    "thread_ts": "1555459587.004000", 
+    "latest_reply": "1555463811.006300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS1DSF5"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "popcorn", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBHLEZEY", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "school_satchel", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "At the AMC Kabuki and AMC Van Ness, I was able to bring my backpack in without them checking it, so if you want to eat snacks during the movie, you could pick some up from CVS or Walgreens and carry them in that way.", 
+    "ts": "1555459587.004000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YCV95L7", 
+    "replies": [
+      {
+        "user": "UCBS1DSF5", 
+        "ts": "1555463811.006300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "4ba6bb68-54cb-4460-8fb2-5083ef016807", 
+    "text": "im prob just gonna uber", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1555459529.003100"
+  }, 
+  {
+    "client_msg_id": "71d58d0b-a765-457f-9b74-94de113c4063", 
+    "thread_ts": "1555459410.002000", 
+    "latest_reply": "1555460022.005600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCB3PRBME", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "oh fuck i forgot thats happening", 
+    "ts": "1555459410.002000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS1DSF5", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555460022.005600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "60EE02F4-F966-4B81-89A0-B8AAA143C879", 
+    "text": "<!channel> AMC Metreon is about a 10 minute walk from MS. Meet downstairs in the shoe area at 6:50 and we\u2019re going to all walk over together :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555459392.001800"
+  }, 
+  {
+    "client_msg_id": "7800A3C9-43B3-413F-8B5C-9B622CA70429", 
+    "thread_ts": "1555108098.005100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "seven", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Two separate rows. 3 on one row, 4 on the other ", 
+    "ts": "1555109172.006200", 
+    "subtype": "thread_broadcast", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "e6e1a9f5-4abd-4c9e-a45e-e890ab03c96d", 
+      "thread_ts": "1555108098.005100", 
+      "latest_reply": "1555109172.006200", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCB3PRBME"
+      ], 
+      "text": "<@UCB3PRBME> Are we taking over a whole row. Are we sitting separately? :seat:", 
+      "ts": "1555108098.005100", 
+      "type": "message", 
+      "reply_count": 1, 
+      "user": "UCC0GL52N", 
+      "replies": [
+        {
+          "user": "UCB3PRBME", 
+          "ts": "1555109172.006200"
+        }
+      ], 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "client_msg_id": "e6e1a9f5-4abd-4c9e-a45e-e890ab03c96d", 
+    "thread_ts": "1555108098.005100", 
+    "latest_reply": "1555109172.006200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "text": "<@UCB3PRBME> Are we taking over a whole row. Are we sitting separately? :seat:", 
+    "ts": "1555108098.005100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555109172.006200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "db0ea849-57bd-4476-bd9e-e374d0865f25", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "hugging_face", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sleeping", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "like WHERES STEPHANIE", 
+    "ts": "1555106614.003300", 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c1bf908e-9774-4ab2-b338-20c9f22d9310", 
+    "text": "lmao i was about to freak", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1555106611.003100"
+  }, 
+  {
+    "client_msg_id": "2527024E-3ED5-4306-9CFE-BA3AA055B329", 
+    "edited": {
+      "user": "UCB3PRBME", 
+      "ts": "1555106596.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "movie_camera", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "call_me_hand::skin-tone-4", 
+        "users": [
+          "UCBHLEZEY"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "U6YCV95L7", 
+          "UCBHLEZEY"
+        ]
+      }
+    ], 
+    "text": "Tickets are purchased! <@UCB8T1AG0> <@U6YCV95L7> <@UCBS1DSF5> <@UCB8U00KA> <@UCBHLEZEY> <@UCC0GL52N>\nSee y\u2019all Tuesday at 7:30 pm :)", 
+    "ts": "1555106576.002700", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "65610dba-4cf9-44f8-ab92-79b1405be5db", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<@UCB3PRBME> I'm in, venmo payment sent!", 
+    "ts": "1555101196.000900", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D32E1DD6-2F2E-4383-B0CA-82AD5F8BDB84", 
+    "thread_ts": "1555082826.001300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "I\u2019m coming ", 
+    "ts": "1555090720.000300", 
+    "user": "UCBS1DSF5", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7D94A241-5D46-49E6-A7CF-C882A36A11AC", 
+    "thread_ts": "1555082826.001300", 
+    "text": "Sent!", 
+    "ts": "1555083291.001600", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "25019848-9287-4932-AC7F-D468F8F4DC81", 
+    "thread_ts": "1555082826.001300", 
+    "latest_reply": "1555090720.000300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA", 
+      "UCBS1DSF5"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBHLEZEY"
+        ]
+      }
+    ], 
+    "text": "<!channel> I\u2019ll be buying tickets today at 3pm so please confirm you\u2019d like to go by sending the ticket cost in beforehand! ", 
+    "ts": "1555082826.001300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCB3PRBME", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1555083291.001600"
+      }, 
+      {
+        "user": "UCBS1DSF5", 
+        "ts": "1555090720.000300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1555020454.012900", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "client_msg_id": "08F5CB8D-D826-42C4-85BF-D4FA7C93BDA1", 
+    "text": "Date &amp; Time: Tuesday, April 16th at 7:30pm\nLocation: AMC Metreon ", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555014053.012600"
+  }, 
+  {
+    "client_msg_id": "D555796E-BF44-473B-AF9F-6C630F3A5276", 
+    "thread_ts": "1555013774.010900", 
+    "text": "Yes!! At 7:30 PM", 
+    "ts": "1555013981.011300", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCBHLEZEY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e57d7273-2603-4c03-8385-51643831400f", 
+    "thread_ts": "1555013774.010900", 
+    "latest_reply": "1555013981.011300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "text": "So we will be watching the movie next Tuesday on the 16th?", 
+    "ts": "1555013774.010900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBHLEZEY", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555013981.011300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "511b6368-c2c1-4be8-80f6-09da062651cc", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "blue_heart", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "popcorn", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<!channel> Each ticket is $6 (idk why it's $6 online vs $5 irl...) If you're still interested in watching the movie please cash app ($Nyapal) or venmo (Nyapal-Gatkuoth) me by *Friday at 3pm*! I will be buying the tickets then. If you're no longer interested in watching the movie, feel free to leave the channel. Also if you know anyone who is interested in seeing the movie but is not in this channel add them! Thanks everyone! Looking forward to seeing the movie with y'all on Tuesday!", 
+    "ts": "1555013033.010400", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 809734, 
+        "footer": "Posted using /giphy", 
+        "title": "scary movie", 
+        "image_width": 500, 
+        "title_link": "https://giphy.com/gifs/scary-movie-z9pinvhfh1ziM", 
+        "image_height": 213, 
+        "image_url": "https://media3.giphy.com/media/z9pinvhfh1ziM/giphy-downsized.gif?cid=6104955e5caf9c0275646430417326bd", 
+        "fallback": "giphy: https://giphy.com/gifs/scary-movie-z9pinvhfh1ziM", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1555012613.006000", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "client_msg_id": "99724a00-3eaa-4a4c-962a-74a6ec0d2977", 
+    "text": "Hey everyone, you've all been added to this channel because you've showed interested in coming to watch the movie US this Tuesday at 7:30pm!!", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555012358.003600"
+  }, 
+  {
+    "client_msg_id": "7381e0ff-9010-48e8-bb0a-4698e5891b68", 
+    "text": ":movie_camera:  ?", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555012303.003100"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1555012227.001900", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1555012227.001700", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1555012227.001500", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1555012227.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1555012227.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1555012227.000900", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1555012227.000700", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1555012226.000500", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "UCB3PRBME"
+  }, 
+  {
+    "text": "<@UCB3PRBME> set the channel purpose: Organize for students to watch US", 
+    "ts": "1555012226.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "purpose": "Organize for students to watch US"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1555012226.000200", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }
+]

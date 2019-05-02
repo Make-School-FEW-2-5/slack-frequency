@@ -1,0 +1,1839 @@
+[
+  {
+    "client_msg_id": "f3129f42-52f3-4954-9d72-fc81905cd9bd", 
+    "thread_ts": "1556303196.000500", 
+    "text": "isn't this class done on the 17th?", 
+    "ts": "1556314358.002700", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09f9c230-364a-4fd6-8dbb-7a9fb16e72b0", 
+    "thread_ts": "1556303196.000500", 
+    "text": "?When is this all due", 
+    "ts": "1556313966.002500", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "677e2543-9dd9-45f7-bcb8-5cb19ce8ab4a", 
+    "thread_ts": "1556303196.000500", 
+    "text": "He said three papers plus regular attendence", 
+    "ts": "1556305190.002300", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0e5d175e-fca1-4ff9-aff8-6f71efd49049", 
+    "thread_ts": "1556303196.000500", 
+    "text": "If you didn\u2019t hear it, then I guess it wasn\u2019t important :man-shrugging:", 
+    "ts": "1556304366.002100", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7bb8fff6-16f1-4960-9b27-1cb37e5124ee", 
+    "thread_ts": "1556303196.000500", 
+    "text": "I think it was before you showed up, but he suggested we had already written papers.", 
+    "ts": "1556304070.001800", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "93ec894a-56b4-4d68-87c7-366594410747", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1556304082.000000"
+    }, 
+    "thread_ts": "1556303196.000500", 
+    "text": "He said nothing about papers being due", 
+    "ts": "1556304015.001400", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8ca5f28d-0f73-4b5a-a438-3b41562789ec", 
+    "edited": {
+      "user": "U6YCV95L7", 
+      "ts": "1556304020.000000"
+    }, 
+    "thread_ts": "1556303196.000500", 
+    "text": "I thought I heard him say it at least twice, but before that he said attendance in addition to writing the papers, so I am confused because he did not also iterate that point.", 
+    "ts": "1556303910.001200", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0b51b295-a2ff-43df-990d-f41c7681af3f", 
+    "thread_ts": "1556303196.000500", 
+    "latest_reply": "1556314358.002700", 
+    "subscribed": true, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCDAF4FV4", 
+      "U8NMLKGDU"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCDAF4FV4", 
+          "UCDAMHRDL", 
+          "UCC4RHFU5"
+        ]
+      }
+    ], 
+    "text": "Can I have affirmation that he said today that everyone in class and that is a regular attender passed the class?", 
+    "last_read": "1556329578.000467", 
+    "ts": "1556303196.000500", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556303910.001200"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1556304015.001400"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556304070.001800"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556304366.002100"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1556305190.002300"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1556313966.002500"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1556314358.002700"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555714333.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "5bfb5560-0344-4f2c-930b-625593565e61", 
+    "text": "Can anyone Slack out the information for the Passover Celebration this Friday?", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1555623602.000400"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1555173611.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "client_msg_id": "aab3c9e4-54aa-49d4-9d1f-b0f43bec8074", 
+    "thread_ts": "1553224751.001600", 
+    "text": "i think so", 
+    "ts": "1553224908.002100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "188e55ff-8bb7-46ee-b221-395956cf5fe2", 
+    "thread_ts": "1553224751.001600", 
+    "latest_reply": "1553224908.002100", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCB58P2V6"
+    ], 
+    "text": "do we have class tomorrow?", 
+    "last_read": "1553224908.002100", 
+    "ts": "1553224751.001600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1553224908.002100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1553037806.001000", 
+    "text": "<@UCH838UC9> has left the channel"
+  }, 
+  {
+    "client_msg_id": "D4152D49-5083-4FBA-823F-B1D38040EDBD", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Not tomorrow Stephanie ", 
+    "ts": "1552602078.001400", 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b984eec5-da43-464f-aa5d-63360a155a77", 
+    "text": "Does anyone know when classes start back for S&amp;Ls?", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1552531778.001000"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 776, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGT9117FC", 
+        "thumb_480_h": 466, 
+        "original_h": 2245, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGT9117FC/img_0913.jpg", 
+        "thumb_720_h": 699, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_80.jpg", 
+        "thumb_360_h": 349, 
+        "size": 203718, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_800.jpg", 
+        "timestamp": 1552070450, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGT9117FC/download/img_0913.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_1024.jpg", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGT9117FC-325b0b71df", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FGT9117FC/img_0913.jpg", 
+        "name": "IMG_0913.jpg", 
+        "created": 1552070450, 
+        "thumb_1024_h": 993, 
+        "thumb_960_h": 931, 
+        "original_w": 2314, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGT9117FC-d7e550fbf4/img_0913_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552070457.002300", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "06ec7693-f4f0-47c3-b9e2-e872990f3811", 
+    "thread_ts": "1552069864.001400", 
+    "text": "Maybe, I don't know I'm going to ask for an extension. We had finals, so I think it is fair.", 
+    "ts": "1552070217.001800", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ca374ea3-fc05-4d3b-82ff-ee370f6b8e45", 
+    "thread_ts": "1552069864.001400", 
+    "latest_reply": "1552070217.001800", 
+    "subscribed": true, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "star_of_david", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCC37PD6D", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "judiasm is due today? fuck", 
+    "last_read": "1552070217.001800", 
+    "ts": "1552069864.001400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1552070217.001800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "ced96ebd-0385-43a7-8453-da4528d41449", 
+    "text": "Judaism paper was due today :cry:", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1552069824.001100"
+  }, 
+  {
+    "client_msg_id": "794c8872-b797-456e-9898-c415c44b86d9", 
+    "text": "be right there", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1552069811.000800"
+  }, 
+  {
+    "client_msg_id": "9a0addd6-ec8b-4d6a-92ea-a40ecdd092e2", 
+    "text": "fuck", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1552069806.000600"
+  }, 
+  {
+    "client_msg_id": "604a09ce-7098-47a4-a2e2-e83099cfbeb1", 
+    "text": "All of us <@U8NMLKGDU>", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1552069798.000400"
+  }, 
+  {
+    "client_msg_id": "20a50122-a569-4baa-95ed-10eaccc28061", 
+    "text": "who's in class o.O", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1552069577.000200"
+  }, 
+  {
+    "client_msg_id": "cc3de309-d07c-4ee7-965a-ef79d58a595c", 
+    "thread_ts": "1550868174.000100", 
+    "text": "you the real one!", 
+    "ts": "1550893004.000500", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGDSE7PMW", 
+        "size": 1719481, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDSE7PMW-74f1d085f1/day_5_religion_thumb_pdf.png", 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGDSE7PMW/day_5_religion.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550868172, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGDSE7PMW/download/day_5_religion.pdf", 
+        "user": "UCBS1DSF5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGDSE7PMW-224cef27ad", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS1DSF5/FGDSE7PMW/day_5_religion.pdf", 
+        "name": "Day 5 Religion.pdf", 
+        "created": 1550868172, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "thread_ts": "1550868174.000100", 
+    "latest_reply": "1550893004.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCDAMHRDL"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1550868174.000100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS1DSF5", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1550893004.000500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "fb816df3-0884-4b9a-9ce0-a7aa0f56b7a9", 
+    "thread_ts": "1550197956.000800", 
+    "text": "he wanted us to pick two topics: one for Judaism, and one on Hinduism", 
+    "ts": "1550207376.004400", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9789131a-1017-4100-afa5-cb91fabd7fdf", 
+    "thread_ts": "1550197956.000800", 
+    "text": "<@UCDAMHRDL> funny", 
+    "ts": "1550200408.004100", 
+    "user": "U6XDGCKFF", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B8D5A19A-DE35-485B-B91F-E53663C24871", 
+    "thread_ts": "1550197956.000800", 
+    "text": "<@U6XDGCKFF> No for you 34 pages. ", 
+    "ts": "1550200303.003900", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9077C730-B168-4EB3-B1B8-FA666429FA28", 
+    "thread_ts": "1550197956.000800", 
+    "text": "<@UCDAF4FV4> not that I know of. Unless there\u2019s some  reading he wanted us to do. ", 
+    "ts": "1550200270.003200", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f4e43661-0cf8-46ce-95fc-71a23ffc5bfc", 
+    "thread_ts": "1550197956.000800", 
+    "text": "All 3-4 pages?", 
+    "ts": "1550199182.002000", 
+    "user": "U6XDGCKFF", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ec225dcf-53da-4036-84a9-a2059c446ecc", 
+    "thread_ts": "1550197956.000800", 
+    "text": "nothing on judiasm?", 
+    "ts": "1550198809.001800", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A37EE566-37EF-4EE7-8ACD-8620B1476A82", 
+    "thread_ts": "1550197956.000800", 
+    "text": "The 3-4 page paper on your topic. ", 
+    "ts": "1550198681.001600", 
+    "user": "UCDAMHRDL", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8ad12070-be60-4fc8-9496-a13b9bf3ed1a", 
+    "thread_ts": "1550197956.000800", 
+    "latest_reply": "1550207376.004400", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCDAMHRDL", 
+      "UCDAF4FV4", 
+      "U6XDGCKFF", 
+      "U8NMLKGDU"
+    ], 
+    "text": "whats due tomorrow", 
+    "last_read": "1550258508.000000", 
+    "ts": "1550197956.000800", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1550198681.001600"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1550198809.001800"
+      }, 
+      {
+        "user": "U6XDGCKFF", 
+        "ts": "1550199182.002000"
+      }, 
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1550200270.003200"
+      }, 
+      {
+        "user": "UCDAMHRDL", 
+        "ts": "1550200303.003900"
+      }, 
+      {
+        "user": "U6XDGCKFF", 
+        "ts": "1550200408.004100"
+      }, 
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1550207376.004400"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1550178279.000200", 
+    "text": "<@UCDAJD4F8> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FG5G8NN2H", 
+        "size": 2392752, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FG5G8NN2H-3ea38e0f95/day_3_religion_thumb_pdf.png", 
+        "title": "Day 3 Religion.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG5G8NN2H/day_3_religion.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550011187, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG5G8NN2H/download/day_3_religion.pdf", 
+        "user": "UCBS1DSF5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG5G8NN2H-61dab4b7b7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS1DSF5/FG5G8NN2H/day_3_religion.pdf", 
+        "name": "Day 3 Religion.pdf", 
+        "created": 1550011187, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0GL52N", 
+          "UCDAMHRDL", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pikachu", 
+        "users": [
+          "UCC0GL52N", 
+          "UCDAMHRDL", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "I didn\u2019t share these notes because theyre ugly and the professor was all over the place last class but here they are lol", 
+    "upload": true, 
+    "ts": "1550011189.001200", 
+    "display_as_bot": false, 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550004673.001000", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "50d84eed-61d6-40fb-bf3f-fee6441b8d26", 
+    "thread_ts": "1550002323.000300", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCDAMHRDL", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "I believe he is talking about the APA/ or MLA format for the paper. But I might be wrong. <@UCBS1DSF5> takes really good notes, she might have the answer.", 
+    "ts": "1550002438.000600", 
+    "user": "U8NMLKGDU", 
+    "parent_user_id": "UCDAMHRDL", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FG4HHUMLH-f22e460d12/screen_shot_2019-02-12_at_12.10.42_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FG4HHUMLH", 
+        "thumb_480_h": 38, 
+        "original_h": 44, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-02-12 at 12.10.42 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG4HHUMLH/screen_shot_2019-02-12_at_12.10.42_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG4HHUMLH-f22e460d12/screen_shot_2019-02-12_at_12.10.42_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG4HHUMLH-f22e460d12/screen_shot_2019-02-12_at_12.10.42_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG4HHUMLH-f22e460d12/screen_shot_2019-02-12_at_12.10.42_pm_80.png", 
+        "thumb_360_h": 28, 
+        "size": 16006, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550002320, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG4HHUMLH-f22e460d12/screen_shot_2019-02-12_at_12.10.42_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG4HHUMLH/download/screen_shot_2019-02-12_at_12.10.42_pm.png", 
+        "user": "UCDAMHRDL", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG4HHUMLH-004f68dc88", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAMHRDL/FG4HHUMLH/screen_shot_2019-02-12_at_12.10.42_pm.png", 
+        "name": "Screen Shot 2019-02-12 at 12.10.42 PM.png", 
+        "created": 1550002320, 
+        "original_w": 563, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1550002323.000300", 
+    "latest_reply": "1550002438.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NMLKGDU"
+    ], 
+    "text": "Does anyone know where I can find these \"set guidelines\"?", 
+    "upload": true, 
+    "ts": "1550002323.000300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAMHRDL", 
+    "replies": [
+      {
+        "user": "U8NMLKGDU", 
+        "ts": "1550002438.000600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1549945133.000200", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCBS1DSF5", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 1295534, 
+        "footer": "Posted using /giphy", 
+        "title": "charlie day", 
+        "image_width": 250, 
+        "title_link": "https://giphy.com/gifs/fx-charlie-always-sunny-l0IylOPCNkiqOgMyA", 
+        "image_height": 158, 
+        "image_url": "https://media1.giphy.com/media/l0IylOPCNkiqOgMyA/giphy-downsized.gif?cid=6104955e5c5dd707324b2f44730f383b", 
+        "fallback": "giphy: https://giphy.com/gifs/fx-charlie-always-sunny-l0IylOPCNkiqOgMyA", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1549653772.003400", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FG2489NR2", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG2489NR2/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2889256, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_800.jpg", 
+        "timestamp": 1549653537, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG2489NR2/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_1024.jpg", 
+        "user": "UCBS1DSF5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG2489NR2-c1536621d5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS1DSF5/FG2489NR2/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1549653537, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FG2489NR2-cd5ef40c17/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCB58P2V6", 
+          "UCDAMHRDL"
+        ]
+      }
+    ], 
+    "ts": "1549653550.003000", 
+    "text": "", 
+    "upload_reply_to": "6E2C74E4-B49E-40B1-AFE9-4E8572B0B701", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c44ab767-acda-4e5c-94dc-76b7ed8eddca", 
+    "thread_ts": "1549058037.010500", 
+    "text": "<@UCC37PD6D> Thank You!", 
+    "ts": "1549603861.002700", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E67C7608-C51B-417F-846C-69C31AF718FC", 
+    "thread_ts": "1549058037.010500", 
+    "text": "from the binder thing he gave us in class <@UCB58P2V6> ", 
+    "ts": "1549603841.002500", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d946b7c-9109-471b-a860-19a7c34c9bce", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1549603614.000000"
+    }, 
+    "thread_ts": "1549058037.010500", 
+    "text": "<@UCC37PD6D> we need to read page 84-90 from the pages from the pdf that wenzel attached above ? 5.1-5.2?", 
+    "ts": "1549603585.001600", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 222, 
+        "filetype": "png", 
+        "thumb_800_h": 1732, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FG09DBLJW", 
+        "thumb_480_h": 480, 
+        "original_h": 2436, 
+        "thumb_360_w": 166, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG09DBLJW/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_64.png", 
+        "thumb_720_w": 333, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 434765, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_800.png", 
+        "timestamp": 1549497189, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG09DBLJW/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_1024.png", 
+        "user": "UCBDBB3LZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG09DBLJW-349d6aef25", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDBB3LZ/FG09DBLJW/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1549497189, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1125, 
+        "thumb_960_w": 443, 
+        "thumb_1024_w": 473, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FG09DBLJW-c124a78da5/image_from_ios_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "ts": "1549497189.000800", 
+    "text": "", 
+    "upload_reply_to": "73196E89-EC6D-41F1-9526-9E71F947EBBC", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "88e7b03f-31b2-409a-b63f-eb63c59a88bb", 
+    "thread_ts": "1549496245.000500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "brain", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "<mailto:HMS@midot7.com|HMS@midot7.com>", 
+    "ts": "1549496829.000600", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1fa17b5b-9c00-44b2-8645-73c3ed149947", 
+    "thread_ts": "1549496245.000500", 
+    "latest_reply": "1549496829.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "Does anyone have the professor's email so we can send him a love letter i guess", 
+    "ts": "1549496245.000500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U8NMLKGDU", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1549496829.000600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a08ab4b0-5636-4df6-b8b5-a436e180a121", 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1549066916.000000"
+    }, 
+    "thread_ts": "1549058037.010500", 
+    "text": "What about the 3-4 page topical research paper on hinduism based on syllabus date?", 
+    "ts": "1549066884.012000", 
+    "user": "UCBPUT6AX", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "70c9a976-6742-4693-bd91-0286bd32ff45", 
+    "thread_ts": "1549058037.010500", 
+    "text": "And the syllabus request in an email if you haven't already done it.", 
+    "ts": "1549066872.011700", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E00093D1-46BB-4798-A681-B801D047CA17", 
+    "thread_ts": "1549058037.010500", 
+    "text": "personal essay if you didn\u2019t already do it, read page 84-90 and come up with 3 questions", 
+    "ts": "1549066505.011500", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "47879355-4834-447e-aab0-64e4cca09292", 
+    "thread_ts": "1549058037.010500", 
+    "latest_reply": "1549603861.002700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D", 
+      "UCC0GL52N", 
+      "UCBPUT6AX", 
+      "UCB58P2V6"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "man-shrugging", 
+        "users": [
+          "UCC0GL52N", 
+          "UCC4RHFU5"
+        ]
+      }
+    ], 
+    "text": "Yo, what's due next Friday?", 
+    "ts": "1549058037.010500", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCBPUT6AX", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1549066505.011500"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1549066872.011700"
+      }, 
+      {
+        "user": "UCBPUT6AX", 
+        "ts": "1549066884.012000"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1549603585.001600"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1549603841.002500"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1549603861.002700"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFXFRD9C6", 
+        "size": 4299774, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFXFRD9C6-cdb6130571/5.1-5.2_thumb_pdf.png", 
+        "title": "5.1-5.2", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFXFRD9C6/5.1-5.2.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1549054251, 
+        "thumb_pdf_w": 906, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFXFRD9C6/download/5.1-5.2.pdf", 
+        "user": "UCBPUT6AX", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFXFRD9C6-bb61fe254b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBPUT6AX/FFXFRD9C6/5.1-5.2.pdf", 
+        "name": "5.1-5.2.pdf", 
+        "created": 1549054251, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "client_msg_id": "8b9a0f3f-8397-4d24-9575-8df124007c48", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1549054253.009700", 
+    "display_as_bot": false, 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFX49G17Z", 
+        "size": 5623110, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFX49G17Z-436ebe15bd/imperialism_16.0_thumb_pdf.png", 
+        "title": "Imperialism 16.0.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFX49G17Z/imperialism_16.0.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1549052277, 
+        "thumb_pdf_w": 906, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFX49G17Z/download/imperialism_16.0.pdf", 
+        "user": "UCBPUT6AX", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFX49G17Z-ba73c84d3b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBPUT6AX/FFX49G17Z/imperialism_16.0.pdf", 
+        "name": "Imperialism 16.0.pdf", 
+        "created": 1549052277, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1549052345.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "pray", 
+        "users": [
+          "UCD9D1YH4", 
+          "UCC4RHFU5", 
+          "UCDAMHRDL", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "*triumphalism", 
+    "upload": true, 
+    "ts": "1549052285.008500", 
+    "display_as_bot": false, 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1549045559.008400", 
+    "text": "<@UCC0KLBPU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1549007749.007600", 
+    "text": "<@U6YGZN9HD> has left the channel"
+  }, 
+  {
+    "client_msg_id": "AA83D94B-3C06-413D-A294-9E509D24172A", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "question", 
+        "users": [
+          "UCC4RHFU5", 
+          "UCC37PD6D", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Hey, so that paper ...", 
+    "ts": "1549004935.007000", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13fceb16-dd59-419f-ba7c-757349159504", 
+    "text": "Testing it out", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1548995656.006500"
+  }, 
+  {
+    "client_msg_id": "718b9962-c039-4e96-b7ab-07ab49f753b9", 
+    "text": "Sorry we at a bot meetup lol", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1548995651.006300"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BFWABPW23|Restaurant-Bot>", 
+    "ts": "1548995608.005400", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BFWABPW23|Restaurant-Bot>", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "bot_id": "BFWABPW23"
+  }, 
+  {
+    "text": "<@UFVE9PQ4D> has joined the channel", 
+    "ts": "1548995100.004100", 
+    "subtype": "channel_join", 
+    "user": "UFVE9PQ4D", 
+    "type": "message", 
+    "inviter": "UCBHEGLKB"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BFUKZJXGR|Restaurant-Bot>", 
+    "ts": "1548994720.003600", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BFUKZJXGR|Restaurant-Bot>", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "bot_id": "BFUKZJXGR"
+  }, 
+  {
+    "client_msg_id": "d476dedb-1609-4c63-b7aa-56cf58c396c9", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-2", 
+        "users": [
+          "UCBS1DSF5"
+        ]
+      }
+    ], 
+    "text": "God, amiright?", 
+    "ts": "1548994454.003400", 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1548994253.002600", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BFWLLHT7G|Restaurant-Bot>", 
+    "ts": "1548994225.002400", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BFWLLHT7G|Restaurant-Bot>", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "bot_id": "BFWLLHT7G"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1548715236.001700", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "client_msg_id": "94820590-d296-4db3-a61c-569e1a5fe937", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1548889494.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "R.I.P. this channel :coffin: because the other channel <#CFNUQBLC8|sl-rlgn-1178> was created for us", 
+    "ts": "1548713025.001000", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD4Y1DCN", 
+    "ts": "1548450192.012900", 
+    "text": "<@UCD4Y1DCN> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFPEBHWBE", 
+        "size": 3484658, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPEBHWBE-b2b865aeb7/note_jan_25__2019_9_58_48_am_thumb_pdf.png", 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFPEBHWBE/note_jan_25__2019_9_58_48_am.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548449774, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFPEBHWBE/download/note_jan_25__2019_9_58_48_am.pdf", 
+        "user": "UCBS1DSF5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFPEBHWBE-8cbc647146", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS1DSF5/FFPEBHWBE/note_jan_25__2019_9_58_48_am.pdf", 
+        "name": "Note Jan 25, 2019 9_58_48 AM.pdf", 
+        "created": 1548449774, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6XDGCKFF", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU", 
+          "UCC4SUSHK"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6XDGCKFF", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "fire", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6XDGCKFF", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU", 
+          "UCC0GL52N", 
+          "UCBS1DSF5"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "heart", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6XDGCKFF", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6XDGCKFF", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "art", 
+        "users": [
+          "UCC0GL52N", 
+          "UCDAMHRDL", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "aakash", 
+        "users": [
+          "U6YGZN9HD", 
+          "U8NMLKGDU"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD", 
+          "UCC0GL52N", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "text": "Here are my notes aka the best notes lmao. I\u2019ll post every week", 
+    "upload": true, 
+    "ts": "1548449777.012500", 
+    "display_as_bot": false, 
+    "user": "UCBS1DSF5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a15be2dc-bb75-403f-8969-005ae00e1a29", 
+    "text": "Philip Novak - The World's wisdom... ISBN: 0-06-066342\nHouston Smith - The World's Religions (Which is above in PDF)... ISBN-10: 0-06-1660183\n Henry Shreibman Primal Ethics - Modern Meaning: Comparative Ancient Ethics (SHM Publications, CA 2009-2020)", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1548447429.012400"
+  }, 
+  {
+    "client_msg_id": "aa82bff3-9c27-4f20-9800-ab154d641a7a", 
+    "text": "<@UCC4SUSHK> <https://docs.google.com/document/d/1oUH4mpS_zb3irg1u74nRfb533VmP5oUNt9fjWrN25nU/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1548447374.011600"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 193, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFP071FHP", 
+        "thumb_480_h": 116, 
+        "original_h": 703, 
+        "thumb_360_w": 360, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFP071FHP/img_0843.jpg", 
+        "thumb_720_h": 174, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_80.jpg", 
+        "thumb_360_h": 87, 
+        "size": 126454, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_800.jpg", 
+        "timestamp": 1548447263, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFP071FHP/download/img_0843.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_1024.jpg", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFP071FHP-0b09c2b0f8", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FFP071FHP/img_0843.jpg", 
+        "name": "IMG_0843.jpg", 
+        "created": 1548447263, 
+        "thumb_1024_h": 248, 
+        "thumb_960_h": 232, 
+        "original_w": 2907, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFP071FHP-1488d8f391/img_0843_720.jpg"
+      }
+    ], 
+    "text": "ISBN", 
+    "upload": false, 
+    "ts": "1548447324.010500", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2271DD4D-9E2A-4A51-B4E3-02D6BC53A818", 
+    "text": "Hey guys can anyone shared their notes please ", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1548447321.010400"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFPCWF6TE", 
+        "size": 1460862, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPCWF6TE-b3eaa7233f/huston_smith_-_the_world_s_religions__our_great_wisdom_traditions-harper_san_francisco__1991__thumb_pdf.png", 
+        "title": "Huston Smith - The World's Religions_ Our Great Wisdom Traditions-Harper San Francisco (1991).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFPCWF6TE/huston_smith_-_the_world_s_religions__our_great_wisdom_traditions-harper_san_francisco__1991_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548446584, 
+        "thumb_pdf_w": 605, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFPCWF6TE/download/huston_smith_-_the_world_s_religions__our_great_wisdom_traditions-harper_san_francisco__1991_.pdf", 
+        "user": "UCBPUT6AX", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFPCWF6TE-b1349d1e14", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBPUT6AX/FFPCWF6TE/huston_smith_-_the_world_s_religions__our_great_wisdom_traditions-harper_san_francisco__1991_.pdf", 
+        "name": "Huston Smith - The World's Religions_ Our Great Wisdom Traditions-Harper San Francisco (1991).pdf", 
+        "created": 1548446584, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 908
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB58P2V6", 
+          "UCC0GL52N", 
+          "UCBDBB3LZ", 
+          "UCDAF4FV4", 
+          "U6X9L8VAN"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1548446586.007100", 
+    "display_as_bot": false, 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFR0KBQ78", 
+        "size": 40071, 
+        "original_h": 226, 
+        "thumb_360_w": 177, 
+        "title": "Pasted image at 2019-01-25, 12:01 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFR0KBQ78/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFR0KBQ78-f691f65a9d/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFR0KBQ78-f691f65a9d/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFR0KBQ78-f691f65a9d/image_80.png", 
+        "thumb_360_h": 226, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548446515, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFR0KBQ78-f691f65a9d/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFR0KBQ78/download/image.png", 
+        "user": "UCBDBB3LZ", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFR0KBQ78-bda3ab3a1a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDBB3LZ/FFR0KBQ78/image.png", 
+        "name": "image.png", 
+        "created": 1548446515, 
+        "original_w": 177, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1548446517.006800", 
+    "display_as_bot": false, 
+    "user": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4943a1e8-cd2d-405f-a7ec-c786fc43cd0b", 
+    "text": "<!channel> ^", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1548446174.006600"
+  }, 
+  {
+    "client_msg_id": "6313e19e-0edf-4aeb-b65e-22423b602641", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-3", 
+        "users": [
+          "UCDAJD4F8"
+        ]
+      }
+    ], 
+    "text": "i am a god", 
+    "ts": "1548446165.006300", 
+    "user": "UCBDBB3LZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dfa1be9a-8398-43e6-90dc-d57ac928ebab", 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1548445941.000000"
+    }, 
+    "text": "To: <mailto:Hms@midot7.com|Hms@midot7.com>\n\nSubject: Make School World Religion - Syllabus Request", 
+    "ts": "1548445922.005900", 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3db206c-4349-43f6-83b2-8a2333bdeb4a", 
+    "text": "<@UCBS1DSF5> You're a real one.", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1548445406.005400"
+  }, 
+  {
+    "client_msg_id": "193a49f4-218e-42bb-a46c-54006023bda2", 
+    "text": ":pray:", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1548445402.005300"
+  }, 
+  {
+    "client_msg_id": "ef3f7886-8711-4308-8ac0-e6724197a72d", 
+    "text": "wooo", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1548445331.005100"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> set the channel purpose: Religion Class 2019", 
+    "ts": "1548444701.004700", 
+    "subtype": "channel_purpose", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "purpose": "Religion Class 2019"
+  }, 
+  {
+    "text": "<@UCBPUT6AX> has joined the channel", 
+    "ts": "1548444686.004600", 
+    "subtype": "channel_join", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1548444686.004400", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1548444686.004200", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1548444686.004000", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1548444686.003800", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1548444685.003600", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1548444685.003400", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1548444685.003200", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1548444685.003000", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1548444685.002800", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1548444685.002600", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1548444685.002400", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1548444684.002200", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1548444684.002000", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1548444684.001800", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1548444684.001600", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1548444684.001400", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1548444684.001200", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1548444684.001000", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1548444684.000800", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1548444684.000600", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1548444683.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCBS1DSF5"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1548444524.000200", 
+    "text": "<@UCBS1DSF5> has joined the channel"
+  }
+]

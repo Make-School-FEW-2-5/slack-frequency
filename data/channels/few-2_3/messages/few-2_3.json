@@ -1,0 +1,3036 @@
+[
+  {
+    "client_msg_id": "b60a5bc8-c972-422d-b50e-cdd59b86cb1c", 
+    "attachments": [
+      {
+        "image_bytes": 10754, 
+        "original_url": "https://reactjs.org/docs/higher-order-components.html", 
+        "text": "A JavaScript library for building user interfaces", 
+        "title": "Higher-Order Components \u2013 React", 
+        "image_width": 476, 
+        "title_link": "https://reactjs.org/docs/higher-order-components.html", 
+        "image_height": 250, 
+        "image_url": "https://reactjs.org/logo-og.png", 
+        "service_name": "reactjs.org", 
+        "from_url": "https://reactjs.org/docs/higher-order-components.html", 
+        "fallback": "Higher-Order Components \u2013 React", 
+        "service_icon": "https://reactjs.org/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://reactjs.org/docs/higher-order-components.html>", 
+    "ts": "1556751023.005300", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJBVC9A2C", 
+        "size": 516014, 
+        "title": "redux-t4.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJBVC9A2C/redux-t4.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556750579, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJBVC9A2C/download/redux-t4.zip", 
+        "user": "U28S64ZJ5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "redux-t4.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJBVC9A2C-0bdc4a24ed", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FJBVC9A2C/redux-t4.zip", 
+        "is_external": false, 
+        "created": 1556750579, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "Redux Counter", 
+    "upload": true, 
+    "ts": "1556750580.004800", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHKL4RJQJ", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 2.3 Progress Tracker (Term 4 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_80.png", 
+        "thumb_360_h": 360, 
+        "size": 103625, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_800.png", 
+        "timestamp": 1555373124, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FHKL4RJQJ/few_2", 
+        "name": "FEW 2", 
+        "created": 1555373124, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "a256a247-3624-40f4-a9f0-1fc431d9051c", 
+    "text": "<https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1556577177.003600", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FHKL4RJQJ"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a79fde35-f99e-43a5-b242-ae714c7da698", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/lesson-08.md#after-class>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1556218850.001900"
+  }, 
+  {
+    "client_msg_id": "6d5770ab-6fa8-433a-8aff-9cc5ce419d24", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCH838UC9", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<!channel> I updated the tracker adding dates and tasks for your final project. The milestones shown on the tracker you will define for yourself. Review the After Class section in Lesson 8. <https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/lesson-08.md#after-class>", 
+    "ts": "1556218847.001700", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c6fc0be9-8c32-4b71-86f4-b7b7436ba008", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 40741, 
+        "original_url": "https://reacttraining.com/react-router/", 
+        "service_name": "ReactRouterWebsite", 
+        "title": "React Router: Declarative Routing for React", 
+        "image_width": 250, 
+        "title_link": "https://reacttraining.com/react-router/", 
+        "image_height": 250, 
+        "image_url": "https://reacttraining.com/react-router/react-square.png", 
+        "text": "Learn once, Route Anywhere", 
+        "from_url": "https://reacttraining.com/react-router/", 
+        "fallback": "ReactRouterWebsite: React Router: Declarative Routing for React", 
+        "service_icon": "https://reacttraining.com/react-router/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://reacttraining.com/react-router/>", 
+    "ts": "1555973027.005000", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB3PRBME> set the channel topic: <https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0>", 
+    "ts": "1555696941.004800", 
+    "topic": "<https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0>", 
+    "subtype": "channel_topic", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 466, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ294ENA2-558818bf8f/few_react_progress_tracker_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ294ENA2", 
+        "thumb_480_h": 480, 
+        "original_h": 532, 
+        "thumb_360_w": 349, 
+        "title": "FEW REACT Progress Tracker.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ294ENA2/few_react_progress_tracker.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ294ENA2-558818bf8f/few_react_progress_tracker_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ294ENA2-558818bf8f/few_react_progress_tracker_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ294ENA2-558818bf8f/few_react_progress_tracker_80.png", 
+        "thumb_360_h": 360, 
+        "size": 89982, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555572543, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ294ENA2-558818bf8f/few_react_progress_tracker_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ294ENA2/download/few_react_progress_tracker.png", 
+        "user": "UCC0GL52N", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ294ENA2-41c4daed34", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FJ294ENA2/few_react_progress_tracker.png", 
+        "name": "FEW REACT Progress Tracker.png", 
+        "created": 1555572543, 
+        "original_w": 516, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "Hey Mitchell, can we change the dates on this?", 
+    "upload": true, 
+    "ts": "1555572545.004500", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4a494cc6-80e0-4a37-a9d9-a1c87ce7ec0f", 
+    "text": "<https://github.com/Product-College-Labs/react-express-project>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1555541721.003600"
+  }, 
+  {
+    "client_msg_id": "d08faf62-f408-449e-ad64-7d4a29122b11", 
+    "thread_ts": "1555532030.003100", 
+    "text": "Did you get the answer? I have this issue also", 
+    "ts": "1555541045.003300", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c3fe8c23-130b-441a-91b5-c9d0e8ffc971", 
+    "thread_ts": "1555532030.003100", 
+    "latest_reply": "1555541045.003300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N"
+    ], 
+    "text": "Any insight ?", 
+    "ts": "1555532030.003100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8T1AG0", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1555541045.003300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e61282ec-ac62-422b-ae92-0cc944471675", 
+    "text": "But I still get: _'message' is missing in props validation_", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1555532027.002900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 0, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHTBSNPCZ", 
+        "size": 96, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHTBSNPCZ/-.txt", 
+        "preview": "function ErrorMessage(props) {\r\n  const { message } = props;\r\n  return <h1> {message} </h1>\r\n}\r\n", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCB8T1AG0/FHTBSNPCZ/-.txt/edit", 
+        "username": "", 
+        "timestamp": 1555531979, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>function ErrorMessage(props) {</pre></div>\n<div><pre>  const { message } = props;</pre></div>\n<div><pre>  return &lt;h1&gt; {message} &lt;/h1&gt;</pre></div>\n<div><pre>}</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHTBSNPCZ/download/-.txt", 
+        "user": "UCB8T1AG0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHTBSNPCZ-ff5c6091a2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8T1AG0/FHTBSNPCZ/-.txt", 
+        "name": "-.txt", 
+        "created": 1555531979, 
+        "lines": 5, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555531979.002100", 
+    "display_as_bot": false, 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fc1e15c5-4f12-4a1a-93d4-9ea885d6af9c", 
+    "text": "*Quick Q:*  Deconstructed the  following function:", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1555531951.001900"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHKL4RJQJ", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 2.3 Progress Tracker (Term 4 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_80.png", 
+        "thumb_360_h": 360, 
+        "size": 103625, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_800.png", 
+        "timestamp": 1555373124, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FHKL4RJQJ/few_2", 
+        "name": "FEW 2", 
+        "created": 1555373124, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKL4RJQJ-05baccd29d/few_2_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "98ba3e96-a1ed-4db2-a34e-d2f43fabfe5b", 
+    "text": "<https://docs.google.com/spreadsheets/d/1c01g2PE68BHrezLT2mzkmEbN67O5ZvtevI4jcOzVq_Q/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1555373122.000300", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "x_files": [
+      "FHKL4RJQJ"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave::skin-tone-2", 
+        "users": [
+          "UCBS1DSF5"
+        ]
+      }
+    ], 
+    "text": "<@UCBC9725P> has left the channel", 
+    "ts": "1554915987.007600", 
+    "subtype": "channel_leave", 
+    "user": "UCBC9725P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0FFFCA8D-E4E4-4DBD-A3E6-9C98A9BFFE11", 
+    "text": "Check the top of each script file to make sure you aren\u2019t importing this accidentally. Sometimes VSCode will add an import for you if you misspell something. \n\nI can take a look at the huddle. ", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554909491.007400"
+  }, 
+  {
+    "client_msg_id": "41adf125-8a1a-4cdc-867c-5b7e1ad193c5", 
+    "text": "<@U28S64ZJ5> I have the most persistent bug when I run `npm install` It says: `Cannot find module './access-error.js'`\nI've tried removing my node modules, uninstalling npm and node.", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554868732.004600"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1554259522.002800", 
+    "text": "<@UCBS25XMZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1554175091.002600", 
+    "text": "<@UCC4U4V53> has left the channel"
+  }, 
+  {
+    "client_msg_id": "f417cd37-b48e-46b2-9da7-dfd52d7e2cf5", 
+    "attachments": [
+      {
+        "image_bytes": 2363, 
+        "original_url": "https://codepen.io/gaearon/pen/oWWQNa?editors=0010", 
+        "service_name": "CodePen", 
+        "title": "Tic Tac Toe", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/gaearon/pen/oWWQNa?editors=0010", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/215309.oWWQNa.31459d71-eea6-4169-9b27-fb155c42a957.png", 
+        "text": "...", 
+        "from_url": "https://codepen.io/gaearon/pen/oWWQNa?editors=0010", 
+        "fallback": "CodePen: Tic Tac Toe", 
+        "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://codepen.io/gaearon/pen/oWWQNa?editors=0010>", 
+    "ts": "1554162699.002300", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1554162329.002100", 
+    "text": "<@UCBS1DSF5> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f0eb0a2a-06ed-4a7a-9a9e-eb80dacc9a72", 
+    "attachments": [
+      {
+        "image_bytes": 10754, 
+        "original_url": "https://reactjs.org/tutorial/tutorial.html", 
+        "text": "A JavaScript library for building user interfaces", 
+        "title": "Tutorial: Intro to React \u2013 React", 
+        "image_width": 476, 
+        "title_link": "https://reactjs.org/tutorial/tutorial.html", 
+        "image_height": 250, 
+        "image_url": "https://reactjs.org/logo-og.png", 
+        "service_name": "reactjs.org", 
+        "from_url": "https://reactjs.org/tutorial/tutorial.html", 
+        "fallback": "Tutorial: Intro to React \u2013 React", 
+        "service_icon": "https://reactjs.org/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://reactjs.org/tutorial/tutorial.html>", 
+    "ts": "1554162320.001800", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1554158268.001500", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1554158206.001300", 
+    "text": "<@UCH838UC9> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1554158201.001100", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "53c06c2c-f4a9-41ba-bd11-773e83e5780d", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1554158189.000900"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1554151906.000700", 
+    "text": "<@UCDAF4FV4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1554138606.000500", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554093561.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1553535191.033800", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "client_msg_id": "c10a5407-66dd-42d0-9192-ec97ed37c237", 
+    "thread_ts": "1553196444.033100", 
+    "text": "Whoaoaa, LIT", 
+    "ts": "1553196900.033300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "884ec37b-cd2d-4c89-b9c8-639708c3fa48", 
+    "thread_ts": "1553196444.033100", 
+    "latest_reply": "1553196900.033300", 
+    "attachments": [
+      {
+        "image_bytes": 274781, 
+        "original_url": "https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "The constructor is dead, long live the constructor!", 
+        "ts": 1515449176, 
+        "title_link": "https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*RKQ1VZhf-b7We4YN78xWlA.jpeg", 
+        "image_width": 375, 
+        "service_name": "Hacker Noon", 
+        "from_url": "https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599", 
+        "fallback": "Hacker Noon: The constructor is dead, long live the constructor!", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+        "text": "Say goodbye to the React component class constructor.", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553196900.033300"
+      }
+    ], 
+    "ts": "1553196444.033100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS25XMZ", 
+    "text": "Here's another interesting article pertaining to react.\n\nSpecifically, the good old class `constructor` near the top, and how you can omit it _most_ of the time\n\n<https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1553048985.030600", 
+    "text": "<@UCBS37LKV> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1552928843.030400", 
+    "text": "<@UCBKC02JY> has left the channel"
+  }, 
+  {
+    "client_msg_id": "9A356312-6901-4FA9-96B1-9D86049DAFDA", 
+    "thread_ts": "1552343622.023700", 
+    "text": "<@U28S64ZJ5> yup, fixed the bug :bug: :laughing:", 
+    "ts": "1552710112.030100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0b7a4476-ca63-4001-8140-29dcdd46257d", 
+    "thread_ts": "1552343622.023700", 
+    "text": "Sounds like you fixed it? When I tested this it all seemed to be working?", 
+    "ts": "1552708922.029500", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ebcdb0dd-6b7c-46ff-a95e-525057bfad4a", 
+    "thread_ts": "1552343622.023700", 
+    "text": "careless :sneezing_face:", 
+    "ts": "1552706565.029300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7613a271-c81e-43da-9154-10e6b6b48c19", 
+    "thread_ts": "1552343622.023700", 
+    "text": "The if condition was checking the state but i was using `this.showIncoming` instead of `this.state.showIncoming`", 
+    "ts": "1552706545.029100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d187e3dd-eb75-4cff-9d28-581b57bd3652", 
+    "thread_ts": "1552343622.023700", 
+    "text": "Any by explaining the problem I found my hideous bug :sob:", 
+    "ts": "1552706504.028900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91215886-4c3e-4470-b5a7-88db746fee0f", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1552706482.000000"
+    }, 
+    "thread_ts": "1552343622.023700", 
+    "text": "I think I just explained it above. I have a render method that when invoked, checks the user type, in this case, I have an admin, so the adminView() function get invoked, this function returns some jsx that includes a button with an onclick that sets state. There's another function called in the adminView that checks the state to return some jsx, but that won't work. I'm able to get the state to change. The if condition is never invoked,\n\nThis one is a bit tricky to reproduce because you'd need my local backend running.\n\nAt first I tried making it so when you click a button another function is called that returns some jsx, then i tried setting a var on state that is changed on button click while also having a showIncomingRequests function in my adminView() that based on the state returns some jsx or not, but that also won't work.\n\nI have not tried implementing a new Component, I think that would work, but it's not ideal.", 
+    "ts": "1552706220.028600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c16fd7e3-6359-453b-9bc3-48d3780749e0", 
+    "thread_ts": "1552343622.023700", 
+    "text": "You need to:\n\n1. Describe your problem\n2. Explain how to reproduce it\n3. List the things that you have tried to solve it", 
+    "ts": "1552705927.028400", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ef2399b3-233d-421f-91f6-51eed13ff0c1", 
+    "thread_ts": "1552343622.023700", 
+    "text": "then i would think the render is recalled, and my adminView is hit and so is the showIncomingRequest function that should then ideally display my list :confused:", 
+    "ts": "1552705906.028200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc6c6262-15bd-4353-8605-6fc0294c1e5d", 
+    "thread_ts": "1552343622.023700", 
+    "text": "i changed it now so on the button click a function is called that sets state", 
+    "ts": "1552705869.028000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3b9c9b51-a2e0-4872-84e0-72101527c194", 
+    "thread_ts": "1552343622.023700", 
+    "text": "Hey <@U28S64ZJ5> <@UF83RJTHD> I'm actually still stuck on this one if you could take a look - <https://github.com/AwesomeZaidi/Clubs-App-Frontend/tree/asim/basic-views/src/Components/Dashboard>", 
+    "ts": "1552705808.027800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1552626073.027700", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 148, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGWH3TUN8", 
+        "size": 5365, 
+        "title": "React Study Questions", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGWH3TUN8/react_study_questions.js", 
+        "preview": "# React Study Activities\r\n\r\n## Easy \r\n\r\n### DisplayDate component\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FGWH3TUN8/react_study_questions.js/edit", 
+        "username": "", 
+        "timestamp": 1552428391, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-error\"># React Study Activities</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-error\">## Easy </span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-error\">### DisplayDate component</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGWH3TUN8/download/react_study_questions.js", 
+        "user": "U28S64ZJ5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGWH3TUN8-c2cbf57672", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FGWH3TUN8/react_study_questions.js", 
+        "name": "React_Study_Questions.js", 
+        "created": 1552428391, 
+        "lines": 153, 
+        "mode": "snippet", 
+        "preview_is_truncated": true
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1552428391.026600", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2d7b8437-0099-49c0-946e-6d1a90ee2242", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBDBB3LZ"
+        ]
+      }
+    ], 
+    "text": "<!channel> React Study questions for the week.", 
+    "ts": "1552428359.026400", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1552400065.025500", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "d669a878-9a1b-4850-a795-f161ee37cf2d", 
+    "thread_ts": "1552343622.023700", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCBKC02JY", 
+          "UF83RJTHD", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Sounds like you want to set a variable on state. something like this.state.showSomething = false. Then set this to true when when you click the button. (e) =&gt; this.setState({showSomething: true}). In your render method check this value using one of the conditional rendering techniques.\n\nYou don't want to return any JSX from the buttons click. Instead you want to button click to set some logic that triggers a render and have the render method do the work of showing something.", 
+    "ts": "1552364628.025000", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6d488123-0b18-4cfd-a13e-605cf781db51", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1552355815.000000"
+    }, 
+    "thread_ts": "1552343622.023700", 
+    "text": "Not sure if this is the problem, but you are missing `type=\"submit\"` on your button. It should be:\n\n```&lt;button className=\"black_btn\" type=\"submit\"&gt;Submit&lt;/button&gt;```", 
+    "ts": "1552354026.024400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f6a76fe7-89ca-4e25-91fc-03ddae8e212e", 
+    "thread_ts": "1552343622.023700", 
+    "text": "My Code: <https://github.com/AwesomeZaidi/Clubs-App-Frontend/blob/asim/basic-views/src/Components/Dashboard/Dashboard.jsx>", 
+    "ts": "1552343849.024200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e2b0d498-874e-4477-9d43-5e0e28994815", 
+    "thread_ts": "1552343622.023700", 
+    "text": "An alternate solution i found is probably better, just creating a new Component class when that's called on the button click but then i have to instantiate my props and everything again in that new Component - wondering what my options in this scenario are and how to wieght out the pro's and con's, like is it less or more efficient to avoid creating a new Component class?", 
+    "ts": "1552343764.024000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0e1dc225-40ed-4201-a643-013fdd744f68", 
+    "thread_ts": "1552343622.023700", 
+    "text": "I'm in a Component Class and in my render return, if I click a button, I call a function that returns some jsx, i'm able to log out the jsx but it won't actually render on the page, i'm trying to understand why.", 
+    "ts": "1552343668.023800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3dff8ecc-15ef-48d8-a141-4d5ae1603b5f", 
+    "thread_ts": "1552343622.023700", 
+    "latest_reply": "1552710112.030100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBKC02JY", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Hey does anyone wanna help me on some React stuff?", 
+    "ts": "1552343622.023700", 
+    "type": "message", 
+    "reply_count": 15, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552343668.023800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552343764.024000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552343849.024200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1552354026.024400"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552364628.025000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552705808.027800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552705869.028000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552705906.028200"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552705927.028400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552706220.028600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552706504.028900"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552706545.029100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552706565.029300"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552708922.029500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1552710112.030100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "F10FD682-1157-4619-9F19-225D9BC44A5B", 
+    "thread_ts": "1552176000.019300", 
+    "text": "Awesome! I\u2019d like to first review the final with everyone and also provide some study problems similar to the final assessment that can complete during the session. ", 
+    "ts": "1552260826.023000", 
+    "subtype": "thread_broadcast", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "6a4f0bdb-a818-47d4-b91d-d1186a14fe48", 
+      "thread_ts": "1552176000.019300", 
+      "latest_reply": "1552260826.023000", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCBS25XMZ", 
+        "U28S64ZJ5"
+      ], 
+      "text": "I'll be in Make School building Mon and Tues from 1 to 3.", 
+      "ts": "1552176000.019300", 
+      "type": "message", 
+      "reply_count": 2, 
+      "user": "U28S64ZJ5", 
+      "replies": [
+        {
+          "user": "UCBS25XMZ", 
+          "ts": "1552251717.020100"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1552260826.023000"
+        }
+      ], 
+      "reply_users_count": 2
+    }
+  }, 
+  {
+    "client_msg_id": "3439bdc8-3f5f-46fb-bf6a-6c44a3583a47", 
+    "thread_ts": "1552176000.019300", 
+    "text": "I'll be there atleast on tuesday!", 
+    "ts": "1552251717.020100", 
+    "user": "UCBS25XMZ", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85a59d32-e3a0-432c-92cb-745b6c0c409f", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1552251977.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 214, 
+        "thumb_url": "https://css-tricks.com/wp-content/uploads/2016/03/props-error.jpg", 
+        "thumb_width": 800, 
+        "original_url": "https://css-tricks.com/creating-svg-icon-system-react/", 
+        "service_name": "CSS-Tricks", 
+        "title": "Creating an SVG Icon System with React | CSS-Tricks", 
+        "ts": 1458049457, 
+        "title_link": "https://css-tricks.com/creating-svg-icon-system-react/", 
+        "text": "I recently went to Michael Jackson and Ryan Florence\u2019s ReactJS Training. I was really excited to attend, partially because I had so many questions about", 
+        "from_url": "https://css-tricks.com/creating-svg-icon-system-react/", 
+        "fallback": "CSS-Tricks: Creating an SVG Icon System with React | CSS-Tricks", 
+        "service_icon": "https://css-tricks.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://css-tricks.com/creating-svg-icon-system-react/>\nSVGs in react are actually pretty nifty!", 
+    "ts": "1552245583.019900", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6a4f0bdb-a818-47d4-b91d-d1186a14fe48", 
+    "thread_ts": "1552176000.019300", 
+    "latest_reply": "1552260826.023000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS25XMZ", 
+      "U28S64ZJ5"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "confetti_ball", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBS25XMZ", 
+          "U6YP200VB", 
+          "UCBDBB3LZ"
+        ]
+      }
+    ], 
+    "text": "I'll be in Make School building Mon and Tues from 1 to 3.", 
+    "ts": "1552176000.019300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCBS25XMZ", 
+        "ts": "1552251717.020100"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1552260826.023000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "a4c725f0-88b1-4918-b82d-4d8b7b2e6871", 
+    "text": "I can plan to be at school Mon or Tues. Either before lunch 10 to 12 or after lunch 1 to 3.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1552154575.018300"
+  }, 
+  {
+    "client_msg_id": "458AE673-F7C8-42A7-8C80-FD1E721E0274", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBS25XMZ", 
+          "U6YP200VB", 
+          "UCBDBB3LZ"
+        ]
+      }
+    ], 
+    "text": "<!channel> over the break I\u2019d like to host a study group. I can meet at the school once or twice a week for one or two hours. I could also share study problems online. \n\nI\u2019d really like to review the final exam with everyone and go over the solutions to any problems you might have missed. \n\nIf you\u2019re interested let me know.", 
+    "ts": "1552104265.016000", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f522e577-9976-486a-afea-82de26038fe7", 
+    "text": "The class might be over but you need to keep on top of things like this!", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1552083702.015800"
+  }, 
+  {
+    "client_msg_id": "4cba1a02-e9aa-464f-a5a5-2633ada0d847", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 29150, 
+        "original_url": "https://tylermcginnis.com/react-router-pass-props-to-components/", 
+        "service_name": "TylerMcGinnis.com", 
+        "title": "Pass props to a component rendered by React Router", 
+        "image_width": 445, 
+        "title_link": "https://tylermcginnis.com/react-router-pass-props-to-components/", 
+        "image_height": 250, 
+        "image_url": "https://tylermcginnis.com/static/1299bf8210f7d41b91227158c7df9783/888f5/pass-props-to-component-react-router.jpg", 
+        "text": "In this post you'll learn how to pass props to components being rendered by React Router.", 
+        "from_url": "https://tylermcginnis.com/react-router-pass-props-to-components/", 
+        "fallback": "TylerMcGinnis.com: Pass props to a component rendered by React Router", 
+        "service_icon": "https://tylermcginnis.com/images/favicon/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://tylermcginnis.com/react-router-pass-props-to-components/>", 
+    "ts": "1552083662.014800", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "148a5638-082b-435d-877f-0ea6ad50865f", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1552081469.000000"
+    }, 
+    "text": "<https://trie.seve.dev>", 
+    "ts": "1552081464.014500", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "17c1d566-599b-4097-8bf6-b66a5b82b1e2", 
+    "text": "<https://facebook.github.io/create-react-app/docs/deployment#github-pages-https-pagesgithubcom>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1552081460.014200"
+  }, 
+  {
+    "client_msg_id": "09476ce3-9dfa-43d8-8719-bbac6da9e457", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/final-assessment.md>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1551914624.014000"
+  }, 
+  {
+    "client_msg_id": "e6a9e577-89f7-4900-941b-611042e84517", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBS37LKV", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "thankyou", 
+        "users": [
+          "UCBS37LKV", 
+          "UCDAETD5L", 
+          "UCC4U4V53"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "From a thread in #few-2_3", 
+        "author_id": "UCBKC02JY", 
+        "original_url": "https://product-college.slack.com/archives/CFLUZ8ZDF/p1551131420008100?thread_ts=1551124562.004700&amp;cid=CFLUZ8ZDF", 
+        "is_msg_unfurl": true, 
+        "text": "turns out the solution is to downgrade `react-scripts` to v2.1.3 until they fix the issue in v2.1.6: <https://github.com/facebook/create-react-app/issues/6399>\n\nYou can do so using `yarn add react-scripts@2.1.3` then deleting *node_modules* folder and re-running `yarn` to install packages", 
+        "author_link": "https://product-college.slack.com/team/UCBKC02JY", 
+        "ts": "1551131420.008100", 
+        "author_name": "Nicolai Safai", 
+        "channel_name": "few-2_3", 
+        "channel_id": "CFLUZ8ZDF", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://product-college.slack.com/archives/CFLUZ8ZDF/p1551131420008100?thread_ts=1551124562.004700&amp;cid=CFLUZ8ZDF", 
+        "author_subname": "Nicolai Safai", 
+        "fallback": "[February 25th, 2019 1:50 PM] nicolai.safai: turns out the solution is to downgrade `react-scripts` to v2.1.3 until they fix the issue in v2.1.6: <https://github.com/facebook/create-react-app/issues/6399>\n\nYou can do so using `yarn add react-scripts@2.1.3` then deleting *node_modules* folder and re-running `yarn` to install packages", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-22/422645901639_6ce03162a5d4e5ebb50c_48.jpg", 
+        "id": 1, 
+        "is_reply_unfurl": true
+      }
+    ], 
+    "text": "<@UCBS37LKV> not sure this will fix snapping but it will fix the flash of unstyled content:\n<https://product-college.slack.com/archives/CFLUZ8ZDF/p1551131420008100?thread_ts=1551124562.004700&amp;cid=CFLUZ8ZDF>", 
+    "ts": "1551745193.013000", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ede9a8c1-1c6c-4a7f-99f7-17439f903eb1", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "react", 
+        "users": [
+          "UCBS25XMZ", 
+          "U6YP200VB", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.npmjs.com/package/partum-react", 
+        "service_name": "npm", 
+        "title": "partum-react", 
+        "title_link": "https://www.npmjs.com/package/partum-react", 
+        "text": "I wasn't a huge fan of the create-react-app cli. So I made my own.", 
+        "from_url": "https://www.npmjs.com/package/partum-react", 
+        "fallback": "npm: partum-react", 
+        "service_icon": "https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png", 
+        "id": 1
+      }
+    ], 
+    "text": "If you want to try out my react cli :grin:\n\n<https://www.npmjs.com/package/partum-react>\n\nredux support isn't a thing yet. But it is already, in my opinion, MUCH better than the default create-react-app.", 
+    "ts": "1551574322.012200", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "159b6027-37e4-42aa-947a-cd4c18e72942", 
+    "edited": {
+      "user": "UCC37PD6D", 
+      "ts": "1551510205.000000"
+    }, 
+    "thread_ts": "1551504477.010100", 
+    "text": "Yeah, I decided to go with a different project idea for react since kiwi isn\u2019t compatible with it. I\u2019ll probably just do a kiwi project for intensives instead. Thanks for the help!!", 
+    "ts": "1551510196.010200", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0ACB623D-DEA8-43BE-BB9F-6ECC9A8F8CD8", 
+    "thread_ts": "1551504477.010100", 
+    "latest_reply": "1551510196.010200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "Hmm looks like :kiwifruit: kiwi-js might be a different library! You might be able to load their library from the public folder. \n\nIt may also not be compatible with React. \n\nPhaser has an npm package :package: ", 
+    "ts": "1551504477.010100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1551510196.010200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6028C22B-630D-446B-A502-2C292CBA4CB6", 
+    "attachments": [
+      {
+        "image_bytes": 10754, 
+        "original_url": "https://reactjs.org/docs/refs-and-the-dom.html", 
+        "text": "A JavaScript library for building user interfaces", 
+        "title": "Refs and the DOM \u2013 React", 
+        "image_width": 476, 
+        "title_link": "https://reactjs.org/docs/refs-and-the-dom.html", 
+        "image_height": 250, 
+        "image_url": "https://reactjs.org/logo-og.png", 
+        "service_name": "reactjs.org", 
+        "from_url": "https://reactjs.org/docs/refs-and-the-dom.html", 
+        "fallback": "Refs and the DOM \u2013 React", 
+        "service_icon": "https://reactjs.org/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Add it with npm : `npm i kiwi-js`\n\nThis uses canvas. Due to the way that React uses the DOM you\u2019ll need to make ref to your canvas element. <https://reactjs.org/docs/refs-and-the-dom.html>", 
+    "ts": "1551503999.005900", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bbe4abbb-ff3b-459b-9bbb-fe88bb56ea9a", 
+    "text": "I\u2019m trying to use kiwi.js with react, and have to add this import: import \u2018../../../lib/kiwi.js\u2019 but react won\u2019t allow me to import anything outside of the src folder. Could anyone help me find a way to workaround this?", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1551498846.003500"
+  }, 
+  {
+    "client_msg_id": "79236641-9227-4B09-88C8-F97FC6D9A545", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBDBB3LZ", 
+          "UCC4U4V53", 
+          "UCBS37LKV", 
+          "UCDAF4FV4", 
+          "UCDAETD5L", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "<!channel> reply with :white_check_mark: if you plan on coming to school tomorrow and need help. ", 
+    "ts": "1551494184.001500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGGH21R6G", 
+        "size": 322829, 
+        "title": "react-redux-counter-master.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGGH21R6G/react-redux-counter-master.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1551139423, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGGH21R6G/download/react-redux-counter-master.zip", 
+        "user": "U28S64ZJ5", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "react-redux-counter-master.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGGH21R6G-3a1e0f8aea", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FGGH21R6G/react-redux-counter-master.zip", 
+        "is_external": false, 
+        "created": 1551139423, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "Starter project redux counters", 
+    "upload": true, 
+    "ts": "1551139424.008600", 
+    "display_as_bot": false, 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13b5941c-92cb-46b2-8716-5443b3e1fde4", 
+    "thread_ts": "1551124562.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "turns out the solution is to downgrade `react-scripts` to v2.1.3 until they fix the issue in v2.1.6: <https://github.com/facebook/create-react-app/issues/6399>\n\nYou can do so using `yarn add react-scripts@2.1.3` then deleting *node_modules* folder and re-running `yarn` to install packages", 
+    "ts": "1551131420.008100", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8A103F27-9150-48B6-9DDE-8820F0E45643", 
+    "thread_ts": "1551124562.004700", 
+    "text": "Ah interesting! Lemme know if you do find a solution!", 
+    "ts": "1551128242.007900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c67dffe7-b1bc-44b8-9c0c-116b4f120c83", 
+    "thread_ts": "1551124562.004700", 
+    "text": "I think it has to do with one of these issues:\n- how css is loaded in, seems to be applied after the page loads\n- the fact that I fetch episode data and add it to state in componentWillMount", 
+    "ts": "1551128154.007300", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b93cf79-49e6-48e5-8f08-ee4da5207d66", 
+    "thread_ts": "1551124562.004700", 
+    "text": "<@UCDAETD5L> I don't think that's due to css, but is certainly on my radar to fix.", 
+    "ts": "1551128088.007100", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D1A81DBD-ED50-4308-B906-F732498D7FCA", 
+    "thread_ts": "1551124562.004700", 
+    "text": "I wonder if you could use some css to make that card reload a bit smoother!", 
+    "ts": "1551126995.006500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "42B84CA2-725A-4DAF-89E1-5750F048B1EE", 
+    "thread_ts": "1551124562.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sunglasses", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "That looks totally pro, good work! :rocket:", 
+    "ts": "1551126678.005800", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7374BCAC-9846-4B13-9111-03EB4C58F5D1", 
+    "thread_ts": "1551124562.004700", 
+    "text": "This was a bit more challenging than it should have been because Netflix doesn\u2019t have a public API...", 
+    "ts": "1551124575.004900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "20B4B3E6-2554-42AD-BBB2-2A0E51869F2A", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1551134248.000000"
+    }, 
+    "latest_reply": "1551131420.008100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "U28S64ZJ5", 
+      "UCDAETD5L"
+    ], 
+    "thread_ts": "1551124562.004700", 
+    "text": "Barebones version of my final project is deployed and functional!\n\nCan\u2019t decide what Friends episode to watch? Let *Random Netflix Episode* decide for you:\n<http://random-ep.herokuapp.com/>\n\nMore shows coming soon, based on request  :)", 
+    "ts": "1551124562.004700", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551124575.004900"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1551126678.005800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1551126995.006500"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551128088.007100"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551128154.007300"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1551128242.007900"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1551131420.008100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "tv", 
+        "users": [
+          "UCDAETD5L", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 426, 
+        "filetype": "png", 
+        "thumb_800_h": 902, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGDJ5BD5M", 
+        "thumb_480_h": 480, 
+        "original_h": 969, 
+        "thumb_360_w": 319, 
+        "title": "Pasted image at 2019-02-20, 3:33 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGDJ5BD5M/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_64.png", 
+        "thumb_720_w": 638, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 389232, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_800.png", 
+        "timestamp": 1550705600, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGDJ5BD5M/download/image.png", 
+        "user": "UF83RJTHD", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGDJ5BD5M-7a1eacd66e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UF83RJTHD/FGDJ5BD5M/image.png", 
+        "name": "image.png", 
+        "created": 1550705600, 
+        "thumb_960_h": 960, 
+        "original_w": 859, 
+        "thumb_960_w": 851, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDJ5BD5M-78ddfb0cc8/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY", 
+          "UCC4U4V53", 
+          "U28S64ZJ5", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "<@UCDAETD5L> I think this is a better diagram to explain React life cycle", 
+    "upload": true, 
+    "ts": "1550705604.001800", 
+    "display_as_bot": false, 
+    "user": "UF83RJTHD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f07abf86-d233-4282-9d89-37da61fee14a", 
+    "attachments": [
+      {
+        "image_bytes": 54879, 
+        "original_url": "http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/", 
+        "text": "Fully interactive and accessible React Lifecycle Methods diagram.", 
+        "title": "React Lifecycle Methods diagram", 
+        "image_width": 476, 
+        "title_link": "http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/", 
+        "image_height": 250, 
+        "image_url": "http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ogimage.201804100050.png", 
+        "service_name": "projects.wojtekmaj.pl", 
+        "from_url": "http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/", 
+        "fallback": "React Lifecycle Methods diagram", 
+        "id": 1
+      }
+    ], 
+    "text": "Was looking at this React Lifecycle diagram but honestly its hard to wrap my head around still, could anyone help talk me through this? <http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/>", 
+    "ts": "1550697194.001600", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0cfca7db-1424-4d6a-ba0b-c8a202285ca1", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/Make-School-Labs/react-redux-counter>", 
+    "ts": "1550696620.000200", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "48e9be7e-5551-4c35-83b4-fb1ef735123f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "star", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> If anyone is still brainstorming ideas for your final project, here\u2019s a list of public APIs you could be using\n\n<https://github.com/toddmotto/public-apis>", 
+    "ts": "1550630510.026400", 
+    "user": "UF83RJTHD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b1c74089-a933-47e1-aa4e-0d9a0c934207", 
+    "text": "<https://github.com/storybooks/storybook>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1550624632.024900"
+  }, 
+  {
+    "client_msg_id": "782c50db-6caa-44f5-aef8-e0d7cab8036c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/qeY73Ja6KLM/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/webdevilsvideos", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=qeY73Ja6KLM&amp;list=PLoN_ejT35AEjvJwYyPCo3WTpZDpdlGrRu", 
+        "video_html_width": 400, 
+        "author_name": "Mitchell Hudson", 
+        "title_link": "https://www.youtube.com/watch?v=qeY73Ja6KLM", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/qeY73Ja6KLM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=qeY73Ja6KLM", 
+        "title": "01 React Redux create react app", 
+        "fallback": "YouTube Video: 01 React Redux create react app", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "For those going to Developer Week conference tomorrow:\n<https://www.youtube.com/watch?v=qeY73Ja6KLM&amp;list=PLoN_ejT35AEjvJwYyPCo3WTpZDpdlGrRu>", 
+    "ts": "1550619859.024600", 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "55dd127d-176f-42b0-8a6e-72c6944e9537", 
+    "thread_ts": "1550617481.023100", 
+    "text": "So I'm guessing React like takes al the styles and renders all of em at once when your app loads... not sure", 
+    "ts": "1550617529.023300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "caec2cb4-ecf5-4f9c-9efa-8df3d18bb09e", 
+    "thread_ts": "1550617481.023100", 
+    "latest_reply": "1550617529.023300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "text": "Would love to learn how styles work in React, how they're rendered specifically - I just noticed my scss files were loading on all my components, behavior that seems unusual to me.", 
+    "ts": "1550617481.023100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550617529.023300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a089d1c7-78c2-439c-ae33-198abcfcd955", 
+    "attachments": [
+      {
+        "thumb_height": 400, 
+        "thumb_url": "https://www.javascriptstuff.com/meta/list/react-starter-projects.png", 
+        "thumb_width": 400, 
+        "original_url": "https://www.javascriptstuff.com/react-starter-projects/", 
+        "service_name": "JavaScript Stuff", 
+        "title": "React Starter Projects", 
+        "title_link": "https://www.javascriptstuff.com/react-starter-projects/", 
+        "text": "Repositories that you can copy and modify to create your own React app.", 
+        "from_url": "https://www.javascriptstuff.com/react-starter-projects/", 
+        "fallback": "JavaScript Stuff: React Starter Projects", 
+        "service_icon": "https://www.javascriptstuff.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "More React Starter Projects :fire: <https://www.javascriptstuff.com/react-starter-projects/>", 
+    "ts": "1550613354.021500", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "50bffa1b-9446-4a3d-8b00-e8d052a7b457", 
+    "edited": {
+      "user": "UCBS25XMZ", 
+      "ts": "1550612197.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "pikachu", 
+        "users": [
+          "U6YP200VB", 
+          "UCBS25XMZ", 
+          "UF83RJTHD", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "~Hey we have our React course right now right? Did we change classrooms?~ Nevermind I figured it out xD class is later..", 
+    "ts": "1550612137.020200", 
+    "user": "UCBS25XMZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8b274d2d-ff1b-48f0-83d2-7c61480d8dd0", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "UCDAMHRDL", 
+          "U28S64ZJ5", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 330, 
+        "thumb_url": "https://www.valentinog.com/blog/wp-content/uploads/2017/12/redux-react-tutorial-beginner-2018.png", 
+        "thumb_width": 800, 
+        "original_url": "https://www.valentinog.com/blog/redux/#React_Redux_tutorial_List_component_and_Redux_state", 
+        "service_name": "Valentino Gagliardi", 
+        "title": "React Redux Tutorial for Beginners: The Definitive Guide (2019)", 
+        "ts": 1514874808, 
+        "title_link": "https://www.valentinog.com/blog/redux/#React_Redux_tutorial_List_component_and_Redux_state", 
+        "text": "Are you trying to learn Redux? This is the simplest React Redux tutorial I wish I had when I started learning. Come over and learn Redux with me!", 
+        "from_url": "https://www.valentinog.com/blog/redux/#React_Redux_tutorial_List_component_and_Redux_state", 
+        "fallback": "Valentino Gagliardi: React Redux Tutorial for Beginners: The Definitive Guide (2019)", 
+        "service_icon": "https://www.valentinog.com/blog/wp-content/uploads/2017/10/valentino-gagliardi-web-developer-logo.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Probably the best tutorial I've ever seen, and it's on Redux - <https://www.valentinog.com/blog/redux/#React_Redux_tutorial_List_component_and_Redux_state>", 
+    "ts": "1550596250.019100", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e1059a5e-55ae-4370-9903-a342f263456e", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Right now i'm able to fetch my database to log user in but im really struggling on understanding how that user can persist on different pages", 
+    "ts": "1550546892.018000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "188b4ede-0ce9-4ca0-983a-cc0c6adc1fae", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Oh that's really neat - yeah i would love to walk through the code tomorrow :pray::skin-tone-3:", 
+    "ts": "1550546715.017800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d6ccd9e-4ca5-419c-97e6-25b351980465", 
+    "thread_ts": "1550515539.015200", 
+    "text": "re: your original question, if I understand correctly, here\u2019s how I would handle it:\n\n```\nclass Home extends React.Component {\n\n  async handleSubmit() {\n    // do whatever authentication method u want to determine logInStatus\n    const logInStatus = await fetch('blah blah') // pseudo code\n    if (logInStatus) {\n      this.props.history.push('/dashboard')\n    } else {\n      this.props.history.push('/login')\n    }\n  }\n\n  render() {\n    return (\n      &lt;div&gt;\n        &lt;h1&gt;Welcome to My App&lt;/h1&gt;\n        &lt;button onClick={this.handleSubmit.bind(this)}&gt;Login&lt;/button&gt;\n      &lt;/div&gt;\n    )\n  }\n};\n```\nlet me know if anything is unclear / if you want to explain it in person tomorrow", 
+    "ts": "1550546625.017600", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b67df4c1-c6f1-43f3-bb80-7d3948d6be9a", 
+    "thread_ts": "1550515539.015200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "re: why onClick requires an anonymous function call, `window.location.href = '/dashboard'` is similar to immediately executing a function `someFunc()`, you don\u2019t want to execute the function yourself but instead you should pass the function for onClick to execute later", 
+    "ts": "1550546179.017000", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e15c8377-f32c-4e32-b742-6cd0d3eccc52", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Funny, I had to provide this an anonymous function call at the beginning otherwise it was automatically redirecting me to the dashboard page each time the home page window loaded, kind of strange", 
+    "ts": "1550538248.016800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cbcb439d-44ad-43da-a711-5baec664192e", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Here we go! :fire: - <https://gist.github.com/AwesomeZaidi/7f2eaba92b58d3b6d9fc04041958d528>", 
+    "ts": "1550538208.016600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d27c8146-1ffb-464b-a0c2-fcb520586868", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Ideally I guess I'm looking for a solution that doesn't have to convolute me into any state management for a simple page redirect", 
+    "ts": "1550537922.016400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4ec70940-8f1d-4633-91b5-3fb92072fcad", 
+    "thread_ts": "1550515539.015200", 
+    "text": "What I'm trying to achieve is a simple home page that contains a login button, when you click the login button it runs a function that sets the state of 'toLogin' to true and in the following operation when render() is called it checks the state toLogin, to potentially Redirect", 
+    "ts": "1550537889.016200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b9fbd2e-13f9-4ad3-a628-e28b3364bdd3", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Hmm, your example above I feel like thats trying to see if user is logged in, redirect them", 
+    "ts": "1550537803.016000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "729212fa-2352-440e-915f-873596d3b2c8", 
+    "edited": {
+      "user": "UF83RJTHD", 
+      "ts": "1550523715.000000"
+    }, 
+    "thread_ts": "1550515539.015200", 
+    "text": "in the parent component of Home, you can try something like this\n\n```\n&lt;Route exact path=\"/home\" render={() =&gt; (\n  this.state.loggedIn ? (\n    &lt;Home /&gt;\n  ) : (\n    &lt;Redirect to=\"/login\" /&gt;\n  )\n)}/&gt;```", 
+    "ts": "1550523694.015700", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2765fe0c-ac31-4328-8918-a27bd94d7dda", 
+    "thread_ts": "1550515539.015200", 
+    "text": "Also I somewhat understood how the history push was working behind the scenes but I commented it out because I wasn't sure what purpose it served in my app, it seems like a built in mechanism to allow users to keep going back and fourth on pages and essentially just remembering the order of the pages they viewed?", 
+    "ts": "1550515667.015300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "261dd056-aed3-4a80-8af8-5e0bf86a0e3d", 
+    "thread_ts": "1550515539.015200", 
+    "latest_reply": "1550546892.018000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UF83RJTHD"
+    ], 
+    "text": "Hey I was wondering if anyone has worked with Redirect yet in React Router? I'm trying to do a simple redirect within a project, and here's how I'm doing it - but I was wondering if anyone could potentially offer me a simpler solution? <https://gist.github.com/AwesomeZaidi/d12c76fdbe2f7c09623b91987b16a941>", 
+    "ts": "1550515539.015200", 
+    "type": "message", 
+    "reply_count": 11, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550515667.015300"
+      }, 
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1550523694.015700"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550537803.016000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550537889.016200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550537922.016400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550538208.016600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550538248.016800"
+      }, 
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1550546179.017000"
+      }, 
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1550546625.017600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550546715.017800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550546892.018000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0564db71-57e3-4245-bec2-4081020a5b32", 
+    "thread_ts": "1550380987.012700", 
+    "text": "Hmm so i've got an input in my App.js with a handleSubmit func that does my API call to set the data to the Apps state, then my renderWeather function gets passed that state data and loads the Weather component.\n\nSoo I'm thinking in my App Component, I should have a state property isLoading... then when my Weather component mounts, change its parents state to finished", 
+    "ts": "1550455392.013600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cb1968da-e0a9-46e8-83da-e8584c3823bd", 
+    "thread_ts": "1550380987.012700", 
+    "text": "I think this sounds like an opportunity to use ComponentDidMount", 
+    "ts": "1550454515.013400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2bc2215e-0435-4600-9485-991474cfdf23", 
+    "thread_ts": "1550380987.012700", 
+    "text": "Ah, I thought that this would be like a preloader to as the website its loading but mistake me if I'm wrong, it's actually going to be a pre loading message for when you hit submit and are waiting for the data to be fetched and rendered?\n\nThere's 2 challenge 4's for some reason, I was referring to the one below Stretch challenges :slightly_smiling_face:", 
+    "ts": "1550454475.013200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3f033c55-7ac9-4e20-9c8e-a947fa6ca10d", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAMHRDL", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://facebook.github.io/create-react-app/img/logo-og.png", 
+        "thumb_width": 1200, 
+        "original_url": "https://facebook.github.io/create-react-app/docs/documentation-intro", 
+        "text": "Welcome to the Create React App documentation!", 
+        "title": "About the Documentation \u00b7 Create React App", 
+        "title_link": "https://facebook.github.io/create-react-app/docs/documentation-intro", 
+        "service_name": "facebook.github.io", 
+        "from_url": "https://facebook.github.io/create-react-app/docs/documentation-intro", 
+        "fallback": "About the Documentation \u00b7 Create React App", 
+        "service_icon": "https://facebook.github.io/create-react-app/img/favicon/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://facebook.github.io/create-react-app/docs/documentation-intro>", 
+    "ts": "1550432902.012900", 
+    "user": "UCDAMHRDL", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "77AB0A45-DC64-480C-90CF-E977A56658B8", 
+    "thread_ts": "1550380987.012700", 
+    "latest_reply": "1550455392.013600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "billed_cap", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "notes", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "You can use state. \n\nYou should have three \u201cstates\u201d to track. \n\nWhen the component is idle and you haven\u2019t started to fetch anything. \n\nWhen you loading data. The fetching process has started. You probably clicked the submit button. \n\nWhen the process is complete. Fetch has completed successfully or with an error. \n\nAt each of these steps you can set state. This will trigger a render. In your render method you can use conditional rendering to control what\u2019s displayed. \n\nThis seems like it is aimed at the question you were asking above. Though if I recall challenge 4 was to add a style sheet. ", 
+    "ts": "1550380987.012700", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550454475.013200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550454515.013400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550455392.013600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a0a44aa8-e9d1-4ac3-9c94-f76ecf789d84", 
+    "text": "Hey has anyone made progress in the API project Challenge #4 and could help me a bit? I think its a really good challenge but I'm having a tough time understanding when my app is in a loading state", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1550372182.001200"
+  }, 
+  {
+    "client_msg_id": "DB4C760C-20EC-4C08-AB51-19C2B7570898", 
+    "thread_ts": "1549930074.000200", 
+    "text": "I read this in <@UCBPUT6AX>s voice ", 
+    "ts": "1549934169.000800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2507946d-2866-40d5-a82d-0bad927273bc", 
+    "thread_ts": "1549930074.000200", 
+    "text": "it broke", 
+    "ts": "1549932743.000300", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "15f5be5b-fc97-4aef-8cea-cc2b20a44b78", 
+    "thread_ts": "1549930074.000200", 
+    "latest_reply": "1549934169.000800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDBB3LZ", 
+      "UCDAETD5L"
+    ], 
+    "text": "<https://chrome.google.com/webstore/detail/react-developer-tools>", 
+    "ts": "1549930074.000200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1549932743.000300"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1549934169.000800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "db18c95f-04e5-4d96-864e-788b791cd131", 
+    "text": "<https://github.com/Make-School-Labs/react-express-server>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1549497136.003300"
+  }, 
+  {
+    "client_msg_id": "3446017f-5881-44c5-8a11-8b7b18ccec80", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> I have office hours now in the Great Hall.", 
+    "ts": "1549489208.003000", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c7046686-69be-4198-9393-2d1268472f66", 
+    "text": "Sorry to hear you're not feeling well. Today we are going to set up an Express server to work with a React project. You can follow the notes here <https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/lesson-05.md> Talk to me if you have any questions.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1549489013.002400"
+  }, 
+  {
+    "client_msg_id": "7331fef2-0367-49a0-b18e-82613c1b1ff4", 
+    "text": "Hey <@U28S64ZJ5>, I'm getting pretty sick so I'm going to go home early and won't be in class today. ", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1549487110.000900"
+  }, 
+  {
+    "client_msg_id": "be1fc0da-0205-426d-aeb7-3438c00d1367", 
+    "thread_ts": "1548905111.014000", 
+    "text": "Never mind, this was for the tracker.", 
+    "ts": "1549480260.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D08C4CF3-A6C9-4DFA-9440-06204BE9E02E", 
+    "thread_ts": "1548905111.014000", 
+    "text": "Access to what?", 
+    "ts": "1549430639.004700", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 742, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFY9QL9BK", 
+        "thumb_480_h": 445, 
+        "original_h": 926, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-05, 11:21 AM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFY9QL9BK/image.png", 
+        "thumb_720_h": 668, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_80.png", 
+        "thumb_360_h": 334, 
+        "size": 81612, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_800.png", 
+        "timestamp": 1549394462, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFY9QL9BK/download/image.png", 
+        "user": "UCBKC02JY", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFY9QL9BK-fd2c9fac2a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBKC02JY/FFY9QL9BK/image.png", 
+        "name": "image.png", 
+        "created": 1549394462, 
+        "thumb_960_h": 891, 
+        "original_w": 998, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFY9QL9BK-b794bb3f2e/image_720.png"
+      }
+    ], 
+    "text": "On a separate note, was anybody wondering what `{code}` was? It is the name of the image on OpenWeatherAPI that represents the weather!\n\nYou can use it like this:\n```&lt;img src={`<http://openweathermap.org/img/w/${icon}.png`>} alt=\"weather icon\" /&gt;```", 
+    "upload": true, 
+    "ts": "1549394467.004000", 
+    "display_as_bot": false, 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09fb4cc1-360a-4453-917f-a5f9ab8872f4", 
+    "text": "Hmm the solution was to add `export` in front of the function instead of as a separate line at the bottom of the file.\n\nSolution:\n```export const convertToCelsius = (kelvintemp) =&gt; {\n   ...\n  return celsius;\n};```", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1549394020.002700"
+  }, 
+  {
+    "client_msg_id": "7396a84c-8aa2-4858-9212-bf36192d03d6", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1549394527.000000"
+    }, 
+    "text": "Hmm, what am I doing wrong here? cc <@U28S64ZJ5>\n(EDIT: *SOLVED* see solution below)\n\n```//App.js\nimport { convertToCelsius } from './Temperature';\n\n...\n```\n\n```\n// Temperature.js\n\nconst convertToCelsius = (kelvintemp) =&gt; {\n  const exactCelsius = (kelvintemp - 273.15);\n  const celsius = Math.floor(exactCelsius);\n  return celsius;\n};\n\n...\n\nexport convertToCelsius;\n```\n\nThe error I get is\n&gt;./src/App.js\n&gt;Attempted import error: 'convertToCelsius' is not exported from './Temperature'.", 
+    "ts": "1549393380.001100", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cacae9cf-9d02-4029-8cb5-0961963afddc", 
+    "attachments": [
+      {
+        "image_bytes": 118608, 
+        "original_url": "https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "25 Amazing Open Source React.js Projects for the Past Year (v.2018)", 
+        "ts": 1514981721, 
+        "title_link": "https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*5sXRVIdreeW437OzOSaSjA.png", 
+        "image_width": 645, 
+        "service_name": "Mybridge for Professionals", 
+        "from_url": "https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010", 
+        "fallback": "Mybridge for Professionals: 25 Amazing Open Source React.js Projects for the Past Year (v.2018)", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*X-1mZwmUKx8e0lgHu5w7pQ.png", 
+        "text": "For the past year, we\u2019ve compared nearly 8,400 React.js open source projects to pick Top 25 (0.3% chance).", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010>", 
+    "ts": "1549343783.002100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "099f4be5-3b8f-4452-a674-c82f08c10075", 
+    "attachments": [
+      {
+        "thumb_height": 1658, 
+        "thumb_url": "https://repl.it/public/images/sm.png", 
+        "thumb_width": 1659, 
+        "original_url": "https://repl.it/classroom/invite/UirwpUA", 
+        "service_name": "repl.it", 
+        "title": "Sign Up", 
+        "title_link": "https://repl.it/classroom/invite/UirwpUA", 
+        "text": "Powerful and simple online compiler, IDE, interpreter, and REPL. Code, compile, and run code in 30+ programming languages: Clojure, Haskell, Kotlin (beta), QBasic, Forth, LOLCODE, BrainF, Emoticon, Bloop, Unlambda, JavaScript, CoffeeScript, Scheme, APL, Lua, Python 2.7, Ruby, Roy, PHP, Python3, Nodejs, Enzyme, Go, Java, C++, C++11, C, C#, F#, HTML, CSS, JS, Rust, Swift, Python (with Turtle), Jest, Django, Express, Sinatra, Ruby on Rails, R, Next.js, GatsbyJS, React, React Typescript, React Reason, bash, Quil", 
+        "from_url": "https://repl.it/classroom/invite/UirwpUA", 
+        "fallback": "repl.it: Sign Up", 
+        "service_icon": "https://repl.it/public/images/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://repl.it/classroom/invite/UirwpUA>", 
+    "ts": "1549327576.001800", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "23c17863-d1bd-4d06-b693-f58d1e545fd6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "Real  world react exemplar project <https://github.com/gothinkster/react-redux-realworld-example-app>", 
+    "ts": "1549327238.001500", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "383005ad-c12e-4b2b-8c27-c2aed5771270", 
+    "text": "<https://github.com/adam-golab/react-developer-roadmap>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1549324584.001100"
+  }, 
+  {
+    "client_msg_id": "e4138a08-4841-40d8-8bc9-21de1a9d1e53", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/lesson-04.md>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1549323279.000800"
+  }, 
+  {
+    "text": "<@UCDAETD5L> set the channel topic: <https://docs.google.com/spreadsheets/d/1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI/edit>?", 
+    "ts": "1549322970.000600", 
+    "topic": "<https://docs.google.com/spreadsheets/d/1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI/edit>?", 
+    "subtype": "channel_topic", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1549322920.000500", 
+    "text": "<@UCC4U4V53> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1549322910.000200", 
+    "text": "<@UCBS25XMZ> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "64ce335e-7bf6-4cdf-b0f2-3c9da08204f3", 
+    "thread_ts": "1548905111.014000", 
+    "text": "<@U28S64ZJ5> Can I have edit access please?", 
+    "ts": "1548975658.014500", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "41f387ed-2dfd-44df-bebc-0b1e6f8e24d7", 
+    "thread_ts": "1548905111.014000", 
+    "latest_reply": "1549480260.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YP200VB", 
+      "U28S64ZJ5"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<!channel> Feel free to fill in the progress tracker when you get the opportunity.", 
+    "ts": "1548905111.014000", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "U6YP200VB", 
+        "ts": "1548975658.014500"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1549430639.004700"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1549480260.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1548893579.013300", 
+    "text": "<@UCBS4EW59> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f1f42a65-5ad2-486a-853a-44c701a6749c", 
+    "text": "Anyone looking for more challenges I added a couple new challenges to current assignment. Feel free to tackle these if you have time left to work on your homework.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1548821193.012700"
+  }, 
+  {
+    "client_msg_id": "5b63bdea-84e8-41b2-b204-cf0816fba440", 
+    "thread_ts": "1548788089.009600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "&gt; requesting access", 
+    "ts": "1548792473.011200", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "01866A0C-5053-4D80-8A24-0934A2EBACD2", 
+    "thread_ts": "1548736857.003700", 
+    "text": "Good catch!! thanks", 
+    "ts": "1548791708.010900", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a91afc7f-2d4b-4b11-9c56-82a68f54d2fe", 
+    "thread_ts": "1548739757.004500", 
+    "text": "nvm i figured it out :slightly_smiling_face:", 
+    "ts": "1548789366.010600", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "325914e1-b326-420a-9fe0-54b40381e698", 
+    "thread_ts": "1548739757.004500", 
+    "text": "Hmm, the problem with moving the logic to the component is that `this.state.currentCategory` won't be available to the component. How do I pass that down from App.js ?", 
+    "ts": "1548788761.010400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFRPXSMH7", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "FEW 2.3 Progress Tracker (Term 3 2019)", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI/edit?usp=sharing", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_80.png", 
+        "thumb_360_h": 360, 
+        "size": 111627, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_800.png", 
+        "timestamp": 1548788092, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_1024.png", 
+        "user": "U28S64ZJ5", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U28S64ZJ5/FFRPXSMH7/few_2", 
+        "name": "FEW 2", 
+        "created": 1548788092, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFRPXSMH7-78e9eeb6ef/few_2_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "29d0e562-3a9c-440c-97d2-731f048a9dba", 
+    "latest_reply": "1548792473.011200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDBB3LZ"
+    ], 
+    "thread_ts": "1548788089.009600", 
+    "text": "Progress Tracker: <https://docs.google.com/spreadsheets/d/1HbVCQ4239I0oXg_BwwgAd2Y9UDZDGQpmNSUV1TvcaWI/edit?usp=sharing>", 
+    "pinned_info": {
+      "pinned_ts": 1548788102, 
+      "channel": "CFLUZ8ZDF", 
+      "pinned_by": "U28S64ZJ5"
+    }, 
+    "x_files": [
+      "FFRPXSMH7"
+    ], 
+    "upload": false, 
+    "ts": "1548788089.009600", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U28S64ZJ5", 
+    "replies": [
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548792473.011200"
+      }
+    ], 
+    "pinned_to": [
+      "CFLUZ8ZDF"
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e6faceb4-97d6-448d-a5f8-8181223dce0b", 
+    "thread_ts": "1548736857.003700", 
+    "text": "i used css selectors `:focus` and `:active` at first as well, but as soon as you click somewhere else on the page the current category is no longer styled differently", 
+    "ts": "1548786282.008800", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fc1402d8-39f9-417a-b8c1-e051ec613ea3", 
+    "thread_ts": "1548737044.003900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCBKC02JY> Components (e.g. Category) should only have props (e.g. name, clickFunc)\n\nclassName &amp; onClick should be used directly on HTML element (e.g. div, button)", 
+    "ts": "1548744842.008400", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c8b70d4e-4fdc-4435-93bc-3566ac53e974", 
+    "thread_ts": "1548736857.003700", 
+    "text": "I used the css :focus property for that challenge.", 
+    "ts": "1548744259.008200", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B1C9DFC3-62A9-4E3B-8062-426F8AFA6466", 
+    "edited": {
+      "user": "U28S64ZJ5", 
+      "ts": "1548782027.000000"
+    }, 
+    "text": "```\nlet a = \"some-class\u201d\nIf (Math.random() &gt; 0.5) {\n   a += \u201c another-class\u201d\n}\n\nreturn &lt;div className={a}&gt;&lt;/div&gt;\n```", 
+    "ts": "1548744113.008100", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "df0689e0-0247-4a89-8213-30ed93197f7a", 
+    "thread_ts": "1548739757.004500", 
+    "latest_reply": "1548789366.010600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "text": "<@UCBKC02JY> Have you tried having the component do that logic?", 
+    "ts": "1548739757.004500", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YP200VB", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548788761.010400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548789366.010600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "f9358af0-1b2a-49ee-904a-9fa08a840344", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1548737188.000000"
+    }, 
+    "latest_reply": "1548744842.008400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UF83RJTHD"
+    ], 
+    "thread_ts": "1548737044.003900", 
+    "text": "this is what I tried:\n```  getCategories() { \n    return categories.map( (category) =&gt; {\n      if(category.name === this.currentCategory) {\n        return &lt;Category name = { category } \n                onClickFunction = { this.filterBy.bind(this) } \n        /&gt;\n      } else {\n        return &lt;Category name = { category } \n                onClickFunction = { this.filterBy.bind(this) }\n                className=\"selected-category\"\n        /&gt;\n      }\n    })\n  }```\n<https://github.com/nsafai/react-product-list/blob/master/src/App.js>", 
+    "ts": "1548737044.003900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1548744842.008400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6750947c-b33b-4617-8bbf-e0374e0ef06e", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1548737204.000000"
+    }, 
+    "latest_reply": "1548791708.010900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1548736857.003700", 
+    "text": "hey did anyone figure out how to conditionally add a className to `Category` ?  i.e. Level 5 Challenge pt. 2\n\nI'm getting stuck on syntax. cc <@UF83RJTHD>", 
+    "ts": "1548736857.003700", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1548744259.008200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548786282.008800"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1548791708.010900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ae0bf3a2-0d0a-4ce4-9d3f-aa6a7b4c7e9e", 
+    "thread_ts": "1548721574.001500", 
+    "text": "ooh thank you!", 
+    "ts": "1548727437.002000", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4e5c8cac-ceb1-4de9-8c5c-b31ab700120d", 
+    "thread_ts": "1548721574.001500", 
+    "latest_reply": "1548727437.002000", 
+    "attachments": [
+      {
+        "thumb_height": 905, 
+        "thumb_url": "https://dsznajder.gallerycdn.vsassets.io/extensions/dsznajder/es7-react-js-snippets/1.9.5/1545747481468/Microsoft.VisualStudio.Services.Icons.Default", 
+        "thumb_width": 1280, 
+        "original_url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets", 
+        "text": "Extension for Visual Studio Code - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax", 
+        "title": "ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace", 
+        "title_link": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets", 
+        "service_name": "marketplace.visualstudio.com", 
+        "from_url": "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets", 
+        "fallback": "ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace", 
+        "service_icon": "https://marketplace.visualstudio.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548727437.002000"
+      }
+    ], 
+    "ts": "1548721574.001500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAF4FV4", 
+    "text": "<@UCBKC02JY> <@UCDAETD5L> <https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 603, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFQPB1R3J", 
+        "thumb_480_h": 362, 
+        "original_h": 771, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-01-28, 3:48 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFQPB1R3J/image.png", 
+        "thumb_720_h": 543, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_80.png", 
+        "thumb_360_h": 271, 
+        "size": 166660, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_800.png", 
+        "timestamp": 1548719340, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFQPB1R3J/download/image.png", 
+        "user": "UF83RJTHD", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFQPB1R3J-65c7292b58", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UF83RJTHD/FFQPB1R3J/image.png", 
+        "name": "image.png", 
+        "created": 1548719340, 
+        "thumb_960_h": 724, 
+        "original_w": 1023, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQPB1R3J-7a8a47a124/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6YP200VB", 
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1548719345.000900", 
+    "display_as_bot": false, 
+    "user": "UF83RJTHD", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1548718562.000800", 
+    "text": "<@UCDAMHRDL> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "b606ab35-3fd1-4aa0-a5d7-3ff78f5aaa86", 
+    "text": "<https://github.com/Make-School-Courses/FEW-2.3-Single-Page-Web-Applications/blob/master/lesson-02.md>", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1548718478.000600"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1548718473.000400", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "68874c0d-a4ac-4dd0-aa77-8d5d4aaed004", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UF83RJTHD", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 30075, 
+        "original_url": "https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "3 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "How to Learn React \u2014 A roadmap from beginner to advanced", 
+        "ts": 1521158483, 
+        "title_link": "https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*y6C4nSvy2Woe0m7bWEn4BA.png", 
+        "image_width": 476, 
+        "service_name": "freeCodeCamp.org", 
+        "from_url": "https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6", 
+        "fallback": "freeCodeCamp.org: How to Learn React \u2014 A roadmap from beginner to advanced", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*MotlWcSa2n6FrOx3ul89kw.png", 
+        "text": "Hey folks!", 
+        "id": 1
+      }
+    ], 
+    "text": "Good outline of a React learning path i think - <https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6>", 
+    "ts": "1548562243.000400", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1548357012.004900", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "28975b36-51c6-4825-83d9-5435a353f56e", 
+    "attachments": [
+      {
+        "thumb_height": 316, 
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/img/apple-touch-icon@2.png?v=73d79a89bded", 
+        "thumb_width": 316, 
+        "original_url": "https://stackoverflow.com/questions/31386631/difference-between-import-x-and-import-as-x-in-node-js-es6-babel", 
+        "service_name": "Stack Overflow", 
+        "title": "Difference between import X and import * as X in node.js (ES6 / Babel)?", 
+        "title_link": "https://stackoverflow.com/questions/31386631/difference-between-import-x-and-import-as-x-in-node-js-es6-babel", 
+        "text": "I have a node.js library lib written in ES6 (compiled with Babel) in which I export the following submodules: \"use strict\"; import * as _config from './config'; import * as _db from './db'; impor...", 
+        "from_url": "https://stackoverflow.com/questions/31386631/difference-between-import-x-and-import-as-x-in-node-js-es6-babel", 
+        "fallback": "Stack Overflow: Difference between import X and import * as X in node.js (ES6 / Babel)?", 
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d", 
+        "id": 1
+      }
+    ], 
+    "text": "<@U28S64ZJ5> <https://stackoverflow.com/questions/31386631/difference-between-import-x-and-import-as-x-in-node-js-es6-babel>", 
+    "ts": "1548288377.004600", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> set the channel purpose: ", 
+    "ts": "1548287283.004400", 
+    "subtype": "channel_purpose", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "purpose": ""
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1548287271.004300", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1548287264.004100", 
+    "text": "<@UCDAF4FV4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1548286734.003700", 
+    "text": "<@U6YP200VB> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1548286581.003500", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1548286525.003300", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "0f3d93d8-57b3-48fe-841f-c32904d44258", 
+    "text": "lets not do that seve", 
+    "type": "message", 
+    "user": "UCC4TPF5K", 
+    "ts": "1548286393.002900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1548286361.001400", 
+    "text": "<@UCBC9725P> has joined the channel"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1548286350.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "UCDAF4FV4"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1548286349.000900", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UCDAF4FV4"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1548286349.000700", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "UCDAF4FV4"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1548286349.000500", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UCDAF4FV4"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> set the channel purpose: keeping this channel hostage from mitchell", 
+    "ts": "1548286349.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "purpose": "keeping this channel hostage from mitchell"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1548286348.000200", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }
+]

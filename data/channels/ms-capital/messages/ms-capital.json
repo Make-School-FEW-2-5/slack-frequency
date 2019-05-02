@@ -1,0 +1,772 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1553307833.000400", 
+    "text": "<@UCBD9KCQH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1553307298.000200", 
+    "text": "<@U6YCJRXGF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1551480533.000200", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1551159628.000400", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1550771363.000200", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550384492.000200", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1548721336.000200", 
+    "text": "<@U6YGZN9HD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1547055751.000200", 
+    "text": "<@UCBS3LMDZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1544867632.000200", 
+    "text": "<@UCC4RHFU5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1544735194.000200", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650562.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "0DDE24A1-C6DD-4F65-8AF0-DB46B41714B2", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "Hello!\n\nContinue your practice with <http://howthemarketworks.com|howthemarketworks.com>\n\nNo meeting today, get ready for finals.\n\nGood luck!", 
+    "ts": "1544117640.001200", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "657d10cc-6609-4743-8516-7f0e40816ea8", 
+    "thread_ts": "1543515000.000400", 
+    "text": "Sorry, man, I'm in Tulsa, will catch next one", 
+    "ts": "1543537881.003300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "04078791-0154-44be-9f4e-b53000bd5a3f", 
+    "text": "See you guys next time!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516847.003200"
+  }, 
+  {
+    "client_msg_id": "f8b075db-6633-4f8e-83a3-022cc0856141", 
+    "text": "<https://www.howthemarketworks.com/>", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516839.002900"
+  }, 
+  {
+    "client_msg_id": "08ea54f3-4773-4b3a-bff3-aa70aed6e883", 
+    "text": "Also, we started to buying/selling stocks via this simulation website. Go ahead and practice there:", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516826.002700"
+  }, 
+  {
+    "client_msg_id": "50bf5797-babe-482f-9081-d2f8744998bc", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/ixF_wB2uvOs/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/ClayTraderVideos", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=ixF_wB2uvOs&amp;t=229s", 
+        "video_html_width": 400, 
+        "author_name": "ClayTrader", 
+        "title_link": "https://www.youtube.com/watch?v=ixF_wB2uvOs&amp;t=229s", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/ixF_wB2uvOs?feature=oembed&start=229&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=ixF_wB2uvOs&amp;t=229s", 
+        "title": "Trading 101: What is the Stock Market?", 
+        "fallback": "YouTube Video: Trading 101: What is the Stock Market?", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=ixF_wB2uvOs&amp;t=229s>", 
+    "ts": "1543516791.001800", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a3718678-3307-428a-9ef7-afd20137eff0", 
+    "text": "If you missed the meeting please watch this video:", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516791.001600"
+  }, 
+  {
+    "client_msg_id": "59afb913-e590-4f3d-83c6-5d9358d968b4", 
+    "text": "We got basic idea of what is stock market and how the prices go up/down.", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516779.001300"
+  }, 
+  {
+    "client_msg_id": "e17a1497-c50a-4158-a952-46074e724df5", 
+    "text": "It was great meeting today!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543516756.000700"
+  }, 
+  {
+    "client_msg_id": "d74aa94e-d19d-4406-9660-39f5f3b8f637", 
+    "thread_ts": "1543515000.000400", 
+    "latest_reply": "1543537881.003300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW"
+    ], 
+    "text": "<@UCBQJD3NW> are you coming to meeting?", 
+    "ts": "1543515000.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8YJNBT", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1543537881.003300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "79b48335-094a-4255-8ef4-baadaf50a01f", 
+    "text": "Good evening! Next meeting is tomorrow at Machu Picchu. 10:10AM", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1543467691.000900"
+  }, 
+  {
+    "client_msg_id": "D505679D-C6C7-44D6-ACF7-B2D369C88BCB", 
+    "text": "Hi guys!\n\nSince most of us are working on class projects for midterm week, we will continue the club meeting next week\n\nHave a great day!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1542300565.002200"
+  }, 
+  {
+    "client_msg_id": "f2989703-f9b7-4301-ada4-ee50e47efea3", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCBD9KCQH"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sunglasses", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Have a great day!", 
+    "ts": "1541702068.004600", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1ee0d7f4-148b-4834-9df9-f54fe6deaf14", 
+    "text": "if you send me access request Ill gladly open the folder for you", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541702065.004400"
+  }, 
+  {
+    "client_msg_id": "7166e7cd-43ca-4089-8588-a05eaad32f71", 
+    "text": "<https://drive.google.com/drive/u/1/folders/1MPki6RwoDXX7oEegK8A5Mv5sFcLJhR4d>", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541701957.003700"
+  }, 
+  {
+    "client_msg_id": "a80f0948-d09a-492b-b15e-52f2ca524ff7", 
+    "text": "Here is our google drive folder", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541701954.003500"
+  }, 
+  {
+    "client_msg_id": "ca713016-c32f-4903-bba2-17bb6226fac9", 
+    "text": "Day &gt;&gt;  Thursdays\nTime &gt;&gt; 10:10AM\nDuration &gt;&gt; 30 min\nFrequency &gt;&gt; Every week\nLocation: Machu Picchu", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541701918.003200"
+  }, 
+  {
+    "client_msg_id": "87bee794-94ab-4ce6-b700-c34f38184ca5", 
+    "text": "Here are the meeting logistic details:", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541701904.002800"
+  }, 
+  {
+    "client_msg_id": "888bb058-cfea-447c-ad31-0a0758a844a4", 
+    "text": "Great first meeting guys! Thank you and lets lets have some fund learning trading!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541701893.002500"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1541701865.001900", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "client_msg_id": "59fcfbd3-0abc-4881-b98f-bf93bf0cc58f", 
+    "text": "LOCATION &gt;&gt;&gt; Machu PIcchu", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541700182.001200"
+  }, 
+  {
+    "client_msg_id": "bea1456d-d4b7-4711-afd7-39bbb9a00b88", 
+    "text": "UPDATE", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541700173.000900"
+  }, 
+  {
+    "client_msg_id": "75f57548-0d58-4612-b42e-3c4a4cf48ba0", 
+    "text": "Everyone is welcome!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541700032.000700"
+  }, 
+  {
+    "client_msg_id": "cb1e8a1e-755e-49ce-b7d4-74e738496a75", 
+    "text": "Meeting is going on Golden Gate", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541700015.000500"
+  }, 
+  {
+    "client_msg_id": "2acca288-7516-4afc-b146-6f5af2bb34d5", 
+    "text": "See you guys tomorrow!", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541653754.001100"
+  }, 
+  {
+    "client_msg_id": "4b55e45e-d13b-4d99-9348-ff84717b31fd", 
+    "attachments": [
+      {
+        "image_bytes": 3270435, 
+        "original_url": "https://media.giphy.com/media/4EEIPLmRBEh8NIhvDh/giphy.gif", 
+        "image_width": 540, 
+        "image_height": 540, 
+        "image_url": "https://media.giphy.com/media/4EEIPLmRBEh8NIhvDh/giphy.gif", 
+        "from_url": "https://media.giphy.com/media/4EEIPLmRBEh8NIhvDh/giphy.gif", 
+        "fallback": "540x540px image", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "<https://media.giphy.com/media/4EEIPLmRBEh8NIhvDh/giphy.gif>", 
+    "ts": "1541653736.000800", 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5ed14be7-dabc-4a5b-bb33-f23bbd644357", 
+    "text": "Ladies and Gentlemen! We are meeting tomorrow at 10 AM. Golden Gate", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1541653706.000600"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1541482857.012300", 
+    "text": "<@UCB8Y9ZQ8> has left the channel"
+  }, 
+  {
+    "client_msg_id": "07ae5be4-9335-4cce-ab9e-4786b74fc4ff", 
+    "thread_ts": "1541441727.007500", 
+    "text": ":joy: Thanks for fixing the times in doodle <@UCB8YJNBT>", 
+    "ts": "1541464843.012000", 
+    "user": "UCBS8JUHH", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1541463307.011900", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "client_msg_id": "b5fa461f-398e-4ddb-b87b-11696fbc145a", 
+    "thread_ts": "1541441727.007500", 
+    "text": "it was a mistake. check it out guys!", 
+    "ts": "1541453827.011600", 
+    "user": "UCB8YJNBT", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1541453643.011400", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "client_msg_id": "3544c0ca-8b65-4a12-b72d-56f25a200a68", 
+    "text": "<!channel> Now it is updated to local time zone. Sorry, everybody for the mistake.", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1541453638.011200"
+  }, 
+  {
+    "client_msg_id": "2659093d-502f-48d4-b07e-7041db4273b0", 
+    "edited": {
+      "user": "UCB8YJNBT", 
+      "ts": "1541453565.000000"
+    }, 
+    "text": "it was actually 10:00 -10:30 am", 
+    "ts": "1541453560.010100", 
+    "user": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "89ca4191-3ff6-414e-9af1-032d773fb798", 
+    "text": "i think the time zone wasnt set up right", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1541453547.009600"
+  }, 
+  {
+    "client_msg_id": "EADC4DAF-CF33-41AE-86BF-A866B835C7B4", 
+    "thread_ts": "1541441727.007500", 
+    "text": "Yea there are only two times listed and they both start at 7 am :cry:", 
+    "ts": "1541446158.009000", 
+    "subtype": "thread_broadcast", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "f20a972b-ba6a-4e24-96a1-ed8fc95cebb8", 
+      "thread_ts": "1541441727.007500", 
+      "latest_reply": "1541464843.012000", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCBQJD3NW", 
+        "U6YGZN9HD", 
+        "U6YCJRXGF", 
+        "UCB8YJNBT", 
+        "UCBS8JUHH"
+      ], 
+      "text": "Hey, you should change the hour, 7 am is too much.", 
+      "ts": "1541441727.007500", 
+      "type": "message", 
+      "reply_count": 6, 
+      "user": "U6YGZN9HD", 
+      "replies": [
+        {
+          "user": "UCBQJD3NW", 
+          "ts": "1541442068.007600"
+        }, 
+        {
+          "user": "U6YGZN9HD", 
+          "ts": "1541442175.007800"
+        }, 
+        {
+          "user": "UCBQJD3NW", 
+          "ts": "1541442323.008100"
+        }, 
+        {
+          "user": "U6YCJRXGF", 
+          "ts": "1541446158.009000"
+        }, 
+        {
+          "user": "UCB8YJNBT", 
+          "ts": "1541453827.011600"
+        }, 
+        {
+          "user": "UCBS8JUHH", 
+          "ts": "1541464843.012000"
+        }
+      ], 
+      "reply_users_count": 5
+    }
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1541443317.008400", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "client_msg_id": "90624742-d1bc-4b40-b1c5-b56f085dd89e", 
+    "thread_ts": "1541441727.007500", 
+    "text": "I was joking", 
+    "ts": "1541442323.008100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7f137b73-9c08-4659-bbad-a1e6791cab95", 
+    "edited": {
+      "user": "U6YGZN9HD", 
+      "ts": "1541442215.000000"
+    }, 
+    "thread_ts": "1541441727.007500", 
+    "text": "I agree on that, has there been any sort of voting besides this poll and if there was, what was topic of discussion?.", 
+    "ts": "1541442175.007800", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "261ce480-e699-4339-a046-c7a5718832ab", 
+    "thread_ts": "1541441727.007500", 
+    "text": "If you haven't voted, you have no right to complain. :wink:", 
+    "ts": "1541442068.007600", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f20a972b-ba6a-4e24-96a1-ed8fc95cebb8", 
+    "thread_ts": "1541441727.007500", 
+    "latest_reply": "1541464843.012000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "U6YGZN9HD", 
+      "U6YCJRXGF", 
+      "UCB8YJNBT", 
+      "UCBS8JUHH"
+    ], 
+    "text": "Hey, you should change the hour, 7 am is too much.", 
+    "ts": "1541441727.007500", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "U6YGZN9HD", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1541442068.007600"
+      }, 
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1541442175.007800"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1541442323.008100"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1541446158.009000"
+      }, 
+      {
+        "user": "UCB8YJNBT", 
+        "ts": "1541453827.011600"
+      }, 
+      {
+        "user": "UCBS8JUHH", 
+        "ts": "1541464843.012000"
+      }
+    ], 
+    "reply_users_count": 5
+  }, 
+  {
+    "client_msg_id": "c3ba591b-7e97-4d37-8e83-b30745fe58be", 
+    "edited": {
+      "user": "UCB8YJNBT", 
+      "ts": "1541453697.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "original_url": "https://doodle.com/poll/emviuvnzrr7xh3cv", 
+        "text": "This meeting will be dedicated to setting up the following: Time for meet ups Location Role of members", 
+        "title": "Doodle: MS-Capital first meeting", 
+        "image_width": 300, 
+        "title_link": "https://doodle.com/poll/emviuvnzrr7xh3cv", 
+        "image_height": 200, 
+        "image_url": "https://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "doodle.com", 
+        "from_url": "https://doodle.com/poll/emviuvnzrr7xh3cv", 
+        "fallback": "Doodle: MS-Capital first meeting", 
+        "service_icon": "https://cdn2.doodle.com/dist/i/7479b568749fca315a2969e30cbee4f5.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Hello guys,\n\nWe are starting MS-Capital(former R.E.I.T.S.) this week. please fill out this Doodle to set up our first meeting. We will discuss everything on the first meeting\n\n<https://doodle.com/poll/emviuvnzrr7xh3cv>", 
+    "ts": "1541439235.006900", 
+    "user": "UCB8YJNBT", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> set the channel purpose: Goal of our club is to educate our members about financial markets and securities so that when we start making money we can diversify our income source.", 
+    "ts": "1541439005.004500", 
+    "subtype": "channel_purpose", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "purpose": "Goal of our club is to educate our members about financial markets and securities so that when we start making money we can diversify our income source."
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1541438952.004400", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCD9FM8GN> has joined the channel", 
+    "ts": "1541438952.004200", 
+    "subtype": "channel_join", 
+    "user": "UCD9FM8GN", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1541438952.004000", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1541438952.003800", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1541438951.003600", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1541438951.003400", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1541438951.003200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1541438951.003000", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1541438951.002800", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1541438951.002600", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1541438950.002400", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1541438950.002200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCCRX3BB9> has joined the channel", 
+    "ts": "1541438950.002000", 
+    "subtype": "channel_join", 
+    "user": "UCCRX3BB9", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1541438950.001800", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1541438950.001600", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1541438950.001400", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1541438950.001200", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1541438950.001000", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1541438950.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1541438949.000600", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1541438949.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UCB8YJNBT"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1541438949.000200", 
+    "text": "<@UCB8YJNBT> has joined the channel"
+  }
+]

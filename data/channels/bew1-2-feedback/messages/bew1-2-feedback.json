@@ -1,0 +1,3259 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1555449065.000300", 
+    "text": "<@UCBHS20S0> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAE5GSJ", 
+    "ts": "1555001686.000400", 
+    "text": "<@UCDAE5GSJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAE5GSJ", 
+    "ts": "1555001686.000200", 
+    "text": "<@UCDAE5GSJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1554153170.000400", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1554150928.000200", 
+    "text": "<@UCB8Y9ZQ8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1553834174.000400", 
+    "text": "<@UCBQLD4M8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1553825945.000200", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1553629279.000200", 
+    "text": "<@UCHK87XEJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1553525616.002300", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1553307833.002100", 
+    "text": "<@UCBD9KCQH> has left the channel"
+  }, 
+  {
+    "client_msg_id": "816ec214-e8fa-4517-b28f-c8262159d0c1", 
+    "thread_ts": "1553057069.001300", 
+    "text": "Made a small mistake here. You  were also missing an `update` and a `delete` from your crudding requirements to have had a perfect function requirements score.", 
+    "ts": "1553057503.001500", 
+    "user": "UCBS4EW59", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "--------------------KJ Project End--------------------", 
+        "ts": 1553057096, 
+        "callback_id": "codestream://codemark/5c91c5494a0bf1125dc946fa?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------KJ Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553057097.001400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "thread_ts": "1553057069.001300", 
+    "latest_reply": "1553057503.001500", 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Honestly, I don't have a lot of complaints regarding your code. You definitely need to commit more often. Most of this project was committed on your initial commit. This is generally bad practice. Not only because it fails to show how much work you put into this, but if a bug was introduced in this initial commit, it will be extremely hard to trace back that bug 2 months or years down the road. It's overall pretty clean and organized code. And in terms of functional requirements, you were just a documentation away from a perfect score. But your non-functional requirements, aren't quite there. You didn't follow restful architecture, the only status code set is in the highlighted code here. You had exposed secrets like the mongoURI and a giphy API key in your commits. It wasn't deployed, you didn't use a TDD approach, and didn't follow the AirBnB style guide. This could have been a pretty good scoring project if you had taken a little bit more time and care to follow the rubric.", 
+        "ts": 1553057068, 
+        "callback_id": "codestream://codemark/5c91c52d5e60d718db725420?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/db5e651211f151de066c17cbc055e215a251dc7b/app.js#L37-L40|*app.js (Lines 37-40)*>\n```// catch 404 and forward to error handler\napp.use(function(req, res, next) {\n    next(createError(404));\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Honestly, I don't have a lot of complaints regarding your code. You definitely need to commit more often. Most of this project was committed on your initial commit. This is generally bad practice. Not only because it fails to show how much work you put into this, but if a bug was introduced in this initial commit, it will be extremely hard to trace back that bug 2 months or years down the road. It's overall pretty clean and organized code. And in terms of functional requirements, you were just a documentation away from a perfect score. But your non-functional requirements, aren't quite there. You didn't follow restful architecture, the only status code set is in the highlighted code here. You had exposed secrets like the mongoURI and a giphy API key in your commits. It wasn't deployed, you didn't use a TDD approach, and didn't follow the AirBnB style guide. This could have been a pretty good scoring project if you had taken a little bit more time and care to follow the rubric.\n\n*app.js (Lines 37-40)*\n```// catch 404 and forward to error handler\napp.use(function(req, res, next) {\n    next(createError(404));\n});```", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS4EW59"
+    ], 
+    "replies": [
+      {
+        "user": "UCBS4EW59", 
+        "ts": "1553057503.001500"
+      }
+    ], 
+    "ts": "1553057069.001300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS4EW59", 
+    "text": "Luc commented on code /cc ", 
+    "reply_users_count": 1, 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB91TXS4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCB91TXS4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "obama-mic-drop", 
+        "users": [
+          "UCB91TXS4"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Speaking of variables. Don't ever use `var`. in this case you should have used `const`, since you are not changing the variable after instantiating it. If you do need to change it, use `let` instead, as it scopes more cleanly and is generally considered better practice throughout the javascript community.\u00a0", 
+        "ts": 1553054560, 
+        "callback_id": "codestream://codemark/5c91bb614a0bf1125dc946f0?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/db5e651211f151de066c17cbc055e215a251dc7b/routes/giph.js#L7-L8|*routes/giph.js (Lines 7-8)*>\n```var http      = require('http');\nvar giphy     = require('giphy-api')();```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Speaking of variables. Don't ever use `var`. in this case you should have used `const`, since you are not changing the variable after instantiating it. If you do need to change it, use `let` instead, as it scopes more cleanly and is generally considered better practice throughout the javascript community.\u00a0\n\n*routes/giph.js (Lines 7-8)*\n```var http      = require('http');\nvar giphy     = require('giphy-api')();```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553054561.001200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "There's no reason to reinstantiate your .env config here. You only need to do this once, typically in the first script your server touches, in this case `bin/www`. You also don't need to instantiate it to a variable. You can just call `require('dotenv').config();` by itself, and then can access your .env variables via `process.env.[variable]`.", 
+        "ts": 1553054423, 
+        "callback_id": "codestream://codemark/5c91bad85aa0d01262fdb6c6?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/db5e651211f151de066c17cbc055e215a251dc7b/routes/giph.js#L5|*routes/giph.js (Line 5)*>\n```var dotenv    = require('dotenv').config();```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "There's no reason to reinstantiate your .env config here. You only need to do this once, typically in the first script your server touches, in this case `bin/www`. You also don't need to instantiate it to a variable. You can just call `require('dotenv').config();` by itself, and then can access your .env variables via `process.env.[variable]`.\n\n*routes/giph.js (Line 5)*\n```var dotenv    = require('dotenv').config();```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553054424.001100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "It would make a lot more sense for this to be in your users route, or better yet an \"auth\" route.", 
+        "ts": 1553048320, 
+        "callback_id": "codestream://codemark/5c91a3014a0bf1125dc946e9?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/75e829d51c6c34dc5644d2ffd7220e110987c8b3/routes/index.js#L20-L55|*routes/index.js (Lines 20-55)*>\n```// LOGIN\nrouter.get('/login', (req, res, next) =&gt; {\n    res.render('login');\n});\n\n// POST LOGIN\n<http://router.post|router.post>('/login', (req, res, next) =&gt; {\n    // console.log('logging in!');\n    // console.log(req.body);\n    User.authenticate(req.body.username, req.body.password, (err, user) =&gt; {\n        // if faulty login\n        if (err || !user) {\n            const next_error = new Error(\"Username or password incorrect\");\n            next_error.status = 401;\n\n            return next(next_error);\n        } else {\n            // user session\n            req.session.userId = user._id;\n\n            return res.redirect('/') ;\n        }\n    });\n});\n\n// LOGOUT\nrouter.get('/logout', (req, res, next) =&gt; {\n  if (req.session) {\n    req.session.destroy((err) =&gt; {\n      if (err) return next(err);\n    });\n  }\n\n  return res.redirect('/login');\n});\n```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "It would make a lot more sense for this to be in your users route, or better yet an \"auth\" route.\n\n*routes/index.js (Lines 20-55)*\n```// LOGIN\nrouter.get('/login', (req, res, next) =&gt; {\n    res.render('login');\n});\n\n// POST LOGIN\n<http://router.post|router.post>('/login', (req, res, next) =&gt; {\n    // console.log('logging in!');\n    // console.log(req.body);\n    User.authenticate(req.body.username, req.body.password, (err, user) =&gt; {\n        // if faulty login\n        if (err || !user) {\n            const next_error = new Error(\"Username or password incorrect\");\n            next_error.status = 401;\n\n            return next(next_error);\n        } else {\n            // user session\n            req.session.userId = user._id;\n\n            return res.redirect('/') ;\n        }\n    });\n});\n\n// LOGOUT\nrouter.get('/logout', (req, res, next) =&gt; {\n  if (req.session) {\n    req.session.destroy((err) =&gt; {\n      if (err) return next(err);\n    });\n  }\n\n  return res.redirect('/login');\n});\n```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553048322.000800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1553047818.000700", 
+    "text": "<@UCBHQSTB6> has left the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Yay for nested routes!!", 
+        "ts": 1553047624, 
+        "callback_id": "codestream://codemark/5c91a0495aa0d01262fdb6c3?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/db5e651211f151de066c17cbc055e215a251dc7b/app.js#L33-L35|*app.js (Lines 33-35)*>\n```app.use('/', indexRouter);\napp.use('/users', usersRouter);\napp.use('/giph', giphyRouter);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Yay for nested routes!!\n\n*app.js (Lines 33-35)*\n```app.use('/', indexRouter);\napp.use('/users', usersRouter);\napp.use('/giph', giphyRouter);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553047625.000500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "This should really be part of your .env. Anyone with this link will be able to connect to your live database.", 
+        "ts": 1553047507, 
+        "callback_id": "codestream://codemark/5c919fd45aa0d01262fdb6c0?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/sadboykj/suprez/blob/db5e651211f151de066c17cbc055e215a251dc7b/app.js#L55|*app.js (Line 55)*>\n```const mongoURI = '<mongodb://heroku_vlsvp8vn:q99pjbjlqtaa2bglj2uu2ho03b@ds115595.mlab.com:15595/heroku_vlsvp8vn>'```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This should really be part of your .env. Anyone with this link will be able to connect to your live database.\n\n*app.js (Line 55)*\n```const mongoURI = '<mongodb://heroku_vlsvp8vn:q99pjbjlqtaa2bglj2uu2ho03b@ds115595.mlab.com:15595/heroku_vlsvp8vn>'```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553047508.000400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "--------------------KJ Project Start--------------------", 
+        "ts": 1553047390, 
+        "callback_id": "codestream://codemark/5c919f5f4a0bf1125dc946e6?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------KJ Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1553047392.000300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1552927132.000200", 
+    "text": "<@UCBC9725P> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1552794550.000200", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1552769092.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1552708740.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "--------------------Sean/Ki Project End--------------------", 
+        "ts": 1552283811, 
+        "callback_id": "codestream://codemark/5c85f8a35aa0d01262fdb442?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Sean/Ki Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552283811.022500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "Kudos on writing tests!!! Overall very clean code and mostly very consistent. Although it does not adhere to the asked for style. Keep up the good work! Just don't be afraid to step out of your comfort zone. It's great to have your own coding style, but sometimes you have to adapt to other styles. It's also cool that you guys have formed such a strong friendship, and it is fun to do projects with your best friend. But again, don't be afraid to step out of your comfort zone. If the only two people coming out of make school who fully understand how Sean and Ki code and work, are Ki and Sean, then that might not get you as far in life as if more people knew and understood how you guys work. Some student's will become founders, some maybe even founders of fortune 500 companies. Don't be afraid to show your skills to others. Because there's clearly skill and passion here.", 
+        "ts": 1552283723, 
+        "callback_id": "codestream://codemark/5c85f84b5e60d718db725199?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "Kudos on writing tests!!! Overall very clean code and mostly very consistent. Although it does not adhere to the asked for style. Keep up the good work! Just don't be afraid to step out of your comfort zone. It's great to have your own coding style, but sometimes you have to adapt to other styles. It's also cool that you guys have formed such a strong friendship, and it is fun to do projects with your best friend. But again, don't be afraid to step out of your comfort zone. If the only two people coming out of make school who fully understand how Sean and Ki code and work, are Ki and Sean, then that might not get you as far in life as if more people knew and understood how you guys work. Some student's will become founders, some maybe even founders of fortune 500 companies. Don't be afraid to show your skills to others. Because there's clearly skill and passion here.", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552283724.022400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "These could have been nested in a `'/proposed'` route. The rest of this router could have been nested in a `'/sets'` route.", 
+        "ts": 1552282993, 
+        "callback_id": "codestream://codemark/5c85f5715e60d718db725195?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/spglancy/cah-api/blob/abcbf1c73fe6791477df08ff184cf313e1fc559d/controllers/Routes.js#L75-L97|*controllers/Routes.js (Lines 75-97)*>\n```router.get('/proposed', (req, res) =&gt; {\n  ProposedCard.find().then((cards) =&gt; { res.send(cards) })\n})\n\n// POSTing proposed card to db\n<http://router.post|router.post>('/proposed/new', (req, res) =&gt; {\n  console.log(req.body)\n  const card = new ProposedCard(req.body)\n  card.save()\n    .then((c) =&gt; {\n      res.send(c._id)\n    })\n})\n\n// PUT editing the data of a proposed card\nrouter.put('/proposed/:id', (req, res) =&gt; {\n  ProposedCard.findByIdAndUpdate(req.params.id, req.body).then((post) =&gt; { res.send(post._id) })\n})\n\n// DELETE a proposed card\nrouter.delete('/proposed/:id', (req, res) =&gt; {\n  ProposedCard.findByIdAndDelete(req.params.id).then(res.json({ status: 200 }))\n})```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "These could have been nested in a `'/proposed'` route. The rest of this router could have been nested in a `'/sets'` route.\n\n*controllers/Routes.js (Lines 75-97)*\n```router.get('/proposed', (req, res) =&gt; {\n  ProposedCard.find().then((cards) =&gt; { res.send(cards) })\n})\n\n// POSTing proposed card to db\n<http://router.post|router.post>('/proposed/new', (req, res) =&gt; {\n  console.log(req.body)\n  const card = new ProposedCard(req.body)\n  card.save()\n    .then((c) =&gt; {\n      res.send(c._id)\n    })\n})\n\n// PUT editing the data of a proposed card\nrouter.put('/proposed/:id', (req, res) =&gt; {\n  ProposedCard.findByIdAndUpdate(req.params.id, req.body).then((post) =&gt; { res.send(post._id) })\n})\n\n// DELETE a proposed card\nrouter.delete('/proposed/:id', (req, res) =&gt; {\n  ProposedCard.findByIdAndDelete(req.params.id).then(res.json({ status: 200 }))\n})```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552282994.022300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "Here are a couple of inconsistencies. Some of your responses end with `return` others don't. One returns as a `.send` the others are `.json`. You're also missing your status codes.", 
+        "ts": 1552282669, 
+        "callback_id": "codestream://codemark/5c85f42e5aa0d01262fdb43d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/spglancy/cah-api/blob/06460801ae17cf8fae6f1d534802467b05d0e4a5/controllers/authController.js#L46-L72|*controllers/authController.js (Lines 46-72)*>\n```<http://router.post|router.post>('/register', (req, res) =&gt; {\n  const { email, pwd, pwdconf } = req.body\n  let user = {}\n  if (pwd === pwdconf) {\n    user = new User(req.body)\n  } else {\n    return res.send({ message: 'Passwords do not match' })\n  }\n  user.email = user.email.toLowerCase()\n  User.findOne({ email }).then((check) =&gt; {\n    if (!check) {\n      user.save().then((u) =&gt; {\n        const token = jwt.sign({ _id: u._id }, process.env.SECRET, { expiresIn: '60 days' })\n        res.json({\n          result: 'Success',\n          userId: u._id,\n          token,\n        })\n      })\n    } else {\n      res.json({\n        result: 'Unsuccessful',\n        message: 'This Email is already in use',\n      })\n    }\n  })\n})```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Here are a couple of inconsistencies. Some of your responses end with `return` others don't. One returns as a `.send` the others are `.json`. You're also missing your status codes.\n\n*controllers/authController.js (Lines 46-72)*\n```<http://router.post|router.post>('/register', (req, res) =&gt; {\n  const { email, pwd, pwdconf } = req.body\n  let user = {}\n  if (pwd === pwdconf) {\n    user = new User(req.body)\n  } else {\n    return res.send({ message: 'Passwords do not match' })\n  }\n  user.email = user.email.toLowerCase()\n  User.findOne({ email }).then((check) =&gt; {\n    if (!check) {\n      user.save().then((u) =&gt; {\n        const token = jwt.sign({ _id: u._id }, process.env.SECRET, { expiresIn: '60 days' })\n        res.json({\n          result: 'Success',\n          userId: u._id,\n          token,\n        })\n      })\n    } else {\n      res.json({\n        result: 'Unsuccessful',\n        message: 'This Email is already in use',\n      })\n    }\n  })\n})```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552282670.022200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "This is generally bad practice. If a company asks you to adhere to a specific style, there's a reason for it. Having your own coding style is great, especially since this is consistent and clean code. BUT it does not adhere to the AirBnB style, which was part of the requirements. For edge cases like the no underscore dangle, this is ok. But it would have been better to change the eslintrc.js to specifically ignore `_id`.\u00a0", 
+        "ts": 1552282393, 
+        "callback_id": "codestream://codemark/5c85f3195aa0d01262fdb43a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/spglancy/cah-api/blob/06460801ae17cf8fae6f1d534802467b05d0e4a5/controllers/authController.js#L1-L2|*controllers/authController.js (Lines 1-2)*>\n```/* eslint-disable no-underscore-dangle */\n/* eslint-disable semi */```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is generally bad practice. If a company asks you to adhere to a specific style, there's a reason for it. Having your own coding style is great, especially since this is consistent and clean code. BUT it does not adhere to the AirBnB style, which was part of the requirements. For edge cases like the no underscore dangle, this is ok. But it would have been better to change the eslintrc.js to specifically ignore `_id`.\u00a0\n\n*controllers/authController.js (Lines 1-2)*\n```/* eslint-disable no-underscore-dangle */\n/* eslint-disable semi */```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552282393.022100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "So close to getting nested routes! But what you're doing here, is nesting two different routers to the root route. Why? Instead, try mounting the authController to the `'/auth'` route. And maybe a better name for your `RouteController` could be `rootController` and name the Routes.js file the same. That way you are consistent with your other router, and is clearer of what it does.", 
+        "ts": 1552281756, 
+        "callback_id": "codestream://codemark/5c85f09c5aa0d01262fdb437?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/spglancy/cah-api/blob/d59e31a8068cd363c0c18edc69155af159fc37f6/app.js#L25-L26|*app.js (Lines 25-26)*>\n```app.use('/', RouteController)\napp.use('/', authController)```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "So close to getting nested routes! But what you're doing here, is nesting two different routers to the root route. Why? Instead, try mounting the authController to the `'/auth'` route. And maybe a better name for your `RouteController` could be `rootController` and name the Routes.js file the same. That way you are consistent with your other router, and is clearer of what it does.\n\n*app.js (Lines 25-26)*\n```app.use('/', RouteController)\napp.use('/', authController)```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552281757.022000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "I really like that you guys separated your config from the rest of the project. But your mongoURL should really be part of your .env file. If I, some random guy who cloned your repo were to run this project (I am), I would be connecting directly to your live database as an admin. That's a company breaking security flaw.\u00a0 Another issue, is that you guys are inconsistent with your fallbacks. Try something like this instead.\n```\nmodule.exports = {\n\u00a0 port: process.env.PORT || 3000,\n\u00a0 mongoURL: process.env.MONGODB || '<mongodb://localhost/cah-api>',\n\u00a0 SECRET: process.env.SECRET || 'notverysecret',\n}\n\n```\nThis way you don't expose critical secrets. And you wouldn't even need a .env file to get it running locally. You might also want to `require('dotenv').config()` on top of this file, since ideally, this file would be the only file to access the .env file.", 
+        "ts": 1552280932, 
+        "callback_id": "codestream://codemark/5c85ed645e60d718db725190?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/spglancy/cah-api/blob/86543446962bf66d511fe26c8d1bdc585b1a8ad8/config.js#L1-L5|*config.js (Lines 1-5)*>\n```module.exports = {\n  port: process.env.PORT || 3000,\n  mongoURL: '<mongodb://admin:qwaszx51@ds335275.mlab.com:35275/cah-api>',\n  SECRET: process.env.SECRET,\n}```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "I really like that you guys separated your config from the rest of the project. But your mongoURL should really be part of your .env file. If I, some random guy who cloned your repo were to run this project (I am), I would be connecting directly to your live database as an admin. That's a company breaking security flaw.\u00a0 Another issue, is that you guys are inconsistent with your fallbacks. Try something like this instead.\n```\nmodule.exports = {\n\u00a0 port: process.env.PORT || 3000,\n\u00a0 mongoURL: process.env.MONGODB || '<mongodb://localhost/cah-api>',\n\u00a0 SECRET: process.env.SECRET || 'notverysecret',\n}\n\n```\nThis way you don't expose critical secrets. And you wouldn't even need a .env file to get it running locally. You might also want to `require('dotenv').config()` on top of this file, since ideally, this file would be the only file to access the .env file.\n\n*config.js (Lines 1-5)*\n```module.exports = {\n  port: process.env.PORT || 3000,\n  mongoURL: '<mongodb://admin:qwaszx51@ds335275.mlab.com:35275/cah-api>',\n  SECRET: process.env.SECRET,\n}```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552280933.021900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "--------------------Ki/Sean Project Start--------------------", 
+        "ts": 1552280083, 
+        "callback_id": "codestream://codemark/5c85ea134a0bf1125dc944ae?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Ki/Sean Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552280084.021800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "client_msg_id": "736cc1d8-bd75-4a9f-9d5a-dc5f1426ac3e", 
+    "thread_ts": "1552269726.021000", 
+    "text": "Pretty accurate.", 
+    "ts": "1552269893.021400", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "--------------------Jamie Project End--------------------", 
+        "ts": 1552269763, 
+        "callback_id": "codestream://codemark/5c85c1c35e60d718db72518e?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jamie Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552269764.021100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "thread_ts": "1552269726.021000", 
+    "latest_reply": "1552269893.021400", 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Your README could definitely use some work. But gets the job done. Overall, it's a decent project. It's not too far from being a reddit clone, but it does show you put time and effort into making it your own thing. Your code could definitely be cleaner, and you would definitely benefit from using a linter. I feel like there are certain concepts that are still escaping your grasp. Like url parameters or whether or not to assign a value from `require()`.", 
+        "ts": 1552269726, 
+        "callback_id": "codestream://codemark/5c85c19e4a0bf1125dc944ab?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/1eef2c56596fb4aab2d2646e0c9e2da60a217834/README.md#L1|*README.md (Line 1)*>\n```This is the final project for my backend web class (BEW1.2) at Make School, San Francisco.```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your README could definitely use some work. But gets the job done. Overall, it's a decent project. It's not too far from being a reddit clone, but it does show you put time and effort into making it your own thing. Your code could definitely be cleaner, and you would definitely benefit from using a linter. I feel like there are certain concepts that are still escaping your grasp. Like url parameters or whether or not to assign a value from `require()`.\n\n*README.md (Line 1)*\n```This is the final project for my backend web class (BEW1.2) at Make School, San Francisco.```", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBLQTD7V"
+    ], 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1552269893.021400"
+      }
+    ], 
+    "ts": "1552269726.021000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS4EW59", 
+    "text": "Luc commented on code /cc ", 
+    "reply_users_count": 1, 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Why set a url constant, but then enter the string in `.connect` anyway?", 
+        "ts": 1552268936, 
+        "callback_id": "codestream://codemark/5c85be884a0bf1125dc944a7?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/b2a354af5b294f8ba37cdb531825f41e2e7932d6/data/final-db.js#L5-L10|*data/final-db.js (Lines 5-10)*>\n```const url = \"<mongodb://localhost/final-db>\";\nmongoose.Promise = global.Promise;\nmongoose.connect(\n  \"<mongodb://localhost/final-db>\",\n  { useNewUrlParser: true }\n);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why set a url constant, but then enter the string in `.connect` anyway?\n\n*data/final-db.js (Lines 5-10)*\n```const url = \"<mongodb://localhost/final-db>\";\nmongoose.Promise = global.Promise;\nmongoose.connect(\n  \"<mongodb://localhost/final-db>\",\n  { useNewUrlParser: true }\n);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552268936.020900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "This is very ugly and unnecessary. You're already passing in those values as url parameters. You can use `const starterId = req.params.starterId` respectively, or use a deconstructor `const { starterId, threadId } = req.params`.", 
+        "ts": 1552268772, 
+        "callback_id": "codestream://codemark/5c85bde4a5969918d6f29a03?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/22722a041d3d6238923cfea5b4cfba3f4b2bda2b/controllers/threads.js#L43-L54|*controllers/threads.js (Lines 43-54)*>\n```let starterId = \"\";\n            let threadId = \"\";\n            for(i=0; i&lt; save.length; i++){\n                if (save[i] == \"/\" || save[i] == \"?\"){\n                    count+=1}\n                else if (count == 2 &amp;&amp; save[i] != \"/\" &amp;&amp; save[i] != \"?\"){\n                    starterId += save[i]\n                }\n                else if (count == 4 &amp;&amp; save[i] != \"/\" &amp;&amp; save[i] != \"?\"){\n                    threadId += save[i]\n                }\n            }```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is very ugly and unnecessary. You're already passing in those values as url parameters. You can use `const starterId = req.params.starterId` respectively, or use a deconstructor `const { starterId, threadId } = req.params`.\n\n*controllers/threads.js (Lines 43-54)*\n```let starterId = \"\";\n            let threadId = \"\";\n            for(i=0; i&lt; save.length; i++){\n                if (save[i] == \"/\" || save[i] == \"?\"){\n                    count+=1}\n                else if (count == 2 &amp;&amp; save[i] != \"/\" &amp;&amp; save[i] != \"?\"){\n                    starterId += save[i]\n                }\n                else if (count == 4 &amp;&amp; save[i] != \"/\" &amp;&amp; save[i] != \"?\"){\n                    threadId += save[i]\n                }\n            }```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552268773.020800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Why do this, but have title and content in your model set to `required: false`? Why not require them in the model, and handle the missing title/content that way?", 
+        "ts": 1552268232, 
+        "callback_id": "codestream://codemark/5c85bbc8a5969918d6f29a00?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/22722a041d3d6238923cfea5b4cfba3f4b2bda2b/controllers/starters.js#L31-L33|*controllers/starters.js (Lines 31-33)*>\n```if (req.body.title == \"\" || req.body.content == \"\"){\n                    res.render('errorNewStarter', {currentUser});\n                    } else {```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why do this, but have title and content in your model set to `required: false`? Why not require them in the model, and handle the missing title/content that way?\n\n*controllers/starters.js (Lines 31-33)*\n```if (req.body.title == \"\" || req.body.content == \"\"){\n                    res.render('errorNewStarter', {currentUser});\n                    } else {```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552268232.020700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Your user will never see this error, and your server won't resolve. You should send the error message as a response along with the appropriate status code.", 
+        "ts": 1552268092, 
+        "callback_id": "codestream://codemark/5c85bb3c5aa0d01262fdb432?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/22722a041d3d6238923cfea5b4cfba3f4b2bda2b/controllers/starters.js#L49-L51|*controllers/starters.js (Lines 49-51)*>\n```                    .catch(err =&gt; {\n                        console.log(err.message);\n                    });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your user will never see this error, and your server won't resolve. You should send the error message as a response along with the appropriate status code.\n\n*controllers/starters.js (Lines 49-51)*\n```                    .catch(err =&gt; {\n                        console.log(err.message);\n                    });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552268092.020600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "male-technologist", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Why use `var` here? You should always use `const` unless you need to change the value, in which case use `let`.\u00a0\n\n\nMore info: <https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70>\n", 
+        "ts": 1552267545, 
+        "callback_id": "codestream://codemark/5c85b9195aa0d01262fdb42f?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/a3610edd4a026675d4764655c895ce02dd549429/app.js#L3|*app.js (Line 3)*>\n```var cookieParser = require('cookie-parser');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why use `var` here? You should always use `const` unless you need to change the value, in which case use `let`.\u00a0\n\n\nMore info: <https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70>\n\n\n*app.js (Line 3)*\n```var cookieParser = require('cookie-parser');```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552267545.020200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "There's no need to instantiate your controllers to a variable if you're not referencing them afterwards. You're also not using your models anywhere in this file.", 
+        "ts": 1552267408, 
+        "callback_id": "codestream://codemark/5c85b8905e60d718db725184?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/a3610edd4a026675d4764655c895ce02dd549429/app.js#L51-L56|*app.js (Lines 51-56)*>\n```const Starter = require('./models/starter');\nconst starters = require('./controllers/starters')(app);\nconst Thread = require('./models/thread');\nconst threads = require('./controllers/threads.js')(app);\nconst User = require('./models/user.js');\nconst auth = require('./controllers/auth.js')(app);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "There's no need to instantiate your controllers to a variable if you're not referencing them afterwards. You're also not using your models anywhere in this file.\n\n*app.js (Lines 51-56)*\n```const Starter = require('./models/starter');\nconst starters = require('./controllers/starters')(app);\nconst Thread = require('./models/thread');\nconst threads = require('./controllers/threads.js')(app);\nconst User = require('./models/user.js');\nconst auth = require('./controllers/auth.js')(app);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552267408.020100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "Why no console log confirming that the server is running?", 
+        "ts": 1552267258, 
+        "callback_id": "codestream://codemark/5c85b7fa5aa0d01262fdb429?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/jamiejamiebobamie/bew1.2final/blob/a3610edd4a026675d4764655c895ce02dd549429/app.js#L71|*app.js (Line 71)*>\n```app.listen(port);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why no console log confirming that the server is running?\n\n*app.js (Line 71)*\n```app.listen(port);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552267258.020000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "888888", 
+        "text": "--------------------Jamie Project Start--------------------", 
+        "ts": 1552267136, 
+        "callback_id": "codestream://codemark/5c85b7805aa0d01262fdb428?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jamie Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552267136.019900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "--------------------Jake Project End--------------------", 
+        "ts": 1552265500, 
+        "callback_id": "codestream://codemark/5c85b11c4a0bf1125dc944a5?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jake Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552265501.019800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Your README gets the job done, but could definitely be improved on. Overall the project is very barebones. It's basically just authentication.\u00a0", 
+        "ts": 1552265468, 
+        "callback_id": "codestream://codemark/5c85b0fca5969918d6f299fb?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/f78c16677de6acb163faed40536ab7368427ebd2/docs/README.md#L1|*docs/README.md (Line 1)*>\n```# Tech Shadow!```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your README gets the job done, but could definitely be improved on. Overall the project is very barebones. It's basically just authentication.\u00a0\n\n*docs/README.md (Line 1)*\n```# Tech Shadow!```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552265468.019700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Like others, you have some consistency issues. Why not set `.status` everywhere? Why use `return` in some places and not in others? Why `.send` some and `.json` others? Work on being consistent.", 
+        "ts": 1552265208, 
+        "callback_id": "codestream://codemark/5c85aff85aa0d01262fdb424?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/8e7a5713fd171f3a8a6c0ddf4d09412949d29b9f/controllers/main.js#L41-L59|*controllers/main.js (Lines 41-59)*>\n```      if (!user) {\n        // User not found\n        return res.status(401).send({ message: \"Wrong Username or Password\" });\n      }\n      // Check the password\n      user.comparePassword(password, (err, isMatch) =&gt; {\n        if (!isMatch) {\n          // Password does not match\n          return res.status(401).send({ message: \"Wrong Username or password\" });\n        }\n        // Create a token\n        const token = jwt.sign({ _id: user._id, email: user.email }, process.env.SECRET, {\n          expiresIn: \"60 days\"\n        });\n        // Set a cookie and redirect to root\n        res.cookie(\"nToken\", token, { maxAge: 900000, httpOnly: true });\n\n        res.json({user})\n      });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Like others, you have some consistency issues. Why not set `.status` everywhere? Why use `return` in some places and not in others? Why `.send` some and `.json` others? Work on being consistent.\n\n*controllers/main.js (Lines 41-59)*\n```      if (!user) {\n        // User not found\n        return res.status(401).send({ message: \"Wrong Username or Password\" });\n      }\n      // Check the password\n      user.comparePassword(password, (err, isMatch) =&gt; {\n        if (!isMatch) {\n          // Password does not match\n          return res.status(401).send({ message: \"Wrong Username or password\" });\n        }\n        // Create a token\n        const token = jwt.sign({ _id: user._id, email: user.email }, process.env.SECRET, {\n          expiresIn: \"60 days\"\n        });\n        // Set a cookie and redirect to root\n        res.cookie(\"nToken\", token, { maxAge: 900000, httpOnly: true });\n\n        res.json({user})\n      });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552265209.019600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "This is cool and a very conventional way of handling messages. It allows you to easily change messages since you only have one place to change them.\u00a0Even better would be to put this in its own json file. This will keep things cleaner, as well as help with localization. As you can create different jsons for each language.", 
+        "ts": 1552264986, 
+        "callback_id": "codestream://codemark/5c85af1aa5969918d6f299f7?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/8e7a5713fd171f3a8a6c0ddf4d09412949d29b9f/controllers/main.js#L5-L9|*controllers/main.js (Lines 5-9)*>\n```const Messages = {\n    \"success\": \"It was a success!\",\n    \"unauthorirzed\": \"You are not Authorized\",\n    \"unauthenticated\": \"You are not Authenticated\",\n}```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is cool and a very conventional way of handling messages. It allows you to easily change messages since you only have one place to change them.\u00a0Even better would be to put this in its own json file. This will keep things cleaner, as well as help with localization. As you can create different jsons for each language.\n\n*controllers/main.js (Lines 5-9)*\n```const Messages = {\n    \"success\": \"It was a success!\",\n    \"unauthorirzed\": \"You are not Authorized\",\n    \"unauthenticated\": \"You are not Authenticated\",\n}```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552264986.019500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Do you really need a separate model for this? If all it has is a name, why not just set the skill name directly in the user's set of skills?", 
+        "ts": 1552264649, 
+        "callback_id": "codestream://codemark/5c85adc94a0bf1125dc944a2?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/f78c16677de6acb163faed40536ab7368427ebd2/models/Skill.js#L4-L6|*models/Skill.js (Lines 4-6)*>\n```const SkillSchema = new Schema({\n    name: {type: String, required: true}\n})```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Do you really need a separate model for this? If all it has is a name, why not just set the skill name directly in the user's set of skills?\n\n*models/Skill.js (Lines 4-6)*\n```const SkillSchema = new Schema({\n    name: {type: String, required: true}\n})```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552264649.019400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Why not set a flag for this in your schema?", 
+        "ts": 1552264449, 
+        "callback_id": "codestream://codemark/5c85ad015e60d718db725180?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/f78c16677de6acb163faed40536ab7368427ebd2/models/User.js#L12|*models/User.js (Line 12)*>\n```// Users can be developers or just users```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why not set a flag for this in your schema?\n\n*models/User.js (Line 12)*\n```// Users can be developers or just users```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552264450.019300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Very clean router setup, kudos! If you had passed in `'/api'` into the `app.use()` where you pass in this router, instead of including it on all these routes, you would have had a nested route.", 
+        "ts": 1552264321, 
+        "callback_id": "codestream://codemark/5c85ac814a0bf1125dc9449e?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/6dce144df9f6e89dbbd21fa0b51ce156035287b4/routes/profileRoutes.js#L28-L31|*routes/profileRoutes.js (Lines 28-31)*>\n```router.route('/api/v1/users/:id')\n    .get(auth, getUser)\n    .patch(auth, updateUser)\n    .delete(auth, deleteUser)```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Very clean router setup, kudos! If you had passed in `'/api'` into the `app.use()` where you pass in this router, instead of including it on all these routes, you would have had a nested route.\n\n*routes/profileRoutes.js (Lines 28-31)*\n```router.route('/api/v1/users/:id')\n    .get(auth, getUser)\n    .patch(auth, updateUser)\n    .delete(auth, deleteUser)```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552264321.019200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "SO!! Close to having a nested route, but not quite. The name `mainController` is also pretty misleading, since you're passing in a router and not a controller.", 
+        "ts": 1552263860, 
+        "callback_id": "codestream://codemark/5c85aab4a5969918d6f299f4?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/b2f843ad21df7e0bef77cf5e20b249711a81eb70/server.js#L30-L31|*server.js (Lines 30-31)*>\n```const mainController = require('./routes/profileRoutes');\napp.use(mainController);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "SO!! Close to having a nested route, but not quite. The name `mainController` is also pretty misleading, since you're passing in a router and not a controller.\n\n*server.js (Lines 30-31)*\n```const mainController = require('./routes/profileRoutes');\napp.use(mainController);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552263860.019100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "Yay for confirming that the server is running and on which port.", 
+        "ts": 1552263782, 
+        "callback_id": "codestream://codemark/5c85aa66a5969918d6f299f1?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/perzival1312/customapi/blob/b2f843ad21df7e0bef77cf5e20b249711a81eb70/server.js#L33-L35|*server.js (Lines 33-35)*>\n```app.listen(port, () =&gt; {\n  console.log(`Port is listening on ${port}`)\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Yay for confirming that the server is running and on which port.\n\n*server.js (Lines 33-35)*\n```app.listen(port, () =&gt; {\n  console.log(`Port is listening on ${port}`)\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552263782.019000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "edited": {
+      "user": "UCBS4EW59", 
+      "ts": "1552277969.000000"
+    }, 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "5abfdc", 
+        "text": "--------------------Jake Project Start--------------------", 
+        "ts": 1552263660, 
+        "callback_id": "codestream://codemark/5c85a9ec4a0bf1125dc9449b?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jake Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Jeremy/Jake**\n\nLuc commented on code /cc", 
+    "ts": "1552263660.018900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBHQSTB6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "--------------------Jackson Project End--------------------", 
+        "ts": 1552261796, 
+        "callback_id": "codestream://codemark/5c85a2a4a5969918d6f299e9?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jackson Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552261796.018800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "Your README is pretty on point. I like that you mention how you use this API. It shows purpose, despite it being an extremely simple project. I was kind of dissapointed that I wasn't able to review your Magic_Tokens project as a whole. Your code is very clean, but needs to be more consistent. I feel like you are afraid to step out of your comfort zone. Don't be afraid to write broken code and experiment, that's what Make School is for.\u00a0\u00a0", 
+        "ts": 1552261768, 
+        "callback_id": "codestream://codemark/5c85a2885e60d718db72517d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/1f3da342d2d9eb1616ad172c0e13c1cdc21b66ab/docs/README.md#L12-L16|*docs/README.md (Lines 12-16)*>\n```**Do you use this API?**\n\nYes, I am using this API for my Magic Token creation/tracking app.\n\n[Git Hub repo](<https://github.com/Mintri1199/Magic_Tokens>)```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your README is pretty on point. I like that you mention how you use this API. It shows purpose, despite it being an extremely simple project. I was kind of dissapointed that I wasn't able to review your Magic_Tokens project as a whole. Your code is very clean, but needs to be more consistent. I feel like you are afraid to step out of your comfort zone. Don't be afraid to write broken code and experiment, that's what Make School is for.\u00a0\u00a0\n\n*docs/README.md (Lines 12-16)*\n```**Do you use this API?**\n\nYes, I am using this API for my Magic Token creation/tracking app.\n\n[Git Hub repo](<https://github.com/Mintri1199/Magic_Tokens>)```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552261768.018700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "The purpose of deconstructing is to pull multiple values from an object in one line. You could have written this like so `const { username, password } = req.body;`. What you're doing basically negates the purpose of using a deconstructor.", 
+        "ts": 1552261162, 
+        "callback_id": "codestream://codemark/5c85a02a5e60d718db72517a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/ccb9e9f9e869bf602a5b5297bcf4867a25fc4406/controllers/auth.js#L29-L30|*controllers/auth.js (Lines 29-30)*>\n```const { username } = req.body.username;\n    const { password } = req.body.password;```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "The purpose of deconstructing is to pull multiple values from an object in one line. You could have written this like so `const { username, password } = req.body;`. What you're doing basically negates the purpose of using a deconstructor.\n\n*controllers/auth.js (Lines 29-30)*\n```const { username } = req.body.username;\n    const { password } = req.body.password;```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552261162.018600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "Like others, you have some consistency issues. Why not set `.status` everywhere? Why use `return` in some places and not in others? Your code is very clean, but consistency is key, and would make your code that much cleaner.", 
+        "ts": 1552260981, 
+        "callback_id": "codestream://codemark/5c859f755e60d718db725177?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/ccb9e9f9e869bf602a5b5297bcf4867a25fc4406/controllers/auth.js#L19|*controllers/auth.js (Line 19)*>\n``` return res.status(400).send({ err: err });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Like others, you have some consistency issues. Why not set `.status` everywhere? Why use `return` in some places and not in others? Your code is very clean, but consistency is key, and would make your code that much cleaner.\n\n*controllers/auth.js (Line 19)*\n``` return res.status(400).send({ err: err });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260981.018500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "Your models are very barebone. Title and definition for these should probably be required. Title should probably also be unique. Maybe you could add more data, like specific rulings, the set in which the mechanic was introduced, etc...", 
+        "ts": 1552260647, 
+        "callback_id": "codestream://codemark/5c859e274a0bf1125dc94492?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/6af7c667d143cbdadb2eb799316525151d2488dc/models/keyword.js#L5-L8|*models/keyword.js (Lines 5-8)*>\n```const KeywordSchema = new Schema({\n  title: String,\n  definition: String,\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your models are very barebone. Title and definition for these should probably be required. Title should probably also be unique. Maybe you could add more data, like specific rulings, the set in which the mechanic was introduced, etc...\n\n*models/keyword.js (Lines 5-8)*\n```const KeywordSchema = new Schema({\n  title: String,\n  definition: String,\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260648.018200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "You have authentication set up, but what does it actually do? Maybe you'd want to associate keywords with the user who posted them. Or maybe you want to generate a unique api key for each user, requiring it for any request. That way your server can't easily be DDoS'ed.", 
+        "ts": 1552260479, 
+        "callback_id": "codestream://codemark/5c859d7f5aa0d01262fdb41d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/6023f69c36b19210e4601fdb83f62c4ce5acedc0/index.js#L35|*index.js (Line 35)*>\n```app.use(checkAuth);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "You have authentication set up, but what does it actually do? Maybe you'd want to associate keywords with the user who posted them. Or maybe you want to generate a unique api key for each user, requiring it for any request. That way your server can't easily be DDoS'ed.\n\n*index.js (Line 35)*\n```app.use(checkAuth);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260479.018100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "Don't forget to handle and log database connection errors.", 
+        "ts": 1552260215, 
+        "callback_id": "codestream://codemark/5c859c775aa0d01262fdb41a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/6023f69c36b19210e4601fdb83f62c4ce5acedc0/index.js#L38-L39|*index.js (Lines 38-39)*>\n```const url = process.env.MONGODB_URI || '<mongodb://localhost/magic-api>';\nmongoose.connect(url, { useNewUrlParser: true });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Don't forget to handle and log database connection errors.\n\n*index.js (Lines 38-39)*\n```const url = process.env.MONGODB_URI || '<mongodb://localhost/magic-api>';\nmongoose.connect(url, { useNewUrlParser: true });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260215.018000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "No nested routes.", 
+        "ts": 1552260142, 
+        "callback_id": "codestream://codemark/5c859c2e5e60d718db725170?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/6023f69c36b19210e4601fdb83f62c4ce5acedc0/index.js#L43-L44|*index.js (Lines 43-44)*>\n```require('./controllers/keywords.js')(app);\nrequire('./controllers/auth')(app);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "No nested routes.\n\n*index.js (Lines 43-44)*\n```require('./controllers/keywords.js')(app);\nrequire('./controllers/auth')(app);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260143.017900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "Why not console log what port the server is running one?", 
+        "ts": 1552260102, 
+        "callback_id": "codestream://codemark/5c859c065aa0d01262fdb417?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/mintri1199/magic_api/blob/6023f69c36b19210e4601fdb83f62c4ce5acedc0/index.js#L48|*index.js (Line 48)*>\n```app.listen(port);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why not console log what port the server is running one?\n\n*index.js (Line 48)*\n```app.listen(port);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260102.017800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "b87cda", 
+        "text": "--------------------Jackso Project Start--------------------", 
+        "ts": 1552260059, 
+        "callback_id": "codestream://codemark/5c859bdb5aa0d01262fdb416?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Jackso Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552260060.017700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "--------------------Eric Project End--------------------", 
+        "ts": 1552257653, 
+        "callback_id": "codestream://codemark/5c8592754a0bf1125dc9448d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Eric Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552257654.017400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "You have a Procfile, but I don't see a link to your live deployment anywhere. Your project is fairly simple, but does get the job done. You write clean code, but struggle with staying consistent. You should get used to using linters like eslint. I think you would learn to appreciate them since you clearly seem to like writing clean code. Lint it and stay consistent and you'd have sparkling clean code.", 
+        "ts": 1552257622, 
+        "callback_id": "codestream://codemark/5c8592565aa0d01262fdb413?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/Procfile#L1|*Procfile (Line 1)*>\n```web: npm start```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "You have a Procfile, but I don't see a link to your live deployment anywhere. Your project is fairly simple, but does get the job done. You write clean code, but struggle with staying consistent. You should get used to using linters like eslint. I think you would learn to appreciate them since you clearly seem to like writing clean code. Lint it and stay consistent and you'd have sparkling clean code.\n\n*Procfile (Line 1)*\n```web: npm start```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552257623.017300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Don't forget to cleanup old junk code. And why do you not want to display the username of the person who submitted the fighter?", 
+        "ts": 1552257219, 
+        "callback_id": "codestream://codemark/5c8590c35e60d718db72516d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/f55e628b930c7e74ca93799e7c6843e9c064eb34/controllers/fighters.js#L12-L17|*controllers/fighters.js (Lines 12-17)*>\n```Fighter.find()//.populate('u_name') dont want to send username with request\n    .then(fighters =&gt; {\n        // console.log(fighters)\n        // {fighters: fighters}\n      res.send( {fighters: fighters});\n    })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Don't forget to cleanup old junk code. And why do you not want to display the username of the person who submitted the fighter?\n\n*controllers/fighters.js (Lines 12-17)*\n```Fighter.find()//.populate('u_name') dont want to send username with request\n    .then(fighters =&gt; {\n        // console.log(fighters)\n        // {fighters: fighters}\n      res.send( {fighters: fighters});\n    })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552257220.017000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Because you didn't pass in `new: true` in your options.\n\n\n<https://mongoosejs.com/docs/api.html#model_Model.findByIdAndUpdate>", 
+        "ts": 1552257089, 
+        "callback_id": "codestream://codemark/5c8590415aa0d01262fdb40e?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/f55e628b930c7e74ca93799e7c6843e9c064eb34/controllers/fighters.js#L65|*controllers/fighters.js (Line 65)*>\n```// Sending old object in the return Why?```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Because you didn't pass in `new: true` in your options.\n\n\n<https://mongoosejs.com/docs/api.html#model_Model.findByIdAndUpdate>\n\n*controllers/fighters.js (Line 65)*\n```// Sending old object in the return Why?```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552257089.016900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Your README could use some work. This could be helpful.\u00a0<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>", 
+        "ts": 1552256778, 
+        "callback_id": "codestream://codemark/5c858f0a4a0bf1125dc9448a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/2fdbf8bca9ef644b57eacd2ea155e263c54610db/docs/README.md#L1|*docs/README.md (Line 1)*>\n```**Customer API project for BEW1.2 2.27.19**```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your README could use some work. This could be helpful.\u00a0<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>\n\n*docs/README.md (Line 1)*\n```**Customer API project for BEW1.2 2.27.19**```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552256778.016800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "This variable is unused. You should use `let` or `const` in place of `var`. `const` for variables you do not want to mutate, otherwise use `let`. `let` scopes much more cleanly than `var`, and will save you some headaches when working with more complicated code.\n\n\nMore info:\u00a0<https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70>", 
+        "ts": 1552256582, 
+        "callback_id": "codestream://codemark/5c858e465e60d718db72516a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/f55e628b930c7e74ca93799e7c6843e9c064eb34/controllers/fighters.js#L10|*controllers/fighters.js (Line 10)*>\n```var currentUser = req.user;```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This variable is unused. You should use `let` or `const` in place of `var`. `const` for variables you do not want to mutate, otherwise use `let`. `let` scopes much more cleanly than `var`, and will save you some headaches when working with more complicated code.\n\n\nMore info:\u00a0<https://hackernoon.com/why-you-shouldnt-use-var-anymore-f109a58b9b70>\n\n*controllers/fighters.js (Line 10)*\n```var currentUser = req.user;```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552256583.016700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Spacing your objects on separate lines would greatly improve readability here. And are all of these required? Maybe a fighter doesn't have a nickname, or isn't affiliated with anyone. Maybe a user doesn't want to fill out their fighter's bio right away.\u00a0", 
+        "ts": 1552256187, 
+        "callback_id": "codestream://codemark/5c858cbb5e60d718db725165?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/f55e628b930c7e74ca93799e7c6843e9c064eb34/models/fighters.js#L6-L13|*models/fighters.js (Lines 6-13)*>\n```const FighterSchema = new Schema({\n  name: { type: String, required: true },\n  nickname: { type: String, required: true },\n  affiliation: { type: String, required: true },\n  bio: { type: String, required: true },\n  u_name : { type: Schema.Types.ObjectId, ref: \"User\", required: true }\n\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Spacing your objects on separate lines would greatly improve readability here. And are all of these required? Maybe a fighter doesn't have a nickname, or isn't affiliated with anyone. Maybe a user doesn't want to fill out their fighter's bio right away.\u00a0\n\n*models/fighters.js (Lines 6-13)*\n```const FighterSchema = new Schema({\n  name: { type: String, required: true },\n  nickname: { type: String, required: true },\n  affiliation: { type: String, required: true },\n  bio: { type: String, required: true },\n  u_name : { type: Schema.Types.ObjectId, ref: \"User\", required: true }\n\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552256188.016600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Like others, you have some consistency issues. Why not set `.status(200)` here? Why use `return` in some places and not in others? Why `.send` some responses and `.json` others? Your code is fairly clean, but consistency is key, and would make your code that much cleaner.", 
+        "ts": 1552255740, 
+        "callback_id": "codestream://codemark/5c858afc5e60d718db725162?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/controllers/auth.js#L55|*controllers/auth.js (Line 55)*>\n```res.json({ message: `User ${user.username} has been Logged in` })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Like others, you have some consistency issues. Why not set `.status(200)` here? Why use `return` in some places and not in others? Why `.send` some responses and `.json` others? Your code is fairly clean, but consistency is key, and would make your code that much cleaner.\n\n*controllers/auth.js (Line 55)*\n```res.json({ message: `User ${user.username} has been Logged in` })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552255740.016500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Nice handling login errors. Giving the same error message whether they used a wrong username or password is a great thing! However, 'password is capitalized in one and not the other. This could give a hint to observant would be hackers. You could instantiate `const loginErr = 'Wrong Username or Password;` at the top of the file. Then call `.send({ loginErr });` This will ensure that the message will always be the same, even when you change it.\u00a0", 
+        "ts": 1552255356, 
+        "callback_id": "codestream://codemark/5c85897d5e60d718db72515f?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/controllers/auth.js#L36-L47|*controllers/auth.js (Lines 36-47)*>\n```if (!user) {\n                console.log(\"Reach 1\")\n                // User not found\n                return res.status(401).send({ message: \"Wrong Username or Password\" });\n            }\n            // Check the password\n            user.comparePassword(password, (err, isMatch) =&gt; {\n                if (!isMatch) {\n                    console.log(\"reach 2\")\n                    // Password does not match\n                    return res.status(401).send({ message: \"Wrong Username or password\" });\n                }```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Nice handling login errors. Giving the same error message whether they used a wrong username or password is a great thing! However, 'password is capitalized in one and not the other. This could give a hint to observant would be hackers. You could instantiate `const loginErr = 'Wrong Username or Password;` at the top of the file. Then call `.send({ loginErr });` This will ensure that the message will always be the same, even when you change it.\u00a0\n\n*controllers/auth.js (Lines 36-47)*\n```if (!user) {\n                console.log(\"Reach 1\")\n                // User not found\n                return res.status(401).send({ message: \"Wrong Username or Password\" });\n            }\n            // Check the password\n            user.comparePassword(password, (err, isMatch) =&gt; {\n                if (!isMatch) {\n                    console.log(\"reach 2\")\n                    // Password does not match\n                    return res.status(401).send({ message: \"Wrong Username or password\" });\n                }```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552255357.016400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Careful console logging a password. This is fine in development, but having this in production will result in unencrypted passwords being saved in your logs.", 
+        "ts": 1552254852, 
+        "callback_id": "codestream://codemark/5c8587844a0bf1125dc94480?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/controllers/auth.js#L12|*controllers/auth.js (Line 12)*>\n```console.log(username, password)```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Careful console logging a password. This is fine in development, but having this in production will result in unencrypted passwords being saved in your logs.\n\n*controllers/auth.js (Line 12)*\n```console.log(username, password)```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552254852.016300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "-You never mutate these variables, you should use const to prevent accidental mutations.\n-You use an empty object as a fallback to the decoded token. So if the token fails to decode, `decodedToken.payload` will crash the server since payload is not a property of `{}`. A neat little workaround, would be to set the fallback to `{ payload: null }`. This way `req.user` will resolve to null whether the token is missing or fails to decode.", 
+        "ts": 1552254669, 
+        "callback_id": "codestream://codemark/5c8586ce5aa0d01262fdb409?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/index.js#L39-L40|*index.js (Lines 39-40)*>\n```var token = req.cookies.nToken;\n    var decodedToken = jwt.decode(token, { complete: true }) || {};```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "-You never mutate these variables, you should use const to prevent accidental mutations.\n-You use an empty object as a fallback to the decoded token. So if the token fails to decode, `decodedToken.payload` will crash the server since payload is not a property of `{}`. A neat little workaround, would be to set the fallback to `{ payload: null }`. This way `req.user` will resolve to null whether the token is missing or fails to decode.\n\n*index.js (Lines 39-40)*\n```var token = req.cookies.nToken;\n    var decodedToken = jwt.decode(token, { complete: true }) || {};```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552254670.016200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "No nested routes.", 
+        "ts": 1552254293, 
+        "callback_id": "codestream://codemark/5c858555a5969918d6f299d8?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/index.js#L51-L54|*index.js (Lines 51-54)*>\n```// routes\nrequire('./controllers/fighters.js')(app);\nrequire('./controllers/auth.js')(app);\n```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "No nested routes.\n\n*index.js (Lines 51-54)*\n```// routes\nrequire('./controllers/fighters.js')(app);\nrequire('./controllers/auth.js')(app);\n```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552254293.016100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "Why not console log a confirmation of what port the server is running on?", 
+        "ts": 1552254180, 
+        "callback_id": "codestream://codemark/5c8584e45e60d718db72515b?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/capt-alien/hoodslam_api/blob/c84b01cbb6e6dfa018915964372a5e7e5c5adc77/index.js#L60-L61|*index.js (Lines 60-61)*>\n```// App init\napp.listen(port)```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why not console log a confirmation of what port the server is running on?\n\n*index.js (Lines 60-61)*\n```// App init\napp.listen(port)```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552254180.015800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "d9634f", 
+        "text": "--------------------Eric Project Start--------------------", 
+        "ts": 1552254049, 
+        "callback_id": "codestream://codemark/5c858461a5969918d6f299d4?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Eric Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552254049.015700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "--------------------Betsy Project End--------------------", 
+        "ts": 1552203542, 
+        "callback_id": "codestream://codemark/5c84bf165aa0d01262fdb3de?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Betsy Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552203542.015300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "This is basically a simplified reddit clone. I know you can do better.", 
+        "ts": 1552203505, 
+        "callback_id": "codestream://codemark/5c84bef15aa0d01262fdb3da?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/ef0d63906ae50dd5ba8d3207b28d5206af390059/app.js#L40|*app.js (Line 40)*>\n```app.set('view engine', 'handlebars')```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is basically a simplified reddit clone. I know you can do better.\n\n*app.js (Line 40)*\n```app.set('view engine', 'handlebars')```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552203505.015200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "upside_down_face", 
+        "users": [
+          "UCD1JVCJ3"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "R.I.P formatting", 
+        "ts": 1552203148, 
+        "callback_id": "codestream://codemark/5c84bd8c5e60d718db72513f?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/06bd67e8701c40f7c2f8cab9f07804c149fc4d12/models/user.js#L21-L30|*models/user.js (Lines 21-30)*>\n```if (!user.isModified(\"password\")) {\n  return next();\n}\nbcrypt.genSalt(10, (err, salt) =&gt; {\n  bcrypt.hash(user.password, salt, (err, hash) =&gt; {\n    user.password = hash;\n  next();\n});\n});\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "R.I.P formatting\n\n*models/user.js (Lines 21-30)*\n```if (!user.isModified(\"password\")) {\n  return next();\n}\nbcrypt.genSalt(10, (err, salt) =&gt; {\n  bcrypt.hash(user.password, salt, (err, hash) =&gt; {\n    user.password = hash;\n  next();\n});\n});\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552203148.015100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "-You have this in your code twice. Putting this in a separate function will dry up your code and reduce the amount of lines in your route calls.\n-You should use let or const instead of var. In this case const since token is not being changed after initialization.", 
+        "ts": 1552203036, 
+        "callback_id": "codestream://codemark/5c84bd1c5e60d718db72513c?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/fb408e3b6713604bc99bee5fc7820a36cb0a64fd/controllers/auth.js#L20-L28|*controllers/auth.js (Lines 20-28)*>\n```var token = jwt.sign({\n                    _id: user._id\n                }, process.env.SECRET, {\n                    expiresIn: \"60 days\"\n                });\n                res.cookie('nToken', token, {\n                    maxAge: 900000,\n                    httpOnly: true\n                });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "-You have this in your code twice. Putting this in a separate function will dry up your code and reduce the amount of lines in your route calls.\n-You should use let or const instead of var. In this case const since token is not being changed after initialization.\n\n*controllers/auth.js (Lines 20-28)*\n```var token = jwt.sign({\n                    _id: user._id\n                }, process.env.SECRET, {\n                    expiresIn: \"60 days\"\n                });\n                res.cookie('nToken', token, {\n                    maxAge: 900000,\n                    httpOnly: true\n                });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552203036.015000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "-This is good error handling. Do this in all your catch statements.\u00a0\n-Like connor, you are inconsistent with your return statements. You can use them to signyfy the end of execution, but be consistent.\n-When writing an object like `{ err: err }` you can write it as `{ err }` to make it shorter and cleaner.", 
+        "ts": 1552202816, 
+        "callback_id": "codestream://codemark/5c84bc405e60d718db725139?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/fb408e3b6713604bc99bee5fc7820a36cb0a64fd/controllers/auth.js#L32-L38|*controllers/auth.js (Lines 32-38)*>\n```.catch(err =&gt; {\n                console.log(err.message);\n                return res.status(400).send({\n                    err: err\n                });\n\n            });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "-This is good error handling. Do this in all your catch statements.\u00a0\n-Like connor, you are inconsistent with your return statements. You can use them to signyfy the end of execution, but be consistent.\n-When writing an object like `{ err: err }` you can write it as `{ err }` to make it shorter and cleaner.\n\n*controllers/auth.js (Lines 32-38)*\n```.catch(err =&gt; {\n                console.log(err.message);\n                return res.status(400).send({\n                    err: err\n                });\n\n            });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552202816.014900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "This is cool!", 
+        "ts": 1552202456, 
+        "callback_id": "codestream://codemark/5c84bad85e60d718db725136?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/ef0d63906ae50dd5ba8d3207b28d5206af390059/app.js#L60|*app.js (Line 60)*>\n```app.use(expressValidator())```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is cool!\n\n*app.js (Line 60)*\n```app.use(expressValidator())```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552202456.014800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "No nested routes.", 
+        "ts": 1552202385, 
+        "callback_id": "codestream://codemark/5c84ba914a0bf1125dc9445f?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/ef0d63906ae50dd5ba8d3207b28d5206af390059/app.js#L62-L63|*app.js (Lines 62-63)*>\n```require('./controllers/favoriteThings.js')(app)\nrequire('./controllers/auth.js')(app);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "No nested routes.\n\n*app.js (Lines 62-63)*\n```require('./controllers/favoriteThings.js')(app)\nrequire('./controllers/auth.js')(app);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552202385.014700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "Why get rid of the listen that confirms the server is running?", 
+        "ts": 1552202335, 
+        "callback_id": "codestream://codemark/5c84ba5fa5969918d6f299b5?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/betsybaileyy/betsys-custom-api/blob/ef0d63906ae50dd5ba8d3207b28d5206af390059/app.js#L66-L72|*app.js (Lines 66-72)*>\n```app.listen(port);\n\n// require('./controllers/auth.js')(app)\n\n// app.listen(9000, () =&gt; {\n//     console.log('this thing is on!! port 9000')\n// })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why get rid of the listen that confirms the server is running?\n\n*app.js (Lines 66-72)*\n```app.listen(port);\n\n// require('./controllers/auth.js')(app)\n\n// app.listen(9000, () =&gt; {\n//     console.log('this thing is on!! port 9000')\n// })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552202335.014600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "f1a340", 
+        "text": "--------------------Betsy Project Start--------------------", 
+        "ts": 1552202236, 
+        "callback_id": "codestream://codemark/5c84b9fc5aa0d01262fdb3d9?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Betsy Project Start--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552202236.014500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "--------------------Connor Project End--------------------", 
+        "ts": 1552200578, 
+        "callback_id": "codestream://codemark/5c84b3825e60d718db725134?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Connor Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552200578.014200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "thread_ts": "1552199185.013300", 
+    "latest_reply": "0000000000.000000", 
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "I like the separation of things. Overall a pretty good project. You showed that you understood the concepts taught, and went above and beyond. It shows that you put real effort and heart into this. Kudos, keep it up! But work on being more consistent and add your status codes where needed.", 
+        "ts": 1552199184, 
+        "callback_id": "codestream://codemark/5c84ae105aa0d01262fdb3d0?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/c8918d4f16219c0d4d2f87b4fecc6e66356c4bf9/server.js#L49|*server.js (Line 49)*>\n```require('./data/dbapi-db');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "I like the separation of things. Overall a pretty good project. You showed that you understood the concepts taught, and went above and beyond. It shows that you put real effort and heart into this. Kudos, keep it up! But work on being more consistent and add your status codes where needed.\n\n*server.js (Line 49)*\n```require('./data/dbapi-db');```", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [], 
+    "replies": [], 
+    "ts": "1552199185.013300", 
+    "type": "message", 
+    "reply_count": 0, 
+    "user": "UCBS4EW59", 
+    "text": "Luc commented on code /cc ", 
+    "parent_user_id": "UCBS4EW59", 
+    "reply_users_count": 0, 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "You should have status(200) on all your successful route calls.", 
+        "ts": 1552198734, 
+        "callback_id": "codestream://codemark/5c84ac4e5aa0d01262fdb3ca?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/0f08e55e1a76aa78ec24b9948e1157954a093cff/controllers/auth.js#L42|*controllers/auth.js (Line 42)*>\n``` res.render('login');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "You should have status(200) on all your successful route calls.\n\n*controllers/auth.js (Line 42)*\n``` res.render('login');```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552198735.013200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "Your user will never see this error, and your server won't resolve. Just copy and paste the previous error handling into all your catch statemets. But change the status code based on the error.", 
+        "ts": 1552197755, 
+        "callback_id": "codestream://codemark/5c84a87b4a0bf1125dc94451?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/0f08e55e1a76aa78ec24b9948e1157954a093cff/controllers/auth.js#L71-L73|*controllers/auth.js (Lines 71-73)*>\n```.catch(err =&gt; {\n            console.log(err);\n        });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Your user will never see this error, and your server won't resolve. Just copy and paste the previous error handling into all your catch statemets. But change the status code based on the error.\n\n*controllers/auth.js (Lines 71-73)*\n```.catch(err =&gt; {\n            console.log(err);\n        });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552197755.013100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "-Nice handling of errors. But if making a full website, why not make an error page? Or better yet, a way to give the user a notification of the error, without leaving the signup page.\n-You are inconsistent with your return statements here. They are not necessary, but signify the end of execution. Consistency is key, use them everywhere or nowhere.\u00a0", 
+        "ts": 1552197502, 
+        "callback_id": "codestream://codemark/5c84a77ea5969918d6f299a8?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/0f08e55e1a76aa78ec24b9948e1157954a093cff/controllers/auth.js#L30|*controllers/auth.js (Line 30)*>\n```return res.status(400).send({ err: err });```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "-Nice handling of errors. But if making a full website, why not make an error page? Or better yet, a way to give the user a notification of the error, without leaving the signup page.\n-You are inconsistent with your return statements here. They are not necessary, but signify the end of execution. Consistency is key, use them everywhere or nowhere.\u00a0\n\n*controllers/auth.js (Line 30)*\n```return res.status(400).send({ err: err });```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552197502.013000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "Great documentation. The integration within your website is cool!", 
+        "ts": 1552196213, 
+        "callback_id": "codestream://codemark/5c84a2755aa0d01262fdb3c7?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/6d4bb039988c31400c11b174682f53ae6250a02c/docs/README.md#L1|*docs/README.md (Line 1)*>\n```# DragonBallAPI```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Great documentation. The integration within your website is cool!\n\n*docs/README.md (Line 1)*\n```# DragonBallAPI```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552196214.012900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "This is very cool! Kudos!", 
+        "ts": 1552195901, 
+        "callback_id": "codestream://codemark/5c84a13d5e60d718db725124?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/coswold/my_api/blob/c8918d4f16219c0d4d2f87b4fecc6e66356c4bf9/server.js#L12-L17|*server.js (Lines 12-17)*>\n```const apiLimiter = rateLimit({\n  windowMs: 15 * 60 * 1000, // 15 minutes\n  max: 10\n});\n\napp.use(\"/api/\", apiLimiter);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is very cool! Kudos!\n\n*server.js (Lines 12-17)*\n```const apiLimiter = rateLimit({\n  windowMs: 15 * 60 * 1000, // 15 minutes\n  max: 10\n});\n\napp.use(\"/api/\", apiLimiter);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552195902.012700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "edd648", 
+        "text": "----------------------Connor Project Start----------------------", 
+        "ts": 1552195819, 
+        "callback_id": "codestream://codemark/5c84a0eb5e60d718db725123?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "----------------------Connor Project Start----------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552195819.012600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "----------------------Colleen Project End----------------------", 
+        "ts": 1552194813, 
+        "callback_id": "codestream://codemark/5c849cfd5aa0d01262fdb3c5?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "----------------------Colleen Project End----------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552194813.010400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "A user of your project who encounters an error will never be able to see this. Maybe let them know there was an error via a \"oops, something went wrong\" type of page.", 
+        "ts": 1552194646, 
+        "callback_id": "codestream://codemark/5c849c565e60d718db725120?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/controllers/projects.js#L58-L60|*controllers/projects.js (Lines 58-60)*>\n```.catch ( (error) =&gt; {\n          console.log(error.message)\n      })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "A user of your project who encounters an error will never be able to see this. Maybe let them know there was an error via a \"oops, something went wrong\" type of page.\n\n*controllers/projects.js (Lines 58-60)*\n```.catch ( (error) =&gt; {\n          console.log(error.message)\n      })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552194646.010300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Try adding an array of todos object ids to the project, and populating the project when you retrieve it.\u00a0", 
+        "ts": 1552194526, 
+        "callback_id": "codestream://codemark/5c849bde5e60d718db72511d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/controllers/projects.js#L42-L47|*controllers/projects.js (Lines 42-47)*>\n```Project.findById(req.params.id).then((project) =&gt; {\n          Todo.find({projectId: req.params.id}).then(todos =&gt; {\n              console.log(\"THIS IS TODO\" + todos)\n              res.render('projects-show', {project: project, todos: todos })\n          })\n      })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Try adding an array of todos object ids to the project, and populating the project when you retrieve it.\u00a0\n\n*controllers/projects.js (Lines 42-47)*\n```Project.findById(req.params.id).then((project) =&gt; {\n          Todo.find({projectId: req.params.id}).then(todos =&gt; {\n              console.log(\"THIS IS TODO\" + todos)\n              res.render('projects-show', {project: project, todos: todos })\n          })\n      })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552194526.010200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Props on creating a frontend, though it is extremely barebones. And is basically a simplified rotten potatoes. There's not even any authentication...", 
+        "ts": 1552194329, 
+        "callback_id": "codestream://codemark/5c849b195e60d718db72511a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/app.js#L18|*app.js (Line 18)*>\n```app.set('view engine', 'handlebars');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Props on creating a frontend, though it is extremely barebones. And is basically a simplified rotten potatoes. There's not even any authentication...\n\n*app.js (Line 18)*\n```app.set('view engine', 'handlebars');```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552194329.010100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "This is the bare minimum of a schema, and doesn't really utilize the advantages of using a schema. The title should probably be required. Maybe add the creation date, the user who created the project, etc..", 
+        "ts": 1552194126, 
+        "callback_id": "codestream://codemark/5c849a4e4a0bf1125dc9444a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/295b3570c3a27bc2755c29744c5c57b923545a2a/models/project.js#L5-L8|*models/project.js (Lines 5-8)*>\n```const Project = mongoose.model('Project', {\n    title: String,\n    description: String,\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This is the bare minimum of a schema, and doesn't really utilize the advantages of using a schema. The title should probably be required. Maybe add the creation date, the user who created the project, etc..\n\n*models/project.js (Lines 5-8)*\n```const Project = mongoose.model('Project', {\n    title: String,\n    description: String,\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552194126.010000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "This file is useless, why not just delete it?", 
+        "ts": 1552193927, 
+        "callback_id": "codestream://codemark/5c8499875aa0d01262fdb3bc?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/295b3570c3a27bc2755c29744c5c57b923545a2a/routes/routes.js#L45|*routes/routes.js (Line 45)*>\n```}```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "This file is useless, why not just delete it?\n\n*routes/routes.js (Line 45)*\n```}```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552193927.009900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "There's no need to reinstantiate express. Especially since you are passing in express \"app\" in your exported function.", 
+        "ts": 1552193704, 
+        "callback_id": "codestream://codemark/5c8498a8a5969918d6f2999d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/controllers/projects.js#L4-L10|*controllers/projects.js (Lines 4-10)*>\n```const app = express()\nconst Project = require('../models/project');\n// var express = require('express')\n// var router = express.Router()\n\n\nmodule.exports = (app) =&gt; {```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "There's no need to reinstantiate express. Especially since you are passing in express \"app\" in your exported function.\n\n*controllers/projects.js (Lines 4-10)*\n```const app = express()\nconst Project = require('../models/project');\n// var express = require('express')\n// var router = express.Router()\n\n\nmodule.exports = (app) =&gt; {```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552193704.009800", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "You attempted to use a nested route, but then instantiate your controllers as unnested routes.", 
+        "ts": 1552193531, 
+        "callback_id": "codestream://codemark/5c8497fb5aa0d01262fdb3b9?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/app.js#L29-L33|*app.js (Lines 29-33)*>\n```app.use('/project', projects);\n// <http://localhost/project/projects/:id/edit>\n\ntodosController(app);\nprojectsController(app);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "You attempted to use a nested route, but then instantiate your controllers as unnested routes.\n\n*app.js (Lines 29-33)*\n```app.use('/project', projects);\n// <http://localhost/project/projects/:id/edit>\n\ntodosController(app);\nprojectsController(app);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552193531.009700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Why import the same file twice?", 
+        "ts": 1552193437, 
+        "callback_id": "codestream://codemark/5c84979d5e60d718db725116?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/app.js#L23-L26|*app.js (Lines 23-26)*>\n```const projectsController = require('./controllers/projects.js')\n\n\nconst projects = require('./controllers/projects');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why import the same file twice?\n\n*app.js (Lines 23-26)*\n```const projectsController = require('./controllers/projects.js')\n\n\nconst projects = require('./controllers/projects');```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552193437.009600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "Why comment out the original, and replace it with one that doesn't console log that the server is running?\u00a0", 
+        "ts": 1552193151, 
+        "callback_id": "codestream://codemark/5c84967f4a0bf1125dc94446?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/thecodingsophist/api-project/blob/37383ee441c3e67dcc76cb4263797639c3ef7f4b/app.js#L35-L38|*app.js (Lines 35-38)*>\n```app.listen(port);\n// app.listen(3000, () =&gt; {\n//     console.log('App listening on port 3000!')\n// })```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Why comment out the original, and replace it with one that doesn't console log that the server is running?\u00a0\n\n*app.js (Lines 35-38)*\n```app.listen(port);\n// app.listen(3000, () =&gt; {\n//     console.log('App listening on port 3000!')\n// })```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552193152.009100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "7aba5d", 
+        "text": "----------------------Colleen Project Start----------------------", 
+        "ts": 1552192892, 
+        "callback_id": "codestream://codemark/5c84957ca5969918d6f2999a?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "----------------------Colleen Project Start----------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552192892.008700", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "--------------------Cherrish Project End--------------------", 
+        "ts": 1552191083, 
+        "callback_id": "codestream://codemark/5c848e6b4a0bf1125dc94440?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Cherrish Project End--------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552191084.008600", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "Overall just a simple crud app with no authentication.", 
+        "ts": 1552191054, 
+        "callback_id": "codestream://codemark/5c848e4e4a0bf1125dc9443c?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/8968615d12ac68f4bc80893b4164221d37af039e/server.js#L30|*server.js (Line 30)*>\n```app.use('/', profileController);```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Overall just a simple crud app with no authentication.\n\n*server.js (Line 30)*\n```app.use('/', profileController);```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552191055.008500", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "Are all of them required? Bronn for example doesn't have a house.", 
+        "ts": 1552190957, 
+        "callback_id": "codestream://codemark/5c848ded5e60d718db725112?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/d8adcebea964d916e8dcb1fe776af15ce2d4fda0/models/profile.js#L6-L31|*models/profile.js (Lines 6-31)*>\n```const ProfileSchema = new Schema({\n  name: {\n    type: String,\n    required: true,\n  },\n  AKA: {\n    type: Array,\n    required: true,\n  },\n  house: {\n    type: Array,\n    required: true,\n  },\n  allies: {\n    type: Array,\n    required: true,\n  },\n  against: {\n    type: Array,\n    required: true,\n  },\n  status: {\n    type: String,\n    required: true,\n  },\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Are all of them required? Bronn for example doesn't have a house.\n\n*models/profile.js (Lines 6-31)*\n```const ProfileSchema = new Schema({\n  name: {\n    type: String,\n    required: true,\n  },\n  AKA: {\n    type: Array,\n    required: true,\n  },\n  house: {\n    type: Array,\n    required: true,\n  },\n  allies: {\n    type: Array,\n    required: true,\n  },\n  against: {\n    type: Array,\n    required: true,\n  },\n  status: {\n    type: String,\n    required: true,\n  },\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190958.008400", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "You should return the data that was manipulated in your response. Again, inconsistent responses. Why .send one and .json the other?", 
+        "ts": 1552190886, 
+        "callback_id": "codestream://codemark/5c848da7a5969918d6f29996?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/d8adcebea964d916e8dcb1fe776af15ce2d4fda0/controllers/profiles.js#L39-L53|*controllers/profiles.js (Lines 39-53)*>\n```// UPDATE\nrouter.put('/profiles/:id/edit', (req, res) =&gt; {\n  Profile.findByIdAndUpdate(req.params.id, req.body)\n    .then(() =&gt; {\n      res.send({ status: 200 });\n    });\n});\n\n// DELETE\nrouter.delete('/profiles/:id/delete', (req, res) =&gt; {\n  Profile.findByIdAndRemove(req.params.id)\n    .then(() =&gt; {\n      res.json({ status: 200 });\n    });\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "You should return the data that was manipulated in your response. Again, inconsistent responses. Why .send one and .json the other?\n\n*controllers/profiles.js (Lines 39-53)*\n```// UPDATE\nrouter.put('/profiles/:id/edit', (req, res) =&gt; {\n  Profile.findByIdAndUpdate(req.params.id, req.body)\n    .then(() =&gt; {\n      res.send({ status: 200 });\n    });\n});\n\n// DELETE\nrouter.delete('/profiles/:id/delete', (req, res) =&gt; {\n  Profile.findByIdAndRemove(req.params.id)\n    .then(() =&gt; {\n      res.json({ status: 200 });\n    });\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190887.008300", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "-You're missing catch statements on all your promises. \n-Your responses are inconsistent in format. Some send a json, some send the data directly, some set the status, others send the status via a json. You should stick to one format throughout all your responses.", 
+        "ts": 1552190834, 
+        "callback_id": "codestream://codemark/5c848d72a5969918d6f29993?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/d8adcebea964d916e8dcb1fe776af15ce2d4fda0/controllers/profiles.js#L8-L53|*controllers/profiles.js (Lines 8-53)*>\n```// INDEX to see all profile documents\nrouter.get('/profiles', (req, res) =&gt; {\n  Profile.find().then((profiles) =&gt; {\n    res.send(profiles);\n  });\n});\n\n// CREATE a new profile document (via Postman, Insomnia)\n<http://router.post|router.post>('/profiles/new', (req, res) =&gt; {\n  const profile = new Profile(req.body);\n  profile.save().then((profile) =&gt; {\n    res.status(200).json(profile);\n  });\n});\n\n// SHOW profiles based on a single trait\nrouter.get('/profiles/trait', (req, res) =&gt; {\n  console.log(req.query);\n  Profile.find(req.query)\n    .then((profiles) =&gt; {\n      res.send(profiles);\n    });\n});\n\n// SHOW a single profile document\nrouter.get('/profiles/:id', (req, res) =&gt; {\n  Profile.findById(req.params.id).then((profile) =&gt; {\n    res.json(profile);\n  });\n});\n\n// UPDATE\nrouter.put('/profiles/:id/edit', (req, res) =&gt; {\n  Profile.findByIdAndUpdate(req.params.id, req.body)\n    .then(() =&gt; {\n      res.send({ status: 200 });\n    });\n});\n\n// DELETE\nrouter.delete('/profiles/:id/delete', (req, res) =&gt; {\n  Profile.findByIdAndRemove(req.params.id)\n    .then(() =&gt; {\n      res.json({ status: 200 });\n    });\n});```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "-You're missing catch statements on all your promises. \n-Your responses are inconsistent in format. Some send a json, some send the data directly, some set the status, others send the status via a json. You should stick to one format throughout all your responses.\n\n*controllers/profiles.js (Lines 8-53)*\n```// INDEX to see all profile documents\nrouter.get('/profiles', (req, res) =&gt; {\n  Profile.find().then((profiles) =&gt; {\n    res.send(profiles);\n  });\n});\n\n// CREATE a new profile document (via Postman, Insomnia)\n<http://router.post|router.post>('/profiles/new', (req, res) =&gt; {\n  const profile = new Profile(req.body);\n  profile.save().then((profile) =&gt; {\n    res.status(200).json(profile);\n  });\n});\n\n// SHOW profiles based on a single trait\nrouter.get('/profiles/trait', (req, res) =&gt; {\n  console.log(req.query);\n  Profile.find(req.query)\n    .then((profiles) =&gt; {\n      res.send(profiles);\n    });\n});\n\n// SHOW a single profile document\nrouter.get('/profiles/:id', (req, res) =&gt; {\n  Profile.findById(req.params.id).then((profile) =&gt; {\n    res.json(profile);\n  });\n});\n\n// UPDATE\nrouter.put('/profiles/:id/edit', (req, res) =&gt; {\n  Profile.findByIdAndUpdate(req.params.id, req.body)\n    .then(() =&gt; {\n      res.send({ status: 200 });\n    });\n});\n\n// DELETE\nrouter.delete('/profiles/:id/delete', (req, res) =&gt; {\n  Profile.findByIdAndRemove(req.params.id)\n    .then(() =&gt; {\n      res.json({ status: 200 });\n    });\n});```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190835.008200", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "There's no need to reinstantiate express.", 
+        "ts": 1552190754, 
+        "callback_id": "codestream://codemark/5c848d225aa0d01262fdb3b5?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/d8adcebea964d916e8dcb1fe776af15ce2d4fda0/controllers/profiles.js#L3|*controllers/profiles.js (Line 3)*>\n```const express = require('express');```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "There's no need to reinstantiate express.\n\n*controllers/profiles.js (Line 3)*\n```const express = require('express');```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190754.008100", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "Missing from the config defaults. The name can be confusing as the only time you would connect to your production database is on your live deployment. A developer working on this would connect to thier local database.\u00a0", 
+        "ts": 1552190672, 
+        "callback_id": "codestream://codemark/5c848cd05e60d718db72510d?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fields": [
+          {
+            "short": false, 
+            "value": "<https://github.com/cherishkim42/asoiaf-api/blob/8968615d12ac68f4bc80893b4164221d37af039e/server.js#L16|*server.js (Line 16)*>\n```process.env.ATLAS_CONNECTION```", 
+            "title": ""
+          }
+        ], 
+        "fallback": "Missing from the config defaults. The name can be confusing as the only time you would connect to your production database is on your live deployment. A developer working on this would connect to thier local database.\u00a0\n\n*server.js (Line 16)*\n```process.env.ATLAS_CONNECTION```", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190672.008000", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "attachments": [
+      {
+        "footer": "Posted via CodeStream", 
+        "color": "3578ba", 
+        "text": "--------------------Cherrish Project Start---------------------", 
+        "ts": 1552190627, 
+        "callback_id": "codestream://codemark/5c848ca3a5969918d6f29991?teamId=5c60fa079b72a0266829460f", 
+        "mrkdwn_in": [
+          "fields", 
+          "pretext", 
+          "text"
+        ], 
+        "fallback": "--------------------Cherrish Project Start---------------------", 
+        "id": 1
+      }
+    ], 
+    "text": "Luc commented on code /cc ", 
+    "ts": "1552190627.007900", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "bot_id": "BGU9BQYCD"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1552184327.007300", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1552184323.007100", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1552184319.006900", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1552184315.006700", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1552184309.006500", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1552184306.006300", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1552184293.006100", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1552184289.005900", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1552184285.005700", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1552184281.005500", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1552184276.005300", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1552184273.005100", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1552184267.004900", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1552184264.004700", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1552184260.004500", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1552184254.004300", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBC6K65P> has joined the channel", 
+    "ts": "1552184246.004100", 
+    "subtype": "channel_join", 
+    "user": "UCBC6K65P", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1552184241.003900", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1552184236.003700", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1552184227.003500", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1552184221.003300", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1552184217.003100", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1552184213.002900", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1552184209.002700", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1552184193.002500", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1552184187.002300", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1552184183.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1552184179.001900", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1552184175.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1552184170.001500", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1552184157.001300", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1552184146.001100", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1552184140.000900", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1552184063.000700", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: Feedback on the Custom API project.", 
+    "ts": "1552183220.000500", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "Feedback on the Custom API project."
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1552183127.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552183111.000200", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }
+]

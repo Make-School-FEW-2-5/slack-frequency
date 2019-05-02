@@ -1,0 +1,680 @@
+[
+  {
+    "client_msg_id": "5a233555-518c-49c1-9f6d-1e3a267df75a", 
+    "thread_ts": "1556652438.002300", 
+    "text": "Thank you for letting me know. I hope you feel better!", 
+    "ts": "1556652981.002700", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "UCBS25JKD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "11D90D7A-968B-4EB4-BAFC-391D9C5405D0", 
+    "thread_ts": "1556652438.002300", 
+    "latest_reply": "1556652981.002700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCJ72FALU"
+    ], 
+    "text": "Sorry I\u2019m having migraines this morning so I won\u2019t be at school today", 
+    "ts": "1556652438.002300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBS25JKD", 
+    "replies": [
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1556652981.002700"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d315c9d6-5438-4b88-a120-b66b2ea14c64", 
+    "text": "<!channel> Looking forward to seeing you at Level-Up at 12:30! Anne will be walking us through some CS material :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1556651546.001400"
+  }, 
+  {
+    "client_msg_id": "f58a339f-f130-4b72-867b-0c5ba1d02b88", 
+    "text": "<!channel> Meeting in Machu Picchu now!", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1556048008.001900"
+  }, 
+  {
+    "client_msg_id": "24F22062-9EE5-4582-BF02-594D80C1DA67", 
+    "text": "I\u2019ll be a few minutes late coming back from lunch", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1556047468.001200"
+  }, 
+  {
+    "client_msg_id": "e9c542aa-b30c-4c46-aa2a-0132c692152d", 
+    "edited": {
+      "user": "UCBHEGLKB", 
+      "ts": "1556047046.000000"
+    }, 
+    "text": "I may be a few minutes late but I'll be there", 
+    "ts": "1556047039.000500", 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel topic: Level Up Progress Tracker: <http://make.sc/level-up-progress|make.sc/level-up-progress>", 
+    "ts": "1555445542.002600", 
+    "topic": "Level Up Progress Tracker: <http://make.sc/level-up-progress|make.sc/level-up-progress>", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25JKD> set the channel topic: <https://docs.google.com/spreadsheets/d/19mGqxys9X43rGbC7yvANSoiM1zljOKKXmxdjUnZ5yyQ/edit#gid=685814274>", 
+    "ts": "1555443771.002500", 
+    "topic": "<https://docs.google.com/spreadsheets/d/19mGqxys9X43rGbC7yvANSoiM1zljOKKXmxdjUnZ5yyQ/edit#gid=685814274>", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25JKD", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25JKD> set the channel topic: <https://makeschoolstudents.slack.com/archives/CFSJLJZ3P/p1554839165002500>", 
+    "ts": "1555443750.002400", 
+    "topic": "<https://makeschoolstudents.slack.com/archives/CFSJLJZ3P/p1554839165002500>", 
+    "subtype": "channel_topic", 
+    "user": "UCBS25JKD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "40888d8c-f8e9-4665-9d48-95fb91687f71", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "mountain", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "woman_climbing", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAMHRDL"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man_climbing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> I am looking forward to seeing everyone today at 12:30pm in Machu Picchu :slightly_smiling_face::make-school:", 
+    "ts": "1555434215.000900", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d9d66490-a084-432a-b48f-9f36465b3296", 
+    "text": "<https://docs.google.com/document/d/1VFbkw0v7ueSJ-yp0dc7NnVU6D7fqew7hO-7BW6yTu3w/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCBP5EN5S", 
+    "ts": "1554840536.003700"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1554840233.003500", 
+    "text": "<@UCBQLD4M8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1554840228.003300", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1554840219.003100", 
+    "text": "<@UCBS3LMDZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1554840211.002900", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1554840197.002700", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "715ce68d-6d9e-4d27-9fc4-04ec2fd7d4b8", 
+    "text": "<https://docs.google.com/spreadsheets/d/19mGqxys9X43rGbC7yvANSoiM1zljOKKXmxdjUnZ5yyQ/edit#gid=685814274>", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1554839165.002500"
+  }, 
+  {
+    "client_msg_id": "ae22b99b-c982-4a2e-85c1-1c1d560e8682", 
+    "text": "Link your academic success plans into the course progress tracker.", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1554839113.002300"
+  }, 
+  {
+    "client_msg_id": "3891f82c-2057-4988-aca9-dec846344bf0", 
+    "text": "<https://docs.google.com/document/d/1A8d5N-d_tE927JTc7AwaoBB0wKU0rliA8r1FO6k_skw/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCHK87XEJ", 
+    "ts": "1554838636.001600"
+  }, 
+  {
+    "client_msg_id": "a76b31d9-f3f6-49fb-8286-58f6cda5dad6", 
+    "text": "<https://docs.google.com/document/d/1tuvHsPQGwE6aEmzymfxuJECQ8-bcA3B8aPPbdZNhwZU/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1554838425.001400"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1554838392.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1554838392.001000", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1554838391.000800", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1554838391.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1554838391.000400", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1554838391.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554242193.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "client_msg_id": "6f8f4789-c734-4ea9-b527-7b59f5e080c1", 
+    "text": "Hey is there anyone around to help me get unblocked with a Python issue? I'm stuck trying to figure out urlretrieve() in regard to importing thumbnails from the Google Slides API", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1553114324.001300"
+  }, 
+  {
+    "client_msg_id": "b58a52b1-7b7c-44a0-a896-e08771320698", 
+    "edited": {
+      "user": "UC45RJQ7M", 
+      "ts": "1551811888.000000"
+    }, 
+    "text": "<!channel> For our last level up meeting of the term, we are focusing on studying for final exams.  Bring your study guides and work solo or ask myself or other students for help on any concepts you don't feel strong on.\n\n*Pro Tip: * If your final exam will be paper and pencil, print your study guide and practice writing answers on paper.\n\nAttendance is required unless you have previously spoken with Caroline or I", 
+    "ts": "1551811858.003200", 
+    "user": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7ebba7f7-cc83-4b65-8626-8a290250149e", 
+    "text": "<!channel> I am sorry to have missed the level-up meeting! Please feel free to reach out to me if you need anything.", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1551219478.001100"
+  }, 
+  {
+    "client_msg_id": "e091c373-1c3c-41b1-9809-5454118f0b48", 
+    "thread_ts": "1551208537.002600", 
+    "text": "Rip totally forgot about it I was coding from home this morning ", 
+    "ts": "1551215487.000100", 
+    "user": "UCBQLD4M8", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "662EC505-8CA7-401C-975F-B27793F09800", 
+    "thread_ts": "1551208537.002600", 
+    "text": "I\u2019m out sick today, see you all next week ", 
+    "ts": "1551212322.004900", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f79dab72-4d1a-4481-b8fc-60cbeee699f0", 
+    "text": "<@UC45RJQ7M> I have a meeting with an industry contact this morning I will not be able to attend level-up today.", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1551209537.004100"
+  }, 
+  {
+    "client_msg_id": "b6620787-a9c6-42dd-9b75-972834338550", 
+    "thread_ts": "1551208537.002600", 
+    "latest_reply": "1551215487.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "UCBQLD4M8"
+    ], 
+    "text": "<@UCBQLD4M8> <@UCBHS9M3N> <@UCB91TXS4> <@UCB3PRBME> Level up office hours are happening NOW..  Please join us in Macchu Pichu", 
+    "ts": "1551208537.002600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC45RJQ7M", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1551212322.004900"
+      }, 
+      {
+        "user": "UCBQLD4M8", 
+        "ts": "1551215487.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "676429df-f97e-4ecb-9753-6369e9db43ce", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel> - looking forward to seeing everyone in Level Up session today.  We will start by building out success timelines for the rest of the term, and discussing study strategies for your final exams (20 min) the rest of the time will be for pair coding / asking for help.", 
+    "ts": "1551206833.001600", 
+    "user": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b4aaf5c-2768-46af-9237-2c8163c72f5c", 
+    "text": "Typo above - Level Up is 12:00 not 12:30", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550606975.002300"
+  }, 
+  {
+    "client_msg_id": "c2f71141-7a12-4a23-99d6-db0cedc65218", 
+    "text": "<@UCBD9KCQH>   <@UCB3PRBME> <@UCC0GL52N>", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550606846.001900"
+  }, 
+  {
+    "client_msg_id": "e7c98a75-2fec-4cd7-a242-3a0ae77a05b8", 
+    "text": "<!channel> ^^", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550606742.001200"
+  }, 
+  {
+    "client_msg_id": "299dcb81-cebe-4d48-97f1-b878a098cf40", 
+    "text": "Hi Level Up Crew.  We should be meeting in Machu Picchu now for Level Up Office hours.  <@U1HBKMW8Y> will be joining us.", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550606602.000800"
+  }, 
+  {
+    "client_msg_id": "15be8e28-c25c-4cbf-8b37-09036082de21", 
+    "text": "Indeed, next Tuesday at 12pm I\u2019ll lead a Level Up session on Linked Lists and help unblock you on the challenges.\n\nOver the long weekend, you should *make a solid attempt* to implement the *Linked List challenges* listed in the course repo (<http://make.sc/cs12-repo|make.sc/cs12-repo>) and *prioritize those over other challenges you may be behind on*. In particular, it\u2019s most important to attempt the `append`, `prepend`, and `length` method implementations, as we\u2019ll be reviewing those first during Level Up office hours next Tuesday at 12pm.\n\nLinked Lists are also an ingredient necessary to understand and implement Hash Tables, which is the next major topic we\u2019ll learn during Tuesday\u2019s CS 1.2 class at 3:30pm, so *making effective use of this weekend* to focus on the Linked List challenges will *set you up for success* next week.\n\nYou should *pair program and study with classmates* to review material presented in class using the resources in the course repo. That\u2019s a fun and effective way to work through the challenges and learn with your peers.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1550287287.005600"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1550268807.005200", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "client_msg_id": "c336b783-eec5-4bf0-ae0a-c3e0db20f8f9", 
+    "text": "Hello Level Up-ers!!\n- Next Tuesday - Level Up Office hours are moved to 12:30 - 1:30 since Monday SPD class was moved to Tuesday for the holiday.   Please grab your lunch quickly at 12 and make any other adjustments you need to be there.\n- We will combine with <@U1HBKMW8Y>'s office hours and spend time digging into Linked Lists together.\n- To make this hour super effective, please make sure to start on the Linked List assignment over the weekend. (Details from <@U1HBKMW8Y> to follow).", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550268804.005000"
+  }, 
+  {
+    "client_msg_id": "31fe2f7c-49b2-4e14-b6fb-0a0e35b90b01", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Ok.  Thanks for the heads up on this Stephanie and for your debugging help with Histograms today.", 
+    "ts": "1549404650.002300", 
+    "user": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4916e120-3b08-4b9f-a55e-9cbae655fc6c", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1549495942.000000"
+    }, 
+    "text": "For the meeting on Tuesday the 12th of February, I won't be able to stay for the full time because I have another meeting at 12:30. I'll change it for the next coming weeks so there will be no conflict next time, though.", 
+    "ts": "1549400850.001500", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5da9d3ed-7a07-4d16-b723-1e3c8b368ff7", 
+    "text": "Hey team.  Let's start in 10 minutes (at 11:40) to allow Jeremy to finish ISA Q&amp;A", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1549394949.001200"
+  }, 
+  {
+    "client_msg_id": "2d18d4c8-7fd1-4380-b950-b99c1cdff695", 
+    "text": "<!channel> Please Vote", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1549317976.003200"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Hello level-uppers!  Thank you for filling out your Academic Success Plans.  I want to make our level-up office hour on Tuesday a valuable experience for you.  Can you vote in the poll below for what you would most benefit from.", 
+        "color": "6ecadc", 
+        "fields": [
+          {
+            "short": false, 
+            "value": ":one: Debugging    `2`\n<@UCB3PRBME>, <@UCBD9KCQH>\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":two: Pair Programming on CS 1.2 Assignment    `3`\n<@UCC0GL52N>, <@UCBS3LMDZ>, <@UCB3PRBME>\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":three: How to ask for help    `3`\n<@UCD1JVCJ3>, <@UCBS3LMDZ>, <@UCBD9KCQH>\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":four: Other (add your topic to the thread)\n\n\n", 
+            "title": ""
+          }
+        ], 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 1
+      }, 
+      {
+        "callback_id": "5b193efe-4007-4648-8f51-1de7c602e2b8", 
+        "color": "6ecadc", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 2, 
+        "actions": [
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":one:", 
+            "value": "1", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":two:", 
+            "value": "2", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":three:", 
+            "value": "3", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":four:", 
+            "value": "4", 
+            "type": "button", 
+            "id": "4"
+          }, 
+          {
+            "style": "danger", 
+            "name": "delete-v2", 
+            "confirm": {
+              "text": "Are you sure you want to delete the Poll?", 
+              "dismiss_text": "No", 
+              "title": "Delete Poll?", 
+              "ok_text": "Yes"
+            }, 
+            "text": "Delete Poll", 
+            "value": "", 
+            "type": "button", 
+            "id": "5"
+          }
+        ]
+      }, 
+      {
+        "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/product-college/settings/|Edit Settings>", 
+        "color": "6ecadc", 
+        "callback_id": "5b193efe-4007-4648-8f51-1de7c602e2b8", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+        "id": 3
+      }
+    ], 
+    "text": "", 
+    "ts": "1549306725.002400", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BFDG47ZBM"
+  }, 
+  {
+    "text": "/poll \"Hello level-uppers!  Thank you for filling out your Academic Success Plans.  I want to make our level-up office hour on Tuesday a valuable experience for you.  Can you vote in the poll below for what you would most benefit from.\" \"Debugging\" \"Pair Programming on CS 1.2 Assignment\" \"How to ask for help\" \"Other (add your topic to the thread)\"", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1549306725.002300"
+  }, 
+  {
+    "client_msg_id": "8eb92453-ffb0-47ac-ad86-0ce3dcda0ec8", 
+    "text": "<@UCBS3LMDZ>, <@UCBQLD4M8> Please check in with why you weren't able to make it to the level up office hour today.", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548790754.008400"
+  }, 
+  {
+    "client_msg_id": "003b78fa-34d9-47d4-a32a-653d933f5910", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rocket", 
+        "users": [
+          "UCB91TXS4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hero", 
+        "users": [
+          "UCB91TXS4"
+        ]
+      }
+    ], 
+    "text": "<@UCB91TXS4> - sorry to hear you are sick. To catch up from today  please do the following:\n1. Create a google doc \"KJ Academic Success Plan\" and share it with <mailto:caroline@makeschool.com|caroline@makeschool.com> and <mailto:anne@makeschool.com|anne@makeschool.com>\n2. In the doc - list 3 things you need to improve your academic success here at Make School.\n3. Also list what you will do (and be held accountable for) - this should include attending 1 office hour per week with each instructor, attending level up office hour, meeting with your coach, and anything else you can think of to help you succeed.\n\nOnce you have created and shared that document - Caroline will be reaching out to help you stay accountable to the things on it, and I will be running these office hours to also support you.", 
+    "ts": "1548790672.007500", 
+    "user": "UC45RJQ7M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d9caf28e-7afe-4009-9af8-8bd0b0c4a44f", 
+    "text": "out sick", 
+    "type": "message", 
+    "user": "UCB91TXS4", 
+    "ts": "1548788902.003000"
+  }, 
+  {
+    "client_msg_id": "db40b0c8-d779-4f2e-9e59-2af93db06875", 
+    "text": "Hi all.  We are meeting in Machu Picchu room from now until 12.", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548788807.002800"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1548788766.002100", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1548788766.001900", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1548788766.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1548788766.001500", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1548788765.001300", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1548788765.001100", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1548788765.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1548788765.000700", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1548788765.000500", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UC45RJQ7M> set the channel purpose: Academic Success Channel", 
+    "ts": "1548788764.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC45RJQ7M", 
+    "type": "message", 
+    "purpose": "Academic Success Channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548788764.000200", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }
+]

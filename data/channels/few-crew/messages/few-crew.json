@@ -1,0 +1,4631 @@
+[
+  {
+    "client_msg_id": "5b76880c-cd42-44bf-a816-8eee2c05d948", 
+    "thread_ts": "1556667617.035500", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB58P2V6", 
+          "UCDAETD5L", 
+          "UCBS25XMZ", 
+          "UF83RJTHD"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBKC02JY", 
+          "UF83RJTHD"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "zap", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCDAETD5L", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "The Deco team used to work out of Make School\u2019s building ~3 years ago.", 
+    "ts": "1556668253.035700", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "92c1feaa-b375-4179-85a4-a68f827a5ccb", 
+    "thread_ts": "1556667617.035500", 
+    "latest_reply": "1556668253.035700", 
+    "attachments": [
+      {
+        "thumb_height": 1024, 
+        "thumb_url": "https://www.decosoftware.com/images/share-image.png", 
+        "thumb_width": 1024, 
+        "original_url": "https://www.decoide.org/", 
+        "text": "The best IDE for building React Native apps is now free and open source.", 
+        "title": "Deco - React Native IDE", 
+        "title_link": "https://www.decoide.org/", 
+        "service_name": "decoide.org", 
+        "from_url": "https://www.decoide.org/", 
+        "fallback": "Deco - React Native IDE", 
+        "service_icon": "https://www.decoide.org/images/favicon-96.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1556668253.035700"
+      }
+    ], 
+    "ts": "1556667617.035500", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "text": "I wanna say this is the best IDE for React Native dev at the moment - <https://www.decoide.org/>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d5d08b75-b22b-45a8-9db2-5b16a1cf58f4", 
+    "thread_ts": "1556659506.034600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cool", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "super cool!", 
+    "ts": "1556659975.034700", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e52b10fd-1742-4df0-a05f-9c88d56d3c67", 
+    "thread_ts": "1556659506.034600", 
+    "latest_reply": "1556659975.034700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "green_apple", 
+        "users": [
+          "UCC0GL52N", 
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "text": "One of the coolest site experiences I've seen in a long time - <https://apps.ua/en/>", 
+    "ts": "1556659506.034600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1556659975.034700"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "599e6c8e-5f45-46d5-89c1-9c1545d313df", 
+    "thread_ts": "1556595527.033600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "^ :make-school::stackoverflow:: <http://make.sc/stackoverflow|make.sc/stackoverflow> :wink:", 
+    "ts": "1556595575.034000", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1556595531.033800", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "thread_ts": "1556595527.033600", 
+    "latest_reply": "1556595575.034000", 
+    "attachments": [
+      {
+        "fallback": "[April 29th, 2019 8:32 PM] henry.bowe.jr: Hi gang, this may sound silly but can someone tell me how to properly include a custom css link with a bootstrap link? Much appreciated!", 
+        "author_link": "https://makeschoolstudents.slack.com/team/UCFCFQ7KK", 
+        "color": "D0D0D0", 
+        "text": "Hi gang, this may sound silly but can someone tell me how to properly include a custom css link with a bootstrap link? Much appreciated!", 
+        "footer": "Posted in #general", 
+        "ts": "1556595167.208900", 
+        "author_name": "Henry Bowe", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Henry Bowe", 
+        "from_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1556595167208900", 
+        "author_icon": "https://avatars.slack-edge.com/2018-10-23/462546467123_6c53e3511fee7f4f081d_48.jpg", 
+        "author_id": "UCFCFQ7KK"
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1556595575.034000"
+      }
+    ], 
+    "ts": "1556595527.033600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "text": "", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "284e8d06-91d9-4a03-8b05-c3688a62593d", 
+    "thread_ts": "1556494002.032000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "persevere", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "javascript", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "express_js", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "react", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "node", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "You have almost done this in class and have done most of this between BEW and FEW classes.\n\nMongo Express React Node: You did React, Express and Node in the last project. You've done Mongo in BEW.", 
+    "ts": "1556562154.032700", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ccfb0f04-05a8-4994-ade3-342ab7613166", 
+    "thread_ts": "1556494002.032000", 
+    "text": "Mitch has a few!", 
+    "ts": "1556558585.032500", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dc9d980a-5c83-45e5-8dbc-ee0b3f7760ea", 
+    "thread_ts": "1556494002.032000", 
+    "latest_reply": "1556562154.032700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBKC02JY", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Does Make School have a MERN stack tutorial?", 
+    "ts": "1556494002.032000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1556558585.032500"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1556562154.032700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "38B46EFE-56CA-4DC0-A4F2-5170D073B08D", 
+    "thread_ts": "1556404030.025400", 
+    "text": "^ :make-school::link:: <http://make.sc/stackoverflow|make.sc/stackoverflow> :eyes::wink:", 
+    "ts": "1556414406.031700", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "43E7FFE7-6ABC-4654-A0F6-A31C4C1D5007", 
+    "thread_ts": "1556404030.025400", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stackoverflow", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "react", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "This would be best on ms stack overflow ", 
+    "ts": "1556408891.029800", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E13F9F53-4F5A-4599-A948-BB784A8A8A84", 
+    "thread_ts": "1556404030.025400", 
+    "text": "You also have componentDidMount. With constructor you don\u2019t really need componentWillMount. ", 
+    "ts": "1556408861.028700", 
+    "subtype": "thread_broadcast", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "26700852-6bd7-4528-b72a-2414a8ce1c24", 
+      "thread_ts": "1556404030.025400", 
+      "latest_reply": "1556414406.031700", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCDAETD5L", 
+        "UF83RJTHD", 
+        "U28S64ZJ5", 
+        "U1HBKMW8Y"
+      ], 
+      "text": "Why is `componentWillMount` being depreciated and so considered unsafe to use now? :confused: I feel like it's such a useful life cycle method.", 
+      "ts": "1556404030.025400", 
+      "type": "message", 
+      "reply_count": 7, 
+      "user": "UCDAETD5L", 
+      "replies": [
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1556404443.025500"
+        }, 
+        {
+          "user": "UF83RJTHD", 
+          "ts": "1556408589.026000"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1556408727.026300"
+        }, 
+        {
+          "user": "UCDAETD5L", 
+          "ts": "1556408737.026800"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1556408861.028700"
+        }, 
+        {
+          "user": "U28S64ZJ5", 
+          "ts": "1556408891.029800"
+        }, 
+        {
+          "user": "U1HBKMW8Y", 
+          "ts": "1556414406.031700"
+        }
+      ], 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "A4295DE8-ECBC-4DCA-BB78-12B8FD5E3301", 
+    "thread_ts": "1556404030.025400", 
+    "text": "Interesting I\u2019ll give it a shot :slightly_smiling_face:", 
+    "ts": "1556408737.026800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "BE871258-3CA5-4FAD-A1ED-D5F236D3C377", 
+    "thread_ts": "1556404030.025400", 
+    "text": "Oh no way!", 
+    "ts": "1556408727.026300", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9cd7fc39-e3c1-4db0-8cc2-b25f37a70daf", 
+    "thread_ts": "1556404030.025400", 
+    "text": "You can also fetch data inside the `constructor` if you want to avoid using unsafe lifecycle methods.", 
+    "ts": "1556408589.026000", 
+    "user": "UF83RJTHD", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9d229b34-6396-45c9-b696-04bd85e29af7", 
+    "thread_ts": "1556317970.023000", 
+    "text": "I did figure it out, with an assist from Mitch at the end :slightly_smiling_face: It was a lot of array and data manipulation. I ended up using lodash and momentjs", 
+    "ts": "1556405258.025800", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "402419f5-d028-4901-a592-7a316088730d", 
+    "thread_ts": "1556404030.025400", 
+    "attachments": [
+      {
+        "image_bytes": 183885, 
+        "original_url": "https://hackernoon.com/problematic-react-lifecycle-methods-are-going-away-in-react-17-4216acc7d58b", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Problematic React Lifecycle Methods are Going Away in React 17", 
+        "ts": 1522434067, 
+        "title_link": "https://hackernoon.com/problematic-react-lifecycle-methods-are-going-away-in-react-17-4216acc7d58b", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*OaqFjk6prZYIyeyHwRoE_A.jpeg", 
+        "image_width": 350, 
+        "service_name": "Hacker Noon", 
+        "from_url": "https://hackernoon.com/problematic-react-lifecycle-methods-are-going-away-in-react-17-4216acc7d58b", 
+        "fallback": "Hacker Noon: Problematic React Lifecycle Methods are Going Away in React 17", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+        "text": "Have you had trouble understanding some of the react lifecycle methods and how to implement them without messing up?", 
+        "id": 1
+      }
+    ], 
+    "text": "Found some good reads on it :slightly_smiling_face:\n\n<https://hackernoon.com/problematic-react-lifecycle-methods-are-going-away-in-react-17-4216acc7d58b>\n\nLooks like cWM would run synchronously and so data being fetched from a server would take time causing the render to be called many times, yeah that sounds unsafe wtf I feel like that innately defeats the purpose of it. :joy:\n\nThen I read this response on how do we fetch data from a server to pass in the render now, but I don't think it actually help me. If I read correctly, they're saying that there's gonna be a proper solution in the future but there just isn't an efficient solution rn... so I should continue using the unsafe cWM method in the meantime, I mean I'm cool with 2 renders for now haha.  :confused: <@U28S64ZJ5>\n<https://github.com/reactjs/reactjs.org/issues/727#issuecomment-376857584>", 
+    "ts": "1556404443.025500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "26700852-6bd7-4528-b72a-2414a8ce1c24", 
+    "thread_ts": "1556404030.025400", 
+    "latest_reply": "1556414406.031700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UF83RJTHD", 
+      "U28S64ZJ5", 
+      "U1HBKMW8Y"
+    ], 
+    "text": "Why is `componentWillMount` being depreciated and so considered unsafe to use now? :confused: I feel like it's such a useful life cycle method.", 
+    "ts": "1556404030.025400", 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1556404443.025500"
+      }, 
+      {
+        "user": "UF83RJTHD", 
+        "ts": "1556408589.026000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1556408727.026300"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1556408737.026800"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1556408861.028700"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1556408891.029800"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1556414406.031700"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "e2220269-b76b-4cea-b971-ca25945f4bd0", 
+    "thread_ts": "1556317970.023000", 
+    "text": "Did Mitchell help you debug this? :slightly_smiling_face: I've been meaning to dive into this library soon!", 
+    "ts": "1556403982.024400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9e7e56c0-8529-4437-9e6a-2efa8496d7d8", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1556318212.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stackoverflow", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chart_with_upwards_trend", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "star2", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "^ Posted on MSoverflow if anybody wants to get reputation for responding:\n<https://stackoverflow.com/c/make-school/questions/34>", 
+    "ts": "1556318208.023600", 
+    "user": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c9e2291b-ff86-4eab-b961-e28cc8475f3c", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1556318206.000000"
+    }, 
+    "latest_reply": "1556405258.025800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1556317970.023000", 
+    "text": "anybody have ChartJS experience?\n\nI'm trying to create a Line chart from an array of objects that:\n- automatically infers column labels based on a `Day/Week/Month` toggle\n- figures out the height of the line based on how many objects in the array fit within the date range based on a date property within each object", 
+    "ts": "1556317970.023000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1556403982.024400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1556405258.025800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "3DDFE5AC-F5DC-4E7C-AC12-F137BA77E0D6", 
+    "text": "^ :make-school::link:: <http://make.sc/stackoverflow|make.sc/stackoverflow> :eyes::wink:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1555983898.021400"
+  }, 
+  {
+    "client_msg_id": "892491F7-4083-4A41-A3BB-9B3C4D2138FE", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1::skin-tone-3", 
+        "users": [
+          "UCDAETD5L", 
+          "UF83RJTHD", 
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Might be good to move these conversations to the MS Stackoverflow", 
+    "ts": "1555877941.019700", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1D7E85DA-A532-4542-845B-ABF24D392CEE", 
+    "thread_ts": "1555785263.013300", 
+    "text": "Not sure, I\u2019m looking at your code on my phone, but it looks like you are not using redux thunk. I think you need to handle the sing up action asynchronously. ", 
+    "ts": "1555870109.017900", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B4716B8E-4EEE-405C-9E0A-69F3654F1237", 
+    "thread_ts": "1555785263.013300", 
+    "text": "Are use using Redux-thunk?", 
+    "ts": "1555869931.015500", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1eb97e95-c329-41e5-831d-cb102e7b3cbc", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "star", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS1DSF5", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "javascript", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 320, 
+        "thumb_url": "https://frontarm.com/logo-inverse.png", 
+        "thumb_width": 320, 
+        "original_url": "https://frontarm.com/learn", 
+        "service_name": "Frontend Armory", 
+        "title": "Learning Resources", 
+        "title_link": "https://frontarm.com/learn", 
+        "text": "Level-up your JavaScript mastery.", 
+        "from_url": "https://frontarm.com/learn", 
+        "fallback": "Frontend Armory: Learning Resources", 
+        "service_icon": "https://frontarm.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "This. is lit. <https://frontarm.com/learn>", 
+    "ts": "1555795416.014700", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "adff99f5-99fd-4408-913c-31f6ddc976da", 
+    "thread_ts": "1555785263.013300", 
+    "text": "If you feel inclined, I have documentation in my master branch on how to run the project and you can then just go try and signup and see for yourself as well :slightly_smiling_face:", 
+    "ts": "1555785871.014200", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 297, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ3URJGBH", 
+        "thumb_480_h": 178, 
+        "original_h": 638, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-04-20 at 11.42.23 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ3URJGBH/screen_shot_2019-04-20_at_11.42.23_am.png", 
+        "thumb_720_h": 267, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_80.png", 
+        "thumb_360_h": 134, 
+        "size": 204558, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_800.png", 
+        "timestamp": 1555785809, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ3URJGBH/download/screen_shot_2019-04-20_at_11.42.23_am.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ3URJGBH-255c8b0112", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FJ3URJGBH/screen_shot_2019-04-20_at_11.42.23_am.png", 
+        "name": "Screen Shot 2019-04-20 at 11.42.23 AM.png", 
+        "created": 1555785809, 
+        "thumb_1024_h": 380, 
+        "thumb_960_h": 356, 
+        "original_w": 1720, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ3URJGBH-1183fd4b70/screen_shot_2019-04-20_at_11.42.23_am_720.png"
+      }
+    ], 
+    "thread_ts": "1555785263.013300", 
+    "text": "Here's a snap of my logs", 
+    "upload": true, 
+    "ts": "1555785812.013800", 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "885bb1ba-a172-4736-8beb-74fdf1ead87e", 
+    "thread_ts": "1555785263.013300", 
+    "text": "and then my distgusting redux store that i need to refactor into seperate smaller files (signup func line 24) <https://github.com/AwesomeZaidi/Digital-Menu-Frontend/blob/v1/asim/src/redux/actions/index.js>", 
+    "ts": "1555785593.013600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "273bd12f-16c8-4b7e-9c9d-f6140eefa85a", 
+    "thread_ts": "1555785263.013300", 
+    "text": "Here's the signup form you can see with the handleSubmit function - <https://github.com/AwesomeZaidi/Digital-Menu-Frontend/blob/v1/asim/src/pages/Signup/Signup.js>", 
+    "ts": "1555785542.013400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5a9c47ae-913c-4fdb-98a6-cc02582ddb35", 
+    "thread_ts": "1555785263.013300", 
+    "latest_reply": "1555870109.017900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Anyone have some time to help me debug a React Redux bug I'm dealing with? I have a signup form with a button `type submit` and the form `onSubmit` calls my function `handleSubmit` that `prevents default`, then calls my redux action handler function `this.props.signup` which  `returns dispatcher` that does an `<http://axios.post|axios.post>` to my backend route and returns some data.. it kind of works, but im getting a `400 error` from the back end also when logging things for some reason my handleSubmit function is hit, which goes to my action handler func where the signupState passed in is logged right away, but then instead of going straight into the dispatcher, the handleSubmit is called again, then the state is printed again, then the dispatcher returns with the data from the backend, seems super weird  - something about the event loop of things here that's off but i'm not sure why.", 
+    "ts": "1555785263.013300", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1555785542.013400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1555785593.013600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1555785812.013800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1555785871.014200"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1555869931.015500"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1555870109.017900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "15d81b1b-fd74-4e40-8c39-597ea61dc03b", 
+    "thread_ts": "1555695093.004900", 
+    "text": "Thank You <@U6YCV95L7> and <@UCD53TKCN>", 
+    "ts": "1555696210.006600", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2ccb9572-ce92-4ef8-a976-28e9d079deb2", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1555695915.000000"
+    }, 
+    "thread_ts": "1555695093.004900", 
+    "text": "Also check to see if you can restrict the origin of where the key can be used from. If you can\u2019t hide the key within the backend, the next best step you can take is to isolate where calls from the api key/token can originate from. (For instance, your domain or IP)", 
+    "ts": "1555695862.006000", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "981bfa8f-279e-47b8-ad00-3f143a2b20a1", 
+    "thread_ts": "1555695093.004900", 
+    "attachments": [
+      {
+        "app_unfurl_url": "https://stackoverflow.com/questions/1364858/what-steps-should-i-take-to-protect-my-google-maps-api-key", 
+        "title": "What steps should I take to protect my Google Maps API Key?", 
+        "color": "F48024", 
+        "text": "I have obtained a Google Maps API key for my domain.\n\nThe examples provided when I obtained my key show the key embedded in request parameters, for example:\n\n&lt;script src=\"<http://maps.google.com/maps?file=api&amp;amp;v=2&amp;amp;sensor=true_or_false&amp;amp;key=my-key>\" type=\"text/javascript\"&gt;&lt;/script&gt;\nI appreciate that the referrer field in requests must match my domain, is it safe to make my key visible in script tags and the like? Or are there any other steps I should take?", 
+        "footer": "Asked by brabster", 
+        "ts": 1251842396, 
+        "author_name": "Question - Stack Overflow", 
+        "title_link": "https://stackoverflow.com/questions/1364858/what-steps-should-i-take-to-protect-my-google-maps-api-key", 
+        "actions": [
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Answer&context=Question&url=%2fquestions%2f1364858%2fwhat-steps-should-i-take-to-protect-my-google-maps-api-key%23answer", 
+            "text": "Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Comment&context=Question&url=%2fquestions%2f1364858%2fwhat-steps-should-i-take-to-protect-my-google-maps-api-key%23addcomment_1364858", 
+            "text": "Comment", 
+            "style": "", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=Notify&context=Question&url=%2fquestions%2f1364858%2fwhat-steps-should-i-take-to-protect-my-google-maps-api-key%23notify", 
+            "text": "Suggest People to Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "url": "https://stackoverflow.com/integrations/slack/redirect?actionButton=ViewAcceptedAnswer&context=Question&url=%2fquestions%2f1364858%2fwhat-steps-should-i-take-to-protect-my-google-maps-api-key%2f1364883%231364883", 
+            "text": "View Accepted Answer", 
+            "style": "", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "mrkdwn_in": [
+          "text", 
+          "fields"
+        ], 
+        "fallback": "What steps should I take to protect my Google Maps API Key?", 
+        "id": 1, 
+        "is_app_unfurl": true, 
+        "bot_id": "BH56XJUSE"
+      }, 
+      {
+        "original_url": "https://www.simonewebdesign.it/how-to-get-environment-variables-in-the-browser/", 
+        "text": "Blog about software development. Tips and tricks on JavaScript, Ruby, Elixir, Elm, and more. Simone Vittori is the author.", 
+        "title": "How to Get Environment Variables in the Browser - Simone Web Design", 
+        "title_link": "https://www.simonewebdesign.it/how-to-get-environment-variables-in-the-browser/", 
+        "service_name": "simonewebdesign.it", 
+        "from_url": "https://www.simonewebdesign.it/how-to-get-environment-variables-in-the-browser/", 
+        "fallback": "How to Get Environment Variables in the Browser - Simone Web Design", 
+        "id": 2
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCD53TKCN", 
+          "UCB58P2V6", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "closed_lock_with_key", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I\u2019ve used the Google Maps API before and this is what I dealt with: <https://stackoverflow.com/questions/1364858/what-steps-should-i-take-to-protect-my-google-maps-api-key> . If you want to hide your key on GitHub, you could create an env.js that holds an object and reference it from your script; don\u2019t forget to put the file name in your .gitignore! <https://www.simonewebdesign.it/how-to-get-environment-variables-in-the-browser/>", 
+    "ts": "1555695721.005600", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ee2f3215-91c8-4c43-a89c-d34c11c38438", 
+    "thread_ts": "1555695093.004900", 
+    "text": "i couldn't find a .env type of thing", 
+    "ts": "1555695341.005400", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aa97f549-2fc5-49c2-a6a0-63cec21c1c8f", 
+    "thread_ts": "1555695093.004900", 
+    "text": "pure .html file with headers and tags.", 
+    "ts": "1555695325.005200", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cf40bd97-2552-41d4-81e9-d27ccee88263", 
+    "thread_ts": "1555695093.004900", 
+    "text": "How is the page created? Are you using a templating engine or React?", 
+    "ts": "1555695278.005000", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "feb8fe87-e6ea-471b-9e19-c1033037a69d", 
+    "thread_ts": "1555695093.004900", 
+    "latest_reply": "1555696210.006600", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCB58P2V6", 
+      "UCD53TKCN"
+    ], 
+    "text": "Hey Guys, is there a way to hide your API_Keys from your HTML input field? I have something like this : &lt;input type=\"hidden\" name=\"client_id\" value=\"1234\"&gt; and it can be easily found when inspecting the DOM.", 
+    "ts": "1555695093.004900", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1555695278.005000"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1555695325.005200"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1555695341.005400"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1555695721.005600"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1555695862.006000"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1555696210.006600"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1555694982.003400", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "d0c1a7b8-a4c6-48da-b8be-a1f724fa8db0", 
+    "text": "Also this <https://vasanthk.gitbooks.io/react-bits/> has soo many good React patterns, techniques, tips and tricks that I had no idea about, totally improving my code :fire:", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1555550379.003200"
+  }, 
+  {
+    "client_msg_id": "4ba8406d-146e-4909-855f-0a34b83c427c", 
+    "text": "My favorite React VS code extension rn -  <https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack>", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1555549456.002500"
+  }, 
+  {
+    "client_msg_id": "481851de-822c-4f91-b536-b1e8f8020b60", 
+    "thread_ts": "1555437752.000900", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UCBKC02JY> that is what I was saying is fixed has the same effect.. you just have to use calc for the container height. Pure css and compatible with all browsers. Last time I tried using sticky just a few months ago, it didnt work in Firefox or Edge.", 
+    "ts": "1555448147.001900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2732f112-0bcf-458c-9402-38b89255c99d", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1555444714.000000"
+    }, 
+    "thread_ts": "1555437752.000900", 
+    "text": "In the past, I've implemented sticky navbars using JavaScript, but I'm a big fan of doing this in css. After all, this is a styling decision, and putting it in css feels like better separation of concerns, but that's just my opinion :slightly_smiling_face:\n\nYou're right that you can also use `position: relative` on parent and `position: absolute` on child to accomplish this without sticky, and that has better browser compatibility.\n\nAnyways, in my case I used it for a RoR table where I didn't want to do inline JS on every TH element and I didn't want to write CofeeScript either. And just 2 lines of CSS made it work in seconds! Data says that most users of the table are using Safari and Chrome so I should be okay with sticky.. Browser support: <https://caniuse.com/#feat=css-sticky>\n==&gt; Mainly missing IE, and some oddball mobile browsers like Baidu and Opera Mobile", 
+    "ts": "1555444443.001400", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "74376aab-7180-4b63-a8c1-9cb830c8c265", 
+    "thread_ts": "1555437752.000900", 
+    "text": "It's a nice explanation but I am still hesitant to use it because of browser compatibility. You can always use fixed or to position within a container absolute positioning with the container being relative. To deal with the issue of exact sizing (as fixed elements are outside the container they are inside) you can use `calc(100vh - 50px)` as an example.", 
+    "ts": "1555443741.001200", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBKC02JY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bd320ce6-934d-4ba1-bd76-94e3b96164a9", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1555437758.000000"
+    }, 
+    "latest_reply": "1555448147.001900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBKC02JY"
+    ], 
+    "thread_ts": "1555437752.000900", 
+    "text": "Can't believe I never knew about `position: sticky` ! What a find...\n\n```.nav-bar{\n    position: sticky;\n    top: 0px;\n}```\n\n<https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46>", 
+    "ts": "1555437752.000900", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCBKC02JY", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1555443741.001200"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1555444443.001400"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1555448147.001900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "d3c99d6a-7b9d-4d41-91e5-f3b9a42f5ceb", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "I came across this recently: <https://github.com/h5bp/Front-end-Developer-Interview-Questions>", 
+    "ts": "1555029492.007800", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "242a3ff7-1098-454a-927a-22fcac59d13f", 
+    "thread_ts": "1554489617.006700", 
+    "text": "I was wondering how Typescript compiles it to be valid Javascript :thinking_face: interesting", 
+    "ts": "1554492330.006900", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7d667fa8-f817-4ae4-82f5-9dd396a0b241", 
+    "thread_ts": "1554489617.006700", 
+    "latest_reply": "1554492330.006900", 
+    "attachments": [
+      {
+        "original_url": "https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/", 
+        "text": "Thoughts on web development, open source, software architecture, and the future.", 
+        "title": "Implementing Private and Protected Members in JavaScript \u2014 Philip Walton", 
+        "title_link": "https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/", 
+        "service_name": "Philip Walton", 
+        "from_url": "https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/", 
+        "fallback": "Implementing Private and Protected Members in JavaScript \u2014 Philip Walton", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554492330.006900"
+      }
+    ], 
+    "ts": "1554489617.006700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "text": "An article on private scope in JS that I'm trying to wrap my head around :smile: <https://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "0dbbd602-20d8-4bb8-9005-75d4c0fed14f", 
+    "thread_ts": "1554148048.005300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "billed_cap", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "separate! or at least that's what the airbnb style guide says", 
+    "ts": "1554150356.005600", 
+    "user": "UCC4U4V53", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3838db8c-f009-4795-9620-d232cdb8d6b2", 
+    "thread_ts": "1554146335.002300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-3", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "In most data structures insertion order is not maintained. Therefore its not a stable, unique ID.", 
+    "ts": "1554149639.005400", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a874ef5-66c2-431d-9dd8-695dbd0e072d", 
+    "thread_ts": "1554148048.005300", 
+    "latest_reply": "1554150356.005600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC4U4V53"
+    ], 
+    "text": "If you declare defaultProp for a Component does that innately declare the propType for what could be accepted or do those have to be separate..?", 
+    "ts": "1554148048.005300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCC4U4V53", 
+        "ts": "1554150356.005600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "B028EF81-CCE9-4915-853D-34B675620EEA", 
+    "thread_ts": "1554146335.002300", 
+    "text": "Just read in another article that if you\u2019re pushing elements into the array or mutating it that the data won\u2019t display correctly, interesting ", 
+    "ts": "1554146405.004100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "19F3A003-34C1-4451-B35C-56C45178D945", 
+    "thread_ts": "1554146335.002300", 
+    "latest_reply": "1554149639.005400", 
+    "attachments": [
+      {
+        "image_bytes": 10754, 
+        "original_url": "https://reactjs.org/docs/lists-and-keys.html#keys", 
+        "text": "A JavaScript library for building user interfaces", 
+        "title": "Lists and Keys \u2013 React", 
+        "image_width": 476, 
+        "title_link": "https://reactjs.org/docs/lists-and-keys.html#keys", 
+        "image_height": 250, 
+        "image_url": "https://reactjs.org/logo-og.png", 
+        "service_name": "reactjs.org", 
+        "from_url": "https://reactjs.org/docs/lists-and-keys.html#keys", 
+        "fallback": "Lists and Keys \u2013 React", 
+        "service_icon": "https://reactjs.org/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": true, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCDAF4FV4"
+    ], 
+    "last_read": "1554149639.005400", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1554146405.004100"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1554149639.005400"
+      }
+    ], 
+    "ts": "1554146335.002300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "text": "Reading that it\u2019s much better, more optimal to use stable unique IDs as keys when mapping in React as apposed to the item index. But I\u2019m not sure why :thinking_face: <https://reactjs.org/docs/lists-and-keys.html#keys>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1553901009.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1553553263.012000", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "74d9272d-ac5a-4ea6-b994-f8fb8ab88270", 
+    "thread_ts": "1553311722.007200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "star2", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "You can also force a re-render with `this.forceUpdate()`", 
+    "ts": "1553405874.011300", 
+    "user": "U8MP28D9S", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3dca45a4-3900-40cf-8640-fbed5a12304e", 
+    "thread_ts": "1553144374.003100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "grey_question", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "But can't you download css like bootstrap so that you can delete conflicting code?", 
+    "ts": "1553401368.010700", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "81e904cd-30c8-4bd0-a8a6-640196a28427", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-5", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "react", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hammer_and_wrench", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 20591, 
+        "original_url": "https://reakit.io/", 
+        "text": "Toolkit for building composable, accessible and reliable UIs with React.", 
+        "title": "Reakit", 
+        "image_width": 476, 
+        "title_link": "https://reakit.io/", 
+        "image_height": 250, 
+        "image_url": "https://reakit.io/thumbnail.png", 
+        "service_name": "reakit.io", 
+        "from_url": "https://reakit.io/", 
+        "fallback": "Reakit", 
+        "service_icon": "https://reakit.io/icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Simply amazing UI kit <https://reakit.io/>", 
+    "ts": "1553388411.010400", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "429c5766-138a-4e44-af8b-3fc5ae9b0c7a", 
+    "thread_ts": "1553311722.007200", 
+    "text": "I've had this happen a few times now, forgetting that just returning something doesn't call the render again so i'm stuck wondering why things aren't working lol", 
+    "ts": "1553312995.008900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "58d15f83-2084-4585-88ed-17b41509abdf", 
+    "thread_ts": "1553311722.007200", 
+    "text": "Yeah for sure this is the solution! :pray::skin-tone-3::blue_heart:", 
+    "ts": "1553312661.008500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5dd12d0d-657c-4e63-9575-ffedcd43f0f0", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1553312559.000000"
+    }, 
+    "thread_ts": "1553311722.007200", 
+    "text": "Also I believe that the callback is unnecessary with await syntax, as awaiting <http://axios.post|axios.post> actually returns a response which can be handled like this\n\n```\nconst res = await <http://axios.post|axios.post>('/event', eventData)\n```", 
+    "ts": "1553312523.008100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "a8a5c59e-5439-469a-8ec1-8801268a1686", 
+    "thread_ts": "1553311722.007200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I think it's because you're not rendering the redirect, you're only returning it within the axios request callback. You should probably update a boolean in state that keeps track of if the component needs to be directed, and then in your render perform a check on that piece of state.", 
+    "ts": "1553312475.007900", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5919330-a1c4-4eb2-8c72-098704bafaa5", 
+    "thread_ts": "1553311722.007200", 
+    "text": "<https://github.com/AwesomeZaidi/Clubs-App-Frontend/tree/asim/leader-view>", 
+    "ts": "1553312253.007700", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d1f97237-6d39-4b71-b238-7d768f193985", 
+    "thread_ts": "1553311722.007200", 
+    "text": "I have a createEvent form component that upon being submitted calls this function that does an axios post and returns a response with event data successfully, and i'd like to finally finish the handler function by redirecting to another component. Line 32 is logged successfully also.", 
+    "ts": "1553311816.007500", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 280, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FH7MZM8P4", 
+        "thumb_480_h": 168, 
+        "original_h": 524, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-03-22 at 8.28.16 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH7MZM8P4/screen_shot_2019-03-22_at_8.28.16_pm.png", 
+        "thumb_720_h": 252, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_80.png", 
+        "thumb_360_h": 126, 
+        "size": 162588, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_800.png", 
+        "timestamp": 1553311719, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH7MZM8P4/download/screen_shot_2019-03-22_at_8.28.16_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH7MZM8P4-f32eb3bb6a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FH7MZM8P4/screen_shot_2019-03-22_at_8.28.16_pm.png", 
+        "name": "Screen Shot 2019-03-22 at 8.28.16 PM.png", 
+        "created": 1553311719, 
+        "thumb_1024_h": 358, 
+        "thumb_960_h": 336, 
+        "original_w": 1498, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7MZM8P4-c396ae51a2/screen_shot_2019-03-22_at_8.28.16_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1553311722.007200", 
+    "latest_reply": "1553405874.011300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCD53TKCN", 
+      "U8MP28D9S"
+    ], 
+    "text": "Ah for some reason this `Redirect` won't trigger, anyone have any ideas?", 
+    "upload": true, 
+    "ts": "1553311722.007200", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 7, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553311816.007500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553312253.007700"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1553312475.007900"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1553312523.008100"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553312661.008500"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553312995.008900"
+      }, 
+      {
+        "user": "U8MP28D9S", 
+        "ts": "1553405874.011300"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "037d0a04-4f4a-42ae-8ae3-65af226e5a98", 
+    "thread_ts": "1553144374.003100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "UCDAETD5L", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "You are right that you should only load the stylesheets you need. For example, don't load your stylesheet for the homepage on other pages (if you have a separate homepage stylesheet).\n\nHowever, I don't think the screenshot above is necessarily a bad sign. A lot of bigger websites can have conflicting css rules because they have built the equivalent of an internal bootstrap, which incidentally is what it looks like above:\n`flexbox` `align-items-center` seem like generic classes u can add to things, probably to make their CSS more DRY", 
+    "ts": "1553190347.005900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "766C02EF-0856-4639-B617-A892E5C4D6D7", 
+    "thread_ts": "1553144374.003100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_hand_over_mouth", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "I have never heard that any amount of css negatively impacts performance... unless it\u2019s css animations which could.", 
+    "ts": "1553182705.005400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5a735d6b-6b64-496d-aff1-840d34101e29", 
+    "thread_ts": "1553144374.003100", 
+    "text": "I'm thinking that maybe when you're a larger company your frontend team is forced to make different decisions like this for cross platform accessibility reasons potentially, things I'm not too knowledgeable about really", 
+    "ts": "1553144738.003400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGX0FV4TT", 
+        "size": 32798, 
+        "original_h": 344, 
+        "thumb_360_w": 217, 
+        "title": "Screen Shot 2019-03-20 at 9.57.39 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGX0FV4TT/screen_shot_2019-03-20_at_9.57.39_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGX0FV4TT-493b20d72f/screen_shot_2019-03-20_at_9.57.39_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGX0FV4TT-493b20d72f/screen_shot_2019-03-20_at_9.57.39_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGX0FV4TT-493b20d72f/screen_shot_2019-03-20_at_9.57.39_pm_80.png", 
+        "thumb_360_h": 344, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1553144372, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGX0FV4TT-493b20d72f/screen_shot_2019-03-20_at_9.57.39_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGX0FV4TT/download/screen_shot_2019-03-20_at_9.57.39_pm.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGX0FV4TT-1e44087244", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FGX0FV4TT/screen_shot_2019-03-20_at_9.57.39_pm.png", 
+        "name": "Screen Shot 2019-03-20 at 9.57.39 PM.png", 
+        "created": 1553144372, 
+        "original_w": 217, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1553144374.003100", 
+    "latest_reply": "1553401368.010700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCBQH1P6E", 
+      "UCBKC02JY", 
+      "UCC0GL52N"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thinking_face", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "From my understanding it's like best practice to try and load the minimal amount of styles needed for your page, for example having overwritten style properties loaded on the page is bad for performance. Just want to make sure that my thought there is true or if anyone can add onto it? Also, following that, is it bad when you look at large company sites and you see this", 
+    "upload": true, 
+    "ts": "1553144374.003100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1553144738.003400"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1553182705.005400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1553190347.005900"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1553401368.010700"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "fcb30e43-4c72-491c-9ae4-13ad05c13f0a", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5", 
+          "UCC0HC7D0", 
+          "U1HBKMW8Y", 
+          "UCB8T1AG0", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 88647, 
+        "original_url": "https://www.behance.net/dailycreativechallenge", 
+        "text": "Daily Creative Challenge", 
+        "title": "Daily Creative Challenge", 
+        "image_width": 476, 
+        "title_link": "https://www.behance.net/dailycreativechallenge", 
+        "image_height": 250, 
+        "image_url": "https://a5.behance.net/a7ee0d869eb070d20e527b472eaaaacb5303fa17/img/live/daily_creative_challenge.jpg", 
+        "service_name": "behance.net", 
+        "from_url": "https://www.behance.net/dailycreativechallenge", 
+        "fallback": "Daily Creative Challenge", 
+        "service_icon": "https://a5.behance.net/a7ee0d869eb070d20e527b472eaaaacb5303fa17/img/site/apple-touch-icon.png?cb=264615658", 
+        "id": 1
+      }
+    ], 
+    "text": "Cool thing for Behance is doing for people to use their product and sharpen your UX skills! <https://www.behance.net/dailycreativechallenge>", 
+    "ts": "1552953957.000600", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1552716749.000200", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[March 1st, 2019 9:28 PM] asim.zaidi: Master ya chrome dev tools :fire::male-detective:\n<https://blog.teamtreehouse.com/mastering-developer-tools-console>", 
+        "author_link": "https://product-college.slack.com/team/UCDAETD5L", 
+        "color": "D0D0D0", 
+        "text": "Master ya chrome dev tools :fire::male-detective:\n<https://blog.teamtreehouse.com/mastering-developer-tools-console>", 
+        "footer": "Posted in #resources", 
+        "ts": "1551504527.000500", 
+        "author_name": "Asim Zaidi", 
+        "is_share": true, 
+        "channel_name": "resources", 
+        "channel_id": "C2DA91MNY", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Asim Zaidi", 
+        "from_url": "https://product-college.slack.com/archives/C2DA91MNY/p1551504527000500", 
+        "author_icon": "https://avatars.slack-edge.com/2018-09-04/428706905201_169d8a7d8d4fbaa43303_48.jpg", 
+        "author_id": "UCDAETD5L"
+      }
+    ], 
+    "ts": "1551575465.001300", 
+    "user": "UCC0GL52N"
+  }, 
+  {
+    "client_msg_id": "900dc7b5-dfb0-4bc8-828a-5fd48f050421", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1551482241.000000"
+    }, 
+    "attachments": [
+      {
+        "author_id": "U8MP28D9S", 
+        "original_url": "https://product-college.slack.com/archives/CDNTXPLPJ/p1551481045001700", 
+        "is_thread_root_unfurl": true, 
+        "text": "The company I\u2019m with (LeanTaaS) is looking to bring on another frontend engineer. You\u2019d be working on the same team as me. \n\nAnybody want more info?", 
+        "footer": "Thread in #who-is-hiring", 
+        "ts": "1551481045.001700", 
+        "author_link": "https://product-college.slack.com/team/U8MP28D9S", 
+        "channel_name": "who-is-hiring", 
+        "channel_id": "CDNTXPLPJ", 
+        "is_msg_unfurl": true, 
+        "author_name": "Joe Rezendes", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://product-college.slack.com/archives/CDNTXPLPJ/p1551481045001700", 
+        "author_subname": "Joe Rezendes", 
+        "fallback": "[March 1st, 2019 2:57 PM] joe.rezendes: The company I\u2019m with (LeanTaaS) is looking to bring on another frontend engineer. You\u2019d be working on the same team as me. \n\nAnybody want more info?", 
+        "author_icon": "https://avatars.slack-edge.com/2018-10-25/463980121328_31823108fd5ddbe5451c_48.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://product-college.slack.com/archives/CDNTXPLPJ/p1551481045001700> <!here>", 
+    "ts": "1551482218.000300", 
+    "user": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "133d70e2-9190-4612-9796-27a3d387fe8a", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UCB58P2V6", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UCB58P2V6", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "^ Shift of `width = 70%` to `width = 70vw` on the affected div", 
+    "ts": "1551228507.005100", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 423, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGH2JEV08", 
+        "thumb_480_h": 254, 
+        "original_h": 1620, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-26, 4:47 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGH2JEV08/image.png", 
+        "thumb_720_h": 380, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_80.png", 
+        "thumb_360_h": 190, 
+        "size": 2355169, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_800.png", 
+        "timestamp": 1551228460, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGH2JEV08/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_1024.png", 
+        "user": "UCCL1R3EZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGH2JEV08-6b47092245", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCCL1R3EZ/FGH2JEV08/image.png", 
+        "name": "image.png", 
+        "created": 1551228460, 
+        "thumb_1024_h": 541, 
+        "thumb_960_h": 507, 
+        "original_w": 3066, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH2JEV08-e0e264bbca/image_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551228465.004000", 
+    "display_as_bot": false, 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 424, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGJ4P4HPX", 
+        "thumb_480_h": 254, 
+        "original_h": 1620, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-26, 4:47 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGJ4P4HPX/image.png", 
+        "thumb_720_h": 382, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_80.png", 
+        "thumb_360_h": 191, 
+        "size": 2331960, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_800.png", 
+        "timestamp": 1551228428, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGJ4P4HPX/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_1024.png", 
+        "user": "UCCL1R3EZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGJ4P4HPX-36d5eea8a3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCCL1R3EZ/FGJ4P4HPX/image.png", 
+        "name": "image.png", 
+        "created": 1551228428, 
+        "thumb_1024_h": 543, 
+        "thumb_960_h": 509, 
+        "original_w": 3056, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ4P4HPX-cb50c0f642/image_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551228434.003700", 
+    "display_as_bot": false, 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "10b5945e-6685-4c4f-ba39-4d0f9d57af18", 
+    "edited": {
+      "user": "UCCL1R3EZ", 
+      "ts": "1551235487.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "https://www.w3schools.com/cssref/css_units.asp", 
+        "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.", 
+        "title": "CSS Units", 
+        "title_link": "https://www.w3schools.com/cssref/css_units.asp", 
+        "service_name": "w3schools.com", 
+        "from_url": "https://www.w3schools.com/cssref/css_units.asp", 
+        "fallback": "CSS Units", 
+        "service_icon": "https://www.w3schools.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "Shoutout to <@UCBKC02JY> who reminded me about the practical applications of vh and vw. For those who do not remember, vh and vw are height and width units that give your divs proportions based on the size of the viewport (essentially will give you a short-cut to sizing the entire window, without worrying about parental inheritance).\n\nIf you having a hard time organizing your websites\u2019 div because of weird inheritance, make sure to review the `relative lengths` section of: <https://www.w3schools.com/cssref/css_units.asp>", 
+    "ts": "1551228328.003200", 
+    "user": "UCCL1R3EZ", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550549086.000400", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1550093572.000200", 
+    "text": "<@UCFCFQ7KK> has left the channel"
+  }, 
+  {
+    "client_msg_id": "20a0bd51-24b6-41ca-98ab-135af23c7603", 
+    "thread_ts": "1549665847.002400", 
+    "text": "You should add the Baby Shark song audio to this. :shark:", 
+    "ts": "1549674317.003600", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "474ced6b-e751-4fe3-be6e-dd73bca6afe4", 
+    "edited": {
+      "user": "UCC37PD6D", 
+      "ts": "1549668711.000000"
+    }, 
+    "thread_ts": "1549652524.000500", 
+    "text": "<https://anisha7.github.io/Calcumon-website/>, <https://anisha7.github.io/Mathlab/>, <https://anisha7.github.io/Tect/> , Some background animation examples: <http://www.anishajx.me>, <http://anishax.me>", 
+    "ts": "1549668540.003100", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "12a1cc25-202e-4d50-b01b-cedecd3abfa1", 
+    "thread_ts": "1549665847.002400", 
+    "text": "click and hold, good man.", 
+    "ts": "1549666679.002900", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a197373d-0391-4ebb-8986-140199e5e5ec", 
+    "thread_ts": "1549665847.002400", 
+    "text": "This should come with a seizure warning", 
+    "ts": "1549666607.002700", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0ad6cda6-3eef-4c67-8e81-9090c60ad097", 
+    "thread_ts": "1549665847.002400", 
+    "text": "Still working on it. When you click on the screen the sharks are going to eat the fish.", 
+    "ts": "1549665987.002500", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "739ee036-b8cd-4720-8a22-05a7eac3c1a1", 
+    "thread_ts": "1549665847.002400", 
+    "latest_reply": "1549674317.003600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBLQTD7V", 
+      "UCBQH1P6E", 
+      "UCC0GL52N"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "shark", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "<https://shark-aquarium.herokuapp.com>", 
+    "ts": "1549665847.002400", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1549665987.002500"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1549666607.002700"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1549666679.002900"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1549674317.003600"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "68263564-f227-4129-a35f-d8811d4e0903", 
+    "edited": {
+      "user": "UCBKC02JY", 
+      "ts": "1549655688.000000"
+    }, 
+    "thread_ts": "1549652524.000500", 
+    "text": "For future reference, I'm always down for well-defined frontend contract work <@U1HBKMW8Y> :slightly_smiling_face:\n\nThese two websites have css written entirely from scratch:\n<http://nicolaisafai.com>\n<http://looplist.xyz>", 
+    "ts": "1549655681.001900", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "8ef8dcc2-e242-44d6-b5f3-6191c57d76b6", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1549655016.000000"
+    }, 
+    "thread_ts": "1549652524.000500", 
+    "text": "<http://techseve.com>\n<http://whats-playing.techseve.com>", 
+    "ts": "1549654973.001400", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "29BE4DB6-9E9A-4D81-8B91-017CBA26A010", 
+    "thread_ts": "1549652524.000500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCBS1DSF5> <@UCC0GL52N> <@UCB8T1AG0> ", 
+    "ts": "1549653550.001100", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f5a56fb6-30a1-4145-8e55-ae827d217362", 
+    "thread_ts": "1549652524.000500", 
+    "latest_reply": "1549668540.003100", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "UCDAF4FV4", 
+      "UCBKC02JY", 
+      "UCC37PD6D"
+    ], 
+    "text": "Who wants to use your frontend web skills to make a little easy money?! :money_mouth_face: (_No, this is not a new cryptocoin_ :face_with_rolling_eyes:)\n\nIf you know some CSS and can work with Weebly, this may only take you 5-20 minutes to complete to make an easy $25 (check in the mail or a gift certificate for iTunes or Xbox Live that can be sent digitally \u2013 i.e., instantly).\n\nA friend of mine who runs a website on Weebly has tried to make a change to the menu styling that\u2019s beyond his knowledge. It\u2019s basically just text stuck in uppercase letters due to some CSS properties that he can\u2019t figure out.\n\nInterested? Comment on this thread with some piece of evidence that you have baseline level of competence in frontend CSS skills with either a screenshot of or a link to a live website you created yourself with decent styling.", 
+    "last_read": "1549670095.000000", 
+    "ts": "1549652524.000500", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "U1HBKMW8Y", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1549653550.001100"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1549654973.001400"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1549655681.001900"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1549668540.003100"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "86507141-973f-4bca-bd6c-bfc7e6c44fb6", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCHK87XEJ", 
+          "UCC0GL52N", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "hamburger", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0GL52N", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 35813, 
+        "original_url": "https://march08.github.io/animated-burgers/", 
+        "text": "Collection of animated CSS burgers for React also available as plain HTML/CSS", 
+        "title": "Animated CSS burgers (HTML/CSS + React)", 
+        "image_width": 500, 
+        "title_link": "https://march08.github.io/animated-burgers/", 
+        "image_height": 250, 
+        "image_url": "https://march08.github.io/animated-burgers/animated-burgers-html-css-react.jpg", 
+        "service_name": "march08.github.io", 
+        "from_url": "https://march08.github.io/animated-burgers/", 
+        "fallback": "Animated CSS burgers (HTML/CSS + React)", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://march08.github.io/animated-burgers/>", 
+    "ts": "1549324432.000300", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1548704807.006600", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "67E2BB93-A9CC-4F53-ACA1-8FD5B81B23D1", 
+    "thread_ts": "1548641611.002300", 
+    "text": "Seems if you made an image with a couple dots you could set it as the background image and use repeat to fill the space. ", 
+    "ts": "1548698255.006300", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "27ae00fc-ad49-4187-807b-53508f34c722", 
+    "thread_ts": "1548641611.002300", 
+    "attachments": [
+      {
+        "image_bytes": 301, 
+        "original_url": "https://codepen.io/awesomezaidi/pen/jdqJWa", 
+        "service_name": "CodePen", 
+        "title": "CSS dot pattern/grid background", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/awesomezaidi/pen/jdqJWa", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/518009.jdqJWa.d7ece3d1-b7a2-4792-9593-83c4cb6a786f.png", 
+        "text": "...", 
+        "from_url": "https://codepen.io/awesomezaidi/pen/jdqJWa", 
+        "fallback": "CodePen: CSS dot pattern/grid background", 
+        "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<@UCDAF4FV4> this is where I'm working on it if you could check it out :smile: <https://codepen.io/awesomezaidi/pen/jdqJWa>", 
+    "ts": "1548646500.004100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4d5ac9b1-13dc-43be-a12e-dc52bd0f38dd", 
+    "thread_ts": "1548641611.002300", 
+    "attachments": [
+      {
+        "image_bytes": 19419, 
+        "original_url": "https://freefrontend.com/css-background-patterns/", 
+        "service_name": "Free Frontend", 
+        "title": "37 CSS Background Patterns", 
+        "image_width": 441, 
+        "title_link": "https://freefrontend.com/css-background-patterns/", 
+        "image_height": 250, 
+        "image_url": "https://freefrontend.com/assets/img/css-background-patterns/grid-flex-and-background-patterns.png", 
+        "text": "Collection of hand-picked HTML and CSS background pattern code examples. Update of August 2017 collection. 9 new items.", 
+        "from_url": "https://freefrontend.com/css-background-patterns/", 
+        "fallback": "Free Frontend: 37 CSS Background Patterns", 
+        "service_icon": "https://freefrontend.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "People go crazy on these omg lol! <https://freefrontend.com/css-background-patterns/>", 
+    "ts": "1548646100.003800", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e7cb7630-f1fc-42ae-b5c0-b1cfa0ce9cc1", 
+    "thread_ts": "1548641611.002300", 
+    "text": "But I'm trying to understand the code for some of these to achieve it - <https://leaverou.github.io/css3patterns/>", 
+    "ts": "1548646014.003600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 418, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQLZUUS1-939461190b/screen_shot_2019-01-27_at_7.25.04_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFQLZUUS1", 
+        "thumb_480_h": 480, 
+        "original_h": 515, 
+        "thumb_360_w": 313, 
+        "title": "Screen Shot 2019-01-27 at 7.25.04 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFQLZUUS1/screen_shot_2019-01-27_at_7.25.04_pm.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQLZUUS1-939461190b/screen_shot_2019-01-27_at_7.25.04_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQLZUUS1-939461190b/screen_shot_2019-01-27_at_7.25.04_pm_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQLZUUS1-939461190b/screen_shot_2019-01-27_at_7.25.04_pm_80.png", 
+        "thumb_360_h": 360, 
+        "size": 19667, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548645978, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFQLZUUS1-939461190b/screen_shot_2019-01-27_at_7.25.04_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFQLZUUS1/download/screen_shot_2019-01-27_at_7.25.04_pm.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFQLZUUS1-c31f196f91", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFQLZUUS1/screen_shot_2019-01-27_at_7.25.04_pm.png", 
+        "name": "Screen Shot 2019-01-27 at 7.25.04 PM.png", 
+        "created": 1548645978, 
+        "original_w": 448, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1548641611.002300", 
+    "text": "This is what I've got right now :confused:", 
+    "upload": true, 
+    "ts": "1548645980.003200", 
+    "display_as_bot": false, 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "23118734-2edb-42e0-a487-6e12887210aa", 
+    "thread_ts": "1548641611.002300", 
+    "text": "<@UCDAF4FV4> yeah that's def a way! Right now trying to accomplish it through pure css! The `background` property in CSS is crazy lol!", 
+    "ts": "1548645959.003000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "451ececa-ad6c-433e-8a0f-df92a2f7bac3", 
+    "thread_ts": "1548641611.002300", 
+    "text": "maybe take the image, overlay it with a white div, and make the opacity of the mask a gradient", 
+    "ts": "1548645246.002800", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f06f35ef-ad0e-475e-b5ab-892c15730e2d", 
+    "thread_ts": "1548641611.002300", 
+    "text": "I could just get a similar image and then add gradient to it - that's my go to lol. But is there a more cool way of doing this? I don't have any experience using SVG's or anything, not sure if that applies here.", 
+    "ts": "1548641670.002600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFPN0668G", 
+        "thumb_480_h": 362, 
+        "original_h": 602, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2019-01-27 at 6.12.24 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFPN0668G/screen_shot_2019-01-27_at_6.12.24_pm.png", 
+        "thumb_720_h": 543, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_80.png", 
+        "thumb_360_h": 272, 
+        "size": 154433, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548641607, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFPN0668G/download/screen_shot_2019-01-27_at_6.12.24_pm.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFPN0668G-db6f9f9145", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFPN0668G/screen_shot_2019-01-27_at_6.12.24_pm.png", 
+        "name": "Screen Shot 2019-01-27 at 6.12.24 PM.png", 
+        "created": 1548641607, 
+        "original_w": 798, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFPN0668G-8767146e46/screen_shot_2019-01-27_at_6.12.24_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1548641611.002300", 
+    "latest_reply": "1548698255.006300", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "UCDAF4FV4", 
+      "U28S64ZJ5"
+    ], 
+    "text": "Hey can someone guide me on how to go about creating this cool background you see in the phone on the left?", 
+    "last_read": "1548698511.000000", 
+    "upload": true, 
+    "ts": "1548641611.002300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548641670.002600"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1548645246.002800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548645959.003000"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548645980.003200"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548646014.003600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548646100.003800"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548646500.004100"
+      }, 
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1548698255.006300"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "8f7ff318-a56c-4cad-9eaf-ad384a88dd45", 
+    "thread_ts": "1548183212.008300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "haha\u2026sigh i\u2019m really bad at this", 
+    "ts": "1548458120.001900", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7b2929e-d768-4e1d-889d-afc54f92b984", 
+    "thread_ts": "1548183212.008300", 
+    "text": "Mobile!", 
+    "ts": "1548457554.001700", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0def9f21-59b2-430d-8291-e2078ff23ff2", 
+    "thread_ts": "1548183212.008300", 
+    "text": "what\u2019s MO?", 
+    "ts": "1548457489.001500", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "954b346f-ef5f-4452-ab22-8565f48e565d", 
+    "thread_ts": "1548183212.008300", 
+    "text": "something of backend?", 
+    "ts": "1548457486.001300", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "12d4b85f-845b-4f62-b84a-b594cc29361a", 
+    "thread_ts": "1548183212.008300", 
+    "text": "idk <@U1HBKMW8Y> what about MOB/FEW double majors? MOWEB? :man-shrugging: :stuck_out_tongue:", 
+    "ts": "1548457247.001100", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "41c71d88-9211-4b87-a242-70ede14c8948", 
+    "thread_ts": "1548183212.008300", 
+    "text": "(I was referring to the curriculum.)", 
+    "ts": "1548456097.000900", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "37694232-9d37-47bd-9482-d2fc40d7fb49", 
+    "thread_ts": "1548183212.008300", 
+    "text": "<@UCBKC02JY>: What about them? :face_with_raised_eyebrow:", 
+    "ts": "1548456085.000700", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a678f0bf-3a5f-4f70-8409-03a2ba6290cd", 
+    "thread_ts": "1548183212.008300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "interrobang", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UFHMAU6Q3"
+        ]
+      }
+    ], 
+    "text": "what about double majors? FEW + BEW = WEB", 
+    "ts": "1548454485.000300", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bbb0f68b-45fe-4406-8e24-2f384aaf057c", 
+    "thread_ts": "1548198586.010600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "```\n&lt;button class=\"btn\"&gt;&lt;i class=\"fa icon-github\"&gt;&lt;/i&gt;&lt;/button&gt;\n```", 
+    "ts": "1548199268.012700", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e4d8a8bc-4e2b-4d30-8c30-ff8475a3ddba", 
+    "thread_ts": "1548198586.010600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "add that to your html, then just add like...", 
+    "ts": "1548199246.012500", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "beeb6bc8-73f2-49e9-a6a0-8c35dc20c1f7", 
+    "edited": {
+      "user": "UCBDBB3LZ", 
+      "ts": "1548199226.000000"
+    }, 
+    "thread_ts": "1548198586.010600", 
+    "text": "```\n&lt;link href=\"//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css\" rel=\"stylesheet\"&gt;\n&lt;link href=\"//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css\" rel=\"stylesheet\"&gt;\n```", 
+    "ts": "1548199209.012100", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "edd9e315-88bb-4636-ab6e-4b6c849b4c36", 
+    "thread_ts": "1548198586.010600", 
+    "text": "HA! Thank you man", 
+    "ts": "1548199163.011800", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 382, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FFKLUUTFS", 
+        "thumb_480_h": 229, 
+        "original_h": 1172, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-01-22, 3:18 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFKLUUTFS/image.png", 
+        "thumb_720_h": 344, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_80.png", 
+        "thumb_360_h": 172, 
+        "size": 224467, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_800.png", 
+        "timestamp": 1548199129, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFKLUUTFS/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_1024.png", 
+        "user": "UCBDBB3LZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFKLUUTFS-b10cbf2a1f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDBB3LZ/FFKLUUTFS/image.png", 
+        "name": "image.png", 
+        "created": 1548199129, 
+        "thumb_1024_h": 489, 
+        "thumb_960_h": 458, 
+        "original_w": 2454, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FFKLUUTFS-9b34f13033/image_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCBDBB3LZ", 
+      "ts": "1548199284.000000"
+    }, 
+    "thread_ts": "1548198586.010600", 
+    "text": "you're in luck. refer to this tut, and if you need help just pm me: <https://www.w3schools.com/howto/howto_css_icon_buttons.asp>\n\nand\n\n<https://fontawesome.com/v3.2.1/icons/>", 
+    "upload": true, 
+    "ts": "1548199134.011400", 
+    "display_as_bot": false, 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e7a3c35c-7f14-479c-937a-3ff780330042", 
+    "thread_ts": "1548198586.010600", 
+    "text": "on the left side then the texts in the middle", 
+    "ts": "1548199028.011200", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a1fc981a-f0e3-45c3-a1af-3df7760f004e", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1548199007.000000"
+    }, 
+    "thread_ts": "1548198586.010600", 
+    "text": "the github octokat <@UCBDBB3LZ>", 
+    "ts": "1548198998.010900", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e9714ab2-152b-4320-87b8-b75a37b8ec10", 
+    "thread_ts": "1548198586.010600", 
+    "text": "Yeah. What kind of icon were you thinking?", 
+    "ts": "1548198775.010700", 
+    "user": "UCBDBB3LZ", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0925fdd9-1321-4502-8cbe-843798046a36", 
+    "thread_ts": "1548198586.010600", 
+    "latest_reply": "1548199268.012700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDBB3LZ", 
+      "UCB58P2V6"
+    ], 
+    "text": "Hey Guys, is there a way to add a icon or image inside a button with some padding?", 
+    "ts": "1548198586.010600", 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548198775.010700"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1548198998.010900"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1548199028.011200"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548199134.011400"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1548199163.011800"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548199209.012100"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548199246.012500"
+      }, 
+      {
+        "user": "UCBDBB3LZ", 
+        "ts": "1548199268.012700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "c3be78db-b37c-4034-b2a8-a1453830be72", 
+    "thread_ts": "1548183212.008300", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UFHMAU6Q3", 
+          "UCD53TKCN"
+        ]
+      }
+    ], 
+    "text": "Yes, acronyms are crazy!\nLast year we split the full-stack web track (WEB) into frontend web (FEW) and backend web (BEW)", 
+    "ts": "1548184584.009100", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d81d6393-a339-425f-a750-9565c6a71d20", 
+    "thread_ts": "1548183212.008300", 
+    "attachments": [
+      {
+        "image_bytes": 124483, 
+        "original_url": "https://fulcrum.lever.co/mo-wtf-is-cogs-breaking-down-acronyms-and-tribal-knowledge-for-engineers-913e661ce90a", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "7 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "\u201cMo, wtf is COGS?\u201d: Breaking down acronyms and tribal knowledge for engineers", 
+        "ts": 1544132636, 
+        "title_link": "https://fulcrum.lever.co/mo-wtf-is-cogs-breaking-down-acronyms-and-tribal-knowledge-for-engineers-913e661ce90a", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*OQuQdAYQ4jV94s7opVlzpQ.png", 
+        "image_width": 271, 
+        "service_name": "Lever Engineering", 
+        "from_url": "https://fulcrum.lever.co/mo-wtf-is-cogs-breaking-down-acronyms-and-tribal-knowledge-for-engineers-913e661ce90a", 
+        "fallback": "Lever Engineering: \u201cMo, wtf is COGS?\u201d: Breaking down acronyms and tribal knowledge for engineers", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8qRozIq9onIZRNPvxzhH1g.png", 
+        "text": "Joining a new engineering team presents many challenges: learning a different stack, familiarizing yourself with ingrained patterns\u2026", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCD53TKCN", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "haha thanks! i am terrible with acronyms to the point that\u2026\n<https://fulcrum.lever.co/mo-wtf-is-cogs-breaking-down-acronyms-and-tribal-knowledge-for-engineers-913e661ce90a>", 
+    "ts": "1548183468.008700", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "eaf1ef09-bc3a-4d00-ad22-20512509b53e", 
+    "thread_ts": "1548183212.008300", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCCRGTD0X", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Frontend web!", 
+    "ts": "1548183323.008400", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UFHMAU6Q3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7a27e52d-8caa-46c1-8339-06eefb153ef3", 
+    "thread_ts": "1548183212.008300", 
+    "latest_reply": "1548458120.001900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCD53TKCN", 
+      "UFHMAU6Q3", 
+      "U1HBKMW8Y", 
+      "UCBKC02JY"
+    ], 
+    "text": "hey everyone! if i haven\u2019t met you, i was a student a few years back. just wondering\u2026what does `FEW` mean?", 
+    "ts": "1548183212.008300", 
+    "type": "message", 
+    "reply_count": 11, 
+    "user": "UFHMAU6Q3", 
+    "replies": [
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1548183323.008400"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548183468.008700"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1548184584.009100"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548454485.000300"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1548456085.000700"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1548456097.000900"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1548457247.001100"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548457486.001300"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548457489.001500"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1548457554.001700"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548458120.001900"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "d91b0fb1-22f4-4c66-b1d2-30e16c00605e", 
+    "thread_ts": "1548109778.004100", 
+    "text": "hi! happy tuesday ya\u2019ll", 
+    "ts": "1548183161.007500", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "73910438-e881-4c23-9340-984aadfe3ca7", 
+    "thread_ts": "1548109778.004100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "UFHMAU6Q3"
+        ]
+      }
+    ], 
+    "text": "Hi, <@UFHMAU6Q3>!", 
+    "ts": "1548183096.007200", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ed290b7d-d3db-4ee5-a093-5f4631281b20", 
+    "edited": {
+      "user": "UFHMAU6Q3", 
+      "ts": "1548179593.000000"
+    }, 
+    "thread_ts": "1548109778.004100", 
+    "text": "for what it\u2019s worth, we cringe when we see our old code with inline styling at my company", 
+    "ts": "1548179588.006700", 
+    "user": "UFHMAU6Q3", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "smile", 
+        "users": [
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "scroll", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "grimacing", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "sweat_smile", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "817491fd-3a5c-4ea9-9970-58f309ef2e74", 
+    "thread_ts": "1548109778.004100", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@UCDAETD5L> to accurately answer your question... yes it's common because.. yeah... however best practice is to not use inline styles/attributes ever for any reason whatsoever.", 
+    "ts": "1548148722.005400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "44ba2403-7db7-4200-b3c1-6266fe3aa828", 
+    "thread_ts": "1548109778.004100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UFHMAU6Q3", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "medal", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "Well my preferred way of styling react components is with a single css or scss file as an import and try to write reusable classes in my css. Even if I need to style a certain component only once.. I just use appropriate css selectors in the css file. This keeps everything separated and easy to read/modify.", 
+    "ts": "1548148430.005200", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7c1b2c9b-3307-4fc9-baaa-76ea486eeb4e", 
+    "thread_ts": "1548109778.004100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "you  can use an external stylesheet wya?", 
+    "ts": "1548118958.004900", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f00358b8-911f-4b88-9a10-6a65716cc0cc", 
+    "thread_ts": "1548109778.004100", 
+    "attachments": [
+      {
+        "thumb_height": 600, 
+        "thumb_url": "https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png", 
+        "thumb_width": 600, 
+        "original_url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes", 
+        "service_name": "MDN Web Docs", 
+        "title": "HTML attribute reference", 
+        "title_link": "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes", 
+        "text": "Elements in HTML have attributes; these are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want.", 
+        "from_url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes", 
+        "fallback": "MDN Web Docs: HTML attribute reference", 
+        "service_icon": "https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes>", 
+    "ts": "1548109956.004600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "16529091-1e30-4d7b-8d37-cd1f86fee116", 
+    "thread_ts": "1548109778.004100", 
+    "text": "Actually, interesting I'm reading that attributes are actually just additional values that configure the elements/adjust their behavior so maybe it's totally fine to specify attributes inline on an element...", 
+    "ts": "1548109946.004400", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 4, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFK4VPJFN", 
+        "size": 159, 
+        "title": "Attributes on JSX Expressions?", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFK4VPJFN/attributes_on_jsx_expressions_.js", 
+        "preview": "const sideLength = \"200px\";\r\n\r\nconst panda = (\r\n  <img \r\n    src=\"images/panda.jpg\" \r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFK4VPJFN/attributes_on_jsx_expressions_.js/edit", 
+        "username": "", 
+        "timestamp": 1548109777, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">sideLength</span> <span class=\"cm-operator\">=</span> <span class=\"cm-string\">&quot;200px&quot;</span>;</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">const</span> <span class=\"cm-def\">panda</span> <span class=\"cm-operator\">=</span> (</pre></div>\n<div><pre>  <span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">img</span> </pre></div>\n<div><pre>    <span class=\"cm-variable\">src</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;images/panda.jpg&quot;</span> </pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFK4VPJFN/download/attributes_on_jsx_expressions_.js", 
+        "user": "UCDAETD5L", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFK4VPJFN-e74f79fb37", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FFK4VPJFN/attributes_on_jsx_expressions_.js", 
+        "name": "Attributes_on_JSX_Expressions_.js", 
+        "created": 1548109777, 
+        "lines": 9, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "thread_ts": "1548109778.004100", 
+    "latest_reply": "1548183161.007500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L", 
+      "U6X9L8VAN", 
+      "UCBQH1P6E", 
+      "UFHMAU6Q3"
+    ], 
+    "text": "In React, is it common to add on attributes to JSX expressions? I feel like when i was learning web foundations, it was best practice not write inline styles and have all of an elements attributes specified from the stylesheet specifically.", 
+    "upload": true, 
+    "ts": "1548109778.004100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548109946.004400"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1548109956.004600"
+      }, 
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1548118958.004900"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548148430.005200"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1548148722.005400"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548179588.006700"
+      }, 
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1548183096.007200"
+      }, 
+      {
+        "user": "UFHMAU6Q3", 
+        "ts": "1548183161.007500"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "DFF71002-183D-42F0-83EF-B7BF93EF1FA4", 
+    "thread_ts": "1547790741.000400", 
+    "text": "Think it\u2019s mobile issue", 
+    "ts": "1548101358.002700", 
+    "user": "U8MP28D9S", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1e10be2c-a3e6-43e2-bfee-3047fa56fe3a", 
+    "attachments": [
+      {
+        "image_bytes": 189367, 
+        "original_url": "https://medium.com/@wong.phyllism/react-css-for-beginners-5f9f4a65184c", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "8 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "React CSS for Beginners \u2013 Phyllis Wong \u2013 Medium", 
+        "ts": 1544469272, 
+        "title_link": "https://medium.com/@wong.phyllism/react-css-for-beginners-5f9f4a65184c", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*Sc3aGeATV4IKckxYj0v8AA.png", 
+        "image_width": 636, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@wong.phyllism/react-css-for-beginners-5f9f4a65184c", 
+        "fallback": "Medium: React CSS for Beginners \u2013 Phyllis Wong \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "How to style your React projects", 
+        "id": 1
+      }
+    ], 
+    "text": "Also <@U6YP200VB> has some cool useful articles! <https://medium.com/@wong.phyllism/react-css-for-beginners-5f9f4a65184c>", 
+    "ts": "1548053894.002200", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "709588c3-fc40-4c33-8f78-964efb6d1c59", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "UCBLQTD7V", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "text": "Anyone in few 2.1: Going through React tic tac toe tutorial and at first felt kind of bad not really understanding quite a bit of the schtuff there but turns out more people felt the same way lol so it just wasn't the most intuitive beginner tutorial i believe, i'm doing the codeacademy course on it and having a good time with that though!", 
+    "ts": "1548053860.001600", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b809eefb-0c2d-4064-9aaf-4c0d66154675", 
+    "thread_ts": "1547790741.000400", 
+    "text": "His face is transparent to me and there is a red flash randomly on the screen. I BROKE IT :anguished:", 
+    "ts": "1547959546.000100", 
+    "user": "UCBHEGLKB", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UFHMAU6Q3", 
+    "ts": "1547853745.000400", 
+    "text": "<@UFHMAU6Q3> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "fe21f03d-6f20-40dd-b0b7-6def96d6c713", 
+    "thread_ts": "1547790741.000400", 
+    "text": "you should teach one of these sessions. I would love to learn how to make animations in pure css", 
+    "ts": "1547799482.001200", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "807f5f21-8713-4ef6-bb7a-0618e06ab4f9", 
+    "thread_ts": "1547790741.000400", 
+    "latest_reply": "1548101358.002700", 
+    "attachments": [
+      {
+        "image_bytes": 11990, 
+        "original_url": "https://codepen.io/hermes/full/QzXLEj", 
+        "service_name": "CodePen", 
+        "title": "Government Shutdown Pure CSS", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/hermes/full/QzXLEj", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1413976.QzXLEj.e17eda2a-9191-4db8-b270-6539477b85ba.png", 
+        "text": "...", 
+        "from_url": "https://codepen.io/hermes/full/QzXLEj", 
+        "fallback": "CodePen: Government Shutdown Pure CSS", 
+        "service_icon": "https://codepen.io/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "face_palm", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0GL52N", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCC37PD6D", 
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "clap", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCC37PD6D", 
+          "U1HBKMW8Y", 
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCC0GL52N", 
+      "UCBHEGLKB", 
+      "U8MP28D9S"
+    ], 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1547799482.001200"
+      }, 
+      {
+        "user": "UCBHEGLKB", 
+        "ts": "1547959546.000100"
+      }, 
+      {
+        "user": "U8MP28D9S", 
+        "ts": "1548101358.002700"
+      }
+    ], 
+    "ts": "1547790741.000400", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U8MP28D9S", 
+    "text": "Trump shuts down the government in pure CSS:\n\n<https://codepen.io/hermes/full/QzXLEj>", 
+    "reply_users_count": 3
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1547599317.000300", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "client_msg_id": "8941e13a-7746-4a52-b35b-3e7ed487af1f", 
+    "text": "ooh this is pretty cool. I'm not a JQuery expert but I have used it a few times before. Thanks <@U8MP28D9S>!", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1546982939.006300"
+  }, 
+  {
+    "client_msg_id": "734a2a48-fd77-4d69-8935-9739a6ea2168", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "grinning", 
+        "users": [
+          "U6X9L8VAN"
+        ]
+      }
+    ], 
+    "text": "Give your parent &lt;ul&gt; a sortable id.\n\nThen target it with javascript like:\n```\n    $( \"#sortable\" ).sortable();\n```", 
+    "ts": "1546981725.005700", 
+    "user": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fb5efb9d-4e2f-4010-8220-9be884811a18", 
+    "attachments": [
+      {
+        "original_url": "https://jqueryui.com/", 
+        "text": "jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.", 
+        "title": "jQuery UI", 
+        "title_link": "https://jqueryui.com/", 
+        "service_name": "jqueryui.com", 
+        "from_url": "https://jqueryui.com/", 
+        "fallback": "jQuery UI", 
+        "service_icon": "http://jqueryui.com/jquery-wp-content/themes/jqueryui.com/i/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "As in draggable/sortable ui?\n\nNot sure what your tech stack is, but you may like <https://jqueryui.com/>", 
+    "ts": "1546981648.005000", 
+    "user": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6fa50d94-43ff-460e-bfaf-2a3891d84370", 
+    "text": "Hey all, has anyone found a javascript framework or NPM module for creating sortable lists that they really enjoyed using?\n\nI've found a bunch of options online but nothing that obviously stands out. _I'm looking for something minimal and easy to implement._\n\nI'm making a checklist tool and I'd like to let users re-order the checklist", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1546981231.004200"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1546980987.000200", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "20f570a2-e30a-4ccc-b72e-0541832937eb", 
+    "edited": {
+      "user": "U8MP28D9S", 
+      "ts": "1545365194.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 4064, 
+        "original_url": "https://codepen.io/hermes/pen/xQvLyM", 
+        "service_name": "CodePen", 
+        "title": "Dry GSAP", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/hermes/pen/xQvLyM", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1413976.xQvLyM.0711f97e-280a-43f8-a551-4e39bdf79799.png", 
+        "text": "...", 
+        "from_url": "https://codepen.io/hermes/pen/xQvLyM", 
+        "fallback": "CodePen: Dry GSAP", 
+        "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+        "id": 1
+      }
+    ], 
+    "thread_ts": "1544496051.001000", 
+    "text": "<@UCBHEGLKB> It's kind of a fun technology. Getting it to animate with the scrollbar is sort of the easy part, but creating the animations is a bit more involved. (I didn't create these graphical animations)\n\nIt's done by running animations through GSAP and then taking the tweens you create with GSAP and incorporating them with ScrollMagic.js\n\nYou can find an example of vanilla GSAP (The standard for HTML5 Javascript animation) at my codepen here:\n\n<https://codepen.io/hermes/pen/xQvLyM>\n\nAnd then you can see me scroll jack the first part of that same animation here:\n\n<http://www.joerezendes.com/scroll> (View the page source code)", 
+    "ts": "1545339044.000100", 
+    "user": "U8MP28D9S", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "210b4cd8-f5b3-4f1c-8523-46ca505ec921", 
+    "thread_ts": "1544496051.001000", 
+    "text": "That's amazing. How long did it take you to make these?\n", 
+    "ts": "1545266796.000300", 
+    "subtype": "thread_broadcast", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "ef0eb98d-7ab3-4bd0-b882-bf4dacb4c007", 
+      "thread_ts": "1544496051.001000", 
+      "latest_reply": "1545339044.000100", 
+      "attachments": [
+        {
+          "image_bytes": 26285, 
+          "original_url": "https://codepen.io/hermes/pen/yQmRYE", 
+          "service_name": "CodePen", 
+          "title": "Animating With Lottie, ScrollMagic, and Gsap", 
+          "image_width": 444, 
+          "title_link": "https://codepen.io/hermes/pen/yQmRYE", 
+          "image_height": 250, 
+          "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1413976.yQmRYE.6fc84cf8-3f35-417f-9847-6bc745e47b55.png", 
+          "text": "Using Lottie, Scrollmagic, and gsap...", 
+          "from_url": "https://codepen.io/hermes/pen/yQmRYE", 
+          "fallback": "CodePen: Animating With Lottie, ScrollMagic, and Gsap", 
+          "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+          "id": 1
+        }
+      ], 
+      "subscribed": false, 
+      "reply_users": [
+        "UCB8T1AG0", 
+        "UCC0GL52N", 
+        "UCBHEGLKB", 
+        "U8MP28D9S"
+      ], 
+      "replies": [
+        {
+          "user": "UCB8T1AG0", 
+          "ts": "1544570033.003900"
+        }, 
+        {
+          "user": "UCC0GL52N", 
+          "ts": "1544591141.004400"
+        }, 
+        {
+          "user": "UCBHEGLKB", 
+          "ts": "1545266796.000300"
+        }, 
+        {
+          "user": "U8MP28D9S", 
+          "ts": "1545339044.000100"
+        }
+      ], 
+      "ts": "1544496051.001000", 
+      "type": "message", 
+      "reply_count": 4, 
+      "user": "U8MP28D9S", 
+      "text": "I've been creating these scroll type effects for work.\n\nHere's a few of my playgrounds:\n\n<https://codepen.io/hermes/pen/yQmRYE>", 
+      "reply_users_count": 4
+    }
+  }, 
+  {
+    "client_msg_id": "5495f582-a83a-4635-94ad-3f205493920d", 
+    "edited": {
+      "user": "U8MP28D9S", 
+      "ts": "1545011316.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 34661, 
+        "original_url": "https://codepen.io/hermes/full/VqaNom", 
+        "service_name": "CodePen", 
+        "title": "CSS Santa Is Coming To Town!", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/hermes/full/VqaNom", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1413976.VqaNom.954dbe6c-dec7-4a9a-b211-b8e6a6b69bbb.png", 
+        "text": "Pure CSS Christmas! Santa Claus is coming to town in Pure CSS!...", 
+        "from_url": "https://codepen.io/hermes/full/VqaNom", 
+        "fallback": "CodePen: CSS Santa Is Coming To Town!", 
+        "service_icon": "https://codepen.io/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 11, 
+        "name": "santa", 
+        "users": [
+          "UCBLQTD7V", 
+          "U6X9L8VAN", 
+          "UCHK87XEJ", 
+          "UCDAMHRDL", 
+          "UCBS1DSF5", 
+          "UCC37PD6D", 
+          "U28S64ZJ5", 
+          "UCB8T1AG0", 
+          "UCC0GL52N", 
+          "U1HBKMW8Y", 
+          "UCBS4EW59"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "snowman_without_snow", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "evergreen_tree", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "unicorn-joe", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Happy Holidays. Had some fun making this in pure CSS.\n\n<https://codepen.io/hermes/full/VqaNom>", 
+    "ts": "1545011279.000200", 
+    "user": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D23E8DB0-D542-4134-9E94-8C0B7B2945CE", 
+    "attachments": [
+      {
+        "image_bytes": 811364, 
+        "original_url": "https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a?source=email-eb4a2272b965-1544719188993-digest.reader------0-59------------------c79e8a93_0e07_4352_8cfe_4e6bf2475200-1&amp;sectionName=top&amp;gi=fb75a77c13b2", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "3 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "The best front-end hacking cheatsheets \u2014 all in one place.", 
+        "ts": 1509124023, 
+        "title_link": "https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a?source=email-eb4a2272b965-1544719188993-digest.reader------0-59------------------c79e8a93_0e07_4352_8cfe_4e6bf2475200-1&sectionName=top&gi=fb75a77c13b2", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*sqkshvsmr7hN4Ab2A7GJzg.png", 
+        "image_width": 458, 
+        "service_name": "freeCodeCamp.org", 
+        "from_url": "https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a?source=email-eb4a2272b965-1544719188993-digest.reader------0-59------------------c79e8a93_0e07_4352_8cfe_4e6bf2475200-1&sectionName=top&gi=fb75a77c13b2", 
+        "fallback": "freeCodeCamp.org: The best front-end hacking cheatsheets \u2014 all in one place.", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*MotlWcSa2n6FrOx3ul89kw.png", 
+        "text": "It\u2019s rather impossible to remember all the APIs by heart. This is when cheatsheets jump in! Here are the best front-end cheatsheets I\u2019ve\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a?source=email-eb4a2272b965-1544719188993-digest.reader------0-59------------------c79e8a93_0e07_4352_8cfe_4e6bf2475200-1&amp;sectionName=top&amp;gi=fb75a77c13b2>", 
+    "ts": "1544727884.007700", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "33A25A07-9E0B-421F-B482-95AD7299AD37", 
+    "edited": {
+      "user": "U8MP28D9S", 
+      "ts": "1544719486.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 1604, 
+        "thumb_width": 3180, 
+        "original_url": "https://www.humaaans.com", 
+        "text": "Mix-&amp;-match illustrations of people with a design library for InVIsion Studio and Sketch.", 
+        "title": "Humaaans: Mix-&amp;-Match illustration library", 
+        "title_link": "https://www.humaaans.com/", 
+        "service_name": "humaaans.com", 
+        "from_url": "https://www.humaaans.com/", 
+        "fallback": "Humaaans: Mix-&amp;-Match illustration library", 
+        "thumb_url": "https://uploads-ssl.webflow.com/5bff8886c3964a992e90d465/5c050a75fc73fba30bf816f1_seo-rectangle.jpg", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.humaaans.com> \n\nFool employers into thinking you\u2019re a great UI designer thats hip with the trends by using humaaans. They\u2019re all the rage right now.", 
+    "ts": "1544719439.007100", 
+    "user": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00d5b1ad-da35-4777-a5f3-13b02b375919", 
+    "thread_ts": "1544496051.001000", 
+    "text": "lol, woah.css <@U8MP28D9S>", 
+    "ts": "1544591141.004400", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "79e36619-d7fd-4744-aee0-fb3b916ba368", 
+    "thread_ts": "1544496051.001000", 
+    "text": "Woah!!!!! SO cool. I want to know everything.", 
+    "ts": "1544570033.003900", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "U8MP28D9S", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5ecab1b-731a-4922-9162-e9241cd05f17", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "unicorn-joe", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sparkles", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "magic", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "These are really neat. This has a lot of creative potential.", 
+    "ts": "1544564313.002600", 
+    "user": "U28S64ZJ5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6bba8e0b-86cc-43be-bda6-6e04d87c6d5a", 
+    "text": "<http://www.joerezendes.com/scroll>", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1544496066.001300"
+  }, 
+  {
+    "client_msg_id": "ef0eb98d-7ab3-4bd0-b882-bf4dacb4c007", 
+    "thread_ts": "1544496051.001000", 
+    "latest_reply": "1545339044.000100", 
+    "attachments": [
+      {
+        "image_bytes": 26285, 
+        "original_url": "https://codepen.io/hermes/pen/yQmRYE", 
+        "service_name": "CodePen", 
+        "title": "Animating With Lottie, ScrollMagic, and Gsap", 
+        "image_width": 444, 
+        "title_link": "https://codepen.io/hermes/pen/yQmRYE", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/i.cdpn.io/1413976.yQmRYE.6fc84cf8-3f35-417f-9847-6bc745e47b55.png", 
+        "text": "Using Lottie, Scrollmagic, and gsap...", 
+        "from_url": "https://codepen.io/hermes/pen/yQmRYE", 
+        "fallback": "CodePen: Animating With Lottie, ScrollMagic, and Gsap", 
+        "service_icon": "https://static.codepen.io/assets/favicon/favicon-8ea04875e70c4b0bb41da869e81236e54394d63638a1ef12fa558a4a835f1164.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "astonished", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCBDBB3LZ", 
+          "UCD53TKCN", 
+          "U1HBKMW8Y", 
+          "U28S64ZJ5", 
+          "UCDAMHRDL", 
+          "UCB8T1AG0", 
+          "UCHK87XEJ", 
+          "UCC0GL52N", 
+          "UCBHEGLKB"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "clap", 
+        "users": [
+          "UCBLQTD7V", 
+          "U1HBKMW8Y", 
+          "U28S64ZJ5", 
+          "UCDAMHRDL", 
+          "UCBP4M9C4", 
+          "UCHK87XEJ", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCB8T1AG0", 
+      "UCC0GL52N", 
+      "UCBHEGLKB", 
+      "U8MP28D9S"
+    ], 
+    "replies": [
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1544570033.003900"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1544591141.004400"
+      }, 
+      {
+        "user": "UCBHEGLKB", 
+        "ts": "1545266796.000300"
+      }, 
+      {
+        "user": "U8MP28D9S", 
+        "ts": "1545339044.000100"
+      }
+    ], 
+    "ts": "1544496051.001000", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "U8MP28D9S", 
+    "text": "I've been creating these scroll type effects for work.\n\nHere's a few of my playgrounds:\n\n<https://codepen.io/hermes/pen/yQmRYE>", 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "b9f959d4-108a-48c0-8f53-f2d8835faad3", 
+    "attachments": [
+      {
+        "thumb_height": 293, 
+        "thumb_url": "https://static01.nyt.com/images/2018/12/10/business/10location-promo/10location-promo-mediumThreeByTwo440.jpg", 
+        "thumb_width": 440, 
+        "original_url": "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage", 
+        "service_name": "The New York Times", 
+        "title": "Your Apps Know Where You Were Last Night, and They\u2019re Not Keeping It Secret", 
+        "title_link": "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage", 
+        "service_url": "https://www.nytimes.com", 
+        "text": "Dozens of companies use smartphone locations to help advertisers and even hedge funds. They say it\u2019s anonymous, but the data shows how personal it is.", 
+        "from_url": "https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage", 
+        "fallback": "The New York Times Your Apps Know Where You Were Last Night, and They\u2019re Not Keeping It Secret", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/nytimes.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage> another cool scrolling front end", 
+    "ts": "1544475405.000300", 
+    "user": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1544225030.001500", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "client_msg_id": "fd62d747-5149-4b9c-9fd9-0bda71d17b7c", 
+    "thread_ts": "1543911139.003700", 
+    "text": "A tragic tale, but it's definitely presented very well!", 
+    "ts": "1543956483.001100", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "43aa2355-665a-41e4-acf0-8d934200c126", 
+    "text": "Super cool. Probably uses some clever CSS and JS waypoints.", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1543944329.000800"
+  }, 
+  {
+    "client_msg_id": "d0c05bdf-95ae-4abd-aaa6-7aad3a1cecd2", 
+    "thread_ts": "1543911139.003700", 
+    "text": "Sad, but true. The front-end tells the story very well.", 
+    "ts": "1543943126.000100", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bad9c64c-86ac-4c11-bdf3-f21b8b846083", 
+    "thread_ts": "1543911139.003700", 
+    "latest_reply": "1543956483.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0", 
+      "UCB8T1AG0"
+    ], 
+    "text": "crazy cool front end", 
+    "ts": "1543911139.003700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBP4M9C4", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1543943126.000100"
+      }, 
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1543956483.001100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "a0b190fd-df66-4948-9815-6c939c05920e", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCBLQTD7V", 
+          "U1HBKMW8Y", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 293, 
+        "thumb_url": "https://static01.nyt.com/images/2018/11/17/us/california-camp-fire-paradise-map-promo-1542504191694/california-camp-fire-paradise-map-promo-1542504191694-mediumThreeByTwo440-v3.jpg", 
+        "thumb_width": 440, 
+        "original_url": "https://www.nytimes.com/interactive/2018/11/18/us/california-camp-fire-paradise.html", 
+        "service_name": "The New York Times", 
+        "title": "\u2018Hell on Earth\u2019: The First 12 Hours of California\u2019s Deadliest Wildfire", 
+        "author_name": "By SARAH ALMUKHTAR, TROY GRIGGS, KIRK JOHNSON, JUGAL K. PATEL, ANJALI SINGHVI and DEREK WATKINS", 
+        "title_link": "https://www.nytimes.com/interactive/2018/11/18/us/california-camp-fire-paradise.html", 
+        "service_url": "https://www.nytimes.com", 
+        "text": "The Camp Fire, which has killed dozens, quickly devastated the town of Paradise within hours of starting.", 
+        "from_url": "https://www.nytimes.com/interactive/2018/11/18/us/california-camp-fire-paradise.html", 
+        "fallback": "The New York Times \u2018Hell on Earth\u2019: The First 12 Hours of California\u2019s Deadliest Wildfire", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/nytimes.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.nytimes.com/interactive/2018/11/18/us/california-camp-fire-paradise.html>", 
+    "ts": "1543911135.003400", 
+    "user": "UCBP4M9C4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6DA2A7C0-8C9A-4A61-B7CF-1A42385A93A4", 
+    "thread_ts": "1543216130.005700", 
+    "text": "(Sorry for the late reply. I started typing this message a few days ago and got distracted. I just found it still in Slack. )\n\nLooks good. I like the first. The second one attracts your eyes to that spot where the corner of the phone almost touches the dark area on the left. But maybe this one leaves a little too much space on the right?\n\nWhite phone on a white background doesn\u2019t make the phone pop out. Swapping white for a color might make the phone pop more. \n\nI\u2019m not sold on the shadow either, but it anchors the image of the phone. The shadow looks a little weird when it runs into the dark zone. \n\n", 
+    "ts": "1543718628.003100", 
+    "user": "U28S64ZJ5", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "text": "Flutter Live viewing party at Google HQ in Mountain View: <http://meetu.ps/e/G3Klq/1QVtH/a>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 49998, 
+        "original_url": "http://meetu.ps/e/G3Klq/1QVtH/a", 
+        "fields": [
+          {
+            "short": false, 
+            "value": "Crane Beach Meeting Room Google Bldg CL2  1200 Crittenden Ln Mountain View, CA 94043 Mountain View, ca", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Tue, Dec 4, 2018, 8:30 AM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Flutter Live Viewing Party and meet the Flutter Team", 
+        "image_width": 333, 
+        "title_link": "http://meetu.ps/e/G3Klq/1QVtH/a", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/2/4/6/6/600_464349318.jpeg", 
+        "service_name": "Meetup", 
+        "from_url": "http://meetu.ps/e/G3Klq/1QVtH/a", 
+        "fallback": "Meetup: Flutter Live Viewing Party and meet the Flutter Team", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "text": "Tue, Dec 4, 2018, 8:30 AM: Join the celebration of Flutter with the Flutter team at Google Mountain View office on December 4!The Flutter Team just announced #FlutterLive<https://developers.google.com/>", 
+        "id": 1
+      }
+    ], 
+    "ts": "1543693277.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1543263301.003600", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "774eb68f-5ff3-40b2-b408-36a4c9390547", 
+    "thread_ts": "1543216130.005700", 
+    "latest_reply": "1543718628.003100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U28S64ZJ5"
+    ], 
+    "text": "Yeah, I've been messing with the colors currently. I added a ribbon that pops down with a future link to our Digital Demo but for now it just links to my website lol.\n\nI made the color scheme more consistent.\n\nI will try messing with the background colors and seeing how that looks as well.\n\nI appreciate the input from ya'll :slightly_smiling_face:", 
+    "ts": "1543216130.005700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBHEGLKB", 
+    "replies": [
+      {
+        "user": "U28S64ZJ5", 
+        "ts": "1543718628.003100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "bf26f02b-4b33-445f-8c8f-3124dbbbb012", 
+    "text": "The first one looks better to me. A third option is probably changing the white color under the phone to black or purple and removing the overlay on the left hand side.", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1543213717.004100"
+  }, 
+  {
+    "client_msg_id": "5d70a87c-5d4a-41f0-bfd0-d01e25392170", 
+    "text": "maybe get rid of the shadow if you use the first one? Both are good. Maybe do different proportions of white to black background if you use the second one?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1543207788.002600"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 469, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEBELH8MA", 
+        "thumb_480_h": 281, 
+        "original_h": 1970, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2018-11-25 at 8.36.32 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEBELH8MA/screen_shot_2018-11-25_at_8.36.32_pm.png", 
+        "thumb_720_h": 422, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_80.png", 
+        "thumb_360_h": 211, 
+        "size": 3485702, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_800.png", 
+        "timestamp": 1543207015, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEBELH8MA/download/screen_shot_2018-11-25_at_8.36.32_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_1024.png", 
+        "user": "UCBHEGLKB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEBELH8MA-b15035a786", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHEGLKB/FEBELH8MA/screen_shot_2018-11-25_at_8.36.32_pm.png", 
+        "name": "Screen Shot 2018-11-25 at 8.36.32 PM.png", 
+        "created": 1543207015, 
+        "thumb_1024_h": 600, 
+        "thumb_960_h": 563, 
+        "original_w": 3360, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBELH8MA-23ad3bd30f/screen_shot_2018-11-25_at_8.36.32_pm_720.png"
+      }
+    ], 
+    "text": "Here is the other one", 
+    "upload": true, 
+    "ts": "1543207023.001300", 
+    "display_as_bot": false, 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 468, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEBGJBH7V", 
+        "thumb_480_h": 281, 
+        "original_h": 1962, 
+        "thumb_360_w": 360, 
+        "title": "Screen Shot 2018-11-25 at 8.33.05 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEBGJBH7V/screen_shot_2018-11-25_at_8.33.05_pm.png", 
+        "thumb_720_h": 421, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_80.png", 
+        "thumb_360_h": 211, 
+        "size": 3443849, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_800.png", 
+        "timestamp": 1543206811, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEBGJBH7V/download/screen_shot_2018-11-25_at_8.33.05_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_1024.png", 
+        "user": "UCBHEGLKB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEBGJBH7V-78e2c22736", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHEGLKB/FEBGJBH7V/screen_shot_2018-11-25_at_8.33.05_pm.png", 
+        "name": "Screen Shot 2018-11-25 at 8.33.05 PM.png", 
+        "created": 1543206811, 
+        "thumb_1024_h": 599, 
+        "thumb_960_h": 562, 
+        "original_w": 3354, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEBGJBH7V-94e5443373/screen_shot_2018-11-25_at_8.33.05_pm_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCBHEGLKB", 
+      "ts": "1543206868.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "purple_heart", 
+        "users": [
+          "UCC0GL52N", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Can  I get anyones input on this design? I think I enjoy the phone hovering over the image a little but I wasn't entirely sure if others would like it, where the phone is entirely in the white", 
+    "upload": true, 
+    "ts": "1543206817.000900", 
+    "display_as_bot": false, 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4d2fdc33-4c0d-400d-b792-fe8bb6a261f7", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "open_mouth", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC4U4V53"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "javascript", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "microsoft", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCHK87XEJ", 
+          "UCDAMHRDL"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "atom", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 73987, 
+        "original_url": "https://2018.stateofjs.com/other-tools/text_editors", 
+        "text": "Text Editors #StateOfJS", 
+        "title": "Text Editors #StateOfJS", 
+        "image_width": 482, 
+        "title_link": "https://2018.stateofjs.com/other-tools/text_editors", 
+        "image_height": 250, 
+        "image_url": "http://2018.stateofjs.com/images/captures/other-tools_text_editors.png", 
+        "service_name": "2018.stateofjs.com", 
+        "from_url": "https://2018.stateofjs.com/other-tools/text_editors", 
+        "fallback": "Text Editors #StateOfJS", 
+        "id": 1
+      }
+    ], 
+    "text": "Anyone else really surprised at the text editor category? <https://2018.stateofjs.com/other-tools/text_editors>", 
+    "ts": "1542676609.010100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1542668126.008700", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1542668118.008500", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1542668106.008300", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1542668086.008100", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBP4M9C4> has joined the channel", 
+    "ts": "1542668079.007900", 
+    "subtype": "channel_join", 
+    "user": "UCBP4M9C4", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1542668066.007700", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1542668058.007500", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1542668052.007300", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1542668048.007100", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1542668043.006900", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCCL1R3EZ> has joined the channel", 
+    "ts": "1542668040.006700", 
+    "subtype": "channel_join", 
+    "user": "UCCL1R3EZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1542668035.006500", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1542668002.006300", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCB3XNQFJ> has joined the channel", 
+    "ts": "1542667992.006100", 
+    "subtype": "channel_join", 
+    "user": "UCB3XNQFJ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBHMLWEQ> has joined the channel", 
+    "ts": "1542667950.005900", 
+    "subtype": "channel_join", 
+    "user": "UCBHMLWEQ", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1542667943.005700", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1542667940.005500", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1542667935.005300", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1542667931.005100", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1542667862.004900", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1542667853.004700", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1542667843.004500", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1542667839.004300", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1542667833.004100", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1542667828.003900", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1542667824.003700", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1542667821.003500", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1542667816.003300", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1542667796.003000", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1542667791.002800", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1542667786.002600", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1542667780.002400", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1542667773.002200", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1542667768.002000", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "U28S64ZJ5"
+  }, 
+  {
+    "client_msg_id": "50dfac6e-07a9-4504-8d36-e05753febf73", 
+    "text": "<@U28S64ZJ5>, you need to invite all FEW students into this channel so it has activity and they get value from it! :stuck_out_tongue:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1542666317.001700"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U28S64ZJ5"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "fallback": "[November 19th, 2018 7:14 AM] dani: :javascript: _*The 2018 State of JavaScript has been released*_!\n\n&gt; This year, [they] *surveyed over _20,000_ JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn*. And the result is a *unique collection of stats and insights* that will hopefully help you make your own way through the JavaScript ecosystem.\n\n<https://2018.stateofjs.com/>", 
+        "author_link": "https://product-college.slack.com/team/UC36F4P2M", 
+        "color": "D0D0D0", 
+        "text": ":javascript: _*The 2018 State of JavaScript has been released*_!\n\n&gt; This year, [they] *surveyed over _20,000_ JavaScript developers to figure out what they're using, what they're happy with, and what they want to learn*. And the result is a *unique collection of stats and insights* that will hopefully help you make your own way through the JavaScript ecosystem.\n\n<https://2018.stateofjs.com/>", 
+        "footer": "Posted in #random", 
+        "ts": "1542640473.378700", 
+        "author_name": "Dani Roxberry [BEW]", 
+        "is_share": true, 
+        "channel_name": "random", 
+        "channel_id": "C1D454NRE", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Dani Roxberry [BEW]", 
+        "from_url": "https://product-college.slack.com/archives/C1D454NRE/p1542640473378700", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-09/413908231171_1f74ed174abdfc3633f8_48.png", 
+        "author_id": "UC36F4P2M"
+      }
+    ], 
+    "text": "", 
+    "ts": "1542666200.000300", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1542666200.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "text": "<@U28S64ZJ5> set the channel purpose: questions, answers, and discussion for all FEW students", 
+    "ts": "1541543479.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "purpose": "questions, answers, and discussion for all FEW students"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1541543479.000200", 
+    "text": "<@U28S64ZJ5> has joined the channel"
+  }
+]

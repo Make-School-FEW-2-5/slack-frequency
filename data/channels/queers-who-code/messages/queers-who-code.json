@@ -1,0 +1,5522 @@
+[
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJAP3EQ9E-4b1862e8b3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJAP3EQ9E", 
+        "thumb_480_h": 480, 
+        "original_h": 571, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJAP3EQ9E/image_from_ios.jpg", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJAP3EQ9E-4b1862e8b3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJAP3EQ9E-4b1862e8b3/image_from_ios_64.jpg", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJAP3EQ9E-4b1862e8b3/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 20663, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556647790, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJAP3EQ9E-4b1862e8b3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJAP3EQ9E/download/image_from_ios.jpg", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJAP3EQ9E-8d794a4faf", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FJAP3EQ9E/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556647790, 
+        "original_w": 571, 
+        "mode": "hosted"
+      }
+    ], 
+    "client_msg_id": "3B332CEF-014A-4CA1-9209-6AD4234153B8", 
+    "text": "A spectre is haunting Europe. ", 
+    "upload": true, 
+    "ts": "1556647790.009700", 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "rainbow", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCC0H4UJE", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCC0H4UJE", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "original_url": "https://www.facebook.com/193811973980883/videos/809625269398392", 
+        "service_name": "Facebook", 
+        "author_link": "https://www.facebook.com/queenshilling/", 
+        "author_name": "Queenshilling", 
+        "service_url": "https://www.facebook.com", 
+        "from_url": "https://www.facebook.com/193811973980883/videos/809625269398392", 
+        "fallback": "Facebook Video: ", 
+        "id": 1
+      }
+    ], 
+    "text": ":fire_engine::sweat_drops::rainbow::confetti_ball: <https://www.facebook.com/193811973980883/videos/809625269398392>", 
+    "ts": "1556614125.008900", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E5C0D8A7-2CE8-4323-A94F-A6819C2C7805", 
+    "thread_ts": "1556573445.008100", 
+    "text": "A big ole gay picnic :\u2019) ", 
+    "ts": "1556574001.008500", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b9e262c5-ccd5-46e4-993f-0e25898f6ca2", 
+    "thread_ts": "1556573445.008100", 
+    "latest_reply": "1556574001.008500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME"
+    ], 
+    "text": "We could have a picnic at dolores too!", 
+    "ts": "1556573445.008100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1556574001.008500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "0eb7107d-d6e4-44d9-a416-d1c5b6b7cc90", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "I live by Dolores now. Would love to hold a brunch at my place one of these weekends. We can walk to the park and chill after.", 
+    "ts": "1556573018.007800", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3862a142-cc66-4f52-af8a-d7b860624e04", 
+    "text": "Yes!", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1556572950.006400"
+  }, 
+  {
+    "client_msg_id": "6592A4CF-306E-4DDD-A574-F8E15FB986B9", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC4S13NZ", 
+          "UCC0H4UJE", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCC0H4UJE", 
+          "UCBHLEZEY", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "eyes", 
+        "users": [
+          "UCBHLEZEY", 
+          "UCC0H4UJE", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rainbow", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "I\u2019d like to volunteer my place :relaxed::relaxed:, I just gotta get my roommates to clean up first :sweat_smile:", 
+    "ts": "1556566619.002200", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "848576f0-ecd5-42c2-aa06-611106e45462", 
+    "text": "YEA!!!!", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556566476.001300"
+  }, 
+  {
+    "client_msg_id": "d93864c9-2c52-4b3d-9b7a-162b71ee6ad2", 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "rainbow", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCC4S13NZ", 
+          "U1HBKMW8Y", 
+          "UCC4U4V53", 
+          "UCC0H4UJE", 
+          "UCBQH1P6E"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "confetti_ball", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tada", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "<!channel> SHOULD WE HAVE A PARTY SOON ???", 
+    "ts": "1556566436.000900", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C4DC5B97-7984-484F-838D-79DF191D1A5A", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB3PRBME", 
+          "UCC0GD5V0", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tada", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB3PRBME", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "I know this is late but a Happy Lesbian Visibility Day to all!", 
+    "ts": "1556339557.000800", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 464, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHYRD4VCL-17cd1ecc03/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHYRD4VCL", 
+        "thumb_480_h": 480, 
+        "original_h": 517, 
+        "thumb_360_w": 348, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHYRD4VCL/image_from_ios.jpg", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHYRD4VCL-17cd1ecc03/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHYRD4VCL-17cd1ecc03/image_from_ios_64.jpg", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHYRD4VCL-17cd1ecc03/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 37944, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555521319, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHYRD4VCL-17cd1ecc03/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHYRD4VCL/download/image_from_ios.jpg", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHYRD4VCL-c0ca51999c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FHYRD4VCL/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555521319, 
+        "original_w": 500, 
+        "mode": "hosted"
+      }
+    ], 
+    "client_msg_id": "963CB8D4-FE92-4B6F-AE68-98073649A14F", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC4S13NZ", 
+          "UCB8T1AG0", 
+          "UCB3PRBME", 
+          "UCC4U4V53"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC4S13NZ"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555521320.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B349AF24-7710-4589-99B3-9B3F2A18B5A0", 
+    "thread_ts": "1554955847.007500", 
+    "text": "I just realized what channel this was posted in &amp; I\u2019m :sob::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:", 
+    "ts": "1555111382.000600", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCC4U4V53", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b40e6409-2517-46e2-8610-a0c8f9c92357", 
+    "thread_ts": "1554955847.007500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "yas! ill message yall closer to june", 
+    "ts": "1555021019.000400", 
+    "user": "UCC4U4V53", 
+    "parent_user_id": "UCC4U4V53", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4ef2cd37-2a33-4d1f-b6cc-db0a5a1ee188", 
+    "thread_ts": "1554955847.007500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "If I had actually wanted to I would say that I really really really really really really would like to. But eh have fun!", 
+    "ts": "1554969649.008400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC4U4V53", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ba470944-7303-4964-99f6-e491c09304bd", 
+    "thread_ts": "1554955847.007500", 
+    "text": "Anisha\u2019s in", 
+    "ts": "1554961539.008200", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC4U4V53", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "855b0b94-1d2f-40ab-8bb9-b49062a66e9e", 
+    "edited": {
+      "user": "UCC0H4UJE", 
+      "ts": "1554960241.000000"
+    }, 
+    "thread_ts": "1554939514.004900", 
+    "text": "Guess I got to get regular meetings going again haha", 
+    "ts": "1554960163.007900", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d24224a3-89ec-4d59-ade3-78a31bf7511b", 
+    "thread_ts": "1554955847.007500", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dan", 
+        "users": [
+          "UCC4U4V53"
+        ]
+      }
+    ], 
+    "text": "I kind of do actually haha. I love her", 
+    "ts": "1554960116.007700", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC4U4V53", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "45421f86-d7a7-495c-a669-932a928defb1", 
+    "thread_ts": "1554955847.007500", 
+    "latest_reply": "1555111382.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE", 
+      "UCBQH1P6E", 
+      "UCC4U4V53", 
+      "UCB3PRBME"
+    ], 
+    "text": "would anyone want to go see Carly rae jepsen with me in June? GA tickets are around 60$!", 
+    "ts": "1554955847.007500", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCC4U4V53", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1554960116.007700"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1554961539.008200"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1554969649.008400"
+      }, 
+      {
+        "user": "UCC4U4V53", 
+        "ts": "1555021019.000400"
+      }, 
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1555111382.000600"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "23ac42c0-28ef-4673-93a7-9bac4a7f5d69", 
+    "thread_ts": "1554939514.004900", 
+    "text": "This is excellent!! You hit all the points that I imagine I would consider key interest points if I were on that queer discord and even remotely considering looking into MS, and your phrasing doesn't convey any desperation (the merest hint of which is a turn-off for me in such situations).", 
+    "ts": "1554943521.005900", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b558d523-04b6-42be-b3fc-35ade581ed2b", 
+    "thread_ts": "1554939514.004900", 
+    "latest_reply": "1554960163.007900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC4S13NZ", 
+      "UCC0H4UJE"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "100", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC4S13NZ", 
+          "U1HBKMW8Y", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 7, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBQH1P6E", 
+          "UCC4S13NZ", 
+          "UCB8T1AG0", 
+          "U1HBKMW8Y", 
+          "UCC4U4V53", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "+1", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBQH1P6E", 
+          "UCC4S13NZ", 
+          "UCB8T1AG0", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCB8T1AG0", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Trying to get my queer discord friends to come to MS. I think the living stipend is a pretty sweet deal for kids who really need to leave their abusive homes. Lmk what you think (this is pretty culturally specific but thought I'd share anyway):\n```\nrandom but I go here:  <https://www.makeschool.com/>\nIt's pretty cool. We're really diverse and queer. We have a queer club that ~1/4 of the school is in. My CS teacher has a rainbow mohawk. The academic compliance officer plays D&amp;D with us and uses they/them. Overall would recommend if you like coding and would be down to move to SF.\nI'll be a senior next year so if you get admitted for fall I'll still be there! Some of the seniors from this year already got jobs at places like Google and NASA.\nOh and btw you can use my referral link and I think they'll look at your application first or something.\n```", 
+    "ts": "1554939514.004900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1554943521.005900"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1554960163.007900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "dd1f5590-c0c8-46d2-b7cc-13ddd8ffb169", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "Let's go in April!", 
+    "ts": "1553810554.000400", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "08C723C7-B938-43F3-A1A9-24EE1DB8BD82", 
+    "attachments": [
+      {
+        "image_bytes": 92064, 
+        "original_url": "http://gay.dothebay.com/queer-mission-bowling-free-san-francisco?utm_source=DoTheBay&amp;utm_campaign=fac5bbb6b2-EMAIL_CAMPAIGN_2019_03_22_10_24&amp;utm_medium=email&amp;utm_term=0_884113f79f-fac5bbb6b2-128451061", 
+        "service_name": "DoTheGay | Bay Area LGBTQ Events (Lesbian, Gay, Bi, Trans, Queer)", 
+        "title": "Queer Bowling Nights", 
+        "image_width": 476, 
+        "title_link": "http://gay.dothebay.com/queer-mission-bowling-free-san-francisco?utm_source=DoTheBay&utm_campaign=fac5bbb6b2-EMAIL_CAMPAIGN_2019_03_22_10_24&utm_medium=email&utm_term=0_884113f79f-fac5bbb6b2-128451061", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/dostuff-media/image/upload//c_fill,g_faces,h_630,w_1200/v1552506363/user-6172575.jpg", 
+        "text": "DoTheGay | Bay Area LGBTQ Events (Lesbian, Gay, Bi, Trans, Queer) - The Bay Area - DoTheBay is What to do in The Bay Area.", 
+        "from_url": "http://gay.dothebay.com/queer-mission-bowling-free-san-francisco?utm_source=DoTheBay&utm_campaign=fac5bbb6b2-EMAIL_CAMPAIGN_2019_03_22_10_24&utm_medium=email&utm_term=0_884113f79f-fac5bbb6b2-128451061", 
+        "fallback": "DoTheGay | Bay Area LGBTQ Events (Lesbian, Gay, Bi, Trans, Queer): Queer Bowling Nights", 
+        "service_icon": "https://res.cloudinary.com/dostuff-media/image/upload//h_120,w_120/v1522682368/metro-mobile_logo-18.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Free Queer Bowling on Monday the 25th at Mission Bowling! And every 4th Monday of each month\n\n<http://gay.dothebay.com/queer-mission-bowling-free-san-francisco?utm_source=DoTheBay&amp;utm_campaign=fac5bbb6b2-EMAIL_CAMPAIGN_2019_03_22_10_24&amp;utm_medium=email&amp;utm_term=0_884113f79f-fac5bbb6b2-128451061>", 
+    "ts": "1553302904.001400", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d4c47fe3-ea42-4d19-8215-b0b5135e961c", 
+    "thread_ts": "1552872212.000600", 
+    "text": "Thanks Cherish :heart: things are well!", 
+    "ts": "1552960246.000300", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "34b98d81-f1e5-4941-90cf-7e2cfc65fd6b", 
+    "thread_ts": "1552872212.000600", 
+    "text": "We all miss you too, Jacob!! Hope everything\u2019s going well :slightly_smiling_face:", 
+    "ts": "1552880296.000500", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "162374f9-a3d1-4dda-af39-688f95aef823", 
+    "thread_ts": "1552872212.000600", 
+    "latest_reply": "1552960246.000300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC4S13NZ", 
+      "UCBDA2GGH"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "rainbow-flag", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC4S13NZ", 
+          "UCC0H4UJE", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "sparkling_heart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC4S13NZ", 
+          "UCC0H4UJE", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Missin\u2019 my queer crew a lil extra today. Miss you all and hope you\u2019re having a wonderful break!", 
+    "ts": "1552872212.000600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDA2GGH", 
+    "replies": [
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1552880296.000500"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1552960246.000300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1550631921.000400", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550549328.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FG6NS13HN-1045db4fe1/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FG6NS13HN", 
+        "thumb_480_h": 245, 
+        "original_h": 319, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG6NS13HN/image_from_ios.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG6NS13HN-1045db4fe1/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG6NS13HN-1045db4fe1/image_from_ios_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG6NS13HN-1045db4fe1/image_from_ios_80.png", 
+        "thumb_360_h": 184, 
+        "size": 136830, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550175417, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG6NS13HN-1045db4fe1/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG6NS13HN/download/image_from_ios.png", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG6NS13HN-b033647990", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FG6NS13HN/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1550175417, 
+        "original_w": 625, 
+        "mode": "hosted"
+      }
+    ], 
+    "edited": {
+      "user": "UCC0H4UJE", 
+      "ts": "1550187809.000000"
+    }, 
+    "upload_reply_to": "0451A791-C019-4382-BD5B-7D6F7F16F1AE", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "two_hearts", 
+        "users": [
+          "UCBS37LKV", 
+          "UCC0GD5V0", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "Happy V day, queers. In lieu of meeting today, support Erica and have fun at the event!", 
+    "ts": "1550175417.000100", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b85bdaaa-e6bb-43de-bd2f-f9652630020b", 
+    "thread_ts": "1548966905.000300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "spongebob", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "wHaT aBoUt mEeTiNg?", 
+    "ts": "1548970260.000600", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FE491202-E2C1-414A-BFA7-BB098306B35E", 
+    "thread_ts": "1548966905.000300", 
+    "latest_reply": "1548970260.000600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "spongebob", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "What about meeting?", 
+    "ts": "1548966905.000300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQH1P6E", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1548970260.000600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1548273682.000200", 
+    "text": "<@UCFCFQ7KK> has left the channel"
+  }, 
+  {
+    "client_msg_id": "bb8b2d1f-c338-4978-9669-afc18553168a", 
+    "text": "It\u2019s so cute", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1546195128.000700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FF3CWA4QJ", 
+        "thumb_480_h": 480, 
+        "original_h": 3388, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2018-12-29, 1:18 AM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FF3CWA4QJ/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 754004, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_800.png", 
+        "timestamp": 1546064326, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FF3CWA4QJ/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_1024.png", 
+        "user": "UCBQH1P6E", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FF3CWA4QJ-fc6957e4e5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQH1P6E/FF3CWA4QJ/image.png", 
+        "name": "image.png", 
+        "created": 1546064326, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3389, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FF3CWA4QJ-dc7f2490c0/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "U6YHCA79U", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hamster", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/ashleymcnamara/gophers/blob/master/pride1.png>", 
+    "upload": true, 
+    "ts": "1546064335.000100", 
+    "display_as_bot": false, 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thinking_face", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCB3PRBME", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "ts": "1545328805.000100", 
+    "user": "USLACKBOT", 
+    "type": "message", 
+    "bot_id": "B01"
+  }, 
+  {
+    "client_msg_id": "cd3d90e1-e6b1-49e5-b69c-a446d46368e8", 
+    "text": "Ok", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1545191758.005900"
+  }, 
+  {
+    "client_msg_id": "c217b73b-f090-418d-a99f-8343ec7398a0", 
+    "text": "Come down", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1545191742.005600"
+  }, 
+  {
+    "client_msg_id": "f902daba-3d1d-44fe-b60b-1dcc565d2351", 
+    "text": "Wya???", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1545191738.005400"
+  }, 
+  {
+    "client_msg_id": "e724cd34-910c-44eb-8739-ae43d85be597", 
+    "text": "And if no one wants to go we can have a party in my room or something. I'm bored and I want to hang out w people.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1545184185.005100"
+  }, 
+  {
+    "client_msg_id": "14684b5d-d464-4801-be62-808d30fdcf41", 
+    "text": "We should do this sometime when we're all in town", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1545182345.004000"
+  }, 
+  {
+    "client_msg_id": "72b45aa5-475d-4574-b650-3000cd26fdd2", 
+    "text": ":disappointed:", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1545182109.003400"
+  }, 
+  {
+    "client_msg_id": "a16e1c2f-183f-4bc0-9e51-bcbe4e657124", 
+    "text": "if i was in SF i'd be so down", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1545182106.003200"
+  }, 
+  {
+    "client_msg_id": "9289f68f-dcca-4269-987d-442550c11907", 
+    "text": "Yo i know it is a tuesday night but does anyone wanna go to a gay bar tonight?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1545181713.003000"
+  }, 
+  {
+    "client_msg_id": "95b9f5ff-c720-43eb-aeae-58d2c8271e30", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "image_bytes": 134928, 
+        "author_link": "https://twitter.com/nailainayat/status/1073272724078911488", 
+        "text": "Miss Spain #AngelaPonce is the first transgender contestant at the #MissUniverse and she's a favourite to win. \"Trans women have been persecuted and erased for so long. I\u2019m showing that trans women can be whatever they want,\" she says.  <https://reut.rs/2zTTZ0O> <https://pbs.twimg.com/media/DuUH1wNWoAARmUF.jpg>", 
+        "from_url": "https://twitter.com/nailainayat/status/1073272724078911488", 
+        "original_url": "https://twitter.com/nailainayat/status/1073272724078911488", 
+        "ts": 1544723132, 
+        "author_name": "Naila Inayat", 
+        "image_width": 1028, 
+        "image_height": 1080, 
+        "image_url": "https://pbs.twimg.com/media/DuUH1wNWoAARmUF.jpg", 
+        "service_name": "twitter", 
+        "author_subname": "@nailainayat", 
+        "service_url": "https://twitter.com/", 
+        "fallback": "<https://twitter.com/nailainayat|@nailainayat>: Miss Spain #AngelaPonce is the first transgender contestant at the #MissUniverse and she's a favourite to win. \"Trans women have been persecuted and erased for so long. I\u2019m showing that trans women can be whatever they want,\" she says.  <https://reut.rs/2zTTZ0O> <https://pbs.twimg.com/media/DuUH1wNWoAARmUF.jpg>", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1057920687594184705/LY8s4i1P_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "not really into beauty pageants but this was so nice to see :slightly_smiling_face: <https://twitter.com/nailainayat/status/1073272724078911488>", 
+    "ts": "1544990979.000800", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0dcf8945-20e1-43ee-9264-e67e041c41fd", 
+    "thread_ts": "1544733278.001900", 
+    "text": ":raised_hands:", 
+    "ts": "1544735393.003000", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "412295ec-5aa8-4e24-bcee-f357d041c3f7", 
+    "thread_ts": "1544733278.001900", 
+    "text": "hiding is valid", 
+    "ts": "1544735212.002800", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F9D8F770-46C0-4A9A-A4A1-34C3C984EBCA", 
+    "thread_ts": "1544733278.001900", 
+    "text": "Didn\u2019t see this until now sorry. I\u2019m hiding upstairs ", 
+    "ts": "1544735179.002600", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9e2e8a10-4120-40be-84cd-9bbbb68b27af", 
+    "thread_ts": "1544733278.001900", 
+    "text": "are you there tho? Ima come hang out if anyone wants to go", 
+    "ts": "1544733391.002000", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C99174F7-5D93-41C9-AF79-8B4DD05E0DC7", 
+    "thread_ts": "1544733278.001900", 
+    "latest_reply": "1544735393.003000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "UCC0H4UJE"
+    ], 
+    "text": "It seems like there are people still working on tests so don\u2019t worry about meeting today", 
+    "ts": "1544733278.001900", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCC0H4UJE", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1544733391.002000"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1544735179.002600"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1544735212.002800"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1544735393.003000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1544724007.001300"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FESM7HN3B", 
+        "size": 17565, 
+        "original_h": 62, 
+        "thumb_360_w": 220, 
+        "title": "Screen Shot 2018-12-13 at 9.18.57 AM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FESM7HN3B/screen_shot_2018-12-13_at_9.18.57_am.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FESM7HN3B-5f1ffda859/screen_shot_2018-12-13_at_9.18.57_am_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FESM7HN3B-5f1ffda859/screen_shot_2018-12-13_at_9.18.57_am_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FESM7HN3B-5f1ffda859/screen_shot_2018-12-13_at_9.18.57_am_80.png", 
+        "thumb_360_h": 62, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1544721579, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FESM7HN3B-5f1ffda859/screen_shot_2018-12-13_at_9.18.57_am_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FESM7HN3B/download/screen_shot_2018-12-13_at_9.18.57_am.png", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FESM7HN3B-fd641ecab5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FESM7HN3B/screen_shot_2018-12-13_at_9.18.57_am.png", 
+        "name": "Screen Shot 2018-12-13 at 9.18.57 AM.png", 
+        "created": 1544721579, 
+        "original_w": 220, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rainbow", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man-shrugging", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "big mood", 
+    "upload": true, 
+    "ts": "1544721580.000700", 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FENTW88UB", 
+        "size": 84996293, 
+        "title": "Resonate.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FENTW88UB/resonate.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1544298706, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FENTW88UB/download/resonate.zip", 
+        "user": "UCC0GD5V0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "Resonate.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FENTW88UB-a34928e926", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FENTW88UB/resonate.zip", 
+        "is_external": false, 
+        "created": 1544298706, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "notes", 
+        "users": [
+          "UCB3PRBME", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "microphone", 
+        "users": [
+          "UCB3PRBME", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "This album someone handed me at a bar in Tulsa is relevant to this group. It's Eric Himan's last album: Resonate.", 
+    "upload": true, 
+    "ts": "1544298711.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2f9344f4-460c-4f68-bed2-9a230bf87a7a", 
+    "text": "feel free to bring your laptops and work and/or socialize, whichever one you need more :stuck_out_tongue:", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1544128168.001100"
+  }, 
+  {
+    "client_msg_id": "f9b94a78-fd9d-41ee-8529-c85e4d81f232", 
+    "text": "hey all! join us in Golden Gate! work, play, and be gay!", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1544128139.000600"
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1544119213.000200"
+  }, 
+  {
+    "client_msg_id": "5fee4baf-525b-4f7c-b8d3-02afaa3d94d6", 
+    "thread_ts": "1543810739.001100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "<@UCBQH1P6E> :joy: :dancer:  That\u2019s exactly what I was playing when spotify recommended this", 
+    "ts": "1543815461.001700", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "36572f33-9a07-4115-b7a9-74d6b895b005", 
+    "thread_ts": "1543810739.001100", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/pt8VYOfr8To/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/BritneySpearsVEVO", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=pt8VYOfr8To", 
+        "video_html_width": 400, 
+        "author_name": "BritneySpearsVEVO", 
+        "title_link": "https://www.youtube.com/watch?v=pt8VYOfr8To", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pt8VYOfr8To?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=pt8VYOfr8To", 
+        "title": "Britney Spears - Work B**ch", 
+        "fallback": "YouTube Video: Britney Spears - Work B**ch", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "yass <https://www.youtube.com/watch?v=pt8VYOfr8To>", 
+    "ts": "1543814739.001400", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGTU143T-4e74d69e2b/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEGTU143T", 
+        "thumb_480_h": 231, 
+        "original_h": 282, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2018-12-02, 8:18 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGTU143T/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGTU143T-4e74d69e2b/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGTU143T-4e74d69e2b/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGTU143T-4e74d69e2b/image_80.png", 
+        "thumb_360_h": 173, 
+        "size": 44196, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543810736, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGTU143T-4e74d69e2b/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGTU143T/download/image.png", 
+        "user": "UCBDA2GGH", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGTU143T-4db7fbebc4", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDA2GGH/FEGTU143T/image.png", 
+        "name": "image.png", 
+        "created": 1543810736, 
+        "original_w": 586, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1543810739.001100", 
+    "latest_reply": "1543815461.001700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBDA2GGH"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCB3XNQFJ", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "loud_sound", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "When spotify recommended playlists is on point", 
+    "upload": true, 
+    "ts": "1543810739.001100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDA2GGH", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1543814739.001400"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1543815461.001700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "5b223386-81af-4d98-8080-54d6df796e36", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "UCB8T79UG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "male-singer", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "UCB8T79UG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 256, 
+        "original_url": "https://twitter.com/pixienop/status/1066826981814095873", 
+        "thumb_width": 256, 
+        "author_link": "https://twitter.com/pixienop/status/1066826981814095873", 
+        "text": "Finished up my little #pico8 demo! Really fun writing up all the different effects, working out the syncing and how to handle scenes\n<https://www.lexaloffle.com/bbs/?tid=32319>", 
+        "footer": "Twitter", 
+        "ts": 1543186347, 
+        "author_name": "pixienop", 
+        "video_html": "<video autoplay loop muted poster=\"https://pbs.twimg.com/tweet_video_thumb/Ds4hdSoVAAA1U0a.jpg\" width=\"256\" height=\"256\"><source type=\"video/mp4\" src=\"https://video.twimg.com/tweet_video/Ds4hdSoVAAA1U0a.mp4\"></video>", 
+        "video_html_height": 256, 
+        "video_html_width": 256, 
+        "service_url": "https://twitter.com/", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1003821504046329856/tskJOrkl_normal.jpg", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/pixienop/status/1066826981814095873", 
+        "author_subname": "@pixienop", 
+        "fallback": "<https://twitter.com/pixienop|@pixienop>: Finished up my little #pico8 demo! Really fun writing up all the different effects, working out the syncing and how to handle scenes\n<https://www.lexaloffle.com/bbs/?tid=32319> <https://pbs.twimg.com/tweet_video_thumb/Ds4hdSoVAAA1U0a.jpg>", 
+        "thumb_url": "https://pbs.twimg.com/tweet_video_thumb/Ds4hdSoVAAA1U0a.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Fully Automated Luxury Gay Space Lasers: <https://twitter.com/pixienop/status/1066826981814095873>", 
+    "ts": "1543553453.000400", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCBLQTD7V> has left the channel", 
+    "ts": "1543542088.003600", 
+    "subtype": "channel_leave", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a1ef6a47-2682-4828-8814-760be3be0f7d", 
+    "text": ":pride:", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1543536562.003400"
+  }, 
+  {
+    "client_msg_id": "7a33eea6-934a-4ca7-82ef-2e576064c15a", 
+    "text": "QUEERIN IT UP IN OKLAHOMA", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1543536048.003200"
+  }, 
+  {
+    "client_msg_id": "21977FAC-24CA-4052-80B2-0D723D45806A", 
+    "text": "We\u2019re still queer...just in Tulsa ", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543531738.002800"
+  }, 
+  {
+    "client_msg_id": "33ee8754-c107-4633-b017-2220af56d426", 
+    "text": "Oh yeah I forgot about that :expressionless:", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1543526996.002400"
+  }, 
+  {
+    "client_msg_id": "1D6CADD8-20BB-4E81-9B4D-4FE905E62729", 
+    "text": "Tulsa gg", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1543526818.001900"
+  }, 
+  {
+    "client_msg_id": "2d88fc19-c33b-4f2a-98ab-10757af4f4fa", 
+    "text": "only me and <@UCBQH1P6E> are here RIP", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1543525950.001600"
+  }, 
+  {
+    "client_msg_id": "7B225D9A-84DF-4304-B157-AB6B282AB6D0", 
+    "text": "Hey all I\u2019m not feeling well, but feel free to work and socialize and be queer in Golden Gate!", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1543523951.001300"
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1543514408.000100"
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1542909619.000100"
+  }, 
+  {
+    "client_msg_id": "65C87AFC-8D9D-4CB5-880D-534611C740CD", 
+    "attachments": [
+      {
+        "service_icon": "https://www.autostraddle.com/apple-touch-icon-57x57.png", 
+        "image_bytes": 341722, 
+        "original_url": "https://www.autostraddle.com/netflixs-she-ra-and-the-princesses-of-power-is-the-gay-agenda-440008/", 
+        "service_name": "Autostraddle", 
+        "title": "Netflix\u2019s \u201cShe-Ra and the Princesses of Power\u201d Is the Gay Agenda", 
+        "ts": 1542219835, 
+        "image_width": 500, 
+        "image_height": 250, 
+        "image_url": "https://www.autostraddle.com/wp-content/uploads/2018/11/shera-feature.png", 
+        "text": "Noelle Stevenson\u2019s remake of the short-lived but much beloved cartoon series is a brilliant homage to the original Gal Pals of Etheria and an absolute masterclass in feminist storytelling.", 
+        "from_url": "https://www.autostraddle.com/netflixs-she-ra-and-the-princesses-of-power-is-the-gay-agenda-440008/", 
+        "fallback": "Autostraddle: Netflix\u2019s \u201cShe-Ra and the Princesses of Power\u201d Is the Gay Agenda", 
+        "title_link": "https://www.autostraddle.com/netflixs-she-ra-and-the-princesses-of-power-is-the-gay-agenda-440008/", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.autostraddle.com/netflixs-she-ra-and-the-princesses-of-power-is-the-gay-agenda-440008/>", 
+    "ts": "1542701146.000200", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2F58AD0C-4932-4F2A-BD06-EDB655B016C0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Tonight @ 9pm: Hella Gay! dance party at the Uptown Nightclub in Oakland:\n<https://g.co/kgs/Txd5sB>", 
+    "ts": "1542501121.001500", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "26120702-b0f1-4c8c-a7c9-d4c8c7a1fd4b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "ABSOLUTELY YES", 
+    "ts": "1542305811.005200", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab0fc649-6e24-4dad-94fe-0bbc72464838", 
+    "text": "You are right Kandy, that slipped my mind. We don\u2019t have to meet today. I\u2019d still like to know for future meetings", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1542305643.004900"
+  }, 
+  {
+    "client_msg_id": "53b6316f-64f3-409b-b172-f84e957cf572", 
+    "text": "Don't we have makes giving today?", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1542305466.003800"
+  }, 
+  {
+    "attachments": [
+      {
+        "title": "Working while socializing?", 
+        "color": "6ecadc", 
+        "fields": [
+          {
+            "short": false, 
+            "value": ":one: Yes    `5`\n<@UCC0GD5V0>, <@UCB8T79UG>, <@UCBS3LMDZ>, <@UCC4S13NZ>, <@UCC4U4V53>\n\n", 
+            "title": ""
+          }, 
+          {
+            "short": false, 
+            "value": ":two: No\n\n\n", 
+            "title": ""
+          }
+        ], 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 1
+      }, 
+      {
+        "callback_id": "5e3c444d-0df3-4651-9a24-fd10cba915c9", 
+        "color": "6ecadc", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "id": 2, 
+        "actions": [
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":one:", 
+            "value": "1", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "vote", 
+            "text": ":two:", 
+            "value": "2", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "style": "danger", 
+            "name": "delete-v2", 
+            "confirm": {
+              "text": "Are you sure you want to delete the Poll?", 
+              "dismiss_text": "No", 
+              "title": "Delete Poll?", 
+              "ok_text": "Yes"
+            }, 
+            "text": "Delete Poll", 
+            "value": "", 
+            "type": "button", 
+            "id": "3"
+          }
+        ]
+      }, 
+      {
+        "footer": "Simple Poll        <https://simplepoll.rocks/dashboard/product-college/settings/|Edit Settings>", 
+        "color": "6ecadc", 
+        "callback_id": "5e3c444d-0df3-4651-9a24-fd10cba915c9", 
+        "fallback": "Open Slack to cast your vote in this Simple Poll", 
+        "footer_icon": "https://simplepoll.rocks/static/main/favicon.png", 
+        "id": 3
+      }
+    ], 
+    "text": "", 
+    "ts": "1542305391.003500", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "B86U61V4M"
+  }, 
+  {
+    "text": "/poll \u201cWorking while socializing?\u201d \u201cYes\u201d \u201cNo\u201d", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1542305391.003400"
+  }, 
+  {
+    "client_msg_id": "58dba2b6-5bfc-4bed-b503-32374558d199", 
+    "text": "<!channel> I\u2019ve noticed that participation has dropped pretty starkly the last few weeks, and it seems it\u2019s because everyone has a lot of work they need to be working on during our meeting time. Last week we had a meeting where we were all on our laptops while socializing and that worked pretty well. Would you all be up to doing it regularly?", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1542305098.003100"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@UCC0H4UJE> set the channel topic: Advancing the Queer Agenda", 
+    "ts": "1542305061.002100", 
+    "topic": "Advancing the Queer Agenda", 
+    "subtype": "channel_topic", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30pm in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1542304828.000700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 307, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 512, 
+        "id": "FE3MXA8H2", 
+        "thumb_480_h": 480, 
+        "original_h": 1000, 
+        "thumb_360_w": 230, 
+        "title": "one thing on our minds.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE3MXA8H2/one_thing_on_our_minds.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_64.jpg", 
+        "thumb_720_w": 461, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 101319, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_800.jpg", 
+        "timestamp": 1542228196, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE3MXA8H2/download/one_thing_on_our_minds.jpg", 
+        "user": "UCC0H4UJE", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE3MXA8H2-620e5fc540", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0H4UJE/FE3MXA8H2/one_thing_on_our_minds.jpg", 
+        "name": "one thing on our minds.jpg", 
+        "created": 1542228196, 
+        "thumb_960_h": 960, 
+        "original_w": 640, 
+        "thumb_960_w": 614, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3MXA8H2-030e9cc553/one_thing_on_our_minds_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "star-struck", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0GD5V0", 
+          "U6YHCA79U", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "U6YHCA79U", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "female-astronaut", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHCA79U", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "male-astronaut", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHCA79U", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pick", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHCA79U", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "UCBQH1P6E", 
+          "U6YHCA79U", 
+          "UCBDA2GGH", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1542228201.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00DF2921-2E95-41D7-9FDB-616FB3EA9864", 
+    "thread_ts": "1541874362.000700", 
+    "text": "Not happening unfortunately ", 
+    "ts": "1541875372.001100", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5AD64447-B66E-46F3-801F-B025D5AEEE51", 
+    "thread_ts": "1541874362.000700", 
+    "latest_reply": "1541875372.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE"
+    ], 
+    "text": "Are we doing Saturgays or nah?", 
+    "ts": "1541874362.000700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8T79UG", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1541875372.001100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6a355103-bc7e-4b70-9180-88acfb33e7f7", 
+    "thread_ts": "1541783612.005200", 
+    "text": "Thanks !", 
+    "ts": "1541789563.005800", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a03b1f21-ef14-47dc-b38b-ddc0a4b0b8f7", 
+    "thread_ts": "1541783612.005200", 
+    "attachments": [
+      {
+        "thumb_height": 750, 
+        "thumb_url": "https://shop.googlemerchandisestore.com/store/20160512512/assets/items/images/GGOEAXXX1038.jpg", 
+        "thumb_width": 750, 
+        "original_url": "https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Android+Unisex+Pride+Tee", 
+        "service_name": "Google Merchandise Store", 
+        "title": "Android Unisex Pride Tee", 
+        "title_link": "https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Android+Unisex+Pride+Tee", 
+        "text": "!Be an Android advocate by wearing this soft tri-blend Android Pride tee.", 
+        "from_url": "https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Android+Unisex+Pride+Tee", 
+        "fallback": "Google Merchandise Store: Android Unisex Pride Tee", 
+        "service_icon": "https://shop.googlemerchandisestore.com/store/20160512512/assets/themes/theme1_en/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "just don\u2019t wear it on the same day as me lol <https://shop.googlemerchandisestore.com/Google+Redesign/Apparel/Android+Unisex+Pride+Tee>", 
+    "ts": "1541786601.005500", 
+    "user": "UCBS37LKV", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "01ba3028-4cff-452b-985f-b48dc8c503aa", 
+    "thread_ts": "1541783612.005200", 
+    "latest_reply": "1541789563.005800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBS37LKV", 
+      "U6YHCA79U"
+    ], 
+    "text": "<@UCBS37LKV> When can we get this?", 
+    "ts": "1541783612.005200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YHCA79U", 
+    "replies": [
+      {
+        "user": "UCBS37LKV", 
+        "ts": "1541786601.005500"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1541789563.005800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FDYHCR9K2", 
+        "size": 77627, 
+        "original_h": 450, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2018-11-08, 1:37 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDYHCR9K2/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDYHCR9K2-d23c8a5701/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDYHCR9K2-d23c8a5701/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDYHCR9K2-d23c8a5701/image_80.png", 
+        "thumb_360_h": 360, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1541713032, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDYHCR9K2-d23c8a5701/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDYHCR9K2/download/image.png", 
+        "user": "UCBS37LKV", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDYHCR9K2-c02a892f05", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS37LKV/FDYHCR9K2/image.png", 
+        "name": "image.png", 
+        "created": 1541713032, 
+        "original_w": 450, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "rainbow", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "UCC0H4UJE", 
+          "U6YHCA79U", 
+          "UCBS3LMDZ"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "shirt", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "eyes", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "star-struck", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "UCC0H4UJE", 
+          "U6YHCA79U", 
+          "UCC4U4V53"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "heart_eyes_cat", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "UCC0H4UJE", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "captain-rainbow", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "sharing the pride/android shirt i was just talking about because i love it so much lmao", 
+    "upload": true, 
+    "ts": "1541713035.001800", 
+    "display_as_bot": false, 
+    "user": "UCBS37LKV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4e32a0f-510c-4a16-ad78-4cba0af0c70a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "mantelpiece_clock", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "night_with_stars", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "no more midnight meetings haha", 
+    "ts": "1541709165.001000", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "reminder_add", 
+    "text": " set up a reminder \u201cMeeting today at 12:30pm in the Golden Gate room!\u201d in this channel at 10AM every Thursday, Pacific Standard Time.", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1541709135.000700"
+  }, 
+  {
+    "text": "Reminder: Meeting today at 12:30am in the Golden Gate room!", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1541700023.000600"
+  }, 
+  {
+    "client_msg_id": "5b505de1-4d40-4ed3-ba63-7848ce7fe961", 
+    "text": "Gahh. I hate to miss yet ANOTHER meeting but I have way too much stuff to do before class :disappointed:", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1541666092.000500"
+  }, 
+  {
+    "client_msg_id": "45CC330B-1EC1-4F95-96CF-B15BA3240C12", 
+    "thread_ts": "1541121597.005600", 
+    "text": "Ahhh", 
+    "ts": "1541294735.002100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "text": "(Sharing to chat in general because I myself didn\u2019t see this message til just now)", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[November 2nd, 2018 11:48 AM] elliotbriant: I\u2019m not sure if I can this Saturday guys I am a bit behind on work, but what if we did a communal picnic on Sungay at the Dolores Park?", 
+        "author_link": "https://product-college.slack.com/team/U6YHCA79U", 
+        "color": "D0D0D0", 
+        "text": "I\u2019m not sure if I can this Saturday guys I am a bit behind on work, but what if we did a communal picnic on Sungay at the Dolores Park?", 
+        "footer": "From a thread in #queers-who-code", 
+        "ts": "1541184496.000700", 
+        "author_name": "Elliot Briant", 
+        "is_share": true, 
+        "channel_name": "queers-who-code", 
+        "channel_id": "CCTC3RACD", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Elliot Briant", 
+        "from_url": "https://product-college.slack.com/archives/CCTC3RACD/p1541184496000700?thread_ts=1541183882000400&cid=CCTC3RACD", 
+        "author_icon": "https://avatars.slack-edge.com/2018-09-11/433809348610_e6626927cadc98d05b4d_48.png", 
+        "author_id": "U6YHCA79U", 
+        "is_reply_unfurl": true
+      }
+    ], 
+    "ts": "1541287143.001800", 
+    "user": "UCC4S13NZ"
+  }, 
+  {
+    "client_msg_id": "725a988f-e229-434d-aa5f-41d59ea99597", 
+    "thread_ts": "1541183882.000400", 
+    "text": "Sounds perfect to me, I\u2019m down", 
+    "ts": "1541287103.001500", 
+    "user": "UCC4S13NZ", 
+    "parent_user_id": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "21b6964a-f3bc-44d3-9ca2-72fc0fefbc10", 
+    "text": "<@U6YHCA79U>", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1541285949.001400"
+  }, 
+  {
+    "client_msg_id": "532d4869-b840-4230-b5d9-1ffc7686ede0", 
+    "text": "?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1541284983.001100"
+  }, 
+  {
+    "client_msg_id": "35a09daa-59f2-4e43-968b-dd76789f8f3d", 
+    "text": "and do you mind if I bring a friend who goes to Minerva/", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1541284982.000900"
+  }, 
+  {
+    "client_msg_id": "b97e9cf8-655c-4e2d-848e-3b52362360e1", 
+    "text": "what's your address elliot?", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1541284920.000400"
+  }, 
+  {
+    "client_msg_id": "41ecd9cc-bc2c-4f9b-bf49-44644fcafa98", 
+    "edited": {
+      "user": "U6YHCA79U", 
+      "ts": "1541184517.000000"
+    }, 
+    "thread_ts": "1541183882.000400", 
+    "text": "I\u2019m not sure if I can this Saturday guys I am a bit behind on work, but what if we did a communal picnic on Sungay at the Dolores Park?", 
+    "pinned_info": {
+      "pinned_ts": 1541287116, 
+      "channel": "CCTC3RACD", 
+      "pinned_by": "UCC4S13NZ"
+    }, 
+    "ts": "1541184496.000700", 
+    "pinned_to": [
+      "CCTC3RACD"
+    ], 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "UCB8T79UG", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fallen_leaf", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "77ca2f4b-1062-418a-a171-29bd26009ff8", 
+    "thread_ts": "1541183882.000400", 
+    "text": "<@U6YHCA79U>", 
+    "ts": "1541184402.000500", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "22b3ae5d-92ed-4511-9122-73444749b034", 
+    "thread_ts": "1541183882.000400", 
+    "latest_reply": "1541287103.001500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE", 
+      "U6YHCA79U", 
+      "UCC4S13NZ"
+    ], 
+    "text": "Are we still meeting on Saturday?", 
+    "ts": "1541183882.000400", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCB8T79UG", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1541184402.000500"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1541184496.000700"
+      }, 
+      {
+        "user": "UCC4S13NZ", 
+        "ts": "1541287103.001500"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "9BAFB626-9FAE-4598-8A7A-161AA82F54CD", 
+    "thread_ts": "1541121597.005600", 
+    "text": "I made plans with Novan :confused:", 
+    "ts": "1541122527.006900", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DDFEEA4B-E15B-4CCC-9714-88F817265B72", 
+    "thread_ts": "1541121597.005600", 
+    "text": "What\u2019s stopping the wish from being granted?:thought_balloon:", 
+    "ts": "1541122158.006300", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3cdb6580-3296-4000-b473-23782e7e81cf", 
+    "thread_ts": "1541121597.005600", 
+    "latest_reply": "1541294735.002100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDA2GGH", 
+      "U6YHCA79U"
+    ], 
+    "text": "<@UCBDA2GGH> I wishhhhh", 
+    "ts": "1541121597.005600", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6YHCA79U", 
+    "replies": [
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1541122158.006300"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1541122527.006900"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1541294735.002100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "117ad1e9-dda0-4a0b-b517-5d8f973b95b7", 
+    "text": "OMGGGG!", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1541121012.004800"
+  }, 
+  {
+    "client_msg_id": "82f1f42e-876e-4562-9305-26a7d87d683f", 
+    "text": "(Jk but also sry not tonight)", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1541120761.004600"
+  }, 
+  {
+    "client_msg_id": "ff1df631-521b-4e75-94cf-efbf761b0ef3", 
+    "text": "I have $0.67", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1541120706.003900"
+  }, 
+  {
+    "client_msg_id": "579E05DF-6AD8-4613-B16B-8BEB74F1B8C8", 
+    "text": "<!channel> the legendary queer icon Troye Sivan is performing at the Masonic tonight along with Kim Petras, tickets are about $40. Anyone down??", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1541120662.003500"
+  }, 
+  {
+    "client_msg_id": "158cbdc8-7d95-4eb4-a3f5-583906781eb2", 
+    "text": "I won't be able to make it today, gotta catch up on some work love y'all!", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1541097567.002200"
+  }, 
+  {
+    "client_msg_id": "E1C234C7-D84E-41A0-80CC-5B28EF7EF0A0", 
+    "text": "I\u2019m still sick so I won\u2019t be able to make it today :(", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1541095570.001800"
+  }, 
+  {
+    "client_msg_id": "4ef8b346-6408-4c08-be87-d55ca1b09be0", 
+    "edited": {
+      "user": "UCC4S13NZ", 
+      "ts": "1541093433.000000"
+    }, 
+    "text": "hello all, i went to a concert last night and thus didn\u2019t do the work i should have done. not gonna make it to today\u2019s meeting. :disappointed:", 
+    "ts": "1541093427.001000", 
+    "user": "UCC4S13NZ", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "unicorn_face", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "Reminder: Meeting today at 12:30am in the Golden Gate room!", 
+    "ts": "1541091615.000100", 
+    "user": "USLACKBOT", 
+    "type": "message", 
+    "bot_id": "B01"
+  }, 
+  {
+    "client_msg_id": "c2d6c032-3d8d-42fd-95a6-5554f9a5f629", 
+    "thread_ts": "1540670609.004200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "laughing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "notebook", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Jamie's gay agenda is all booked up.", 
+    "ts": "1540691221.004900", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "269B6EAC-D822-4958-A140-2CB9A64A31FB", 
+    "thread_ts": "1540670609.004200", 
+    "text": "It\u2019s been pushed back to next Saturday ", 
+    "ts": "1540681850.004600", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D6F0F067-C4EA-4BE4-B67E-F57CDA8661F2", 
+    "thread_ts": "1540670609.004200", 
+    "latest_reply": "1540691221.004900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE", 
+      "UCC0GD5V0"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "closed_book", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Hey, guys. I will be absent from Saturgays as I have a date.", 
+    "ts": "1540670609.004200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBLQTD7V", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1540681850.004600"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1540691221.004900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "13414f23-21df-4815-a574-c1851d63cae9", 
+    "edited": {
+      "user": "U6YHCA79U", 
+      "ts": "1540598644.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBDA2GGH", 
+          "U6X9L8VAN", 
+          "UCBQH1P6E"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "I haven\u2019t met him yet, but every encounter I had with Mongo in person has shown to me that they are a very diverse company and very supportive to the lqbtq community, but I am glad that their lead engineer is queer", 
+    "ts": "1540598570.002500", 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 328, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDP3Q6WU9-dd9a6899f0/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FDP3Q6WU9", 
+        "thumb_480_h": 480, 
+        "original_h": 694, 
+        "thumb_360_w": 246, 
+        "title": "Pasted image at 2018-10-26, 5:00 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDP3Q6WU9/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDP3Q6WU9-dd9a6899f0/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDP3Q6WU9-dd9a6899f0/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDP3Q6WU9-dd9a6899f0/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 160036, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1540598431, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDP3Q6WU9-dd9a6899f0/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDP3Q6WU9/download/image.png", 
+        "user": "UCBDA2GGH", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDP3Q6WU9-76e9e749c3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDA2GGH/FDP3Q6WU9/image.png", 
+        "name": "image.png", 
+        "created": 1540598431, 
+        "original_w": 474, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "According to Out In Tech, the man behind our beloved MongoDB is lgbtq", 
+    "upload": true, 
+    "ts": "1540598433.000600", 
+    "display_as_bot": false, 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5F930D56-F87D-46BE-85D7-26F2F9D76861", 
+    "thread_ts": "1540499118.000100", 
+    "text": "Has a nice ring to it :ok_hand:", 
+    "ts": "1540516479.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "664f427d-6253-4ad9-bb22-e0d4d793d276", 
+    "thread_ts": "1540499118.000100", 
+    "latest_reply": "1540516479.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "pride", 
+        "users": [
+          "UCB8T79UG", 
+          "UCB8T1AG0", 
+          "UCBS3LMDZ", 
+          "U6YHCA79U", 
+          "UCC4S13NZ", 
+          "UCBDA2GGH", 
+          "UCC0GD5V0", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCBDA2GGH", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "^ Golden ~Gate~ room -&gt; Golden *Gay* room (FTFY) :stuck_out_tongue_winking_eye::foggy::pride:", 
+    "ts": "1540499118.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1540516479.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "reminder_add", 
+    "text": " set up a reminder \u201cMeeting today at 12:30am in the Golden Gate room!\u201d in this channel at 10AM every Thursday, Pacific Daylight Time.", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1540498914.000100"
+  }, 
+  {
+    "client_msg_id": "0f177139-064b-4627-9b16-8ab7e6731712", 
+    "text": "<!channel> Saturgays has been moved back to next weekend, November 3.", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1540497571.000100"
+  }, 
+  {
+    "client_msg_id": "05C88836-1051-497A-BEEF-019DF4C071C9", 
+    "text": "Hey guys I won\u2019t be at school till 1:30 today so won\u2019t be able to make the meeting", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1540482656.000100"
+  }, 
+  {
+    "client_msg_id": "F4E7E377-65AC-4289-80BE-1E0A7FAD5B17", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "female-technologist", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 95057, 
+        "original_url": "https://www.eventbrite.com/e/violet-hacks-tickets-51127917979?aff=ebdssbdestsearch", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "548 4th Street, San Francisco, CA 94107", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Sat, Nov 3, 2018 at 10:00 AM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Violet Hacks", 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/violet-hacks-tickets-51127917979?aff=ebdssbdestsearch", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F50945497%2F84331049852%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C86%2C1200%2C600&s=c20cbfa24803c2bfcc8cbba942ab4d7e", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/violet-hacks-tickets-51127917979?aff=ebdssbdestsearch", 
+        "fallback": "Eventbrite: Violet Hacks", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png", 
+        "text": "Bring an idea to life with ambitious people just like you! Learn what it takes to build a startup, meet investors, and join a community of aspiring female &amp; non-binary founders.Violet Hacks is a 2-day startup-focused hackathon for female &amp; non-binary individuals in technology. Never been to a hackathon before? Not even sure what they are? No sweat!Get ready for an awesome weekend of creating, learning, and connecting. You'll work on a team with 4-5 other talented techies who have a variety of roles &amp; backgrounds \u2014 Engineering, Design, Product, Marketing, Biz Dev, Talent, Community, Success, and more \u2014 who want to start a startup. There will be workshops, talks, and resources to help you put together a brand-new business concept, prototype, and pitch. You'll have delicious meals and fun swag included in admission. Finally, on Sunday you'll demo your creations to a panel of judges (accomplished investors &amp; founders) and compete to win awesome prizes! Thank you our generous host &amp; partner, Domino Data Lab, for providing our venue!Our judges are accomplished founders &amp; investors:- Selene Cruz, Founder &amp; CEO at RE:STORE- Amy Sun, Partner at Sequoia Capital- Harshita Arora, Founder of Crypto Price Tracker (acquired by Redwood City Ventures)- Morgan Lai, Investor at Foundation Capital- Sampriti Bhattacharyya, Founder of Hydroswarm- Jennifer Kaehms, Investment Associate at Canvas Ventures\u00a0- Ellen Chisa, CEO/Cofounder of Dark Inc- Kinjal Shah, Investment Associate at Blockchain Capital LLC- Charu Sharma, CEO of Next PlayStay tuned for more announcements of workshop leaders, speakers, and more.\u00a0FAQ:- Your ticket includes connections to dozens of companies, 10+ founders and investors, 5 meals plus snacks, 4-6 workshops, and potential for prizes worth hundreds of dollars!- The event will be Saturday, Nov 3 from 10am-10pm and Sunday, Nov 4 from 10am-3pm. No overnight stay is allowed in Domino Data Lab.- This is an 18+ event, no minors will be allowed, sorry!- No travel reimbursement is available; if you'll be coming from out of town, please arrange your own overnight stay- Attendees must be female or non-binary.- Terms of Participation:\u00a0<https://docs.google.com/document/d/1y_Nss-eO5psGO8qqp3UDf4kbrJNh3rfNTkYYAUnGCx0/edit?usp=sharing>\u00a0Violet Hacks is run by The Violet Society, a startup sisterhood for future founders. We run high-touch, face-to-face programs for ambitious women in the first 10 years of their career who are aspiring and early-stage founders. The Violet Society gives members the confidence and skills they need to launch and grow a successful startup. Learn more about upcoming events, subscribe to our email list, and follow us on social media via our website:\u00a0<http://thevioletsociety.com/>", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.eventbrite.com/e/violet-hacks-tickets-51127917979?aff=ebdssbdestsearch>", 
+    "ts": "1540450282.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5a18d09a-30d5-47cc-be44-b59634953fc8", 
+    "thread_ts": "1539913239.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "slightly_frowning_face", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "Had work.", 
+    "ts": "1539916106.000100", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ffd67b40-395c-4ce4-bcac-72a3dc47f1bc", 
+    "thread_ts": "1539913239.000100", 
+    "latest_reply": "1539916106.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBLQTD7V"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "Y'all are missing out the food is amazing. ", 
+    "ts": "1539913239.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1539916106.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "4756765B-20AA-4DCF-BDEF-95C0EF505F40", 
+    "thread_ts": "1539909367.000100", 
+    "text": "Sorry for the confusion. ", 
+    "ts": "1539911808.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9BDA9DD3-C03A-471E-AA5A-13C981161F02", 
+    "thread_ts": "1539909367.000100", 
+    "text": "I went home. Lol", 
+    "ts": "1539911801.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1089d94d-4ba8-4b9c-a862-68b35b16a33c", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1539910969.000000"
+    }, 
+    "thread_ts": "1539909367.000100", 
+    "text": "Ah that's ok I'll just meet you there", 
+    "ts": "1539910961.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "87dcd3fc-1828-4f85-9d73-68cfc2568732", 
+    "thread_ts": "1539909367.000100", 
+    "text": "How far are you? I can meet you!", 
+    "ts": "1539910892.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "CF0C010D-5302-43C1-80C3-3FBF9614E593", 
+    "thread_ts": "1539909367.000100", 
+    "text": "Oh dang. I didn\u2019t find you so I left. Next event let\u2019s go!", 
+    "ts": "1539910477.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c147eb6a-2670-4fdc-955f-f34a95d0e6c7", 
+    "thread_ts": "1539909367.000100", 
+    "text": "redwood baklava, the room behind stonehenge", 
+    "ts": "1539909416.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fc661aaf-6102-4ae6-94c5-824e4060ada4", 
+    "thread_ts": "1539909367.000100", 
+    "latest_reply": "1539911808.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "U6YP200VB"
+    ], 
+    "text": "<@UCC0GD5V0> where are you?", 
+    "ts": "1539909367.000100", 
+    "type": "message", 
+    "reply_count": 6, 
+    "user": "U6YP200VB", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1539909416.000100"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1539910477.000100"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1539910892.000100"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1539910961.000100"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1539911801.000100"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1539911808.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "80a87a29-ddd0-4778-b4d1-979c4ec79d93", 
+    "text": "apologies for the <!channel> but who all is going to out in tech and can we head over together?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539909209.000100"
+  }, 
+  {
+    "client_msg_id": "acea7e3d-a4d0-49f9-b963-1456dace01e2", 
+    "text": "Who else is going? Can we head over together?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539906545.000100"
+  }, 
+  {
+    "client_msg_id": "a4ea3b43-de49-442f-8f80-b844562eaac2", 
+    "attachments": [
+      {
+        "image_bytes": 31432, 
+        "original_url": "https://outintech.com/wp-event/out-in-tech-sf-demos-drinks/", 
+        "service_name": "Out in Tech", 
+        "title": "Out in Tech SF | Demos &amp; Drinks - Out in Tech", 
+        "image_width": 500, 
+        "title_link": "https://outintech.com/wp-event/out-in-tech-sf-demos-drinks/", 
+        "image_height": 250, 
+        "image_url": "https://outintech.com/wp-content/uploads/2018/10/4347_image_original-1024x512.jpg", 
+        "text": "Details Date: October 18 Time: 06:00 pm - 08:45 pm Click to Register: Click to Register Organizer Out in Tech\u2026 Read More Out in Tech SF | Demos &amp; Drinks", 
+        "from_url": "https://outintech.com/wp-event/out-in-tech-sf-demos-drinks/", 
+        "fallback": "Out in Tech: Out in Tech SF | Demos &amp; Drinks - Out in Tech", 
+        "service_icon": "https://i1.wp.com/outintech.com/wp-content/uploads/2017/09/cropped-OIT-FAV.jpg?fit=180%2C180&#038;ssl=1", 
+        "id": 1
+      }
+    ], 
+    "text": "Out in Tech SF is having a Demos &amp; Drinks event. <https://outintech.com/wp-event/out-in-tech-sf-demos-drinks/>", 
+    "ts": "1539904377.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "08d8fd02-a184-48d2-87fb-3ea8117ef27e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "UCC4U4V53"
+        ]
+      }
+    ], 
+    "text": "Wait so there is an event today? I wasnt aware", 
+    "ts": "1539904233.000100", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "413676d4-2cb2-4960-9b7e-a408d555ef20", 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "image_bytes": 180397, 
+        "author_link": "https://twitter.com/EmmaWatson/status/1052846691575980033", 
+        "text": ":sparkling_heart::fist::skin-tone-2: <https://twitter.com/stonewalluk|@stonewalluk> <https://twitter.com/Mermaids_Gender|@Mermaids_Gender> <https://twitter.com/AllAboutTrans|@AllAboutTrans> <https://twitter.com/Genderintell|@Genderintell> <https://pbs.twimg.com/media/Dpx1IbAWsAAn7Ou.jpg>", 
+        "from_url": "https://twitter.com/EmmaWatson/status/1052846691575980033", 
+        "original_url": "https://twitter.com/EmmaWatson/status/1052846691575980033", 
+        "ts": 1539853186, 
+        "author_name": "Emma Watson", 
+        "image_width": 1200, 
+        "image_height": 963, 
+        "image_url": "https://pbs.twimg.com/media/Dpx1IbAWsAAn7Ou.jpg", 
+        "service_name": "twitter", 
+        "author_subname": "@EmmaWatson", 
+        "service_url": "https://twitter.com/", 
+        "fallback": "<https://twitter.com/EmmaWatson|@EmmaWatson>: :sparkling_heart::fist::skin-tone-2: <https://twitter.com/stonewalluk|@stonewalluk> <https://twitter.com/Mermaids_Gender|@Mermaids_Gender> <https://twitter.com/AllAboutTrans|@AllAboutTrans> <https://twitter.com/Genderintell|@Genderintell> <https://pbs.twimg.com/media/Dpx1IbAWsAAn7Ou.jpg>", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1039929617598087169/wpthjCyB_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://twitter.com/EmmaWatson/status/1052846691575980033>", 
+    "ts": "1539904210.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e9de9d79-8ad1-4189-b8e9-eaeef3346303", 
+    "thread_ts": "1539898414.000100", 
+    "text": "?? what event", 
+    "ts": "1539902215.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC4S13NZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "82a252cc-faa7-49b4-9c17-cd5ea18acf01", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "rainbow", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "pride", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "blush", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I'm homosexual.", 
+    "ts": "1539901833.000100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "20cebc9e-b2fe-4930-8b69-a4ac6bae5a8f", 
+    "thread_ts": "1539898414.000100", 
+    "text": "No need to bring something to demo! You provide the eyes and ears for the other demos", 
+    "ts": "1539899797.000100", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC4S13NZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dab07def-1773-430e-9d48-4ee988e81678", 
+    "thread_ts": "1539898414.000100", 
+    "text": "I'd be surprised if we're required to demo something.", 
+    "ts": "1539898457.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC4S13NZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d0cd6cf1-66f9-4f82-86b3-37213d31ffdf", 
+    "thread_ts": "1539898414.000100", 
+    "latest_reply": "1539902215.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "UCC0H4UJE", 
+      "UCBQH1P6E"
+    ], 
+    "text": "in re: the event tonight - do we need to bring something to demo, or can we just show up?", 
+    "ts": "1539898414.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC4S13NZ", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1539898457.000100"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1539899797.000100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539902215.000100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "C1DC553C-CC84-4E57-93DC-9797ABA2F93C", 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "dancer", 
+        "users": [
+          "UCBDA2GGH", 
+          "UCB8T79UG", 
+          "U1HBKMW8Y", 
+          "UCB8T1AG0", 
+          "U6YHCA79U", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "I\u2019m a lesbian :two_women_holding_hands::two_hearts:", 
+    "ts": "1539843139.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "091aefbf-0b68-42af-8ad8-b42ba2f3b15f", 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "heartpulse", 
+        "users": [
+          "UCC0GD5V0", 
+          "U6X9L8VAN", 
+          "UCC0H4UJE", 
+          "UCBDA2GGH", 
+          "UCB8T79UG", 
+          "U1HBKMW8Y", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "yellow_heart", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "blue_heart", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": ":fried_egg:", 
+    "ts": "1539814133.000100", 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "43383f4f-1194-4ae1-a63b-ea0a37e831ee", 
+    "thread_ts": "1539310923.000100", 
+    "text": "Y'all need to get rid of those umbrellas, y'all aint slick", 
+    "ts": "1539361367.000100", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1b4803be-1f24-4ab8-a1e0-df421ac21d38", 
+    "thread_ts": "1539313775.000100", 
+    "text": ":edwin:", 
+    "ts": "1539329315.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "71028BD1-2ADB-45BB-BDCB-54F7DADCA5E3", 
+    "thread_ts": "1539313775.000100", 
+    "text": "Yaaas", 
+    "ts": "1539316966.000100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cee63494-b040-406c-9594-c2309d81b394", 
+    "thread_ts": "1539313775.000100", 
+    "text": ":heart: Ellen", 
+    "ts": "1539313802.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9a1aa16a-0028-455b-aebf-4d26ba0e9f0d", 
+    "thread_ts": "1539313775.000100", 
+    "latest_reply": "1539329315.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBDA2GGH"
+    ], 
+    "text": "Related: Ellen's coming out episode <https://www.youtube.com/watch?v=bhuiJINpRww>", 
+    "ts": "1539313775.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539313802.000100"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1539316966.000100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539329315.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "2d43da8f-45be-4ef1-b04f-3b391f11fec0", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue_winking_eye", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I am a homosexual... as far as I know :thinking_face::joy:", 
+    "ts": "1539313757.000100", 
+    "user": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2b88f2c9-0275-4578-9e72-78193fb67681", 
+    "thread_ts": "1539305755.000100", 
+    "attachments": [
+      {
+        "image_bytes": 977028, 
+        "original_url": "https://media.giphy.com/media/L70v8h8plYYKs/giphy.gif", 
+        "image_width": 482, 
+        "image_height": 266, 
+        "image_url": "https://media.giphy.com/media/L70v8h8plYYKs/giphy.gif", 
+        "from_url": "https://media.giphy.com/media/L70v8h8plYYKs/giphy.gif", 
+        "fallback": "482x266px image", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "laughing", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "<https://media.giphy.com/media/L70v8h8plYYKs/giphy.gif>", 
+    "ts": "1539313502.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "51360907-3324-495a-b02a-b0f2dade9c62", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "fried_egg", 
+        "users": [
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rocket", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "I am :raising_hand::skin-tone-2: a pan:heartpulse::yellow_heart::blue_heart: with a plan :rocket:", 
+    "ts": "1539312611.000100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ea8719d2-b2ec-4c81-8d94-0a7cccbb5aed", 
+    "thread_ts": "1539310923.000100", 
+    "latest_reply": "1539361367.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6X9L8VAN"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "umbrella_on_ground", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "UCC0H4UJE", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "Queer and trifling", 
+    "ts": "1539310923.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6X9L8VAN", 
+    "replies": [
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1539361367.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "7d7040b9-88d6-4f9c-958a-dd880c7ef429", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "magic", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBDA2GGH", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "I'm here and I'm queer :stuck_out_tongue_closed_eyes:", 
+    "ts": "1539310254.000100", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c99edcc2-48c5-4859-bffb-6386c83a1952", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBQH1P6E", 
+          "UCB3PRBME", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0H4UJE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I\u2019m straight up gay, and it\u2019s somethin\u2019 I\u2019m happy to say :sunglasses: :carlton::dancer:", 
+    "ts": "1539305836.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e549d368-a8ec-4830-aaab-45a0c156d164", 
+    "thread_ts": "1539305755.000100", 
+    "latest_reply": "1539313502.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "text": "*Welcome Alan!!* :alan: :pride: :rainbow:  Glad to have you here. *In the spirit of coming out day*, it would be fun for each member to declare their sexuality! (if comfortable)", 
+    "ts": "1539305755.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBDA2GGH", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539313502.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "a5793083-dc66-4fe3-9a08-2908cb11d2e5", 
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "pride", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCC0H4UJE", 
+          "UCBDA2GGH", 
+          "UCC4S13NZ", 
+          "UCB3PRBME", 
+          "U6YHCA79U", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "raised_hands::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "UCC4S13NZ", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "tada", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "alan", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "U6YHCA79U", 
+          "UCBS3LMDZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "fallback": "wikipedia: National Coming Out Day", 
+        "image_bytes": 52755, 
+        "original_url": "https://en.wikipedia.org/wiki/National_Coming_Out_Day", 
+        "title": "National Coming Out Day", 
+        "text": "National Coming Out Day (NCOD) is an annual LGBT awareness day observed on October 11 and 12 in some parts of the world. Founded in the United States in 1988, the initial idea was grounded in the feminist and gay liberation spirit of the personal being political, and the emphasis on the most basic form of activism being coming out to family, friends and colleagues, and living life as an openly lesbian or gay person. They believe the foundational belief is that homophobia thrives in an atmosphere of silence and ignorance, and that once people know that they have loved ones who are lesbian or gay, they are far less likely to maintain homophobic or oppressive <http://views.In|views.In> more recent years, the idea of the \"lesbian and gay community\" has been largely subsumed into the idea of the LGBT community, and the idea of \"coming out\" expanded to include not only the voluntary self-disclosure of a lesbian, gay, or bisexual sexual orientation,  but also that of transgender, genderqueer, or other non-mainstream gender identity.", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 298, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.wikipedia.org/wiki/National_Coming_Out_Day", 
+        "image_height": 334, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_ncod_lg.png", 
+        "from_url": "https://en.wikipedia.org/wiki/National_Coming_Out_Day", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Howdy, folks! :wave::simple_smile: I\u2019m pansexual. :captain-rainbow::rainbow: Happy Coming Out Day! :confetti_ball::pride::calendar::tada:\nDidn\u2019t know about it? <https://en.wikipedia.org/wiki/National_Coming_Out_Day>", 
+    "ts": "1539303150.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1539302956.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "91402967-9990-4c49-adbf-308fc63b9aac", 
+    "thread_ts": "1539283650.000100", 
+    "text": "Hope you feel better Lucia", 
+    "ts": "1539287297.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8c47d8fe-b54a-4811-bb8e-1fabcaaf4326", 
+    "thread_ts": "1539283650.000100", 
+    "text": "Feel better", 
+    "ts": "1539284547.000100", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9DB47D89-032D-45F8-A646-EB21A56D5B1F", 
+    "thread_ts": "1539283650.000100", 
+    "latest_reply": "1539287297.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YHCA79U", 
+      "UCBQH1P6E"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "U6YHCA79U", 
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "<!channel> not feeling well today. Feel free to use the Golden Gate Room without me. ", 
+    "ts": "1539283650.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0H4UJE", 
+    "replies": [
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1539284547.000100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1539287297.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "inviter": "UCBS3LMDZ", 
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1538948921.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C687F1D3-F453-4216-B612-073F2EF880E2", 
+    "text": "I might", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1538894783.000100"
+  }, 
+  {
+    "client_msg_id": "7C0E71AB-16BA-4539-8FFF-6B880A05A66E", 
+    "text": "Anyone going to the fair?", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1538889295.000100"
+  }, 
+  {
+    "client_msg_id": "B74FA0C7-AC3F-4629-A9FA-8D8DAC6D3E51", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 1147720, 
+        "original_url": "https://castrostreetfair.org/", 
+        "text": "45th Annual Castro Street Fair \u2013 October 7, 2018", 
+        "title": "Castro Street Fair", 
+        "image_width": 657, 
+        "title_link": "https://castrostreetfair.org/", 
+        "image_height": 250, 
+        "image_url": "https://castrostreetfair.org/wp-content/uploads/2018/08/castrostreetfair-cover-2018-fb.png", 
+        "service_name": "castrostreetfair.org", 
+        "from_url": "https://castrostreetfair.org/", 
+        "fallback": "Castro Street Fair", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> the Castro Street fair is this Sunday from 11-6!  <https://castrostreetfair.org/>", 
+    "pinned_info": {
+      "pinned_ts": 1538714785, 
+      "channel": "CCTC3RACD", 
+      "pinned_by": "UCC0H4UJE"
+    }, 
+    "ts": "1538708179.000100", 
+    "pinned_to": [
+      "CCTC3RACD"
+    ], 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e6f14e8c-1373-44b3-b9c2-358baff31bb6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_cowboy_hat", 
+        "users": [
+          "UCB8T79UG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancer::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "original_url": "http://www.texasrosedance.com/theBasics.html", 
+        "text": "TexasRose Country and Western Dance Parties for Queer Women &amp; Friends", 
+        "title": "TexasRose Country and Western Dance Parties for Queer Women &amp; Friends", 
+        "title_link": "http://www.texasrosedance.com/theBasics.html", 
+        "service_name": "texasrosedance.com", 
+        "from_url": "http://www.texasrosedance.com/theBasics.html", 
+        "fallback": "TexasRose Country and Western Dance Parties for Queer Women &amp; Friends", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://www.texasrosedance.com/theBasics.html>", 
+    "ts": "1538682027.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "15c8afdb-80e5-4e90-95f0-5b235d38be4f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "yuuuuup i thought i\u2019d be done with what i\u2019m working on for sure by now but nope :confused: enjoy, friends!  see you next week", 
+    "ts": "1538681288.000100", 
+    "user": "UCBS37LKV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "34b007bf-7a37-4db0-b3e4-91242f1c21b6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "werk werk werk werk wekr", 
+    "ts": "1538681043.000100", 
+    "user": "UCB8T1AG0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1d317e5c-4c7a-4202-8d13-5ae381891478", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Also", 
+    "ts": "1538680818.000100", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7D6B1E2C-5BDE-4DEB-A79A-62A3E8F45624", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Ditto ^ :confused:", 
+    "ts": "1538680714.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aab8a14c-a847-461b-9738-bf088a7c24f6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hey guys I won\u2019t be there today, sorry :disappointed:", 
+    "ts": "1538680635.000100", 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00853aba-89d6-4230-941d-f4d5c5b6abd6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<!channel> see you all at 12:30 today in the Golden Gate room!", 
+    "ts": "1538676238.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3ca8bb8e-a8b2-4e49-a175-180b510f0e7e", 
+    "text": "I also registered !", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1538592154.000100"
+  }, 
+  {
+    "client_msg_id": "ce6aeeba-2491-4b7d-b449-50075aa9876a", 
+    "thread_ts": "1538588692.000100", 
+    "text": "Sent out a calendar invite to everyone!", 
+    "ts": "1538589114.000100", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fe4f12aa-58f8-4b0f-9117-234a761d0058", 
+    "thread_ts": "1538588692.000100", 
+    "latest_reply": "1538589114.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "Elliot thank you so much for posting this!!! I signed up to go - it\u2019s important to know that according to the sign up sheet, you must apply by *Thursday, October 11* to attend.", 
+    "ts": "1538588692.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0H4UJE", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1538589114.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "d51437dd-841a-455f-addd-da6d0902873d", 
+    "text": "Guys Out in Tech SF is having and event on Oct 18 from 6:00pm - 9:00pm.", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538587224.000100"
+  }, 
+  {
+    "client_msg_id": "80a64f08-4d69-444a-a2c2-cc7cbf4c9c3b", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC4S13NZ"
+        ]
+      }
+    ], 
+    "text": "<https://docs.google.com/forms/d/e/1FAIpQLSeYQz48iAH6qai-NlpAFjNJdrh5y075IGsXELTOhBGb9yzHHg/viewform>", 
+    "pinned_info": {
+      "pinned_ts": 1538588396, 
+      "channel": "CCTC3RACD", 
+      "pinned_by": "UCC0H4UJE"
+    }, 
+    "ts": "1538587188.000100", 
+    "pinned_to": [
+      "CCTC3RACD"
+    ], 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4557855f-e110-4020-a7cd-16ce18ff467b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 20895, 
+        "original_url": "http://www.hellagaydanceparty.com", 
+        "text": "Click here for more info: \u200b\u00a0 HELLA GAY DANCE PARTY - 3RD SATURDAYS @ THE UPTOWN \u200b 1928 Telegraph Ave, OAKLAND\u00a0", 
+        "title": "Hella Gay Dance Party", 
+        "image_width": 582, 
+        "title_link": "http://www.hellagaydanceparty.com/", 
+        "image_height": 80, 
+        "image_url": "http://www.hellagaydanceparty.com/uploads/3/1/6/4/31648977/1404371793.png", 
+        "service_name": "hellagaydanceparty.com", 
+        "from_url": "http://www.hellagaydanceparty.com/", 
+        "fallback": "Hella Gay Dance Party", 
+        "service_icon": "http://www.hellagaydanceparty.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://www.hellagaydanceparty.com>", 
+    "ts": "1538424342.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A95D3B03-1C69-4EB4-A709-AD342D9BDFB8", 
+    "text": "It\u2019s just me...", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1538342529.000100"
+  }, 
+  {
+    "client_msg_id": "E72C3BCC-155F-459C-A80D-697550157A70", 
+    "text": "Where are u guys?", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538342331.000100"
+  }, 
+  {
+    "client_msg_id": "E81824E6-99B4-4BF2-B12E-DB484EF8C1E5", 
+    "text": "Me and Betsy are at Costco rn, but we are heading back", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538342323.000100"
+  }, 
+  {
+    "client_msg_id": "5D6D4887-87AC-4A91-9E99-3334131EB8F8", 
+    "thread_ts": "1538335145.000100", 
+    "text": "Lol :joy: ", 
+    "ts": "1538342291.000100", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E989F8EE-466E-4070-ABE0-2D1EBF7C9CC2", 
+    "text": "Who\u2019s here??", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1538342186.000100"
+  }, 
+  {
+    "client_msg_id": "2b60f2e1-edff-4e82-a5fa-de33515273c8", 
+    "thread_ts": "1538335145.000100", 
+    "text": "I saw your Instagram story though :stuck_out_tongue:", 
+    "ts": "1538340491.000100", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C780F1CC-7C53-45EC-8EA9-7C659BAEA3A4", 
+    "text": "I\u2019m outside 1401", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1538338680.000100"
+  }, 
+  {
+    "client_msg_id": "51EA0525-61D9-4022-BC08-6B93352968A0", 
+    "thread_ts": "1538335145.000100", 
+    "text": "You will miss me rocking on a leather suite", 
+    "ts": "1538338347.000100", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "47332FEC-F043-465E-A281-7415D4C5F5FF", 
+    "text": "I will meet you guys at the fair", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1538337874.000100"
+  }, 
+  {
+    "client_msg_id": "70398ce5-c659-4495-923d-eca6648cfee9", 
+    "text": "I won't make it either for the exact reasons as lucia. Send snaps!", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1538337447.000100"
+  }, 
+  {
+    "client_msg_id": "306DE0C8-7FAD-473E-986D-DD76D3BFB602", 
+    "thread_ts": "1538335145.000100", 
+    "text": "You\u2019ll be missed!", 
+    "ts": "1538336528.000100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0142E0CE-9246-48AA-90DA-D4B94CBDFCFB", 
+    "thread_ts": "1538335145.000100", 
+    "latest_reply": "1538342291.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDA2GGH", 
+      "U6YHCA79U", 
+      "UCC0H4UJE"
+    ], 
+    "text": "Hey all, I\u2019m very tired and behind on work. I\u2019m not going to make it to the Folsom Street Fair today. I hope you all have tons of fun!!", 
+    "ts": "1538335145.000100", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCC0H4UJE", 
+    "replies": [
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1538336528.000100"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1538338347.000100"
+      }, 
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1538340491.000100"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1538342291.000100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "E100FEC8-F3EE-4B28-8827-2B066D90E3AC", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "Anyone who\u2019s going to the fair tomorrow: we\u2019re meeting at Elliot\u2019s place at 1pm according to <@UCC0H4UJE> :)", 
+    "ts": "1538289009.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD50AMRST", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD50AMRST/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 5687058, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_800.jpg", 
+        "timestamp": 1538276810, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD50AMRST/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_1024.jpg", 
+        "user": "UCBS3LMDZ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD50AMRST-184f731abd", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS3LMDZ/FD50AMRST/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538276810, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50AMRST-2f92024e5e/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "kissing_heart", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCB3PRBME", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "ts": "1538276816.000100", 
+    "text": "", 
+    "upload_reply_to": "CB1FE7B7-B4C5-4EBD-AC12-BACE00D42108", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS3LMDZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD50A274P", 
+        "thumb_480_h": 480, 
+        "original_h": 3840, 
+        "thumb_360_w": 203, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD50A274P/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_64.jpg", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 4717035, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_800.jpg", 
+        "timestamp": 1538276510, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD50A274P/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD50A274P-624df19867", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FD50A274P/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538276510, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 2160, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD50A274P-7a0b365847/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "ECB468CF-B609-4F45-89C7-36FBA9B3385B", 
+    "ts": "1538276515.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD3R8GBGT", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD3R8GBGT/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 6928400, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_800.jpg", 
+        "timestamp": 1538276493, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD3R8GBGT/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD3R8GBGT-c1384bdc8f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FD3R8GBGT/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538276493, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBGT-5375861337/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "2E49B0EA-469B-4188-A849-633D3EF069B9", 
+    "ts": "1538276500.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD3R8GBLK", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD3R8GBLK/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 6506392, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_800.jpg", 
+        "timestamp": 1538276493, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD3R8GBLK/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD3R8GBLK-57778e2c14", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FD3R8GBLK/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538276493, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD3R8GBLK-c27861b702/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "7F6E14E9-7C71-4A06-802F-A3B1F6C18FD0", 
+    "ts": "1538276499.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "EDBABDC7-5A92-4E87-B212-3B79A5BC539E", 
+    "text": "Hey we are in the roof get the elevator to the 12th floor then the stairs to the roof", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538272189.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD4VBK40P", 
+        "thumb_480_h": 480, 
+        "original_h": 2208, 
+        "thumb_360_w": 203, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD4VBK40P/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 386975, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_800.png", 
+        "timestamp": 1538270971, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD4VBK40P/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_1024.png", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD4VBK40P-69195cfb09", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FD4VBK40P/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1538270971, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD4VBK40P-52c7cd1048/image_from_ios_720.png"
+      }
+    ], 
+    "text": "Updated key ", 
+    "upload_reply_to": "83DFDB4F-3CF1-4782-9511-2AA595728AA9", 
+    "ts": "1538270976.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D7BFFF4B-9FF4-4311-913A-4A639DBE9ED7", 
+    "text": "I\u2019m on the way", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1538270517.000100"
+  }, 
+  {
+    "client_msg_id": "6C83C55A-0C9B-4566-AB47-1C6B931080A0", 
+    "text": "But don\u2019t wait up if the food\u2019s ready", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1538270323.000100"
+  }, 
+  {
+    "client_msg_id": "6E48B1DC-81D0-4984-9FD9-2A3BFE2FD97A", 
+    "text": "Be there in 15", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1538270291.000100"
+  }, 
+  {
+    "client_msg_id": "12A8951F-1055-49A9-9BE3-14A2C6744CFA", 
+    "text": "Alright I shall be there in the lobby lol", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1538269217.000100"
+  }, 
+  {
+    "client_msg_id": "C53FE1C3-90D3-4112-8C6A-1E53A15689A6", 
+    "text": "<!channel> Reminder that we\u2019re meeting in the lobby now! I\u2019m running a little late (sorry!) I\u2019ll be there ASAP", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1538269160.000100"
+  }, 
+  {
+    "client_msg_id": "35559239-b53e-448b-95a0-c9be72660175", 
+    "text": "I'm in the lobby", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1538269103.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 446, 
+        "filetype": "jpg", 
+        "thumb_800_h": 861, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD361AC72", 
+        "thumb_480_h": 480, 
+        "original_h": 1336, 
+        "thumb_360_w": 335, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FD361AC72/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_64.jpg", 
+        "thumb_720_w": 669, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 111719, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_800.jpg", 
+        "timestamp": 1538268156, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FD361AC72/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FD361AC72-740ade471e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FD361AC72/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1538268156, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 892, 
+        "thumb_1024_w": 952, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD361AC72-4674840e4e/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB8T79UG", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "ts": "1538268159.000100", 
+    "text": "<!channel> This is the virtual key to get in", 
+    "upload_reply_to": "1D743E8C-8EBD-44F5-AFD4-E285A1F3335F", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7bea8d9d-5a2e-4d8b-b1f7-b7e423fc66dd", 
+    "text": "Im tutoring/ working rn", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1538267238.000100"
+  }, 
+  {
+    "client_msg_id": "B61A3A12-7D02-421B-83AA-D7C36B0D4AC9", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "cry", 
+        "users": [
+          "UCC0H4UJE", 
+          "U6YHCA79U", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hey, I\u2019m still recovering from being sick and from last night\u2019s festivities, so I\u2019m not going to make it :(. Have fun, players.", 
+    "ts": "1538266125.000100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2dc41a1e-fa28-4c28-aa79-843bee5a916c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "cry", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Yeah I'm gonna have to miss this weekend's activities :( sorry guys have fun!", 
+    "ts": "1538266092.000100", 
+    "user": "UCBS37LKV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "58FECD47-9793-4B6B-AAC7-D649FCC13FED", 
+    "thread_ts": "1538264308.000100", 
+    "text": "RIP", 
+    "ts": "1538265800.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4869d474-2ccf-4f11-ba41-6c794223c948", 
+    "thread_ts": "1538264308.000100", 
+    "text": "pobrecito :disappointed: we\u2019ll miss you!", 
+    "ts": "1538264396.000100", 
+    "user": "UCC0H4UJE", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00dd71cb-ca48-48bc-a561-cd469eca1d3f", 
+    "thread_ts": "1538264308.000100", 
+    "latest_reply": "1538265800.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0H4UJE", 
+      "UCBQH1P6E"
+    ], 
+    "text": "I'd go but I had to restore my Mac lol so now I get to re do all that :)", 
+    "ts": "1538264308.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBHEGLKB", 
+    "replies": [
+      {
+        "user": "UCC0H4UJE", 
+        "ts": "1538264396.000100"
+      }, 
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1538265800.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "43f77246-f587-4f83-abd5-76e9961259bf", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCC4S13NZ", 
+          "UCBDA2GGH", 
+          "U6YHCA79U", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<!channel> for everyone at the Vantaggio Abigail: if you want to walk over as a group, I\u2019ll be down in the lobby at 5:50pm. We\u2019ll leave at *6:05pm*. I\u2019ll send a reminder message when I\u2019m in the lobby.", 
+    "ts": "1538264261.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D0CAADED-4B7D-4215-9558-84FF2C8770D4", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBLQTD7V", 
+          "UCB8T79UG", 
+          "UCC4S13NZ", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hey guys long story short I\u2019m not flying back home anymore so I\u2019ll see y\u2019all later :)", 
+    "ts": "1538255163.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "236E881A-2582-4B29-A259-66C686DAB024", 
+    "text": "It\u2019s past next morn, so this evening :)", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1538253472.000100"
+  }, 
+  {
+    "client_msg_id": "030b5569-989b-49a0-b8ff-c666dd2efd54", 
+    "text": "^ tomorrow?", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1538253185.000100"
+  }, 
+  {
+    "client_msg_id": "8FA79E4F-7C9B-4A3C-81E5-9F5D6B0BA607", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCB8T79UG", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Guys tomorrow bring a jacket :wink:", 
+    "ts": "1538207151.000100", 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "94e5d093-a283-4bc5-99e4-e5bf6774ced2", 
+    "edited": {
+      "user": "U6YHCA79U", 
+      "ts": "1538159362.000000"
+    }, 
+    "text": "6pm", 
+    "ts": "1538159349.000100", 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "73b3858f-21f3-44ec-8e30-0e294a1f223d", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "Time?", 
+    "ts": "1538159274.000100", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "79f0ebb8-f63c-4c6f-b98e-add2d4f645ef", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCBQH1P6E", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Hey Queers, I\u2019m excited for tomorrow night. For those that don\u2019t know where my place  this is the address. 1401 Mission St, San Francisco CA 94103. Apt 801", 
+    "pinned_info": {
+      "pinned_ts": 1538162720, 
+      "channel": "CCTC3RACD", 
+      "pinned_by": "UCC0H4UJE"
+    }, 
+    "ts": "1538159200.000100", 
+    "pinned_to": [
+      "CCTC3RACD"
+    ], 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "08BE5674-EF03-41FA-8442-23A404E74127", 
+    "thread_ts": "1538092484.000100", 
+    "text": "Thanks so much Anna :heart:", 
+    "ts": "1538098851.000100", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0ccde71b-02de-41b8-acbf-4fd39a5eb720", 
+    "thread_ts": "1538092484.000100", 
+    "text": "I'm sorry to hear that, Jacob. Stay strong, we're here for ya. You'll be missed, but there will be a next time!", 
+    "ts": "1538094243.000100", 
+    "user": "UCB8T1AG0", 
+    "parent_user_id": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D9E4A093-7582-4DB7-81DE-E79A2EAD0D70", 
+    "thread_ts": "1538092484.000100", 
+    "latest_reply": "1538098851.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8T1AG0", 
+      "UCBDA2GGH"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "heart", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCB3PRBME", 
+          "UCB8T1AG0", 
+          "UCB8T79UG", 
+          "UCC0GD5V0", 
+          "UCC4S13NZ"
+        ]
+      }
+    ], 
+    "text": "Sadly I won\u2019t be making it to the first Saturgays. I\u2019m flying home due to the loss of a loved one. I was really looking forward to it - y\u2019all have fun and I\u2019ll be at the next one! ", 
+    "ts": "1538092484.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDA2GGH", 
+    "replies": [
+      {
+        "user": "UCB8T1AG0", 
+        "ts": "1538094243.000100"
+      }, 
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1538098851.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "8e01d440-ff16-4a79-a1b3-f2d35793e866", 
+    "text": "And Saturgays will be happening Saturday night @ 6pm at Elliot\u2019s place!", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1538079164.000100"
+  }, 
+  {
+    "client_msg_id": "69d18be4-e3e0-4833-8963-3b39f5cf64d4", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 247971, 
+        "original_url": "http://gay.dothebay.com/events/2018/9/30/folsom-street-fair-san-francisco", 
+        "service_name": "LGBTQ", 
+        "title": "Folsom Street Fair at Folsom Street", 
+        "image_width": 476, 
+        "title_link": "http://gay.dothebay.com/events/2018/9/30/folsom-street-fair-san-francisco", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/dostuff-media/image/upload//c_fill,g_faces,h_630,w_1200/v1537993762/event-9854151.jpg", 
+        "text": "LGBTQ - The Bay Area - DoTheBay is What to do in The Bay Area.", 
+        "from_url": "http://gay.dothebay.com/events/2018/9/30/folsom-street-fair-san-francisco", 
+        "fallback": "LGBTQ: Folsom Street Fair at Folsom Street", 
+        "service_icon": "https://res.cloudinary.com/dostuff-media/image/upload//h_120,w_120/v1522682368/metro-mobile_logo-18.png", 
+        "id": 1
+      }
+    ], 
+    "text": "This Sunday we\u2019ll be heading out to the Folsom Street Fair!\n\n<http://gay.dothebay.com/events/2018/9/30/folsom-street-fair-san-francisco>", 
+    "ts": "1538079093.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1a6f9f1a-fedc-4f39-8db4-c42fa224fcb9", 
+    "attachments": [
+      {
+        "image_bytes": 47274, 
+        "original_url": "http://gay.dothebay.com", 
+        "service_name": "LGBTQ", 
+        "title": "LGBTQ - DoTheBay | What to do in The Bay Area", 
+        "image_width": 478, 
+        "title_link": "http://gay.dothebay.com/", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/dostuff-media/image/upload//v1523382442/lens-share_image-743.jpg", 
+        "text": "LGBTQ - The Bay Area - DoTheBay is What to do in The Bay Area.", 
+        "from_url": "http://gay.dothebay.com/", 
+        "fallback": "LGBTQ: LGBTQ - DoTheBay | What to do in The Bay Area", 
+        "service_icon": "https://res.cloudinary.com/dostuff-media/image/upload//h_120,w_120/v1522682368/metro-mobile_logo-18.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://gay.dothebay.com>", 
+    "ts": "1538077812.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ddb38c9e-9e51-4710-900d-46b8c9d082bd", 
+    "edited": {
+      "user": "UCC0H4UJE", 
+      "ts": "1538077752.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "https://calendar.google.com/calendar/embed?src=students.makeschool.com_qk2eja5cotvij6gg1q1lpsvu94%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles", 
+        "text": "With Google's free online calendar, it\u2019s easy to keep track of life\u2019s important events all in one place.", 
+        "title": "Google Calendar", 
+        "title_link": "https://calendar.google.com/calendar/embed?src=students.makeschool.com_qk2eja5cotvij6gg1q1lpsvu94%40group.calendar.google.com&ctz=America%2FLos_Angeles", 
+        "service_name": "accounts.google.com", 
+        "from_url": "https://calendar.google.com/calendar/embed?src=students.makeschool.com_qk2eja5cotvij6gg1q1lpsvu94%40group.calendar.google.com&ctz=America%2FLos_Angeles", 
+        "fallback": "Google Calendar", 
+        "service_icon": "https://accounts.google.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "The Gay Agenda!\n\n<https://calendar.google.com/calendar/embed?src=students.makeschool.com_qk2eja5cotvij6gg1q1lpsvu94%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles>", 
+    "ts": "1538077735.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4fb85415-e162-476b-a52a-f458c69d58b4", 
+    "thread_ts": "1537983563.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E"
+        ]
+      }
+    ], 
+    "text": "If ya\u2019ll ever want to check this out, hit me up. I\u2019ll totes go with you, and this center is in a REALLY beautiful part of town. :heart: :rainbow:", 
+    "ts": "1538077388.000100", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "81220959-FAC9-48DD-B4A3-9DD8CF0D0D39", 
+    "text": "fighting for the microwave. b there soon ", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1538076988.000100"
+  }, 
+  {
+    "client_msg_id": "B684C4BE-9AAA-4FE2-A3E2-219ABDFC4A07", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCBS37LKV", 
+          "UCBQH1P6E", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "text": "<!channel> we are back on this week! See you in the Golden Gate room at 12:30!", 
+    "ts": "1538075883.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7401AA2E-F6C2-45B3-8AF2-57A3BC254D70", 
+    "thread_ts": "1537983563.000100", 
+    "text": "Looks cool but idk about going all the way to Oakland at 8pm to meditate. I can do that in my bed", 
+    "ts": "1537984899.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b3b0ffd5-b4af-40ca-85ed-d10cdff182a0", 
+    "thread_ts": "1537983563.000100", 
+    "latest_reply": "1538077388.000100", 
+    "attachments": [
+      {
+        "image_bytes": 107076, 
+        "original_url": "http://dothebay.com/events/weekly/wed/free-meditation-wednesdays", 
+        "service_name": "DoTheBay", 
+        "title": "Free Meditation Wednesdays at Oakland LGBTQ Community Center", 
+        "image_width": 476, 
+        "title_link": "http://dothebay.com/events/weekly/wed/free-meditation-wednesdays", 
+        "image_height": 250, 
+        "image_url": "https://res.cloudinary.com/dostuff-media/image/upload//c_fill,g_faces,h_630,w_1200/v1535423426/event-9822771.jpg", 
+        "text": "Check out Free Meditation Wednesdays at Oakland LGBTQ Community Center in Oakland on September 26, 2018 and get detailed info for the event - tickets, photos, video and reviews.", 
+        "from_url": "http://dothebay.com/events/weekly/wed/free-meditation-wednesdays", 
+        "fallback": "DoTheBay: Free Meditation Wednesdays at Oakland LGBTQ Community Center", 
+        "service_icon": "https://res.cloudinary.com/dostuff-media/image/upload//h_120,w_120/v1522682368/metro-mobile_logo-18.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pray", 
+        "users": [
+          "U6YHCA79U", 
+          "UCBQH1P6E", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "U6YP200VB"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1537984899.000100"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1538077388.000100"
+      }
+    ], 
+    "ts": "1537983563.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0H4UJE", 
+    "text": "<http://dothebay.com/events/weekly/wed/free-meditation-wednesdays>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "c78a1c09-5f36-4484-840c-75bdb018bfb0", 
+    "thread_ts": "1537832588.000100", 
+    "text": "I squalled but this is so mushy it's cute too", 
+    "ts": "1537833744.000100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d0716627-fbc7-464b-858e-7eaad75254f9", 
+    "thread_ts": "1537832588.000100", 
+    "latest_reply": "1537833744.000100", 
+    "attachments": [
+      {
+        "thumb_height": 640, 
+        "original_url": "https://twitter.com/BuzzFeedLGBT/status/1044272579492503553", 
+        "thumb_width": 640, 
+        "author_link": "https://twitter.com/BuzzFeedLGBT/status/1044272579492503553", 
+        "text": "Two Women On \"The Bachelor\" Vietnam Left A Rose Ceremony To Be Together", 
+        "footer": "Twitter", 
+        "ts": 1537808959, 
+        "author_name": "BuzzFeed LGBT", 
+        "video_html": "<video controls poster=\"https://pbs.twimg.com/amplify_video_thumb/1044272363196493824/img/cPPvKgEroruXhJZl.jpg\" width=\"640\" height=\"640\"><source type=\"video/mp4\" src=\"https://video.twimg.com/amplify_video/1044272363196493824/vid/640x640/Vdw013VXhTc2JEMJ.mp4?tag=8\"></video>", 
+        "video_html_height": 640, 
+        "video_html_width": 640, 
+        "service_url": "https://twitter.com/", 
+        "author_icon": "https://pbs.twimg.com/profile_images/1019565315653545985/DZtpwZDj_normal.jpg", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/BuzzFeedLGBT/status/1044272579492503553", 
+        "author_subname": "@BuzzFeedLGBT", 
+        "fallback": "<https://twitter.com/BuzzFeedLGBT|@BuzzFeedLGBT>: Two Women On \"The Bachelor\" Vietnam Left A Rose Ceremony To Be Together <https://pbs.twimg.com/amplify_video_thumb/1044272363196493824/img/cPPvKgEroruXhJZl.jpg>", 
+        "thumb_url": "https://pbs.twimg.com/amplify_video_thumb/1044272363196493824/img/cPPvKgEroruXhJZl.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0H4UJE", 
+          "UCB3XNQFJ", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1537833744.000100"
+      }
+    ], 
+    "ts": "1537832588.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB3PRBME", 
+    "text": "im gagging!! <https://twitter.com/BuzzFeedLGBT/status/1044272579492503553>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "8c4d5214-eb71-4891-b374-5deb682f9813", 
+    "edited": {
+      "user": "UCC0H4UJE", 
+      "ts": "1537558899.000000"
+    }, 
+    "text": "\u201cCuddle Party is a 3.5-hour communication workshop that focuses on personal boundaries and touch, in which participants have an opportunity to practice these skills by cuddling (or not). It\u2019s a great opportunity to practice asking for what you want, saying no to what you don\u2019t want and meeting new people. Cuddle Party is a strictly non-sexual event.\u201d\n\nTix are $30-$50\n\n<https://www.facebook.com/events/2177704332474784/>", 
+    "ts": "1537558872.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d9bf1e17-69b5-4897-86c9-8ef731cb1700", 
+    "text": "I\u2019ll be in Golden Gate tomorrow at 12:30 and we can have a little ad-hoc thing for those who will be at Make School :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1537473600.000100"
+  }, 
+  {
+    "client_msg_id": "42ecc627-ee67-471c-ad2e-39f8e1c02b2a", 
+    "text": "Nope, meeting is cancelled", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1537473499.000100"
+  }, 
+  {
+    "client_msg_id": "632c1b80-1ebe-4de6-b721-bbe2217db57e", 
+    "text": "Is there a meeting today? <@UCB8T1AG0>", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1537471234.000100"
+  }, 
+  {
+    "client_msg_id": "5a308a93-f50d-4a43-af25-0dd7f00e76af", 
+    "text": "I prob won\u2019t be here tomorrow but no worries!", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1537464822.000100"
+  }, 
+  {
+    "client_msg_id": "cc00ead7-8cc7-4de4-8f57-72d23a294199", 
+    "text": "I'm usually scrambling to finish my writing homework during lunch... but if I'm done in time, I'm down", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1537464442.000100"
+  }, 
+  {
+    "client_msg_id": "9168f7ba-dcc8-4cd6-9a57-cac911da192b", 
+    "text": "^ It's all good. Enjoy NYC !!", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1537464389.000100"
+  }, 
+  {
+    "client_msg_id": "8C01390E-80C9-44BD-B382-AAE0E52E79F1", 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCB8T1AG0", 
+          "UCBLQTD7V", 
+          "UCB8T79UG", 
+          "UCC0H4UJE", 
+          "UCBDA2GGH", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Guys I also will have to reschedule are big gay dinner on Saturgay. We can still do it but it has to be next week, because I\u2019m only arriving back on Sunday. I apologize for the inconvenience, I thought I was gonna arrive on time for it :disappointed:", 
+    "ts": "1537463596.000100", 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5e475c90-76ce-4576-acbb-e9328d4e27b6", 
+    "text": "Aw I can\u2019t tomorrow :disappointed:", 
+    "type": "message", 
+    "user": "UCBS37LKV", 
+    "ts": "1537463345.000100"
+  }, 
+  {
+    "client_msg_id": "4e3c400e-8878-4daa-b8d8-bb5f0ce85f13", 
+    "text": "Awwww", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1537463268.000200"
+  }, 
+  {
+    "client_msg_id": "B47AA152-672E-4D90-A857-709CEDD9012A", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCB8T1AG0"
+        ]
+      }
+    ], 
+    "text": "<!channel> hey all, meeting is cancelled today. Anna\u2019s not feeling well and many of us won\u2019t be able to make it. Would you all be up for trying again at the same time tomorrow?", 
+    "ts": "1537463163.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "928227B3-2655-4EAD-A243-C31640BADAB8", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Yeah I\u2019m doing club training tomorrow too but Anna will be leading the group!", 
+    "ts": "1537385231.000200", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "777256f6-eb86-4f31-9b3c-de35145ebd00", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pride", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 134920, 
+        "original_url": "https://people.com/tv/ex-sesame-street-writer-bert-ernie-gay/", 
+        "service_name": "PEOPLE.com", 
+        "title": "Ex-Sesame Street Writer Says Bert and Ernie Are Gay as Show Insists They're Just 'Best Friends'", 
+        "image_width": 476, 
+        "title_link": "https://people.com/tv/ex-sesame-street-writer-bert-ernie-gay/", 
+        "image_height": 250, 
+        "image_url": "https://peopledotcom.files.wordpress.com/2018/09/rexfeatures_2599419a.jpg?crop=0px%2C140px%2C2705px%2C1421px&resize=1200%2C630", 
+        "text": "Sunny day!\u00a0As fans have suspected for years, it turns out the world's most beloved muppet roommates are more than just friends", 
+        "from_url": "https://people.com/tv/ex-sesame-street-writer-bert-ernie-gay/", 
+        "fallback": "PEOPLE.com: Ex-Sesame Street Writer Says Bert and Ernie Are Gay as Show Insists They're Just 'Best Friends'", 
+        "service_icon": "https://people.com/img/favicons/favicon-57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://people.com/tv/ex-sesame-street-writer-bert-ernie-gay/>", 
+    "ts": "1537383766.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "52a80a8f-3b91-4496-bd87-328685acb442", 
+    "text": "LOL", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1537383033.000100"
+  }, 
+  {
+    "client_msg_id": "0d390a5b-395d-45fa-bde7-92ee7d418552", 
+    "text": "promise im not tryna kill u", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537382999.000100"
+  }, 
+  {
+    "client_msg_id": "7dba7be4-595a-4288-adea-2911bd370acf", 
+    "text": "......I almost had a heart attack..and not from my high a#$ cholesterol", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1537382962.000100"
+  }, 
+  {
+    "client_msg_id": "42715000-107e-44db-b80e-d9f18537f77e", 
+    "text": "im back tho", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537382955.000100"
+  }, 
+  {
+    "client_msg_id": "0420dad1-4590-440c-be95-e47c21f802f0", 
+    "text": "yea my brain just time traveled to tommorrow", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537382950.000100"
+  }, 
+  {
+    "client_msg_id": "1eb89a6e-97fc-4e01-8070-7da13951d529", 
+    "text": "I could have sworn that's tomorrow today is Wednesday", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1537382933.000100"
+  }, 
+  {
+    "client_msg_id": "495ae9f7-9e9b-41b6-97b1-1143b2843339", 
+    "text": "oh wait tommorow nvm", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537382932.000100"
+  }, 
+  {
+    "client_msg_id": "27933df7-cba9-45ea-9637-e03850e15b92", 
+    "text": "Wait what time is that????", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1537382908.000100"
+  }, 
+  {
+    "client_msg_id": "e3d8dd6e-b818-447a-b6d9-7d7a000aa68f", 
+    "text": "Yo I know myself and probably quite a few of you will either be late or not make it today because of club leader training ~~~", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537382880.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 785, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FCUQFP79C", 
+        "thumb_480_h": 471, 
+        "original_h": 1219, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FCUQFP79C/image_from_ios.jpg", 
+        "thumb_720_h": 707, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_80.jpg", 
+        "thumb_360_h": 353, 
+        "size": 831441, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_800.jpg", 
+        "timestamp": 1536899543, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FCUQFP79C/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_1024.jpg", 
+        "user": "U6YHCA79U", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FCUQFP79C-f9ee4fc8b5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FCUQFP79C/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1536899543, 
+        "thumb_1024_h": 1005, 
+        "thumb_960_h": 942, 
+        "original_w": 1242, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FCUQFP79C-3ecf7ac570/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "pride", 
+        "users": [
+          "UCB8T1AG0", 
+          "UCBQH1P6E", 
+          "U6YP200VB", 
+          "UCBS37LKV", 
+          "U1HBKMW8Y", 
+          "UCC0H4UJE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "ts": "1536899546.000100", 
+    "text": "", 
+    "upload_reply_to": "5ADF7959-6D93-473A-B878-10A2A56C261B", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1536886240.000200", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "client_msg_id": "f90c1cb4-9b11-42e8-b383-c2f6ef3f75b8", 
+    "text": "<http://www.doloresparkcafe.com>", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536869291.000100"
+  }, 
+  {
+    "client_msg_id": "42070a9f-3999-440b-947b-39cf0dac9576", 
+    "attachments": [
+      {
+        "original_url": "http://www.queercode.net", 
+        "text": "Queer code c\u2019est une d\u00e9marche pour \u00e9crire collectivement notre histoire, un espace pour rendre visible les parcours de vie des femmes ayant aim\u00e9 des femmes...", 
+        "title": "www.queercode.net", 
+        "title_link": "http://www.queercode.net/", 
+        "service_name": "queercode.net", 
+        "from_url": "http://www.queercode.net/", 
+        "fallback": "www.queercode.net", 
+        "service_icon": "https://static.parastorage.com/client/pfavico.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<http://www.queercode.net>", 
+    "ts": "1536868859.000100", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBDDKQ65> has joined the channel", 
+    "ts": "1536868202.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDKQ65", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FCT5B1EAE", 
+        "thumb_480_h": 480, 
+        "original_h": 1400, 
+        "thumb_360_w": 360, 
+        "title": "rainbow make school.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FCT5B1EAE/rainbow_make_school.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_80.png", 
+        "thumb_360_h": 360, 
+        "size": 23006, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_800.png", 
+        "timestamp": 1536863060, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FCT5B1EAE/download/rainbow_make_school.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_1024.png", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FCT5B1EAE-6f0e679065", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FCT5B1EAE/rainbow_make_school.png", 
+        "name": "rainbow make school.png", 
+        "created": 1536863060, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1400, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FCT5B1EAE-66a219b2a1/rainbow_make_school_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart_eyes", 
+        "users": [
+          "U2QTVG278", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pride", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1536868172.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC4U4V53> has joined the channel", 
+    "ts": "1536868058.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC4U4V53", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBS37LKV> has joined the channel", 
+    "ts": "1536868058.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBS37LKV", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@U2QTVG278> has joined the channel", 
+    "ts": "1536868058.000200", 
+    "subtype": "channel_join", 
+    "user": "U2QTVG278", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1536868027.000800", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1536868027.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1536868027.000400", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCB3XNQFJ> has joined the channel", 
+    "ts": "1536868027.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB3XNQFJ", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1536867989.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1536867989.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1536867989.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1536867989.000200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1536867988.001300", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1536867988.001100", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1536867988.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1536867988.000700", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1536867988.000500", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1536867988.000300", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCC0H4UJE"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> set the channel purpose: Connecting and supporting queer students at Make School", 
+    "ts": "1536867988.000100", 
+    "subtype": "channel_purpose", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "purpose": "Connecting and supporting queer students at Make School"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1536867987.000200", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }
+]

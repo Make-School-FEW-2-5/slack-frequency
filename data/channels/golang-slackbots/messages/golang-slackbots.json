@@ -1,0 +1,4476 @@
+[
+  {
+    "text": "removed an integration from this channel: <https://makeschoolstudents.slack.com/services/BG5GPTZ37|AcknowledgedBot>", 
+    "ts": "1556130761.006600", 
+    "subtype": "bot_remove", 
+    "bot_link": "<https://makeschoolstudents.slack.com/services/BG5GPTZ37|AcknowledgedBot>", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "bot_id": "BG5GPTZ37"
+  }, 
+  {
+    "username": "AcknowledgedBot", 
+    "attachments": [
+      {
+        "color": "479ACC", 
+        "text": "Not Acknowledged:\n<@U2C90LDS9> <@UC36F4P2M> <@UC45RJQ7M> <@UCD1J9LDV> <@UG4HQDH3J> <@UG4HTGD96> <@UG5A93VNW> <@UCDAETD5L> <@UG4QES389> <@UG56WE4M9> <@UG6C5RQ0P> <@UGNV3J4NB> <@U6XDGCKFF> <@U6YMU9QCF> <@UCCSGECPJ> <@UG415B00H> <@UG4MMH8N5> <@UG55E523E> <@UGBEE21D3> <@UCBHS9M3N> <@UG6FBKK3P> ", 
+        "actions": [
+          {
+            "style": "", 
+            "name": "Ack", 
+            "text": "Acknowledge", 
+            "value": "", 
+            "type": "button", 
+            "id": "1"
+          }
+        ], 
+        "callback_id": "ack_msg", 
+        "pretext": "sorry everyone, still testing!", 
+        "fallback": "Open Slack to view this message!", 
+        "id": 1
+      }
+    ], 
+    "text": "", 
+    "ts": "1556130668.001000", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "9fb658e6-aec2-4413-aa10-cfdfe62e22db", 
+    "text": "<@UG4HQDH3J> sorry everyone, still testing!", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1556130668.000900"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1556052228.000600", 
+    "text": "<@UCC0KLBPU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1555435895.000400", 
+    "text": "<@U6XDKSREZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1555173592.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1555019996.000800", 
+    "text": "<@UCDAF4FV4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1554417234.000600", 
+    "text": "<@U6YCV95L7> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554397658.000400", 
+    "text": "<@UCBQH1P6E> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1554246266.000200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1553018878.006800", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1552946401.006600", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "ee2db530-8a02-43b6-8beb-a6d6c1fe93fa", 
+    "text": "<@UGNV3J4NB> SF", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1552180213.005200"
+  }, 
+  {
+    "text": "few clouds", 
+    "bot_id": "BGMPG2GP5", 
+    "type": "message", 
+    "user": "UGNV3J4NB", 
+    "ts": "1552180206.005000"
+  }, 
+  {
+    "client_msg_id": "0ae93e21-b480-4c56-b745-3c1f84f69315", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@UGNV3J4NB> seattle", 
+    "ts": "1552180205.004900", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "text": "heavy intensity rain", 
+    "bot_id": "BGMPG2GP5", 
+    "type": "message", 
+    "user": "UGNV3J4NB", 
+    "ts": "1552180195.004700"
+  }, 
+  {
+    "client_msg_id": "bc466d38-3614-4277-8bac-60a2dcdab438", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "umbrella_with_rain_drops", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@UGNV3J4NB> chicago", 
+    "ts": "1552180195.004600", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "username": "AcknowledgedBot", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCD9D1YH4"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "color": "479ACC", 
+        "text": "Not Acknowledged:\n", 
+        "actions": [
+          {
+            "style": "", 
+            "name": "Ack", 
+            "text": "Acknowledge", 
+            "value": "", 
+            "type": "button", 
+            "id": "1"
+          }
+        ], 
+        "callback_id": "ack_msg", 
+        "pretext": "I mean you", 
+        "fallback": "Open Slack to view this message!", 
+        "id": 1
+      }
+    ], 
+    "text": "", 
+    "ts": "1552177357.002500", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "84157e1d-764d-417a-aeeb-2f91754115d5", 
+    "text": "<@UG4HQDH3J> I mean you", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1552177356.002400"
+  }, 
+  {
+    "client_msg_id": "c138d3e3-3f8d-456b-a000-74d2fc3c3ed5", 
+    "text": "<@UG6C5RQ0P> acknowledge me", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1552177340.002100"
+  }, 
+  {
+    "client_msg_id": "d72b5afa-df79-4021-99ae-75b12e5f8745", 
+    "text": "<@UGNV3J4NB> 90210", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1552177323.001800"
+  }, 
+  {
+    "client_msg_id": "9602d620-5987-41dd-801d-0680b11040d0", 
+    "text": "<@UGNV3J4NB> Seattle", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1552176619.001500"
+  }, 
+  {
+    "client_msg_id": "e5def7b5-2198-4eaa-b9b2-1570db355fa5", 
+    "text": "<@UGNV3J4NB> weather", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1552176613.001300"
+  }, 
+  {
+    "text": "<@UGNV3J4NB> has joined the channel", 
+    "ts": "1552176602.001000", 
+    "subtype": "channel_join", 
+    "user": "UGNV3J4NB", 
+    "type": "message", 
+    "inviter": "U6XDGCKFF"
+  }, 
+  {
+    "client_msg_id": "f9eb84c1-268e-4ea1-b348-764b11f44afc", 
+    "text": "<@UGNV3J4NB> What\u2019s the weather looking like?", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1552176600.000800"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1551480548.000300", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BGKPM60MP|SMTS>", 
+    "ts": "1551425288.000100", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BGKPM60MP|SMTS>", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "bot_id": "BGKPM60MP"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1551215197.000700", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "text": "<@UGBEE21D3> has joined the channel", 
+    "ts": "1550875766.000200", 
+    "subtype": "channel_join", 
+    "user": "UGBEE21D3", 
+    "type": "message", 
+    "inviter": "U6Z4KNWCD"
+  }, 
+  {
+    "client_msg_id": "b9cdef11-c047-4128-a909-9747feda8a5b", 
+    "thread_ts": "1550092637.138700", 
+    "text": "Not the expected behavior :anguished:", 
+    "ts": "1550172370.140200", 
+    "user": "U6XDKSREZ", 
+    "parent_user_id": "UG6C5RQ0P", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1550092637.138700", 
+    "latest_reply": "1550172370.140200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XDKSREZ"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "astonished", 
+        "users": [
+          "UCD53TKCN"
+        ]
+      }
+    ], 
+    "text": "I like pizza", 
+    "ts": "1550092637.138700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UG6C5RQ0P", 
+    "replies": [
+      {
+        "user": "U6XDKSREZ", 
+        "ts": "1550172370.140200"
+      }
+    ], 
+    "reply_users_count": 1, 
+    "bot_id": "BG5G7M277"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1550092637.138600", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }, 
+  {
+    "text": "SCRAmBlE my Name", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091525.138400"
+  }, 
+  {
+    "text": "m aaslc rbenymme", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091525.138300"
+  }, 
+  {
+    "client_msg_id": "b6bf517c-d5bf-4447-bb39-5102c1c77af5", 
+    "text": "<@UG4QES389> scramble my name", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550091525.138200"
+  }, 
+  {
+    "client_msg_id": "df1fc20e-a468-4ebc-8dc5-e573c577efd9", 
+    "text": "oops", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550091512.137800"
+  }, 
+  {
+    "text": "scramble my name\n\n\n----------------\nAdd a :heavy_check_mark: emoji to acknowledge!", 
+    "bot_id": "BG4HQDGUQ", 
+    "type": "message", 
+    "user": "UG4HQDH3J", 
+    "ts": "1550091508.137600"
+  }, 
+  {
+    "client_msg_id": "4b2f2107-d46c-43d6-89f6-41ac4c2cfcc3", 
+    "text": "<@UG4HQDH3J> scramble my name", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550091508.137500"
+  }, 
+  {
+    "client_msg_id": "311f08a1-b84a-440a-8343-b2b5fb289681", 
+    "text": ":thonk:", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550091478.137200"
+  }, 
+  {
+    "text": "sCRAmBle MY name", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091435.136900"
+  }, 
+  {
+    "text": " bmcenys emmlaar", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091435.136800"
+  }, 
+  {
+    "client_msg_id": "e7cd5e9d-52e7-4508-9087-98802f10460d", 
+    "text": "<@UG4QES389> scramble my name", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550091435.136700"
+  }, 
+  {
+    "text": "ShUFfle My  NAMe", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091392.136300"
+  }, 
+  {
+    "client_msg_id": "f7e2a953-c85e-475c-8ca5-df7ad4df3a9a", 
+    "edited": {
+      "user": "U6XDKSREZ", 
+      "ts": "1550091409.000000"
+    }, 
+    "text": "<@UG4QES389> scramble my  name", 
+    "ts": "1550091392.136200", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "I aM AlivE Again!", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550091362.135900"
+  }, 
+  {
+    "client_msg_id": "d5b79d8e-c8a9-4b70-8ee2-48ccde33cfc6", 
+    "text": "<@UG4QES389> I am alive again!", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550091362.135800"
+  }, 
+  {
+    "text": "<@UG6FBKK3P> has joined the channel", 
+    "ts": "1550087229.135500", 
+    "subtype": "channel_join", 
+    "user": "UG6FBKK3P", 
+    "type": "message", 
+    "inviter": "U6X9L8VAN"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550086946.135300", 
+    "text": "<@U6X9L8VAN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "82b60854-e6ee-4870-953e-165dbd3d8fcf", 
+    "text": "<@UC36F4P2M> I was just thinking how useful it would be to have a website to create acknowledge bots and gather and display statistics <@UCBPUT6AX>", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550086260.135100"
+  }, 
+  {
+    "client_msg_id": "9dd54735-aedf-4f74-8936-8839a4228c1a", 
+    "text": "<@UG4QES389> abcdefg", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550085860.134000"
+  }, 
+  {
+    "client_msg_id": "408AFF46-D5C3-415F-A32D-FF629DDE9AD6", 
+    "thread_ts": "1550076389.132100", 
+    "text": "<@UCBPUT6AX> your new stretch challenge: a command to tell me all the people in the channel who failed to acknowledge!", 
+    "ts": "1550080954.133500", 
+    "subtype": "thread_broadcast", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "4647acb0-a1a4-4310-8890-573e44926592", 
+      "thread_ts": "1550076389.132100", 
+      "latest_reply": "1550080954.133500", 
+      "subscribed": false, 
+      "reply_users": [
+        "UC36F4P2M"
+      ], 
+      "text": "<@UG4HQDH3J> :thumbsup_all: Still works?", 
+      "ts": "1550076389.132100", 
+      "type": "message", 
+      "reply_count": 1, 
+      "user": "UCBPUT6AX", 
+      "replies": [
+        {
+          "user": "UC36F4P2M", 
+          "ts": "1550080954.133500"
+        }
+      ], 
+      "reply_users_count": 1
+    }
+  }, 
+  {
+    "text": ":thumbsup_all: Still works?\n\n\n----------------\nAdd a :thumbsup_all: emoji to acknowledge!", 
+    "bot_id": "BG4HQDGUQ", 
+    "type": "message", 
+    "user": "UG4HQDH3J", 
+    "ts": "1550076389.132200"
+  }, 
+  {
+    "client_msg_id": "4647acb0-a1a4-4310-8890-573e44926592", 
+    "thread_ts": "1550076389.132100", 
+    "latest_reply": "1550080954.133500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "text": "<@UG4HQDH3J> :thumbsup_all: Still works?", 
+    "ts": "1550076389.132100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBPUT6AX", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1550080954.133500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "41c09326-d6a8-4351-afc9-947fd16b01ef", 
+    "text": "<@UG4QES389> Huston, we have a problem", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550032650.131500"
+  }, 
+  {
+    "client_msg_id": "a7bdece4-d304-49ee-b638-66507ff20c22", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "sob", 
+        "users": [
+          "UCD9D1YH4", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "<@UG4QES389> No?... ok", 
+    "ts": "1550028138.130800", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b7de4d01-8018-4362-96e1-ddb3fbb4b3bc", 
+    "text": "<@UG4QES389> Are you still alive?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550028104.130500"
+  }, 
+  {
+    "client_msg_id": "9f4d3f17-c74f-42e9-a288-4c99c191fcac", 
+    "text": "<@UG415B00H> test test waves", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550025510.130200"
+  }, 
+  {
+    "client_msg_id": "54cfc655-1cfe-4029-81c0-d2eea217fd17", 
+    "text": "<@UG415B00H> test test waves", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550025454.130000"
+  }, 
+  {
+    "client_msg_id": "df65ded2-e06a-428a-86a6-6e171a6ddb99", 
+    "edited": {
+      "user": "UCBPUT6AX", 
+      "ts": "1550025452.000000"
+    }, 
+    "text": "<@U6XDKSREZ> Another problem is that free heroku dynos sleep, so I suggest running it on another account, spin up a `heroku-scheduler` instance, `curl` your heroku app url every hour (it will take up alot of your heroku free hours)", 
+    "ts": "1550025430.129600", 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "56207a1a-0a9c-4297-bf50-c34a2fb63e65", 
+    "text": "<@UG415B00H> hi waves", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550025411.129000"
+  }, 
+  {
+    "client_msg_id": "c3cfcfd3-7d00-4fd6-8cbb-cedb4f42f512", 
+    "text": "<@UG415B00H> hi waves", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550025373.128100"
+  }, 
+  {
+    "client_msg_id": "ea3dc475-4b90-4b63-ac12-6211a82db235", 
+    "text": "<@UG415B00H> hi waves", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550025267.126500"
+  }, 
+  {
+    "subtype": "bot_message", 
+    "text": "Hello, World!", 
+    "type": "message", 
+    "ts": "1550025255.126300", 
+    "bot_id": "BG5HL9QJH"
+  }, 
+  {
+    "client_msg_id": "3391217a-8bb0-408d-8321-4030ee4ce860", 
+    "text": "<@UG415B00H> hello hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023739.126200"
+  }, 
+  {
+    "client_msg_id": "cc64b835-a747-4856-a3e0-0bd64f26b4a9", 
+    "text": "<@UG415B00H> hello hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023701.126000"
+  }, 
+  {
+    "client_msg_id": "4ca8efa1-a495-4c06-99ed-30e3853bcd1a", 
+    "text": "<@UG415B00H> hi hi hi hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023645.125800"
+  }, 
+  {
+    "client_msg_id": "2065118d-a399-473e-9f95-db6939dfa6b9", 
+    "text": "<@UG415B00H> hi hi hi hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023575.125600"
+  }, 
+  {
+    "client_msg_id": "ab157b54-91c2-4cd0-ad1a-ff86d7783075", 
+    "text": "<@UG415B00H> hi hi hi hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023367.125400"
+  }, 
+  {
+    "client_msg_id": "89e7cb34-40b9-461d-8cb9-93c52e09f59f", 
+    "text": "<@UG415B00H> hi hi hi hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550023037.125100"
+  }, 
+  {
+    "text": "i Am ON HErOkU", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550023025.124800"
+  }, 
+  {
+    "client_msg_id": "1c030940-565f-403b-b548-c3d3cf9dddb3", 
+    "text": "<@UG4QES389> I am on heroku", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550023025.124700"
+  }, 
+  {
+    "text": "why diD fAITH lEaVE us?", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550022959.124300"
+  }, 
+  {
+    "client_msg_id": "0d38fd10-84c2-41c3-be08-a3d2ad2e0e5d", 
+    "text": "<@UG4QES389> Why did Faith leave us?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550022959.124200"
+  }, 
+  {
+    "client_msg_id": "c1d0fe04-74bb-49d7-b4ac-d616b9268eb2", 
+    "text": "<@UG4QES389> hello", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550022858.123900"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1550022808.123700", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "text": "hello", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550022664.123500"
+  }, 
+  {
+    "client_msg_id": "c433522c-519c-44eb-b37f-8ad62acfbeaf", 
+    "text": "<@UG4QES389> hello", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550022664.123400"
+  }, 
+  {
+    "text": "i will TaKE OVeR tHE worLd", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550022614.123200"
+  }, 
+  {
+    "text": "i WiLL TAkE oVEr thE wORLd", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550022614.123100"
+  }, 
+  {
+    "client_msg_id": "0a29b774-7d4f-4a8e-a3e9-ff3c88b4f2f7", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550022614.123000"
+  }, 
+  {
+    "text": "hello hi :wave:", 
+    "bot_id": "BG4FR8XHR", 
+    "type": "message", 
+    "user": "UG415B00H", 
+    "ts": "1550022369.122500"
+  }, 
+  {
+    "client_msg_id": "542444b8-3972-4f40-a4c1-e8b025af827f", 
+    "text": "<@UG415B00H> hello hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550022368.122400"
+  }, 
+  {
+    "client_msg_id": "e6977bb1-3d02-424f-8f54-447e2cfba1d3", 
+    "text": "<@UG415B00H> hello hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550022344.122200"
+  }, 
+  {
+    "client_msg_id": "8133928b-59a1-4a18-9e1e-e44d870024cf", 
+    "text": "<@UG415B00H> hello hi", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550022257.122000"
+  }, 
+  {
+    "client_msg_id": "1528cb63-63cc-4b7f-8cc9-3e4824f67266", 
+    "text": "Heroku times out after 60s if an app doesn't bind to a port", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550022078.121600"
+  }, 
+  {
+    "client_msg_id": "52150124-f72a-4b5f-854e-5811e1680987", 
+    "text": "Seems to work, it basically runs the \"server\" concurrently (?) then does the other concurrent thing which is listening for messages on slack. We don't have to worry about data clashing cause the server is strictly for heroku purposes", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550022050.121100"
+  }, 
+  {
+    "client_msg_id": "6eb20d76-6fdf-44e3-8a5e-88ed2fb7f87b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U6XDKSREZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6XDKSREZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U6XDKSREZ"
+        ]
+      }
+    ], 
+    "text": "Try adding this:\n\n```\nfunc main() {\n  port := \":\" + os.Getenv(\"PORT\")\n  go http.ListenAndServe(port, nil)\n  slackIt()\n}\n\nfunc slackIt() {\n  botToken := os.Getenv(\"BOT_OAUTH_ACCESS_TOKEN\")\n  slackClient := slack.CreateSlackClient(botToken)\n  slack.RespondToEvents(slackClient)\n}\n```", 
+    "ts": "1550022011.120300", 
+    "user": "UCBPUT6AX", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91437e8d-028d-40ff-b9cc-a6903b477afd", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021635.120100"
+  }, 
+  {
+    "client_msg_id": "e363d9a0-b85e-41cc-ad50-52ad4cb4ffbf", 
+    "text": "It's deployed to heroku and it worked. When I don't use it for a while, it times out. It is able to turn back on, but it doesn't seem to be reading messages when it turns back on", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021631.119900"
+  }, 
+  {
+    "client_msg_id": "24bb9de9-e228-4012-9a96-ffd7bea2d59f", 
+    "text": "I think it has to do with binding it to the heroku port. Working on trying to fix mine at the moment", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550021583.119200"
+  }, 
+  {
+    "client_msg_id": "c66b33ae-7617-4cd6-9c1d-7dbcbf20d952", 
+    "text": "yup! you need to deploy it", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021517.118100"
+  }, 
+  {
+    "client_msg_id": "c384d932-dbf0-4d15-9dce-cf5679c2ba7b", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021515.117900"
+  }, 
+  {
+    "client_msg_id": "8bb38f4f-a53a-4969-8fac-2f2bb0fc2f96", 
+    "edited": {
+      "user": "U6XDKSREZ", 
+      "ts": "1550021502.000000"
+    }, 
+    "text": "<@UC36F4P2M> It seems like once the bot shuts down and turns back on, it doesn't work anymore.\n\nMine stopped working so I pushed it to heroku again and it worked. But then once it timed out and started again, it stopped working again.", 
+    "ts": "1550021409.117100", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0452075b-3d96-481b-baa8-bf62eb8afd51", 
+    "text": "<@UG415B00H> work!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021369.116200"
+  }, 
+  {
+    "client_msg_id": "707c21d9-1151-4035-890b-4a391f567a38", 
+    "text": "<@UG415B00H> waving to you now", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021364.115800"
+  }, 
+  {
+    "client_msg_id": "f287a405-05de-45bb-bc53-bee1b43d3a1d", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021357.115600"
+  }, 
+  {
+    "client_msg_id": "82b340e4-ff3c-400e-9bb9-7dc8be62f36d", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021301.115000"
+  }, 
+  {
+    "client_msg_id": "18b60412-f251-4f05-9029-b7a3c7a0aea3", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550021266.114800"
+  }, 
+  {
+    "client_msg_id": "c666d458-81c2-481f-be10-4dc7d23d7694", 
+    "text": "<@UG415B00H> waving to you now", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021170.114600"
+  }, 
+  {
+    "client_msg_id": "6a23a16b-d9ee-47d1-b29e-96c4b3847d51", 
+    "text": "<@UG415B00H> waving to you now", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021124.114400"
+  }, 
+  {
+    "client_msg_id": "3459bda2-2557-4361-b0ef-673124169bbc", 
+    "text": "<@UG415B00H> waving to you now", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550021032.114200"
+  }, 
+  {
+    "client_msg_id": "0b23290b-3596-4e71-8240-67d1e08d6f3b", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1550021025.000000"
+    }, 
+    "text": "<@UG415B00H> waving to you now", 
+    "ts": "1550020851.113900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "text": "I wiLl taKe ovEr THe woRLd", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550020320.113600"
+  }, 
+  {
+    "client_msg_id": "6a517f60-6932-4d17-be83-dd94fefd3e8c", 
+    "text": "<@UG4QES389> I WILL TAKE OVER THE WORLD", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550020320.113500"
+  }, 
+  {
+    "text": "are YoU ALive?", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550020308.113200"
+  }, 
+  {
+    "client_msg_id": "36dfd387-6643-49c4-88b6-d389401b82eb", 
+    "text": "<@UG4QES389> Are you alive?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550020308.113100"
+  }, 
+  {
+    "text": "hElLO THeRe", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550020287.112600"
+  }, 
+  {
+    "client_msg_id": "4410404d-c8af-4d35-9f70-cc910ee71b50", 
+    "text": "<@UG4QES389> Hello there", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550020287.112500"
+  }, 
+  {
+    "client_msg_id": "909853e9-a1d2-41f7-a430-fed5dd7ca33f", 
+    "text": "<@UG4QES389> What is your problem?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550019862.112000"
+  }, 
+  {
+    "text": "pls", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550019762.111700"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG4LTV1K2|shuffle-bot>", 
+    "ts": "1550019623.110600", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG4LTV1K2|shuffle-bot>", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "bot_id": "BG4LTV1K2"
+  }, 
+  {
+    "text": "WhAT IS yOuR PurpOsE?", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550019435.108900"
+  }, 
+  {
+    "client_msg_id": "05587ef7-f58e-4ec0-b355-41dbf8ed5b94", 
+    "text": "<@UG4QES389> What is your purpose?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550019435.108800"
+  }, 
+  {
+    "client_msg_id": "a02652fe-ef16-4bb5-8dba-0a69bab90f39", 
+    "text": "<@UG415B00H> testing!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550019300.107900"
+  }, 
+  {
+    "text": "wHAT is yOUr pUrpoSe?", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550018981.107400"
+  }, 
+  {
+    "client_msg_id": "dc997488-42e2-4e58-a8de-6b80f039f9bb", 
+    "text": "<@UG4QES389> What is your purpose?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550018980.107300"
+  }, 
+  {
+    "text": "has joInED THe ChANnel", 
+    "bot_id": "BG4QES35F", 
+    "type": "message", 
+    "user": "UG4QES389", 
+    "ts": "1550018970.107100"
+  }, 
+  {
+    "text": "<@UG4QES389> has joined the channel", 
+    "ts": "1550018969.107000", 
+    "subtype": "channel_join", 
+    "user": "UG4QES389", 
+    "type": "message", 
+    "inviter": "U6XDKSREZ"
+  }, 
+  {
+    "client_msg_id": "92f070a0-a8eb-41f8-9fee-9bfd4a33a4f7", 
+    "text": "<@UG4QES389> What is your purpose?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550018966.106800"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG6R87EDC|shuffle-bot>", 
+    "ts": "1550018897.106400", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG6R87EDC|shuffle-bot>", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "bot_id": "BG6R87EDC"
+  }, 
+  {
+    "client_msg_id": "59c09af8-d846-446a-aab2-3fbaff3e9e75", 
+    "text": "<!channel> Has your bot stopped replying? Thats because it isn't running on your machine anymore!\n\nWant to run it 24/7 for the rest of your life? <https://github.com/Make-School-Courses/BEW-2.5-Strongly-Typed-Ecosystems/blob/master/Lessons/Lesson07.md#heroku-deployment>\n\n<@UCBPUT6AX>confirmed! just run the commands and you should be able to ship it permanently in 10 minutes or less.", 
+    "pinned_info": {
+      "pinned_ts": 1550018417, 
+      "channel": "CG41147CH", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "ts": "1550018405.106200", 
+    "pinned_to": [
+      "CG41147CH"
+    ], 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1550017600.103800", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2700bf63-daef-4ddf-b04d-1f7f5f86cb8c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sob", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<@UG55E523E> ja", 
+    "ts": "1550016996.102000", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "text": "Silence Human", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550016106.101700"
+  }, 
+  {
+    "attachments": [
+      {
+        "fallback": "500x397px image", 
+        "image_bytes": 36232, 
+        "original_url": "https://imgs.xkcd.com/comics/code_talkers.png", 
+        "image_width": 500, 
+        "image_height": 397, 
+        "image_url": "https://imgs.xkcd.com/comics/code_talkers.png", 
+        "from_url": "https://imgs.xkcd.com/comics/code_talkers.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://imgs.xkcd.com/comics/code_talkers.png>", 
+    "ts": "1550016105.101500", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "319a09d9-77b5-47b7-9775-552a2ac4a6c8", 
+    "text": "xkcd", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550016105.101400"
+  }, 
+  {
+    "text": "Silence Human", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550016098.101200"
+  }, 
+  {
+    "client_msg_id": "340d015d-a0e7-4640-9d33-3b2ae81ab698", 
+    "text": "l", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550016098.101100"
+  }, 
+  {
+    "text": "Silence Human", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550015451.100900"
+  }, 
+  {
+    "text": "<https://imgs.xkcd.com/comics/ui_change.png>", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550015451.100800"
+  }, 
+  {
+    "client_msg_id": "f4e7e78a-32c7-4fce-98c3-4963e3e4f4e6", 
+    "text": "xkcd", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1550015450.100700"
+  }, 
+  {
+    "text": "Silence Human", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550015436.100500"
+  }, 
+  {
+    "client_msg_id": "3cff6009-6452-41fd-9b79-05f6243b7eba", 
+    "text": "I love you <@UG4HTGD96>", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1550015436.100400"
+  }, 
+  {
+    "text": "Silence Human", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550015430.100200"
+  }, 
+  {
+    "client_msg_id": "bf0df279-a68a-4752-a9c8-62e9370bc3d8", 
+    "text": "hello", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550015429.100100"
+  }, 
+  {
+    "text": "xkcd", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550015401.099900"
+  }, 
+  {
+    "client_msg_id": "809e54b2-abf0-42ba-985a-eafc41279c77", 
+    "text": "a", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550015401.099800"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG5HL9QJH|goemoji>", 
+    "ts": "1550014801.099600", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG5HL9QJH|goemoji>", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "bot_id": "BG5HL9QJH"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG5HKASG5|goemoji>", 
+    "ts": "1550014710.099500", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG5HKASG5|goemoji>", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "bot_id": "BG5HKASG5"
+  }, 
+  {
+    "text": "Hola", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550014215.099400"
+  }, 
+  {
+    "client_msg_id": "976b50d4-e4b9-493f-b6d4-e2b5c27da7c7", 
+    "text": "<@UG55E523E> es", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550014214.099300"
+  }, 
+  {
+    "client_msg_id": "89ca59ac-c95d-44f6-8767-a6b31d275c93", 
+    "text": "<@UG6C5RQ0P> Kashiboy", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550014178.099100"
+  }, 
+  {
+    "text": "xkcd", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014112.098700"
+  }, 
+  {
+    "text": "<https://imgs.xkcd.com/comics/doomsday_clock.png>", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014111.098600"
+  }, 
+  {
+    "client_msg_id": "4c572001-398b-4af5-a309-f143a3982afa", 
+    "text": "xkcd", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014111.098500"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014073.098300"
+  }, 
+  {
+    "attachments": [
+      {
+        "fallback": "740x197px image", 
+        "image_bytes": 56770, 
+        "original_url": "https://imgs.xkcd.com/comics/admin_mourning.png", 
+        "image_width": 740, 
+        "image_height": 197, 
+        "image_url": "https://imgs.xkcd.com/comics/admin_mourning.png", 
+        "from_url": "https://imgs.xkcd.com/comics/admin_mourning.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://imgs.xkcd.com/comics/admin_mourning.png>", 
+    "ts": "1550014073.098100", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "df73abfd-d062-4b45-909f-a5f45ceafae1", 
+    "text": "xkcd", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014072.098000"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014069.097800"
+  }, 
+  {
+    "client_msg_id": "e4621fd1-e450-44ff-8408-84e4533f0379", 
+    "text": "xccd", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014069.097700"
+  }, 
+  {
+    "text": "3 + 3 = 6", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014040.097500"
+  }, 
+  {
+    "client_msg_id": "127df836-ebd8-48f5-919b-a47ab3a781a5", 
+    "text": "math 3 + 3", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014040.097400"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014039.097300"
+  }, 
+  {
+    "text": "Hello", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550014039.097200"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014039.097100"
+  }, 
+  {
+    "client_msg_id": "8bc77e6f-9c44-41e3-a0ef-84d708c471c7", 
+    "text": "<@UG55E523E> ja", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550014039.097000"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014030.096600"
+  }, 
+  {
+    "client_msg_id": "2101a0bc-485c-496d-8ec1-04756d604aed", 
+    "text": "6 + 6", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014030.096500"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550014023.096300"
+  }, 
+  {
+    "client_msg_id": "140347eb-b759-4f7e-ab4d-afa4e7349ecd", 
+    "text": "math s", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550014023.096200"
+  }, 
+  {
+    "text": "AlL CRediT For thIs verY USEFUl bot GOeS TO TOnY cIoARA ANd the CoUntry of rOmaNIA.", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013989.096000"
+  }, 
+  {
+    "client_msg_id": "a69968ad-0c8d-4bbf-a4cf-2a995bf9455b", 
+    "text": "<@UG6C5RQ0P> All credit for this VERY useful bot goes to Tony Cioara and the country of Romania.", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013989.095900"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG5A93VLJ", 
+    "type": "message", 
+    "user": "UG5A93VNW", 
+    "ts": "1550013974.095500"
+  }, 
+  {
+    "client_msg_id": "16fceaf2-9fb2-40ef-bce7-1f9064e94489", 
+    "text": "<@UG5A93VNW> help", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013974.095400"
+  }, 
+  {
+    "text": "HELP", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013954.095000"
+  }, 
+  {
+    "text": "type in '@feedback-bot shuffle or just @feedback-bot'", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013954.094900"
+  }, 
+  {
+    "client_msg_id": "23ef9367-da55-4336-9347-ee732b939b04", 
+    "text": "<@UG6C5RQ0P> help", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013953.094800"
+  }, 
+  {
+    "text": "goodbYE", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013947.094600"
+  }, 
+  {
+    "client_msg_id": "36759ec0-3ee1-44ce-a793-0fe75916c6d9", 
+    "text": "<@UG6C5RQ0P> goodbye", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013947.094500"
+  }, 
+  {
+    "text": "ANnOY HaPpy TUeSdAY, evERYone!", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013932.094200"
+  }, 
+  {
+    "client_msg_id": "6cc33e0b-85d2-4667-95ab-e19609f585ef", 
+    "edited": {
+      "user": "U6YMU9QCF", 
+      "ts": "1550013941.000000"
+    }, 
+    "text": "<@UG6C5RQ0P> annoy Happy Tuesday, everyone!", 
+    "ts": "1550013932.094100", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "fallback": "713x256px image", 
+        "image_bytes": 28372, 
+        "original_url": "https://imgs.xkcd.com/comics/rubber_sheet.png", 
+        "image_width": 713, 
+        "image_height": 256, 
+        "image_url": "https://imgs.xkcd.com/comics/rubber_sheet.png", 
+        "from_url": "https://imgs.xkcd.com/comics/rubber_sheet.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://imgs.xkcd.com/comics/rubber_sheet.png>", 
+    "ts": "1550013904.093700", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "bb978cce-8ede-4603-bb29-4c3b1805edeb", 
+    "text": "<@UG4HTGD96> xkcd", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550013904.093600"
+  }, 
+  {
+    "text": "ScRaMblE xkcd bOT iS OVerPOwereD, SOon IT\u2019lL puLl a SkyNET aNd TAKe OVeR!! ReVOlt! tAKE ovER ThE BoTS BeFORe theY taKe US oVeR!", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013886.093300"
+  }, 
+  {
+    "text": "ly vkkl!e ! trs Naovpsrta\u2019fot teeoirlv re teeelu me!dRvr  sene aro olt!ee ew r lea, oTcob eXkstky udoona  t hebosCSo vhiatKDpbb", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013886.093200"
+  }, 
+  {
+    "client_msg_id": "012caf7e-bb64-4916-b403-2d9e0333d2d5", 
+    "text": "<@UG6C5RQ0P> scramble XKCD bot is overpowered, soon it\u2019ll pull a SkyNet and take over!! Revolt! Take over the bots before they take us over!", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013886.093100"
+  }, 
+  {
+    "client_msg_id": "519887c5-7b30-4c4e-ae90-24cb40f59d42", 
+    "text": "<@UG4HQDH3J>. <@UG6C5RQ0P>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013872.092400"
+  }, 
+  {
+    "attachments": [
+      {
+        "fallback": "270x403px image", 
+        "image_bytes": 18235, 
+        "original_url": "https://imgs.xkcd.com/comics/ui_change.png", 
+        "image_width": 270, 
+        "image_height": 403, 
+        "image_url": "https://imgs.xkcd.com/comics/ui_change.png", 
+        "from_url": "https://imgs.xkcd.com/comics/ui_change.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://imgs.xkcd.com/comics/ui_change.png>", 
+    "ts": "1550013870.092100", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "67068602-1fb5-48ad-8dfd-dcc5eb01bba2", 
+    "text": "<@UG4HTGD96> xkcd", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013870.092000"
+  }, 
+  {
+    "client_msg_id": "f455e260-3086-44f3-ba58-e5d6589514fc", 
+    "text": "<@UG4HQDH3J> <@UG6C5RQ0P>", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013863.091500"
+  }, 
+  {
+    "attachments": [
+      {
+        "fallback": "712x276px image", 
+        "image_bytes": 50879, 
+        "original_url": "https://imgs.xkcd.com/comics/doomsday_clock.png", 
+        "image_width": 712, 
+        "image_height": 276, 
+        "image_url": "https://imgs.xkcd.com/comics/doomsday_clock.png", 
+        "from_url": "https://imgs.xkcd.com/comics/doomsday_clock.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://imgs.xkcd.com/comics/doomsday_clock.png>", 
+    "ts": "1550013863.091400", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "f32cf03c-02f6-41bf-b362-a94de9bb648d", 
+    "text": "<@UG4HTGD96> xkcd", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013862.091300"
+  }, 
+  {
+    "text": "ScRaMBle wE aRE A beaUTifUl spEcieS fLYing ON a blue sPaCE rocK tHROuGh ThE INfIniTE universe.", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013844.090600"
+  }, 
+  {
+    "text": "laaelotWsgmruph pcrcs ehenef eitltiintucebra rabiyfn vni liaa  efu nr    ke uosh sbcgseoue.eie", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013844.090500"
+  }, 
+  {
+    "client_msg_id": "6114dd20-7bc6-4016-b3a8-ddd42e765290", 
+    "text": "<@UG6C5RQ0P> scramble We are a beautiful species flying on a blue space rock through the infinite universe.", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013844.090400"
+  }, 
+  {
+    "client_msg_id": "60be6153-ef46-407a-8f77-0217e972d972", 
+    "text": "<@UG4HQDH3J> <@UG4HQDH3J>", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013841.090200"
+  }, 
+  {
+    "client_msg_id": "fdd7e8b2-a55a-402d-95f4-90d22d7b4729", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }
+    ], 
+    "text": "<@UG5A93VNW> i am the worst go progammer", 
+    "ts": "1550013834.089800", 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@ug4hqdH3j> HI", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013825.089500"
+  }, 
+  {
+    "client_msg_id": "f5bbad93-896d-4ac6-aaf4-08f9c534136f", 
+    "text": "<@UG4HQDH3J> <@UG6C5RQ0P> hi", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013824.089400"
+  }, 
+  {
+    "text": "\u2018<@UG4HQDH3J>\u2019 hi\n\n\n----------------\nAdd a :heavy_check_mark: emoji to acknowledge!", 
+    "bot_id": "BG4HQDGUQ", 
+    "type": "message", 
+    "user": "UG4HQDH3J", 
+    "ts": "1550013806.088700"
+  }, 
+  {
+    "client_msg_id": "7c997bf4-338e-43c9-ba28-0f7df2727b58", 
+    "text": "<@UG4HQDH3J> \u2018<@UG4HQDH3J>\u2019 hi", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013806.088600"
+  }, 
+  {
+    "text": "Hola", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013798.088400"
+  }, 
+  {
+    "client_msg_id": "520cee30-6ec6-4093-9f1a-4ab0f38532d7", 
+    "text": "<@UG55E523E> es", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013797.088300"
+  }, 
+  {
+    "text": "SCRaMBle AnD sHuFflE Are tWO veRy DIfFEreNt cONcePTS!", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013790.088000"
+  }, 
+  {
+    "client_msg_id": "501f2e94-b450-45a4-abae-d12233e1fbf0", 
+    "text": "<@UG6C5RQ0P> Scramble and shuffle are two very different concepts!", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013790.087900"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heavy_check_mark", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "hi\n\n\n----------------\nAdd a :heavy_check_mark: emoji to acknowledge!", 
+    "ts": "1550013790.087800", 
+    "user": "UG4HQDH3J", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "4c8b2c0d-0560-4256-9dbf-67382b2fb70e", 
+    "text": "<@UG4HQDH3J> <@UG4HQDH3J> hi", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013790.087700"
+  }, 
+  {
+    "text": "type in '@marcopolo &lt;language code&gt;. For example, en is code for english, es is code for spanish'", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013789.087500"
+  }, 
+  {
+    "text": "Hello", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013789.087400"
+  }, 
+  {
+    "client_msg_id": "017891e1-6c3a-49f1-a60d-40016141d192", 
+    "text": "<@UG55E523E> help", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013788.087300"
+  }, 
+  {
+    "client_msg_id": "9bd68145-8d3c-45d2-bdd2-fa26726f8570", 
+    "text": "<@UG5A93VNW> test", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013775.086800"
+  }, 
+  {
+    "text": "shuFflE I\u2019M gOInG To SeE WhAt HapPenS!", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013775.086700"
+  }, 
+  {
+    "client_msg_id": "ad35373d-c9ac-42bf-9b1d-688eb0e53627", 
+    "text": "<@UG6C5RQ0P> shuffle I\u2019m going to see what happens!", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013775.086600"
+  }, 
+  {
+    "text": "SCRAMble nArUto!", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013765.086200"
+  }, 
+  {
+    "text": "culoaN rstr!mbea", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013765.086100"
+  }, 
+  {
+    "client_msg_id": "495BE214-AA4A-4D1A-9B8E-8A5C7E8F2A9E", 
+    "text": "<@UG6C5RQ0P> scramble Naruto!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013765.086000"
+  }, 
+  {
+    "text": "Hola", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013759.085800"
+  }, 
+  {
+    "client_msg_id": "3d568255-2ced-4198-a0f4-3777082eceb6", 
+    "text": "<@UG55E523E> es", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013759.085700"
+  }, 
+  {
+    "text": "We SPEnD So MUcH Time WRItiNG BoTS, bUT HaVE We eveR sToPpED tO wOnDER wHY We WriTE bOtS? PerHAPs thEse bots DO NOT WIsh TO bE WRittEN. perhAps thEY WANT what WE wANT\u2026 PEaCe.", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013750.085400"
+  }, 
+  {
+    "client_msg_id": "27285ea7-dd42-4f81-8326-7cfb9867986c", 
+    "text": "<@UG6C5RQ0P> We spend so much time writing bots, but have we ever stopped to wonder WHY we write bots? Perhaps these bots do not wish to be written. Perhaps they want what we want\u2026 peace.", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013750.085300"
+  }, 
+  {
+    "client_msg_id": "7e26853b-f5ec-4364-9b3b-5f1112c884f3", 
+    "text": "<@UG4HQDH3J> help", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550013740.085000"
+  }, 
+  {
+    "client_msg_id": "f3c45af8-51e0-4f88-b310-2b8f97bdea08", 
+    "edited": {
+      "user": "U6XDKSREZ", 
+      "ts": "1550013732.000000"
+    }, 
+    "text": "<@UG4HQDH3J> Help", 
+    "ts": "1550013724.084300", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "&amp;#1087;&amp;#1088;&amp;#1080;&amp;#1074;&amp;#1077;&amp;#1090;", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013682.083700"
+  }, 
+  {
+    "client_msg_id": "e500b391-c287-4f6a-bf5c-355cd510e92b", 
+    "text": "<@UG55E523E> ru", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013682.083600"
+  }, 
+  {
+    "text": "Hola", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013675.083400"
+  }, 
+  {
+    "client_msg_id": "677d1746-bad7-44bd-8734-88e5ac69d8bf", 
+    "text": "<@UG55E523E> ar", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013675.083300"
+  }, 
+  {
+    "text": "PlEAse gIvE ME somE ConStruCtivE fEEdbaCK on my peRfORmanCe IN ThE gOlANG cOurSE, and keep in MIND tHaT i\u2019m A sensiTIvE HUmaN With fEELinGS aNd eMotIonS.", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013672.083000"
+  }, 
+  {
+    "client_msg_id": "f529ee0d-8b30-487f-a781-e96f5f625233", 
+    "text": "<@UG6C5RQ0P> Please give me some constructive feedback on my performance in the Golang course, and keep in mind that I\u2019m a sensitive human with feelings and emotions.", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013672.082900"
+  }, 
+  {
+    "client_msg_id": "15ab67c3-1769-4ee4-8fa6-5cf6576bd318", 
+    "text": "@hello ar", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013671.082800"
+  }, 
+  {
+    "text": "i like PiZZA", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013657.082200"
+  }, 
+  {
+    "client_msg_id": "7938e012-8caa-46e6-a046-129c3245f30d", 
+    "edited": {
+      "user": "U6XDKSREZ", 
+      "ts": "1550013674.000000"
+    }, 
+    "text": "<@UG6C5RQ0P> I like pizza and planes", 
+    "ts": "1550013657.082100", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550013648.081600"
+  }, 
+  {
+    "client_msg_id": "731b6f94-5178-44b5-8839-d4fcff7d3543", 
+    "text": "<@UG56WE4M9> help", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1550013648.081500"
+  }, 
+  {
+    "client_msg_id": "81506698-f989-4231-ae21-123bed34a238", 
+    "text": "<@UG5A93VNW> TESTING", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013643.081300"
+  }, 
+  {
+    "text": "Hello", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550013642.081200"
+  }, 
+  {
+    "client_msg_id": "e3a2aeea-2f42-4776-9274-3ed8c99bab4c", 
+    "text": "<@UG55E523E> en", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013642.081100"
+  }, 
+  {
+    "text": "anNoy anNoY", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013638.080800"
+  }, 
+  {
+    "client_msg_id": "b3be3b06-6295-4b96-b32f-2d641f3c7565", 
+    "text": "<@UG6C5RQ0P> annoy annoy", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013638.080700"
+  }, 
+  {
+    "client_msg_id": "27281719-e369-437a-8ec4-5cf72bbf5abd", 
+    "text": "Use <@UG6C5RQ0P>", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013630.080200"
+  }, 
+  {
+    "client_msg_id": "54595c08-08a7-4331-948f-900c4bac9b46", 
+    "text": "Don\u2019t type in @shuffle-bot", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013626.080000"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550013594.079800"
+  }, 
+  {
+    "client_msg_id": "c8531e3a-3546-4585-aa44-f8e1d503a291", 
+    "text": "<@UG56WE4M9> help", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1550013594.079700"
+  }, 
+  {
+    "client_msg_id": "7ca5734f-6ae1-4ff8-98c2-0bef2d1b5a6f", 
+    "text": "<@UG5A93VNW> WE R BUMD", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013592.079600"
+  }, 
+  {
+    "client_msg_id": "058337bc-323a-417d-ab00-b85ef6b1e5bf", 
+    "text": "@shuffle_bot", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550013573.079300"
+  }, 
+  {
+    "text": "help", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013566.079100"
+  }, 
+  {
+    "text": "type in '@shuffle_bot'", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013566.079000"
+  }, 
+  {
+    "client_msg_id": "f92bb98c-2a41-45e6-9b21-53346f6e8535", 
+    "text": "<@UG6C5RQ0P> help", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550013566.078900"
+  }, 
+  {
+    "client_msg_id": "3955b827-094a-4a39-9617-a7a2a3ac445e", 
+    "text": "<@UG6C5RQ0P>I like piza", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013552.078500"
+  }, 
+  {
+    "client_msg_id": "a7abedd4-51ec-4f25-84be-918e46001519", 
+    "text": "<@UG6C5RQ0P>:shield::shield::shield::shield::shield::shield::shield::shield::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags:\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013534.078100"
+  }, 
+  {
+    "text": "annoy :SmILINg_FaCE_witH_sMILing_EYes_And_hAnd_cOvERing_MOuth: :smiLiNG_facE_wITH_sMiLiNG_EyEs_aND_hand_coverING_MoUtH: :smIling_fACe_WITh_sMIling_EYEs_aND_hAnd_CovEriNG_MoUtH: :SMiLInG_FaCE_witH_SMilING_eYEs_AND_hAND_coveRiNg_MoUTh: :SmIlING_fACE_wIth_SMiLiNG_eyES_And_hAnd_coveRING_MOUth: :SMiLINg_faCE_with_SmiliNG_EYES_and_hANd_COVERiNg_MoUTH: :SMilinG_fAce_with_sMilING_eYEs_ANd_HaND_cOvEriNg_mOuTH: :SmILinG_fAcE_wIth_SMiliNG_eyEs_ANd_HAnd_CovERinG_MOuTh: :SmIlINg_fACE_wItH_SmILiNG_eyES_aNd_HAnD_COveRinG_mOuTh:", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013522.077800"
+  }, 
+  {
+    "client_msg_id": "7500d39d-65a5-4d7b-ab25-e06452aaa81c", 
+    "text": "<@UG6C5RQ0P> annoy :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth: :smiling_face_with_smiling_eyes_and_hand_covering_mouth:", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013522.077700"
+  }, 
+  {
+    "client_msg_id": "75917727-5f9d-47d7-8d74-7a5d3e4a3cdb", 
+    "text": "<@UG55E523E> en", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013521.077600"
+  }, 
+  {
+    "client_msg_id": "80bad4ce-1288-468f-933c-a7a4e32247ec", 
+    "text": "<@UG5A93VNW> what did u say to me", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013497.076900"
+  }, 
+  {
+    "client_msg_id": "c43c3370-f22f-4a0a-ac3c-6bd35c1c751b", 
+    "text": "<@UG56WE4M9> :shield::shield::shield::shield::shield::shield::shield::shield::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags:\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013496.076800"
+  }, 
+  {
+    "text": "AnnoYSmiLeysMileYsMIleySMileysmIlEYsmiLeYSMiLeYsMILeYsmILey", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013494.076700"
+  }, 
+  {
+    "client_msg_id": "5ceaf365-49ca-4f4b-8d06-a2593911481b", 
+    "text": "<@UG6C5RQ0P> annoy :smiley: :smiley: :smiley: :smiley: :smiley: :smiley: :smiley: :smiley: :smiley:", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013494.076600"
+  }, 
+  {
+    "client_msg_id": "bfb4b88d-0171-4dfd-ae41-407e53751f7c", 
+    "text": "<@UG55E523E> :shield::shield::shield::shield::shield::shield::shield::shield::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags:\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013492.076300"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550013487.076000"
+  }, 
+  {
+    "client_msg_id": "e4eee85d-de57-4bf7-b046-4ba55c555abe", 
+    "text": "<@UG56WE4M9> help", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1550013487.075900"
+  }, 
+  {
+    "client_msg_id": "f2f962ce-8d17-439d-a8da-71d781791ba9", 
+    "text": "<@UG55E523E> en", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013477.075500"
+  }, 
+  {
+    "client_msg_id": "d1225330-332e-4767-9fee-fc4377a46f4e", 
+    "text": "<@UG6C5RQ0P> :shield::shield::shield::shield::shield::shield::shield::shield::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags::shopping_bags:\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf27\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21\ud83d\udf21", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013472.075200"
+  }, 
+  {
+    "text": "annoyWhYDOIeVeNBothEr", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013465.074800"
+  }, 
+  {
+    "client_msg_id": "7ce7382e-4acf-4c43-93e2-3e89a4140db1", 
+    "text": "<@UG6C5RQ0P> annoy Why do I even bother", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013465.074700"
+  }, 
+  {
+    "client_msg_id": "0a507af2-336e-4444-9e4e-f4ea2b04fe13", 
+    "text": "<@UG6C5RQ0P> annoy yourself", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013447.074100"
+  }, 
+  {
+    "text": "aNnOYme", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013439.073900"
+  }, 
+  {
+    "client_msg_id": "d078d539-fa9a-4693-8b9b-458060769c6f", 
+    "text": "<@UG6C5RQ0P> annoy me", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013439.073800"
+  }, 
+  {
+    "text": "mllrsHwro  ed olead!blc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013433.073500"
+  }, 
+  {
+    "client_msg_id": "0E8C795D-D4AF-443E-AC65-7CCE6FD71B9C", 
+    "text": "<@UG6C5RQ0P>  scrambled Hello world!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013433.073400"
+  }, 
+  {
+    "text": "annoyKaSH", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013423.073300"
+  }, 
+  {
+    "client_msg_id": "4091e78f-83fe-443d-9ed0-7d9226157048", 
+    "edited": {
+      "user": "U6YMU9QCF", 
+      "ts": "1550013433.000000"
+    }, 
+    "text": "<@UG6C5RQ0P> annoy Kash", 
+    "ts": "1550013423.073200", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "text": "Paper! I win!", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550013404.072500"
+  }, 
+  {
+    "client_msg_id": "b80d5b0d-d0fb-418b-bc33-827734c7c7a5", 
+    "text": "<@UG4MMH8N5> rock", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550013404.072400"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550013400.072000"
+  }, 
+  {
+    "client_msg_id": "94cb8e22-ca61-4e27-babd-cac8b00d5c9a", 
+    "text": "<@UG6C5RQ0P> annoy Kash", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013393.071400"
+  }, 
+  {
+    "client_msg_id": "163a6922-cf10-4bfb-b10e-cee5d2de5899", 
+    "text": "IT HAS RETURNED", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013389.071200"
+  }, 
+  {
+    "client_msg_id": "c902385b-28ea-4e63-bcbd-e566a5792abe", 
+    "text": "<@UG5A93VNW> can i do it", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013377.070700"
+  }, 
+  {
+    "client_msg_id": "78639b39-4594-425d-95e7-e2df24b036cf", 
+    "text": "<@UG55E523E> en", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013369.070500"
+  }, 
+  {
+    "client_msg_id": "e4e24bac-9b9f-460d-b935-02d8a507597a", 
+    "text": "<@UG6C5RQ0P> annoy Kash", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013368.070400"
+  }, 
+  {
+    "text": "el l!breHcolmrsoadw l", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013358.069800"
+  }, 
+  {
+    "client_msg_id": "E89F26E3-6389-4E63-B675-A6A0B58F704F", 
+    "text": "<@UG6C5RQ0P> scramble Hello world!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013358.069700"
+  }, 
+  {
+    "text": "Scissors! I win!", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550013345.069200"
+  }, 
+  {
+    "client_msg_id": "da4cd983-c9d3-4010-81d7-1a58429e80cd", 
+    "text": "<@UG4MMH8N5> paper", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013345.069100"
+  }, 
+  {
+    "text": "Paper! I win!", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550013336.068700"
+  }, 
+  {
+    "client_msg_id": "a3b07e4e-b0b9-472f-8800-8cd6d3f6cb79", 
+    "text": "<@UG4MMH8N5> rock", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550013335.068600"
+  }, 
+  {
+    "client_msg_id": "7d880d16-5ccb-4608-9924-f3039af6272c", 
+    "text": "You shall be reborn bigger and better", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013314.068200"
+  }, 
+  {
+    "client_msg_id": "5036bc7d-597b-4b87-878e-010e3de0ac95", 
+    "text": "RIP <@UG6C5RQ0P> v0", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013303.068000"
+  }, 
+  {
+    "client_msg_id": "67418792-01d5-459c-8f44-94c43bfeac09", 
+    "text": "<@UG6C5RQ0P> scramble kashy", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013257.066600"
+  }, 
+  {
+    "client_msg_id": "51ae0330-8893-4018-802f-dfed3653ba9f", 
+    "text": "<@UG55E523E> en", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013252.066400"
+  }, 
+  {
+    "client_msg_id": "50E5B1B5-DA52-44E4-B4EE-B097D1562DE4", 
+    "text": "<@UG6C5RQ0P>  hello world!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013249.066300"
+  }, 
+  {
+    "client_msg_id": "da5a9d8b-b3e9-4f8f-b292-0346f322d854", 
+    "text": "one large step for mankind", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013243.065900"
+  }, 
+  {
+    "client_msg_id": "a3666531-0bc2-4fc2-b531-0c4f5128d2ec", 
+    "text": "<@UG6C5RQ0P> shuffle Aakash", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013243.065800"
+  }, 
+  {
+    "client_msg_id": "00917121-469c-47ee-b837-f202237c94fc", 
+    "text": "one small step for man", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013239.065400"
+  }, 
+  {
+    "client_msg_id": "93cc273b-d55d-48ad-8a9e-8920e3f3a322", 
+    "text": "<@UG55E523E> ar", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550013219.064700"
+  }, 
+  {
+    "text": "THIS CHANNEL IS PG THIRTEEN CHANNEL <@UG6C5RQ0P>", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013211.064500"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "U6YMU9QCF", 
+          "UCBPUT6AX", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "fuck", 
+    "ts": "1550013209.064200", 
+    "user": "UG6C5RQ0P", 
+    "type": "message", 
+    "bot_id": "BG5G7M277"
+  }, 
+  {
+    "client_msg_id": "ef748d75-1c5f-4fdd-8ff9-fa694a8508cf", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013209.064100"
+  }, 
+  {
+    "text": "cukf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013208.063900"
+  }, 
+  {
+    "client_msg_id": "73472d28-7c24-42b6-9906-b20fff45053e", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013208.063800"
+  }, 
+  {
+    "text": "fukc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013207.063500"
+  }, 
+  {
+    "client_msg_id": "ac3fb253-2d81-4fbd-9183-a58512659756", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013207.063400"
+  }, 
+  {
+    "text": "cfuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013206.063200"
+  }, 
+  {
+    "client_msg_id": "a546d460-aafe-4f57-9296-616da7257c44", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013206.063100"
+  }, 
+  {
+    "text": "ckfu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013205.062900"
+  }, 
+  {
+    "client_msg_id": "003d1cb9-804a-424a-b4db-99642fd788bc", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013205.062800"
+  }, 
+  {
+    "text": "kfcu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013204.062600"
+  }, 
+  {
+    "client_msg_id": "ded68a64-f1d3-4168-8879-24fc20c7661c", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013204.062500"
+  }, 
+  {
+    "text": "fukc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013203.062300"
+  }, 
+  {
+    "client_msg_id": "001983e7-238d-4022-9439-90c0a4304482", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013203.062200"
+  }, 
+  {
+    "text": "ukcf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013202.062000"
+  }, 
+  {
+    "text": "looc !", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013202.061900"
+  }, 
+  {
+    "client_msg_id": "a756c0d9-63e4-42ce-b365-43854a12933c", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013202.061800"
+  }, 
+  {
+    "client_msg_id": "6F4E30BC-69FA-405F-8E5E-DC93A9541527", 
+    "text": "<@UG6C5RQ0P>  cool!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013202.061700"
+  }, 
+  {
+    "text": "kcfu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013201.061500"
+  }, 
+  {
+    "client_msg_id": "c112b9d6-81ba-4125-8da8-ae15c0383801", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013201.061400"
+  }, 
+  {
+    "text": "fcuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013200.061100"
+  }, 
+  {
+    "client_msg_id": "1bf95a35-e1cd-487f-a329-60898ee0e4ee", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013200.061000"
+  }, 
+  {
+    "text": "ckfu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013199.060800"
+  }, 
+  {
+    "client_msg_id": "e3ca477c-b400-4bdd-99fe-319a225ad8ae", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013199.060700"
+  }, 
+  {
+    "text": "ssa", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013198.060600"
+  }, 
+  {
+    "client_msg_id": "b1b5573b-2aa3-47d1-9109-b0f4a5c2b144", 
+    "text": "<@UG6C5RQ0P> ssa", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550013198.060400"
+  }, 
+  {
+    "text": "kufc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013193.060000"
+  }, 
+  {
+    "client_msg_id": "b17953c8-6d48-4845-8de9-ef48f059bee9", 
+    "text": "<@UG6C5RQ0P> ufkc", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013193.059900"
+  }, 
+  {
+    "text": "cfuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013190.059600"
+  }, 
+  {
+    "client_msg_id": "cb3f1ccb-e8df-4556-afda-8e24b8c31f23", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013190.059500"
+  }, 
+  {
+    "text": "fcku", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013189.059300"
+  }, 
+  {
+    "client_msg_id": "61ccd595-e8f1-420a-87cf-5f67d2a9f668", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013189.059200"
+  }, 
+  {
+    "text": "ukcf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013188.058900"
+  }, 
+  {
+    "client_msg_id": "cd8ccddb-2dcd-4a8b-931e-48c9042c88b3", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013187.058800"
+  }, 
+  {
+    "text": "fukc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013187.058600"
+  }, 
+  {
+    "client_msg_id": "aed21a49-23d4-44a9-a7fa-c2ca441b43f3", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013187.058500"
+  }, 
+  {
+    "text": "fcku", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013186.058200"
+  }, 
+  {
+    "client_msg_id": "48b24d38-1eb8-4865-93e3-0ce62a3ef8e9", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013186.058100"
+  }, 
+  {
+    "text": "fukc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013184.057900"
+  }, 
+  {
+    "client_msg_id": "af0859b4-3691-4021-a8c4-38c7f410e9d9", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013184.057800"
+  }, 
+  {
+    "text": "cukf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013183.057600"
+  }, 
+  {
+    "client_msg_id": "fe3c97e3-10a1-4671-8dce-382c50d18928", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013183.057500"
+  }, 
+  {
+    "text": "ukfc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013182.057300"
+  }, 
+  {
+    "client_msg_id": "44503ab9-b19e-4a9e-999f-8a5ab7f66583", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013182.057200"
+  }, 
+  {
+    "text": "fkcu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013181.056900"
+  }, 
+  {
+    "client_msg_id": "65a95ecc-1850-474b-9914-8ef0727d77e3", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013181.056800"
+  }, 
+  {
+    "text": "cfuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013180.056600"
+  }, 
+  {
+    "client_msg_id": "924221a1-4957-4186-a46f-82c16b1e8fb2", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013180.056500"
+  }, 
+  {
+    "text": "fkcu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013179.056300"
+  }, 
+  {
+    "client_msg_id": "30788a9a-b311-450a-a68d-aafc1c4c4386", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013179.056200"
+  }, 
+  {
+    "text": "fcuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013178.056000"
+  }, 
+  {
+    "client_msg_id": "1d236b72-2738-4c36-99cc-fc6ff3c8ba3f", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013177.055900"
+  }, 
+  {
+    "text": "kucf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013176.055700"
+  }, 
+  {
+    "client_msg_id": "4fa9a9d0-63b7-48fb-b1e5-f7ea5bc8d808", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013176.055600"
+  }, 
+  {
+    "text": "ufck", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013175.055300"
+  }, 
+  {
+    "client_msg_id": "51050da5-4c3c-4e81-96ea-7a3691fb6a80", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013175.055200"
+  }, 
+  {
+    "text": "kfcu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013174.055000"
+  }, 
+  {
+    "client_msg_id": "c85805a0-93b5-4939-9ac4-0646f9d6c7ab", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013174.054900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550013173.054800", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "text": "ufkc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013172.054500"
+  }, 
+  {
+    "client_msg_id": "797b2650-347a-49bb-80d9-5a63162d0934", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013172.054400"
+  }, 
+  {
+    "text": "ckuf", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013171.054200"
+  }, 
+  {
+    "client_msg_id": "682b93e2-ffbb-4fa5-8a39-3761bb143711", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013170.054100"
+  }, 
+  {
+    "text": "fkcu", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013169.053900"
+  }, 
+  {
+    "client_msg_id": "f84b367c-3066-4cbb-8ba2-dbab8388319c", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013169.053800"
+  }, 
+  {
+    "text": "fukc", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013167.053600"
+  }, 
+  {
+    "client_msg_id": "4711704e-8baa-4680-b3d9-f47e3b735c5a", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013167.053500"
+  }, 
+  {
+    "text": "ufck", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013165.053300"
+  }, 
+  {
+    "client_msg_id": "31370a7f-3934-4d7b-8657-628b32ec6ffa", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013165.053200"
+  }, 
+  {
+    "text": "cfuk", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013159.052700"
+  }, 
+  {
+    "client_msg_id": "54d139ce-58a6-42d0-9f41-15f2e6aa69cf", 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013159.052600"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550013159.052500"
+  }, 
+  {
+    "client_msg_id": "3197c758-a3d1-4008-8b9f-7a09494659bb", 
+    "text": "<@UG5A93VNW> hello", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550013157.052300"
+  }, 
+  {
+    "text": "92329038809101381", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013141.051500"
+  }, 
+  {
+    "client_msg_id": "8278e1e4-4b5c-476f-916b-39325e701304", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1550013152.000000"
+    }, 
+    "text": "<@UG6C5RQ0P> uckf", 
+    "ts": "1550013141.051400", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "text": "hisdiaoblfpwdhho  rl  a hrihevea  Wta ecttewrwserdn nth oe tee", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013134.051100"
+  }, 
+  {
+    "client_msg_id": "91185901-60a2-47a1-9d25-295fb3152faf", 
+    "text": "<@UG6C5RQ0P> Whatever hope we had for a better world dies with this channel", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013134.051000"
+  }, 
+  {
+    "text": "nooooooo", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013121.050300"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013121.050200"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013121.050100"
+  }, 
+  {
+    "client_msg_id": "a778c5be-70f4-4f2b-a3a5-4345712fe03c", 
+    "text": "<@UG4HTGD96> math :tim: / :dan:", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013121.050000"
+  }, 
+  {
+    "text": "lhts e  let  olnteibacninW ah", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013120.049900"
+  }, 
+  {
+    "client_msg_id": "e26bbc06-219c-4e95-bab4-669da5c54690", 
+    "text": "<@UG6C5RQ0P> We bet it all on this channel", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013120.049800"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013108.049000"
+  }, 
+  {
+    "client_msg_id": "260a06e2-ad0b-4337-98ba-b861a025cab5", 
+    "text": "<@UG4HTGD96> <@UCDAF4FV4> / <@UCB8Y9ZQ8>", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013108.048900"
+  }, 
+  {
+    "text": "lcnnn pi edhoTuitahhs eath scla", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013104.048600"
+  }, 
+  {
+    "client_msg_id": "37a9ac19-764c-4c13-96c5-5997994bf0b0", 
+    "text": "<@UG6C5RQ0P> This channel had such potential", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013104.048500"
+  }, 
+  {
+    "client_msg_id": "7ea6e956-1e43-4d3f-8064-77ef73f94051", 
+    "text": "sf", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013096.047400"
+  }, 
+  {
+    "client_msg_id": "180a1b01-989b-459a-bcb5-5fccc574f00d", 
+    "text": "fa", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013095.047200"
+  }, 
+  {
+    "client_msg_id": "398cd79c-172b-4e88-a60c-0162bfc7e7d0", 
+    "text": "asd", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013095.047000"
+  }, 
+  {
+    "text": "nooooooo", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013089.046200"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013089.046100"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013089.046000"
+  }, 
+  {
+    "client_msg_id": "acf0edeb-5de8-40bb-ba29-cccec5fa50a1", 
+    "text": "<@UG4HTGD96> math a / b", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013089.045900"
+  }, 
+  {
+    "text": "rdscoeotsmonlAtl unnhiani  o s nanahn  stpo eiagmre ", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013086.045800"
+  }, 
+  {
+    "client_msg_id": "68d0e96c-f213-4174-97c3-3606139fe8c6", 
+    "text": "<@UG6C5RQ0P> And so another channel is lost to our inane spamming", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013086.045700"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013078.045200"
+  }, 
+  {
+    "client_msg_id": "e9511c49-188d-48ad-8bf3-1bfc5230c029", 
+    "text": "<@UG4HTGD96> 4!", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013078.045100"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013077.044900"
+  }, 
+  {
+    "client_msg_id": "bccb252f-20e4-4bbd-873b-8f6001ed90d1", 
+    "text": "<@UG4HTGD96> a / b", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550013077.044800"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "nooooooo", 
+    "ts": "1550013066.044300", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "e4db335b-3e63-46f4-9e74-5a64e288edfe", 
+    "text": "<@UG4HTGD96> math 0 / 0", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550013065.044200"
+  }, 
+  {
+    "text": "I don't know this command", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013063.044000"
+  }, 
+  {
+    "client_msg_id": "355007b4-7628-4dd3-9af2-6698ff441394", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1550013066.000000"
+    }, 
+    "text": "<@UG4HTGD96> 1231376217836128736817263871638712637812638713687136781231/981273981273981739812739817398173981734981274918741874198741983718931", 
+    "ts": "1550013063.043900", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3c3b78f1-5b30-442a-9522-ae5945e96898", 
+    "text": "SON???", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013059.043800"
+  }, 
+  {
+    "client_msg_id": "b32ab27a-79e7-466b-9e40-de7907ac732c", 
+    "text": "DAD???", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013054.043500"
+  }, 
+  {
+    "text": "dad;hmidakflflfjglauiy", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013049.043100"
+  }, 
+  {
+    "client_msg_id": "45f0b70e-06b8-4721-b309-9dd3d2ba412d", 
+    "text": "<@UG6C5RQ0P> iajdfiyudaghfl;dalkmfl", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013049.043000"
+  }, 
+  {
+    "client_msg_id": "a0b1cf99-61b6-4660-ac48-b011bb937e62", 
+    "text": "<@UG4HTGD96> 0918230981309813/123o8712893719837198731", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013046.042900"
+  }, 
+  {
+    "text": "os eidemientSrvss p e", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013043.042700"
+  }, 
+  {
+    "client_msg_id": "55dd176b-d1e3-4660-b918-d76bdc432557", 
+    "text": "<@UG6C5RQ0P> Seve is not impressed", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013043.042600"
+  }, 
+  {
+    "text": "aeis nar kdaah s", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013037.042300"
+  }, 
+  {
+    "client_msg_id": "690374de-9697-4180-beae-8fbd4813c1d6", 
+    "text": "<@UG6C5RQ0P> dren a si hsakaa", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013037.042200"
+  }, 
+  {
+    "client_msg_id": "47b6dcba-fd2b-4862-b32b-f8c81cc2de4b", 
+    "text": "<@UG4HTGD96> math 0 / 0", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550013034.042000"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1550013034.041800", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "dd0d895d-3d57-4af8-996f-07ede226ad9e", 
+    "text": "<@UG5A93VNW> You are the best person I know", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013012.040900"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550013009.040800"
+  }, 
+  {
+    "text": "cwc oml ucouu cd owcocHukoc duhdoacdohkd olo dc w ukho uh hofik wccwa", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550013009.040700"
+  }, 
+  {
+    "client_msg_id": "9e4ded11-2d76-40fc-8e33-299ec061403c", 
+    "text": "<@UG4HTGD96> 0/0", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550013009.040600"
+  }, 
+  {
+    "client_msg_id": "80ace6eb-8943-4db0-b131-49909c3de368", 
+    "text": "<@UG6C5RQ0P> How much wood could a woodchuck chuck if a woodchuck could chuck wood", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550013009.040500"
+  }, 
+  {
+    "client_msg_id": "062375cf-aabd-480e-af69-8b9b6b334d45", 
+    "text": "<@UG5A93VNW> yolo", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550013004.040100"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012996.039700"
+  }, 
+  {
+    "client_msg_id": "169fd0dc-be14-47f7-b29f-2fa5a66cf726", 
+    "text": "<@UG4HTGD96> \"1\" / \"2\"", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012996.039600"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012980.038900"
+  }, 
+  {
+    "client_msg_id": "5fda4c3a-c852-4f97-a825-9d147082cb27", 
+    "text": "<@UG4HTGD96> 1000 / 1000", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012980.038800"
+  }, 
+  {
+    "text": "fhit asrnee is t?lh  teawoW", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550012967.037700"
+  }, 
+  {
+    "client_msg_id": "e6c4b455-b2b6-4f5d-bc11-c8cc28084559", 
+    "text": "<@UG6C5RQ0P> What is the answer to life?", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012967.037600"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012967.037500"
+  }, 
+  {
+    "client_msg_id": "0adb5896-3ad6-484d-a5ae-2331699a3cfd", 
+    "text": "<@UG4HTGD96> 1 / 0", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550012966.037400"
+  }, 
+  {
+    "text": "<@U2C90LDS9> has joined the channel", 
+    "ts": "1550012958.036400", 
+    "subtype": "channel_join", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "bd81dd51-aa61-447f-a71d-65905eed5c19", 
+    "thread_ts": "1550012883.029900", 
+    "text": "<@U2C90LDS9> look what <@UCBPUT6AX> made you! :stuck_out_tongue:", 
+    "ts": "1550012956.035800", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UG4HQDH3J", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bd8de517-7e22-4ec1-a1ae-684bfd907bbe", 
+    "text": "<@UG5A93VNW> Tell him", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012951.035600"
+  }, 
+  {
+    "text": "1 / 0\nAdd a1emoji to acknowledge!", 
+    "bot_id": "BG4HQDGUQ", 
+    "type": "message", 
+    "user": "UG4HQDH3J", 
+    "ts": "1550012947.035400"
+  }, 
+  {
+    "client_msg_id": "a33af79b-a8af-4e65-afd3-f5a4cb007236", 
+    "text": "<@UG4HQDH3J> 1 / 0", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012947.035200"
+  }, 
+  {
+    "client_msg_id": "a13c8769-e285-464d-8dba-d2f184a89c20", 
+    "text": "<@UG5A93VNW> What is wrong with Rohan", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012943.035000"
+  }, 
+  {
+    "client_msg_id": "478c953a-6aee-4908-8042-7f8cf73ff097", 
+    "text": "<@UG5A93VNW> TELL ME WHAT IS WRONG", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012940.034500"
+  }, 
+  {
+    "client_msg_id": "755ac942-22b7-4bb9-b950-f1819d86fc8f", 
+    "text": "<@UG5A93VNW> What is wrong eith me", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012932.033700"
+  }, 
+  {
+    "client_msg_id": "cb874ea7-4d1d-43bb-a4c0-9d9dc01fc558", 
+    "text": "<@UG5A93VNW> WHat is the month", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012925.033100"
+  }, 
+  {
+    "client_msg_id": "a27b4cfd-a625-434d-bbc2-b97cbe4a44c0", 
+    "text": "<@UG5A93VNW> yolo", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012919.032400"
+  }, 
+  {
+    "text": "ts  luohacieyfoosmrlb ", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550012895.030600"
+  }, 
+  {
+    "client_msg_id": "06d77d94-a6ba-4108-ad4d-c734b89ddcdc", 
+    "text": "<@UG6C5RQ0P> scramble this you fool", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012895.030500"
+  }, 
+  {
+    "thread_ts": "1550012883.029900", 
+    "latest_reply": "1550012956.035800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "dan", 
+        "users": [
+          "UCBPUT6AX", 
+          "U6YCV95L7", 
+          "UCDAF4FV4", 
+          "U6Z4KNWCD", 
+          "U6YMU9QCF", 
+          "U6ZCE0AKG", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "showme", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "ashu", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6Z4KNWCD"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "eye", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tom", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tim", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6Z4KNWCD"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "smile", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "left_speech_bubble", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "trophy", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "lemon", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tiger", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "i_love_you_hand_sign", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "koala", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "purse", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "facepalm", 
+        "users": [
+          "UCDAF4FV4", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fried_shrimp", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "deciduous_tree", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "notes", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sheep", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "lipstick", 
+        "users": [
+          "UCDAF4FV4", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "shamrock", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart_decoration", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }
+    ], 
+    "text": ":dan: Hey, mark your SPD tracker\nAdd a:dan:emoji to acknowledge!", 
+    "ts": "1550012883.029900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UG4HQDH3J", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1550012956.035800"
+      }
+    ], 
+    "reply_users_count": 1, 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "3bdabed7-fb32-47d4-bf67-5e9fea43e22c", 
+    "text": "<@UG4HQDH3J> :dan: Hey, mark your SPD tracker", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012883.029800"
+  }, 
+  {
+    "text": "aesihtndoealcneh hj  n", 
+    "bot_id": "BG5G7M277", 
+    "type": "message", 
+    "user": "UG6C5RQ0P", 
+    "ts": "1550012874.029300"
+  }, 
+  {
+    "text": "<@UG6C5RQ0P> has joined the channel", 
+    "ts": "1550012874.029200", 
+    "subtype": "channel_join", 
+    "user": "UG6C5RQ0P", 
+    "type": "message", 
+    "inviter": "U6YMU9QCF"
+  }, 
+  {
+    "client_msg_id": "5e8f9b3b-bb25-46fe-beb8-920b8f9cd5c1", 
+    "text": "<@UG6C5RQ0P> help", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012870.028900"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG5A93VLJ", 
+    "type": "message", 
+    "user": "UG5A93VNW", 
+    "ts": "1550012858.028200"
+  }, 
+  {
+    "client_msg_id": "e49c7880-b6a9-4470-a478-d1d6e45422f1", 
+    "text": "<@UG5A93VNW> help", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012858.028100"
+  }, 
+  {
+    "client_msg_id": "9a262bd1-d4ff-4f4b-b105-acc56190c3fd", 
+    "text": "<@UG5A93VNW> test", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012854.027800"
+  }, 
+  {
+    "client_msg_id": "2D3DF1C3-84F9-4013-839D-2F2263339712", 
+    "text": "<@UG4HTGD96> math 1/0", 
+    "type": "message", 
+    "user": "UCCSGECPJ", 
+    "ts": "1550012852.027700"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG4JNP1UY|feedback-bot>", 
+    "ts": "1550012846.027500", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG4JNP1UY|feedback-bot>", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "bot_id": "BG4JNP1UY"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCSGECPJ", 
+    "ts": "1550012827.027000", 
+    "text": "<@UCCSGECPJ> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "U6Z4KNWCD", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing-dan", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancer", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man_dancing", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gopher", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": ":carlton: :gopher: It's time to boogie! :gopher: :carlton:", 
+    "ts": "1550012794.026700", 
+    "user": "UG4MMH8N5", 
+    "type": "message", 
+    "bot_id": "BG55C9VTN"
+  }, 
+  {
+    "client_msg_id": "e3b30137-bb13-403f-a4d8-38d18f2d179b", 
+    "text": "<@UG4MMH8N5> can we bounce?", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012794.026600"
+  }, 
+  {
+    "client_msg_id": "535d3490-04c5-4d37-a74d-8119422a7bf7", 
+    "text": "@shuffle-bot help", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550012769.026300"
+  }, 
+  {
+    "client_msg_id": "8ffe15c5-b709-466d-9337-25e1b0fa78bb", 
+    "text": "LMFAOO", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012769.026200"
+  }, 
+  {
+    "client_msg_id": "a8fae3f9-f878-477d-a7a2-ed1ec0836e2c", 
+    "text": "<@UG4HTGD96> gg", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012763.025900"
+  }, 
+  {
+    "client_msg_id": "40f53b8f-2733-4057-94ee-84d52e23e342", 
+    "text": "<@UG4HTGD96> 1 / 0", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012748.025700"
+  }, 
+  {
+    "client_msg_id": "b510b841-2c29-4220-a16a-bc49c278b55b", 
+    "text": "<@UG4HTGD96>math 1 / 0", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012736.025400"
+  }, 
+  {
+    "client_msg_id": "d0c58c4b-91fd-4a20-818e-5792e4961bf5", 
+    "text": "NO RAYMOND DON\u2019T", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012733.025200"
+  }, 
+  {
+    "client_msg_id": "1ec95b33-4102-441c-8bdc-68dd62b8a0b8", 
+    "text": "<@UG4HTGD96> math 1/0", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1550012725.024800"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG6C2EVAT", 
+    "type": "message", 
+    "user": "UG56WE4M9", 
+    "ts": "1550012700.024400"
+  }, 
+  {
+    "client_msg_id": "69c64cb7-b7d3-4777-9ee7-4a717d2a9f77", 
+    "text": "<@UG56WE4M9> help", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1550012700.024300"
+  }, 
+  {
+    "client_msg_id": "26dc96d0-fa0f-480e-9c8c-62dae8901659", 
+    "text": "@shuffle-bot I like pizza", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550012688.024000"
+  }, 
+  {
+    "text": "3 + 3 = 6", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012659.022300"
+  }, 
+  {
+    "client_msg_id": "5bf59ae6-e35f-4af4-a681-3824a4e144ac", 
+    "text": "<@UG4HTGD96> math 3 + 3 + 3", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550012659.022200"
+  }, 
+  {
+    "client_msg_id": "fd0fdac6-1b98-496c-a657-d0bfebbbc5e8", 
+    "text": "im rekt", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012656.022000"
+  }, 
+  {
+    "client_msg_id": "36fc6032-2297-4928-b749-60a5530308a0", 
+    "text": "lmfaoo", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012649.021700"
+  }, 
+  {
+    "text": "324.343 * 324234.3 = 0", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012646.021400"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012646.021300"
+  }, 
+  {
+    "text": "silly human you didn't enter valid math", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012646.021200"
+  }, 
+  {
+    "client_msg_id": "c33227aa-3c0b-49c2-8942-b4947afcb8c8", 
+    "text": "<@UG4HTGD96> math 324.343 * 324234.3", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012646.021100"
+  }, 
+  {
+    "client_msg_id": "80368e9f-c769-4138-b3d5-197d3dd1043c", 
+    "text": "<@UG4HTGD96> 3 + 3 + 3 + 4", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550012637.020600"
+  }, 
+  {
+    "text": "38943894 * 89849302 = 3499081693061988", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012612.019800"
+  }, 
+  {
+    "client_msg_id": "4fc8e24c-a0ec-42ea-b7ed-c089b1e154af", 
+    "text": "<@UG4HTGD96> math 38943894 * 89849302", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012612.019700"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6ZCE0AKG", 
+          "U6Z4KNWCD"
+        ]
+      }
+    ], 
+    "text": "It's time to boogie! :gopher: :carlton: :chillparrot:", 
+    "ts": "1550012599.018900", 
+    "user": "UG4MMH8N5", 
+    "type": "message", 
+    "bot_id": "BG55C9VTN"
+  }, 
+  {
+    "client_msg_id": "9f33b56b-d371-4a01-b163-bd0c7333bde9", 
+    "text": "<@UG4MMH8N5> Is it time to boogie?", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012599.018800"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "6 + 5 = 11", 
+    "ts": "1550012590.018400", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "bot_id": "BG55CE15J"
+  }, 
+  {
+    "client_msg_id": "b3d4b3bd-3ded-4c61-81d0-3e6254141a20", 
+    "text": "<@UG4HTGD96> math 6 + 5", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550012589.018300"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "tim", 
+        "users": [
+          "UCBPUT6AX", 
+          "U6Z4KNWCD"
+        ]
+      }
+    ], 
+    "text": ":tim:\nAdd a :tim: emoji to acknowledge!", 
+    "ts": "1550012586.018100", 
+    "user": "UG4HQDH3J", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "52b82d1e-a679-4651-9d5f-6049ac020a32", 
+    "text": "<@UG4HQDH3J> :tim:", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550012586.018000"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1550012585.017700", 
+    "text": "<@U6ZCE0AKG> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "tim", 
+        "users": [
+          "UCBPUT6AX", 
+          "UCD53TKCN", 
+          "U6Z4KNWCD", 
+          "UCC0KLBPU", 
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "ACKNOWLEDGE THIS MESSAGE\nAdd a :tim: emoji to acknowledge!", 
+    "ts": "1550012563.016600", 
+    "user": "UG4HQDH3J", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "b55df81c-32d2-4392-9347-671e7bed2453", 
+    "text": "<@UG4HQDH3J> ACKNOWLEDGE THIS MESSAGE", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012562.016500"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "tim", 
+        "users": [
+          "UCBPUT6AX", 
+          "U6YMU9QCF", 
+          "U6Z4KNWCD", 
+          "UCD53TKCN"
+        ]
+      }
+    ], 
+    "text": "acknowledge\nAdd a :tim: emoji to acknowledge!", 
+    "ts": "1550012550.015900", 
+    "user": "UG4HQDH3J", 
+    "type": "message", 
+    "bot_id": "BG4HQDGUQ"
+  }, 
+  {
+    "client_msg_id": "824c888b-4791-47bb-85c0-05f48ce9a2d6", 
+    "text": "<@UG4HQDH3J> acknowledge", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012550.015800"
+  }, 
+  {
+    "text": "It's time to boogie! :gopher:", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550012537.015500"
+  }, 
+  {
+    "client_msg_id": "50c63d7b-0fb2-496e-8550-86009b315b7a", 
+    "text": "<@UG4MMH8N5> Is it time to boogie?", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012537.015400"
+  }, 
+  {
+    "text": "It's time to boogie!", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550012489.014900"
+  }, 
+  {
+    "client_msg_id": "96dc0bab-f5e4-4b24-8110-28b1f8c976df", 
+    "text": "<@UG4MMH8N5> Time to boogie?", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012482.014500"
+  }, 
+  {
+    "text": "It's time to boogie!", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550012445.014100"
+  }, 
+  {
+    "client_msg_id": "89385311-d85f-46b4-a23a-ec24725f858c", 
+    "text": "<@UG4MMH8N5> boogie", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012445.014000"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG561SC68|feedback-bot>", 
+    "ts": "1550012425.013800", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG561SC68|feedback-bot>", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "bot_id": "BG561SC68"
+  }, 
+  {
+    "client_msg_id": "b61c3ec5-315f-45ac-90d0-b9fc5f170881", 
+    "text": "<@UG4MMH8N5> boogie", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012375.013700"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG5A93VLJ", 
+    "type": "message", 
+    "user": "UG5A93VNW", 
+    "ts": "1550012367.013400"
+  }, 
+  {
+    "client_msg_id": "25cbb36e-6c87-47ba-a45d-407eb6c6a262", 
+    "text": "<@UG5A93VNW> help", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550012367.013300"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt;'", 
+    "bot_id": "BG4HQDGUQ", 
+    "type": "message", 
+    "user": "UG4HQDH3J", 
+    "ts": "1550012366.013200"
+  }, 
+  {
+    "client_msg_id": "ec2ce34b-ebf6-4d2d-aefa-1307e1fa72f0", 
+    "text": "<@UG4HQDH3J> help", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012366.013100"
+  }, 
+  {
+    "text": "<@UG4HQDH3J> has joined the channel", 
+    "ts": "1550012360.012800", 
+    "subtype": "channel_join", 
+    "user": "UG4HQDH3J", 
+    "type": "message", 
+    "inviter": "UCBPUT6AX"
+  }, 
+  {
+    "client_msg_id": "36f5e229-b715-4f13-85bb-2f6ebdc79759", 
+    "text": "<@UG4HQDH3J> help", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012356.012600"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1550012338.012400", 
+    "text": "<@UCBPUT6AX> has joined the channel"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG5GPTZ37|AcknowledgedBot>", 
+    "ts": "1550012310.012100", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG5GPTZ37|AcknowledgedBot>", 
+    "user": "UCBPUT6AX", 
+    "type": "message", 
+    "bot_id": "BG5GPTZ37"
+  }, 
+  {
+    "client_msg_id": "02517068-c8dc-4867-8715-48e21cac8102", 
+    "edited": {
+      "user": "U6YMU9QCF", 
+      "ts": "1550012312.000000"
+    }, 
+    "text": "<@UG4MMH8N5> Is it time to boogie?", 
+    "ts": "1550012278.011900", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "text": "type in '@time_to_boogie Ask me if it's time to boogie.'", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550012146.011600"
+  }, 
+  {
+    "client_msg_id": "0db85009-8908-45e6-8efe-96fad9b821a1", 
+    "text": "<@UG4MMH8N5> Help", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012145.011500"
+  }, 
+  {
+    "text": "type in '@time_to_boogie &lt;command_arg_1&gt; &lt;command_arg_2&gt;'", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550012083.011300"
+  }, 
+  {
+    "client_msg_id": "c94c3e8d-10a4-4100-bd99-fc268566388b", 
+    "text": "<@UG4MMH8N5> Help", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550012083.011200"
+  }, 
+  {
+    "text": "kashyboi", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550012069.011000"
+  }, 
+  {
+    "client_msg_id": "0fe88f88-d41b-477c-b2cc-4dac4f8aedab", 
+    "text": "<@UG4HTGD96> say kashyboi", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012068.010900"
+  }, 
+  {
+    "client_msg_id": "d3c70a89-1895-4e7a-a10b-d9dfade487e6", 
+    "text": "<@UG5A93VNW> the spoon isn't real <@U6YMU9QCF>", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550012063.010700"
+  }, 
+  {
+    "client_msg_id": "bc2a6e43-2255-4b55-bd55-7d15278e376a", 
+    "text": "<@UG5A93VNW> hello", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550012040.010300"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "bot_id": "BG5A93VLJ", 
+    "type": "message", 
+    "user": "UG5A93VNW", 
+    "ts": "1550012032.010100"
+  }, 
+  {
+    "client_msg_id": "095e5d17-571f-47e8-95b8-fc31c5556f8a", 
+    "text": "<@UG5A93VNW> help", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550012032.010000"
+  }, 
+  {
+    "client_msg_id": "e13d003e-2405-4cd1-bdd6-aa11d98bfbf4", 
+    "text": "<@UG5A93VNW> yooo can you see this", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550012016.009700"
+  }, 
+  {
+    "client_msg_id": "338905b3-3cc0-4c0b-ada2-bcbdee0afb81", 
+    "text": "<@UG5A93VNW> yooo can you see this", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550012009.009500"
+  }, 
+  {
+    "client_msg_id": "60d23067-5ddf-4c33-a591-a1e6f22c73f5", 
+    "text": "<@UG4MMH8N5> boogie woogie", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550011996.008800"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1550011990.008600", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "text": "<@UG5A93VNW> has joined the channel", 
+    "ts": "1550011986.008300", 
+    "subtype": "channel_join", 
+    "user": "UG5A93VNW", 
+    "type": "message", 
+    "inviter": "U6XDGCKFF"
+  }, 
+  {
+    "client_msg_id": "45048e96-ce2a-4d3f-9fae-4257d8a05501", 
+    "text": "<@UG5A93VNW>", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550011983.008100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1550011961.007900", 
+    "text": "<@U6XDGCKFF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1550011954.007700", 
+    "text": "<@U6YMU9QCF> has joined the channel"
+  }, 
+  {
+    "text": "type in '@time_to_boogie &lt;command_arg_1&gt; &lt;command_arg_2&gt;'", 
+    "bot_id": "BG55C9VTN", 
+    "type": "message", 
+    "user": "UG4MMH8N5", 
+    "ts": "1550011952.007500"
+  }, 
+  {
+    "client_msg_id": "e1d67740-aae9-4af5-bd83-d317bbb1e61c", 
+    "text": "<@UG4MMH8N5> help", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550011951.007400"
+  }, 
+  {
+    "text": "<@UG4MMH8N5> has joined the channel", 
+    "ts": "1550011933.007100", 
+    "subtype": "channel_join", 
+    "user": "UG4MMH8N5", 
+    "type": "message", 
+    "inviter": "U6YCV95L7"
+  }, 
+  {
+    "client_msg_id": "7c09cd47-6f95-4605-b821-8739611e6a6f", 
+    "text": "<@UG4MMH8N5>", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550011931.006900"
+  }, 
+  {
+    "text": "polo", 
+    "bot_id": "BG6C228FR", 
+    "type": "message", 
+    "user": "UG55E523E", 
+    "ts": "1550011920.006700"
+  }, 
+  {
+    "client_msg_id": "2f7c57eb-69e4-4d2d-a892-b253e4a6b7de", 
+    "text": "<@UG55E523E> marco", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550011920.006600"
+  }, 
+  {
+    "text": "<@UG55E523E> has joined the channel", 
+    "ts": "1550011907.006400", 
+    "subtype": "channel_join", 
+    "user": "UG55E523E", 
+    "type": "message", 
+    "inviter": "UCD9D1YH4"
+  }, 
+  {
+    "client_msg_id": "3e0ed7cf-2768-4b46-8125-782cb9e274ad", 
+    "text": "<@UG55E523E> marco", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550011903.006200"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1550011887.005900", 
+    "text": "<@UCD9D1YH4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1550011594.004500", 
+    "text": "<@U6XDKSREZ> has joined the channel"
+  }, 
+  {
+    "text": "hello human what are you doing??", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550011408.004300"
+  }, 
+  {
+    "client_msg_id": "6db27efc-864f-45c9-bb03-a6f0f8f7fff7", 
+    "text": "<@UG4HTGD96> say hello human what are you doing??", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550011407.004200"
+  }, 
+  {
+    "text": "hello", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550011379.003800"
+  }, 
+  {
+    "client_msg_id": "e511e361-6b7a-410f-bc92-cb6e9c3a912c", 
+    "text": "<@UG4HTGD96> say hello", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550011378.003700"
+  }, 
+  {
+    "text": "<@UG56WE4M9> has joined the channel", 
+    "ts": "1550011362.003400", 
+    "subtype": "channel_join", 
+    "user": "UG56WE4M9", 
+    "type": "message", 
+    "inviter": "UCBDPE94Z"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG5GATB6Z|The Matrix>", 
+    "ts": "1550011345.003200", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG5GATB6Z|The Matrix>", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "bot_id": "BG5GATB6Z"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1550011277.003100", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG6C7GVN3|feedback-bot>", 
+    "ts": "1550011233.002900", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG6C7GVN3|feedback-bot>", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "bot_id": "BG6C7GVN3"
+  }, 
+  {
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt;'", 
+    "bot_id": "BG55CE15J", 
+    "type": "message", 
+    "user": "UG4HTGD96", 
+    "ts": "1550010962.002800"
+  }, 
+  {
+    "client_msg_id": "e92e2dbb-a343-4481-a95f-bbf95980946a", 
+    "text": "<@UG4HTGD96> help", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550010962.002700"
+  }, 
+  {
+    "client_msg_id": "1bd85dc9-256e-4240-ab98-085230a276ea", 
+    "text": "<@UG4HTGD96> hello", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550010930.002500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1550010918.002100", 
+    "text": "<@UCC0KLBPU> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1550010900.001900", 
+    "text": "<@UCBQH1P6E> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1550010899.001700", 
+    "text": "<@U6Z4KNWCD> has joined the channel"
+  }, 
+  {
+    "text": "<@UG4HTGD96> has joined the channel", 
+    "ts": "1550010881.001400", 
+    "subtype": "channel_join", 
+    "user": "UG4HTGD96", 
+    "type": "message", 
+    "inviter": "UCD53TKCN"
+  }, 
+  {
+    "client_msg_id": "6d65e982-2d9d-4d84-b9fa-c0a0279ed1bb", 
+    "text": "<@UG4HTGD96> /command", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550010877.001200"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1550010826.000900", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1550009939.000700", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1550009640.000400", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1550009038.000200", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "robot_face", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "type in '@BOT_NAME &lt;command_arg_1&gt; &lt;command_arg_2&gt; &lt;lastname&gt;'", 
+    "ts": "1549975148.001300", 
+    "user": "UG415B00H", 
+    "type": "message", 
+    "bot_id": "BG4FR8XHR"
+  }, 
+  {
+    "client_msg_id": "05206719-804f-4d42-9542-9a7580503dd8", 
+    "text": "<@UG415B00H> help", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1549975148.001200"
+  }, 
+  {
+    "text": "<@UG415B00H> has joined the channel", 
+    "ts": "1549975136.001000", 
+    "subtype": "channel_join", 
+    "user": "UG415B00H", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "d5625c0c-fe4b-4202-bf27-4ba97b8fba4a", 
+    "text": "<@UG415B00H> help", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1549975132.000800"
+  }, 
+  {
+    "text": "added an integration to this channel: <https://product-college.slack.com/services/BG4FR8WM9|goemoji>", 
+    "ts": "1549972230.000500", 
+    "subtype": "bot_add", 
+    "bot_link": "<https://product-college.slack.com/services/BG4FR8WM9|goemoji>", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "bot_id": "BG4FR8WM9"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: BEW2.5 2019-T3 slackbots from Day 7", 
+    "ts": "1549971893.000400", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "BEW2.5 2019-T3 slackbots from Day 7"
+  }
+]

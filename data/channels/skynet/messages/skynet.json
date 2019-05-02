@@ -1,0 +1,879 @@
+[
+  {
+    "client_msg_id": "1CBDFA6A-F466-42E9-A086-75FDEEC00B72", 
+    "text": "I know this is shocker, but I will be absent from huddles today.", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1556727642.000700"
+  }, 
+  {
+    "client_msg_id": "32a28d84-18d7-4e44-a3a5-d771a47686a8", 
+    "text": "Currently doing a take home coding challenge for a job", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1556210167.001400"
+  }, 
+  {
+    "client_msg_id": "1AC8817D-254E-4935-A33B-B0702B09571E", 
+    "text": "I had a time sensitive email this morning so I am running late.", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1556209165.001000"
+  }, 
+  {
+    "client_msg_id": "EA008379-A515-45AA-B176-1C4E2D577738", 
+    "text": "Bueler?", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1556124237.001400"
+  }, 
+  {
+    "client_msg_id": "fe2db5e9-72c0-43e7-b31d-783f8e6d6d52", 
+    "text": "I will not be at huddles this morning", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1556124148.001100"
+  }, 
+  {
+    "client_msg_id": "21c4b327-0f8b-419e-9078-e05b5faefae1", 
+    "attachments": [
+      {
+        "original_url": "https://www.thisismetis.com/webinar/building-an-effective-data-science-project-portfolio-for-your-business?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=metis_CT_newsletter_apr_23_19", 
+        "service_name": "Metis", 
+        "title": "Start with Strategy | Metis", 
+        "title_link": "https://www.thisismetis.com/webinar/building-an-effective-data-science-project-portfolio-for-your-business?utm_source=pardot&utm_medium=email&utm_campaign=metis_CT_newsletter_apr_23_19", 
+        "text": "Metis accelerates the careers of data scientists by providing full-time immersive bootcamps, evening part-time professional development courses, online resources, and corporate programs.", 
+        "from_url": "https://www.thisismetis.com/webinar/building-an-effective-data-science-project-portfolio-for-your-business?utm_source=pardot&utm_medium=email&utm_campaign=metis_CT_newsletter_apr_23_19", 
+        "fallback": "Metis: Start with Strategy | Metis", 
+        "service_icon": "https://www.thisismetis.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Please register for this free Webinar:\n<https://www.thisismetis.com/webinar/building-an-effective-data-science-project-portfolio-for-your-business?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=metis_CT_newsletter_apr_23_19>", 
+    "ts": "1556123548.000500", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5486ebb4-e420-4bf2-8d32-6a8464e80a0e", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0", 
+          "U8NHWGBGW"
+        ]
+      }
+    ], 
+    "text": "<!channel>: There would be no huddles tmw", 
+    "ts": "1555615529.000500", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "07843ce3-abfe-4b94-9727-9d294ef39dfa", 
+    "edited": {
+      "user": "UCB8WCDTJ", 
+      "ts": "1555520031.000000"
+    }, 
+    "text": "``` \nA = np.array([[2,0],[1,5]])\nV = np.array([3,4])\nnp.dot(A,V)\n```", 
+    "ts": "1555520004.001100", 
+    "user": "UCB8WCDTJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2b5e302d-9590-41a9-a800-7c5af94df982", 
+    "text": "Matrix Multiplication in numpy:", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1555519992.000700"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1555441109.000800", 
+    "text": "<@UCC0FMXCJ> has left the channel"
+  }, 
+  {
+    "client_msg_id": "8bd052c5-1ced-4cea-b740-73188282a0ec", 
+    "edited": {
+      "user": "UCB8WCDTJ", 
+      "ts": "1555439844.000000"
+    }, 
+    "text": "Do we have huddles this Friday <@UCHMQH2HE>? I think S&amp;L classes are canceled due to it being Good Friday.", 
+    "ts": "1555439813.000400", 
+    "user": "UCB8WCDTJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e6fbf3f0-ea2b-4197-8e80-32626ba6d282", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/BIvezCVcsYs/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/TEDtalksDirector", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=BIvezCVcsYs", 
+        "video_html_width": 400, 
+        "author_name": "TED", 
+        "title_link": "https://www.youtube.com/watch?v=BIvezCVcsYs", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/BIvezCVcsYs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=BIvezCVcsYs", 
+        "title": "How to take a picture of a black hole | Katie Bouman", 
+        "fallback": "YouTube Video: How to take a picture of a black hole | Katie Bouman", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=BIvezCVcsYs>", 
+    "ts": "1555116637.000200", 
+    "user": "UCBHS20S0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1b6175d8-2fe9-4c2c-bac7-ff0a984168fa", 
+    "thread_ts": "1555003963.000400", 
+    "text": "a magic wand :kappa:", 
+    "ts": "1555004159.000700", 
+    "user": "UCBQLD4M8", 
+    "parent_user_id": "UCBHS20S0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 327, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1173, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHXJC6L6S", 
+        "thumb_480_h": 480, 
+        "original_h": 1207, 
+        "thumb_360_w": 245, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHXJC6L6S/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_64.jpg", 
+        "thumb_720_w": 491, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 153316, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_800.jpg", 
+        "timestamp": 1555003963, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHXJC6L6S/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_1024.jpg", 
+        "user": "UCBHS20S0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHXJC6L6S-a1a6987958", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHS20S0/FHXJC6L6S/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1555003963, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 823, 
+        "thumb_960_w": 655, 
+        "thumb_1024_w": 698, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHXJC6L6S-4d761b1872/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "928A678E-AD59-4C97-88A6-FBAEB19F0207", 
+    "latest_reply": "1555004159.000700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQLD4M8"
+    ], 
+    "thread_ts": "1555003963.000400", 
+    "text": "So what does it take to process that  kinda data into an image?", 
+    "upload": true, 
+    "ts": "1555003963.000400", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBHS20S0", 
+    "replies": [
+      {
+        "user": "UCBQLD4M8", 
+        "ts": "1555004159.000700"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "black_circle", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "4decf755-fd9c-4037-84ef-b6e84a35fc41", 
+    "thread_ts": "1554828463.002100", 
+    "text": "<@UCC4SJBL5>", 
+    "ts": "1554837193.002700", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a014909-9e50-4f4d-b034-c27eed4a953a", 
+    "thread_ts": "1554828463.002100", 
+    "text": "how did you solve it?", 
+    "ts": "1554837184.002500", 
+    "user": "UCBLQTD7V", 
+    "parent_user_id": "UCC4SJBL5", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ac8f0832-cb5b-46ef-ace9-bb5af60c7c26", 
+    "thread_ts": "1554828463.002100", 
+    "latest_reply": "1554837193.002700", 
+    "attachments": [
+      {
+        "thumb_height": 629, 
+        "thumb_url": "https://hrcdn.net/og/default.jpg", 
+        "thumb_width": 1200, 
+        "original_url": "https://www.hackerrank.com/contests/crescent-practice-3rd-years/challenges/islands-1", 
+        "service_name": "HackerRank", 
+        "title": "Solve Count the islands", 
+        "title_link": "https://www.hackerrank.com/contests/crescent-practice-3rd-years/challenges/islands-1", 
+        "text": "Find the number of islands. Solving code challenges on HackerRank is one of the best ways to prepare for programming interviews.", 
+        "from_url": "https://www.hackerrank.com/contests/crescent-practice-3rd-years/challenges/islands-1", 
+        "fallback": "HackerRank: Solve Count the islands", 
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-5e8e592a0a1a387a1185089d13d65637.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sweat", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBLQTD7V"
+    ], 
+    "replies": [
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1554837184.002500"
+      }, 
+      {
+        "user": "UCBLQTD7V", 
+        "ts": "1554837193.002700"
+      }
+    ], 
+    "ts": "1554828463.002100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC4SJBL5", 
+    "text": "<https://www.hackerrank.com/contests/crescent-practice-3rd-years/challenges/islands-1>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e16e353c-8ea3-4e1c-8c85-bb7ce98f5e6a", 
+    "text": "I have a cold and won't make it to school this morning", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1554826914.001900"
+  }, 
+  {
+    "client_msg_id": "BE728993-060A-4180-BA7C-D346B354E405", 
+    "text": "Hey folks, I\u2019m running late. I got to BART and realized I forgot something. ", 
+    "type": "message", 
+    "user": "UCBHS20S0", 
+    "ts": "1554826170.001200"
+  }, 
+  {
+    "client_msg_id": "927fc41f-7ecb-4969-8b31-0fe3b1f71cdd", 
+    "text": "Hope you all get well soon. Rest this weekend to have energy for next week :blush:", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1554502828.002700"
+  }, 
+  {
+    "client_msg_id": "e388940a-ff1d-4f3c-8815-ac688db46b08", 
+    "text": "not feeling well will miss huddles", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1554477473.001800"
+  }, 
+  {
+    "client_msg_id": "320FEAA6-8EA5-4E50-A3B4-635632E337F6", 
+    "edited": {
+      "user": "UCBLQTD7V", 
+      "ts": "1554477835.000000"
+    }, 
+    "text": "I will not be in huddles today. My left back / heart is sore. I\u2019m hoping it\u2019s just indigestion :confused:...", 
+    "ts": "1554477018.001500", 
+    "user": "UCBLQTD7V", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "aba77979-f4d6-4707-9426-1897647815a9", 
+    "text": "Not feeling well this week, so I'm taking the day off today. I wont be in huddles or DS2.1 <@UCHMQH2HE> ", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1554392833.002300"
+  }, 
+  {
+    "client_msg_id": "c3df61d9-9b74-46e6-8478-de8464f3095f", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "cool", 
+        "users": [
+          "UCCSGECPJ", 
+          "UCB8WCDTJ", 
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "service_icon": "https://openai.com/assets/images/favicon.png", 
+        "image_bytes": 551133, 
+        "original_url": "https://openai.com/blog/better-language-models/", 
+        "service_name": "OpenAI", 
+        "title": "Better Language Models and Their Implications", 
+        "ts": 1550163600, 
+        "image_width": 188, 
+        "image_height": 250, 
+        "image_url": "https://openai.com/content/images/2019/03/2x-no-mark.jpg", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Alec Radford", 
+            "title": "Written by"
+          }
+        ], 
+        "from_url": "https://openai.com/blog/better-language-models/", 
+        "fallback": "OpenAI: Better Language Models and Their Implications", 
+        "title_link": "https://openai.com/blog/better-language-models/", 
+        "text": "We\u2019ve trained a large-scale unsupervised language model which generates coherent paragraphs of text, achieves state-of-the-art performance on many language modeling benchmarks, and performs rudimentary reading comprehension, machine translation, question answering, and summarization.", 
+        "id": 1
+      }
+    ], 
+    "text": "<!here>:\n\nWe are *truly* at the bleeding-edge of _language models_:\n\n<https://openai.com/blog/better-language-models/>", 
+    "ts": "1554331576.001200", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "11ad6b3f-d013-4dbf-a747-8d5fdb3585cb", 
+    "attachments": [
+      {
+        "image_bytes": 143115, 
+        "original_url": "https://www.thisismetis.com/demystifying-data-science", 
+        "service_name": "Metis", 
+        "title": "Demystifying Data Science 2018 | A FREE Live Online Conference July 24-25 by Metis", 
+        "image_width": 478, 
+        "title_link": "https://www.thisismetis.com/demystifying-data-science", 
+        "image_height": 250, 
+        "image_url": "https://s3.amazonaws.com/thisismetis-images/metis-dds-social2.jpg", 
+        "text": "Are you data curious? Join 28 interactive data science talks from industry-leading speakers over 2 action-packed days. Join as many as you like.", 
+        "from_url": "https://www.thisismetis.com/demystifying-data-science", 
+        "fallback": "Metis: Demystifying Data Science 2018 | A FREE Live Online Conference July 24-25 by Metis", 
+        "service_icon": "https://www.thisismetis.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.thisismetis.com/demystifying-data-science>", 
+    "ts": "1554310081.000900", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9511b4d6-66b0-4d13-a000-e488a2810b5d", 
+    "text": "<https://www.linkedin.com/in/murphymeredith/>", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1554310000.000700"
+  }, 
+  {
+    "client_msg_id": "cf347d24-0c3a-40c1-ba40-45daffc85e82", 
+    "attachments": [
+      {
+        "image_bytes": 31606, 
+        "original_url": "https://www.meetup.com/SF-Data-Science/", 
+        "service_name": "Meetup", 
+        "title": "SF Data Science (San Francisco, CA)", 
+        "image_width": 333, 
+        "title_link": "https://www.meetup.com/SF-Data-Science/", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/f/e/0/600_451144064.jpeg", 
+        "text": "Data Scientists in San Francisco and the Bay Area are doing incredible data science: making graph models of symptoms and human disease, extracting insight from huge amounts of data in real time, and b", 
+        "from_url": "https://www.meetup.com/SF-Data-Science/", 
+        "fallback": "Meetup: SF Data Science (San Francisco, CA)", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Please join this SF Data Science MeetUp:\n<https://www.meetup.com/SF-Data-Science/>", 
+    "ts": "1554309594.000400", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7f7c07eb-f7c5-4c8b-a77c-55d92abd05e7", 
+    "thread_ts": "1554249760.008400", 
+    "attachments": [
+      {
+        "image_bytes": 51336, 
+        "original_url": "https://www.eventbrite.com/e/code-as-data-workshop-get-insights-from-git-repos-with-sql-tickets-58299845407", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "44 Tehama Street, San Francisco, CA 94105", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Wed, Apr 3, 2019 at 6:30 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Code as Data workshop: get insights from git repos with SQL", 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/code-as-data-workshop-get-insights-from-git-repos-with-sql-tickets-58299845407", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F57983294%2F203087039184%2F1%2Foriginal.20190306-172226?w=1000&auto=compress&rect=0%2C30%2C960%2C480&s=f5ae7b6f14a0fb365a852a2a722d7ae5", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/code-as-data-workshop-get-insights-from-git-repos-with-sql-tickets-58299845407", 
+        "fallback": "Eventbrite: Code as Data workshop: get insights from git repos with SQL", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/eba891/django/images/touch_icons/apple-touch-icon-180x180.png", 
+        "text": "Code as Data: get insights from git repos with SQL This workshop will teach you the basics git concepts (such as references, commits, and blobs) and how they can be mapped into a series of relational tables.Once we understand the basic concepts we will show how language classification and program parsing are available as SQL custom functions, how to use them correctly, and how to obtain aggregate results with `GROUP BY` and friends. We will discuss Universal Abstract Syntax Trees and how some advanced checks can be done on top this language agnostic structure. Running these checks at scale requires some extra knowledge and we\u2019ll discuss the challenges and their possible <http://solutions.To|solutions.To> finish, we will also discuss how the information in git repositories encodes a form of social network which can be used to better understand the engineering processes of a given organization. Prerequisites:\u00a0Install source{d} Engine -\u00a0<https://go.sourced.tech/engine-download> Speaker: Francesc Campoy is a Gopher, Host of the @justforfunc podcast, and VP of Developer relations at source{d}. About Galvanize:Galvanize is premiere dynamic learning community for technology. With campuses located in booming technology sectors throughout the country, Galvanize provides a community for each the following:Education - part-time and full-time training in web development, data science, and data engineeringWorkspace - whether you\u2019re a freelancer, startup, or established business, we provide beautiful spaces with a community dedicated to supporting your company\u2019s growthNetworking - events in the tech industry happen constantly in our campuses, ranging from popular Meetups to multi-day international conferencesTo learn more about Galvanize, visit <http://galvanize.com|galvanize.com>.", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.eventbrite.com/e/code-as-data-workshop-get-insights-from-git-repos-with-sql-tickets-58299845407>", 
+    "ts": "1554251689.009500", 
+    "user": "UCB8WCDTJ", 
+    "parent_user_id": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "acc0c46d-d623-443e-a9a9-812b6b625515", 
+    "text": "This workshop will teach you the basics git concepts (such as references, commits, and blobs) and how they can be mapped into a series of relational tables.", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1554251515.009000"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 486, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHL9UUASH", 
+        "thumb_480_h": 292, 
+        "original_h": 766, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-02, 5:02 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHL9UUASH/image.png", 
+        "thumb_720_h": 438, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_80.png", 
+        "thumb_360_h": 219, 
+        "size": 206763, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_800.png", 
+        "timestamp": 1554249757, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHL9UUASH/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_1024.png", 
+        "user": "UCHMQH2HE", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHL9UUASH-93200a42bb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCHMQH2HE/FHL9UUASH/image.png", 
+        "name": "image.png", 
+        "created": 1554249757, 
+        "thumb_1024_h": 623, 
+        "thumb_960_h": 584, 
+        "original_w": 1260, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHL9UUASH-9215dc81d2/image_720.png"
+      }
+    ], 
+    "client_msg_id": "3d7d576c-9fbe-48f9-a08d-13125330d820", 
+    "latest_reply": "1554251689.009500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8WCDTJ"
+    ], 
+    "thread_ts": "1554249760.008400", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554249760.008400", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCHMQH2HE", 
+    "replies": [
+      {
+        "user": "UCB8WCDTJ", 
+        "ts": "1554251689.009500"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heavy_check_mark", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1554229137.008000", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "client_msg_id": "a369133e-07f0-4ff1-b7d2-387b640a1c1a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCBLQTD7V"
+        ]
+      }
+    ], 
+    "text": "We could also be \" The cult of the Electric Neuron\"", 
+    "ts": "1554228958.007600", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "alien", 
+        "users": [
+          "UCBHS20S0", 
+          "UCHMQH2HE"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBHS20S0", 
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "text": "<@U6X9L8VAN> set the channel topic: Rise of the Machine Learners", 
+    "ts": "1554228887.006900", 
+    "topic": "Rise of the Machine Learners", 
+    "subtype": "channel_topic", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7736409e-64dc-4ec7-8584-b27f0ef7cd2d", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1554226507.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "text": "*Days:*\n- Technical Tuesday: We all do a technical interview question\n- Whatever Wednesday: share Datascience news, introduce connections\n- Standup Thursday: What did you do yesterday and what will you do today?\n- Feefee Fridays: Talk about your feelings, bro. Checkin with how you're feeling about classes and stuff", 
+    "pinned_info": {
+      "pinned_ts": 1554227814, 
+      "channel": "CHLRK305C", 
+      "pinned_by": "U6YMU9QCF"
+    }, 
+    "ts": "1554224089.005200", 
+    "pinned_to": [
+      "CHLRK305C"
+    ], 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 450, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHKNW62SH", 
+        "thumb_480_h": 270, 
+        "original_h": 501, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHKNW62SH/image_from_ios.jpg", 
+        "thumb_720_h": 405, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_80.jpg", 
+        "thumb_360_h": 203, 
+        "size": 69597, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_800.jpg", 
+        "timestamp": 1554223912, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHKNW62SH/download/image_from_ios.jpg", 
+        "user": "UCH838UC9", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHKNW62SH-363fce5f6b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCH838UC9/FHKNW62SH/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1554223912, 
+        "original_w": 890, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHKNW62SH-f8f9cb8c79/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "C382ACE4-0B6E-490A-AD61-2B4A961D45B0", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554223912.003500", 
+    "display_as_bot": false, 
+    "user": "UCH838UC9", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1554223892.003400", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "client_msg_id": "e3bd19f1-4cd7-48e6-a22f-48eb1b4d2ca9", 
+    "text": "hi", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1554223886.003200"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1554223854.003000", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1554223854.002800", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1554223854.002600", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1554223509.002400", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1554223509.002200", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1554223509.002000", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "name": "skynet", 
+    "text": "<@UCHMQH2HE> has renamed the channel from \"ds_huddles\" to \"skynet\"", 
+    "ts": "1554223473.001800", 
+    "subtype": "channel_name", 
+    "user": "UCHMQH2HE", 
+    "old_name": "ds_huddles", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "52470de7-b3e9-4fc6-a65a-40d503f4fe7a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6X9L8VAN"
+        ]
+      }
+    ], 
+    "text": "Hi all", 
+    "ts": "1554223369.001600", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1554223352.001400", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1554223352.001200", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1554223352.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1554223352.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1554223352.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1554223351.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "UCHMQH2HE"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1554223351.000200", 
+    "text": "<@UCHMQH2HE> has joined the channel"
+  }
+]

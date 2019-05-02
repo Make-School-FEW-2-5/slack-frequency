@@ -1,0 +1,1637 @@
+[
+  {
+    "client_msg_id": "c05450f9-f220-4b82-8330-9113e67a4015", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "bread", 
+        "users": [
+          "UCDPM021J", 
+          "U6XDGCKFF", 
+          "UCB58P2V6", 
+          "UBZLA95GV"
+        ]
+      }
+    ], 
+    "text": "Come through :orthodox_cross: to the Great Hall :fire: for some mobile :iphone: help from 1 to 3pm! It's going to be fun and most of all informative, let's get this bread :bread: . <!here>", 
+    "ts": "1556738492.001300", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "166ca2c9-9a36-492d-a1c1-67f1386895c2", 
+    "edited": {
+      "user": "UCBQJD3NW", 
+      "ts": "1556603173.000000"
+    }, 
+    "thread_ts": "1556602067.012100", 
+    "text": "It crashes when a certain function is called while using the app.", 
+    "ts": "1556603061.012400", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "385fcfc2-2bee-410f-b27c-8a29b47e0111", 
+    "thread_ts": "1556602067.012100", 
+    "text": "Removing a node while using the app? or in code?", 
+    "ts": "1556602278.012200", 
+    "user": "UCBHQSTB6", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e83cc90a-77fe-4e65-aab6-c9d5062156f9", 
+    "thread_ts": "1556602067.012100", 
+    "latest_reply": "1556603061.012400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBHQSTB6", 
+      "UCBQJD3NW"
+    ], 
+    "text": "Anyone have experience with Arkit? I'm trying to remove a node, but it keeps crashing, and I can't seem to find a reason", 
+    "ts": "1556602067.012100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCBHQSTB6", 
+        "ts": "1556602278.012200"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1556603061.012400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "b38274a7-30da-4db4-a56d-bf35d605ef0d", 
+    "thread_ts": "1556585994.010400", 
+    "text": "Why does making tests for network layer so hard?", 
+    "ts": "1556601764.011200", 
+    "user": "UCBHQSTB6", 
+    "parent_user_id": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "74f45b4d-8151-4bc9-afbc-0224efbc65b9", 
+    "thread_ts": "1556585994.010400", 
+    "latest_reply": "1556601764.011200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBHQSTB6"
+    ], 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "raised_hands", 
+        "users": [
+          "UCB3G0JKS", 
+          "UCDPM021J", 
+          "UCDAE5GSJ", 
+          "U6XDGCKFF", 
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "star-struck", 
+        "users": [
+          "UCB3G0JKS", 
+          "U6XDGCKFF", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "I hope today's class gave a little more clarity on unit testing. There's still a long road to cover, but you have the basics now. If you find yourself not being able to complete the activities we've done so far with unit testing, please ask for help (to me, Matthew or classmates), you don't need to struggle alone. :dancing_penguin:", 
+    "ts": "1556585994.010400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UBZLA95GV", 
+    "replies": [
+      {
+        "user": "UCBHQSTB6", 
+        "ts": "1556601764.011200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "ruby", 
+        "lines_more": 11, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHYE2V6KC", 
+        "size": 291, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHYE2V6KC/-.rb", 
+        "preview": "target 'KeychainDemo' do\n  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks\n  use_frameworks!\n\n  # Pods for KeychainDemo", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHYE2V6KC/-.rb/edit", 
+        "username": "", 
+        "timestamp": 1556578544, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-variable\">target</span> <span class=\"cm-string\">'KeychainDemo'</span> <span class=\"cm-keyword\">do</span></pre></div>\n<div><pre>  <span class=\"cm-comment\"># Comment the next line if you're not using Swift and don't want to use dynamic frameworks</span></pre></div>\n<div><pre>  <span class=\"cm-variable\">use_frameworks!</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>  <span class=\"cm-comment\"># Pods for KeychainDemo</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHYE2V6KC/download/-.rb", 
+        "user": "UBZLA95GV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Ruby", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHYE2V6KC-e9055cb07d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHYE2V6KC/-.rb", 
+        "name": "-.rb", 
+        "created": 1556578544, 
+        "lines": 16, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "You don't need it exactly like this.", 
+    "upload": true, 
+    "ts": "1556578544.007100", 
+    "display_as_bot": false, 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "username": "Polly", 
+    "attachments": [
+      {
+        "title": "If we're replacing a Core Data class with testing, what topic do you want to keep learning?", 
+        "color": "35A8E0", 
+        "actions": [
+          {
+            "style": "", 
+            "name": "one", 
+            "text": "More Unit testing", 
+            "value": "0", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "two", 
+            "text": "UITesting", 
+            "value": "1", 
+            "type": "button", 
+            "id": "2"
+          }, 
+          {
+            "style": "", 
+            "name": "three", 
+            "text": "TDD", 
+            "value": "2", 
+            "type": "button", 
+            "id": "3"
+          }
+        ], 
+        "callback_id": "Je8vqCs34MjTTLJoZ", 
+        "fallback": "If we're replacing a Core Data class with testing, what topic do you want to keep learning?", 
+        "id": 1
+      }, 
+      {
+        "fields": [
+          {
+            "short": false, 
+            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587` 82% (9)\n<@UCC4RHFU5>, <@UCC4RUF4M>, <@UCB58P2V6>, <@UCBMZFL4U>, <@UCDAE5GSJ>, +4 more", 
+            "title": "More Unit testing"
+          }, 
+          {
+            "short": false, 
+            "value": "`\u2062` 0%", 
+            "title": "UITesting"
+          }, 
+          {
+            "short": false, 
+            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587` 18% (2)\n<@UCD4Y1DCN>, <@UCBQJD3NW>", 
+            "title": "TDD"
+          }, 
+          {
+            "short": true, 
+            "value": "11", 
+            "title": "Total votes"
+          }
+        ], 
+        "actions": [
+          {
+            "style": "", 
+            "name": "add_comments", 
+            "text": "Add a Comment", 
+            "value": "RkFPRvwTeCqzSg3Hs", 
+            "type": "button", 
+            "id": "4"
+          }, 
+          {
+            "style": "", 
+            "name": "view_all_responses_in_channel", 
+            "text": "View All Responses", 
+            "value": "RkFPRvwTeCqzSg3Hs", 
+            "type": "button", 
+            "id": "5"
+          }
+        ], 
+        "callback_id": "Je8vqCs34MjTTLJoZ", 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "If we're replacing a Core Data class with testing, what topic do you want to keep learning?", 
+        "id": 2
+      }
+    ], 
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2019-02-04/541407754177_48.png"
+    }, 
+    "text": "<@UBZLA95GV> has a poll for you!", 
+    "ts": "1556151536.004400", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BFZ1NB4CX"
+  }, 
+  {
+    "username": "Polly", 
+    "attachments": [
+      {
+        "title": "When do you want to have the final exam?", 
+        "color": "35A8E0", 
+        "actions": [
+          {
+            "style": "", 
+            "name": "one", 
+            "text": "Monday, May 13", 
+            "value": "0", 
+            "type": "button", 
+            "id": "1"
+          }, 
+          {
+            "style": "", 
+            "name": "two", 
+            "text": "Wednesday, May 15", 
+            "value": "1", 
+            "type": "button", 
+            "id": "2"
+          }
+        ], 
+        "callback_id": "559CyyK7J4LseZApH", 
+        "fallback": "When do you want to have the final exam?", 
+        "id": 1
+      }, 
+      {
+        "fields": [
+          {
+            "short": false, 
+            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587` 75% (9)\n<@UCC4SUSHK>, <@UCC4RHFU5>, <@UCC4RUF4M>, <@UCB58P2V6>, <@UCBMZFL4U>, +4 more", 
+            "title": "Monday, May 13"
+          }, 
+          {
+            "short": false, 
+            "value": "`\u2587\u2587\u2587\u2587\u2587\u2587\u2587\u2587` 25% (3)\n<@UCD4Y1DCN>, <@UCCS7HWGP>, <@UCBLQF0R1>", 
+            "title": "Wednesday, May 15"
+          }, 
+          {
+            "short": true, 
+            "value": "12", 
+            "title": "Total votes"
+          }
+        ], 
+        "actions": [
+          {
+            "style": "", 
+            "name": "add_comments", 
+            "text": "Add a Comment", 
+            "value": "ZJ8udZcSiXevbwQCe", 
+            "type": "button", 
+            "id": "3"
+          }, 
+          {
+            "style": "", 
+            "name": "view_all_responses_in_channel", 
+            "text": "View All Responses", 
+            "value": "ZJ8udZcSiXevbwQCe", 
+            "type": "button", 
+            "id": "4"
+          }
+        ], 
+        "callback_id": "559CyyK7J4LseZApH", 
+        "mrkdwn_in": [
+          "fields"
+        ], 
+        "fallback": "When do you want to have the final exam?", 
+        "id": 2
+      }
+    ], 
+    "icons": {
+      "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2019-02-04/541407754177_48.png"
+    }, 
+    "text": "<@UBZLA95GV> has a poll for you!", 
+    "ts": "1556151440.004100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BFZ1NB4CX"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHUD9T3A6", 
+        "size": 362818, 
+        "title": "WorldCup.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHUD9T3A6/worldcup.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556149429, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHUD9T3A6/download/worldcup.zip", 
+        "user": "UBZLA95GV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "WorldCup.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHUD9T3A6-a6b3f0d9a7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHUD9T3A6/worldcup.zip", 
+        "is_external": false, 
+        "created": 1556149429, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556149431.003700", 
+    "display_as_bot": false, 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ5P48685", 
+        "size": 597157, 
+        "title": "NSPredicate-Swift-master-2.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ5P48685/nspredicate-swift-master-2.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556146605, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ5P48685/download/nspredicate-swift-master-2.zip", 
+        "user": "UBZLA95GV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "NSPredicate-Swift-master-2.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ5P48685-fd4369dd3a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FJ5P48685/nspredicate-swift-master-2.zip", 
+        "is_external": false, 
+        "created": 1556146605, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556146606.003400", 
+    "display_as_bot": false, 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d34001b7-5373-4441-b76e-5b2853e68152", 
+    "text": "<https://github.com/dfreniche/NSPredicate-Swift/tree/master/NSPredicate.playground>", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1556146333.003300"
+  }, 
+  {
+    "client_msg_id": "54e134d5-b36a-49a1-b07a-89c89a328b7c", 
+    "attachments": [
+      {
+        "original_url": "https://www.mokacoding.com/blog/swift-either/", 
+        "service_name": "mokacoding", 
+        "title": "Swift Either enum", 
+        "title_link": "https://www.mokacoding.com/blog/swift-either/", 
+        "text": "This post introduces the Either type and shows a practical application of it in Swift, injecting extra cells in a table view.", 
+        "from_url": "https://www.mokacoding.com/blog/swift-either/", 
+        "fallback": "mokacoding: Swift Either enum", 
+        "service_icon": "https://s3.amazonaws.com/mokacoding/apple-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.mokacoding.com/blog/swift-either/>", 
+    "ts": "1556146306.003000", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "96AC6B80-7DE6-487F-8A34-EC6A034F77E9", 
+    "text": "Hey ya'll :pikachu: , come through for office hours in the Great Hall from 1-2pm! :fire: <!here>  :gopher: :golfer: :feelsgood:", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1556136093.002800"
+  }, 
+  {
+    "client_msg_id": "ad6576d4-89c9-4a8f-8eae-e2b2bd5e0162", 
+    "edited": {
+      "user": "UCB3G0JKS", 
+      "ts": "1556065172.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 77572, 
+        "original_url": "https://medium.com/@rinradaswift/networking-layer-in-swift-5-111b02db1639", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "6 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Networking layer in Swift 5", 
+        "ts": 1556045602, 
+        "title_link": "https://medium.com/@rinradaswift/networking-layer-in-swift-5-111b02db1639", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*NOpCBN-vR5MJzsvagV-_gQ.png", 
+        "image_width": 532, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@rinradaswift/networking-layer-in-swift-5-111b02db1639", 
+        "fallback": "Medium: Networking layer in Swift 5", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Building a clean and modularized networking layer using generics and Result types", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "swift", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "brain", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "books", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "Just posted an article on networking in Swift using generics and result types! highly recommend checking it out and dropping it some claps!! :smiley::clap::heart:\n<https://medium.com/@rinradaswift/networking-layer-in-swift-5-111b02db1639>", 
+    "ts": "1556046234.001500", 
+    "user": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "rust", 
+        "lines_more": 5, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHZS77A05", 
+        "size": 305, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZS77A05/-.rs", 
+        "preview": "//2\n        let fetchRequest =\n            NSFetchRequest<NSManagedObject>(entityName: \"Person\")\n        \n        //3", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHZS77A05/-.rs/edit", 
+        "username": "", 
+        "timestamp": 1555545876, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-comment\">//2</span></pre></div>\n<div><pre>        <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">fetchRequest</span> <span class=\"cm-operator\">=</span></pre></div>\n<div><pre>            <span class=\"cm-variable\">NSFetchRequest</span><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">NSManagedObject</span><span class=\"cm-operator\">&gt;</span>(<span class=\"cm-variable\">entityName</span>: <span class=\"cm-string\">&quot;</span><span class=\"cm-string\">Person</span><span class=\"cm-string\">&quot;</span>)</pre></div>\n<div><pre>        </pre></div>\n<div><pre>        <span class=\"cm-comment\">//3</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZS77A05/download/-.rs", 
+        "user": "UBZLA95GV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Rust", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZS77A05-051abe2058", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHZS77A05/-.rs", 
+        "name": "-.rs", 
+        "created": 1555545876, 
+        "lines": 10, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1555545877.002400", 
+    "display_as_bot": false, 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00be7f98-a719-4890-9f1e-1bdff4acf04c", 
+    "thread_ts": "1555461496.001300", 
+    "text": "Apple Developers are a tough crowd to please", 
+    "ts": "1555477751.002100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d3d58c9d-b1f8-4eab-bd74-4731de38cb86", 
+    "thread_ts": "1555461496.001300", 
+    "text": "Was thinking of updating. Will do it tomorrow. The reviews were so bad on the app store :joy:", 
+    "ts": "1555474758.001800", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a1898785-3e2b-4c2f-bacc-eac7e53af82e", 
+    "thread_ts": "1555461496.001300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCB3G0JKS"
+        ]
+      }
+    ], 
+    "text": "No, granted I did it two months ago, but all older projects seemed to transition over peacefully. What problems?", 
+    "ts": "1555474585.001600", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "96a8a523-97fb-4f10-9a82-3117f3cdc05a", 
+    "edited": {
+      "user": "UCB3G0JKS", 
+      "ts": "1555464575.000000"
+    }, 
+    "latest_reply": "1555477751.002100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCB3G0JKS"
+    ], 
+    "thread_ts": "1555461496.001300", 
+    "text": "Hey guys, did any of you run into any major problems when migrating to Swift 5?", 
+    "ts": "1555461496.001300", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCB3G0JKS", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1555474585.001600"
+      }, 
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1555474758.001800"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1555477751.002100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "question", 
+        "users": [
+          "U6XDGCKFF"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "swift", 
+        "lines_more": 5, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHQP16KH7", 
+        "size": 564, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHQP16KH7/-.swift", 
+        "preview": " func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]) {\r\n        // The info dictionary may contain multiple representations of the image. You want to use the original.\r\n        let selectedImage = info[UIImagePickerController.InfoKey.originalImage] as! UIImage\r\n        \r\n        // Set photoImageView to display the selected image.\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCBP3BYTW/FHQP16KH7/-.swift/edit", 
+        "username": "", 
+        "timestamp": 1555372802, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre> <span class=\"cm-keyword\">func</span> <span class=\"cm-def\">imagePickerController</span><span class=\"cm-punctuation\">(</span><span class=\"cm-variable\">_</span> <span class=\"cm-variable\">picker</span>: <span class=\"cm-variable\">UIImagePickerController</span><span class=\"cm-punctuation\">,</span> <span class=\"cm-variable\">didFinishPickingMediaWithInfo</span> <span class=\"cm-variable\">info</span>: <span class=\"cm-punctuation\">[</span><span class=\"cm-variable\">UIImagePickerController</span><span class=\"cm-punctuation\">.</span><span class=\"cm-variable\">InfoKey</span> : <span class=\"cm-variable\">Any</span><span class=\"cm-punctuation\">]</span><span class=\"cm-punctuation\">)</span> <span class=\"cm-punctuation\">{</span></pre></div>\n<div><pre>        <span class=\"cm-comment\">// The info dictionary may contain multiple representations of the image. You want to use the original.</span></pre></div>\n<div><pre>        <span class=\"cm-keyword\">let</span> <span class=\"cm-def\">selectedImage</span> <span class=\"cm-operator\">=</span> <span class=\"cm-variable\">info</span><span class=\"cm-punctuation\">[</span><span class=\"cm-variable\">UIImagePickerController</span><span class=\"cm-punctuation\">.</span><span class=\"cm-variable\">InfoKey</span><span class=\"cm-punctuation\">.</span><span class=\"cm-variable\">originalImage</span><span class=\"cm-punctuation\">]</span> <span class=\"cm-keyword\">as</span>! <span class=\"cm-variable\">UIImage</span></pre></div>\n<div><pre>        </pre></div>\n<div><pre>        <span class=\"cm-comment\">// Set photoImageView to display the selected image.</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHQP16KH7/download/-.swift", 
+        "user": "UCBP3BYTW", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Swift", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHQP16KH7-a072ff8b89", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBP3BYTW/FHQP16KH7/-.swift", 
+        "name": "-.swift", 
+        "created": 1555372802, 
+        "lines": 10, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "edited": {
+      "user": "UCBP3BYTW", 
+      "ts": "1555372858.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heavy_check_mark", 
+        "users": [
+          "UBZLA95GV", 
+          "UCBQJD3NW", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands::skin-tone-3", 
+        "users": [
+          "UBZLA95GV", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "UCD4Y1DCN"
+        ]
+      }
+    ], 
+    "text": "For people who had to switch the swift version here\u2019s the code snippet for the image picker", 
+    "upload": true, 
+    "ts": "1555372802.001500", 
+    "display_as_bot": false, 
+    "user": "UCBP3BYTW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4457d3da-af79-4d6f-aae6-76c00482f4d7", 
+    "text": "<https://docs.google.com/presentation/d/1AJy3P2IqTQG4LpCUhodxFwHFIdtucSY5EeBBk0sF5yk/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1555368504.000200"
+  }, 
+  {
+    "client_msg_id": "914e9416-18d0-4b61-b765-86b66e112995", 
+    "attachments": [
+      {
+        "image_bytes": 17137, 
+        "original_url": "https://useyourloaf.com/blog/swift-5-frozen-enums/", 
+        "service_name": "Use Your Loaf", 
+        "title": "Swift 5 Frozen enums", 
+        "ts": 1554719971, 
+        "title_link": "https://useyourloaf.com/blog/swift-5-frozen-enums/", 
+        "image_height": 250, 
+        "image_url": "https://useyourloaf.com/assets/images/banner.png", 
+        "image_width": 476, 
+        "text": "Are you upgrading an Xcode project to Swift 5? It\u2019s a mostly pain-free experience, but you might hit a warning about switching on enums with additional unknown values.", 
+        "from_url": "https://useyourloaf.com/blog/swift-5-frozen-enums/", 
+        "fallback": "Use Your Loaf: Swift 5 Frozen enums", 
+        "service_icon": "https://useyourloaf.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://useyourloaf.com/blog/swift-5-frozen-enums/>", 
+    "ts": "1555025185.002100", 
+    "user": "UFCF6M0TE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc6372ce-5156-47c1-9c8f-d66b6883fb6c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "gopher", 
+        "users": [
+          "U6XDGCKFF"
+        ]
+      }
+    ], 
+    "text": "I suggest getting help from Matthew in case you are not done with the tests activity or the User Defaults activity. Less things to worry about turning in later. :+1::skin-tone-3:", 
+    "ts": "1554923121.001600", 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "264b9411-b434-4ba5-bacd-78363cfc3b6f", 
+    "edited": {
+      "user": "U6XDGCKFF", 
+      "ts": "1554925647.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UBZLA95GV"
+        ]
+      }
+    ], 
+    "text": "Hey ya'll :pikachu: , come through for office hours in the Quiet Room from 1-2pm! :fire: <!here>  :gopher: :golfer: :feelsgood:", 
+    "ts": "1554923034.000500", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c20b824e-d4bc-4414-a6d1-f5d930a452aa", 
+    "text": "If you created the gist correctly, it will show up at the top of your git profile.", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554771953.006100"
+  }, 
+  {
+    "client_msg_id": "73bdb711-fa71-471f-903b-cad84e8260c3", 
+    "text": "Helloo, to turn in today's activity (the 3 tests) use this <https://gist.github.com> and copy the link in the tracker right where you mark it as complete. :white_check_mark:", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554771842.005100"
+  }, 
+  {
+    "client_msg_id": "8d650790-22d8-4c46-96d3-5bb2953ff219", 
+    "text": "<@UCB58P2V6> Yassss", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1554765860.003800"
+  }, 
+  {
+    "client_msg_id": "42518dd2-85b6-4786-9025-a39c2e334df4", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCD4Y1DCN"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 200, 
+        "thumb_url": "https://cdn-images-1.medium.com/max/1200/1*EAsjpiI1YTqBQloHZ8hgVQ.png", 
+        "thumb_width": 200, 
+        "original_url": "https://medium.com/flawless-app-stories", 
+        "service_name": "Medium", 
+        "title": "Flawless App Stories \u2013 Medium", 
+        "title_link": "https://medium.com/flawless-app-stories", 
+        "text": ":unicorn_face: Community around iOS development, mobile design, and marketing. Curated by <https://flawlessapp.io/> team.", 
+        "from_url": "https://medium.com/flawless-app-stories", 
+        "fallback": "Medium: Flawless App Stories \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*EAsjpiI1YTqBQloHZ8hgVQ.png", 
+        "id": 1
+      }
+    ], 
+    "text": "These people have some articles are def worth your read : <https://medium.com/flawless-app-stories>", 
+    "ts": "1554764092.003400", 
+    "user": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "501aab43-2675-4508-a736-5ac3cbf4b72a", 
+    "text": "<https://github.com/Make-School-Courses/MOB-2.1-Local-Persistence-in-iOS/tree/master/Lessons/02-Plist-UserDefaults>", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554763242.002800"
+  }, 
+  {
+    "client_msg_id": "dcedce03-65b8-4d21-add3-c7f755bac717", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "swift", 
+        "users": [
+          "UBZLA95GV", 
+          "UCB58P2V6", 
+          "UCC4RHFU5", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UBZLA95GV", 
+          "UCB58P2V6", 
+          "UCC4RHFU5", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "nerd_face", 
+        "users": [
+          "UBZLA95GV", 
+          "UCB58P2V6", 
+          "UCD4Y1DCN"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 55741, 
+        "original_url": "https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "11 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Writing a Network Layer in Swift: Protocol-Oriented Approach", 
+        "ts": 1522326209, 
+        "title_link": "https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*Kye90jVLsFUfHx2AQ497wg.png", 
+        "image_width": 581, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908", 
+        "fallback": "Medium: Writing a Network Layer in Swift: Protocol-Oriented Approach", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*EAsjpiI1YTqBQloHZ8hgVQ.png", 
+        "text": "In this guide we\u2019ll look at how to implement a network layer in pure Swift without any third-party libraries. Lets\u2019 jump straight to the practise!", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908> I know a few of you have seen this article on constructing a clean, abstracted, modular, and beautiful networking layer using protocols :fire: :female-police-officer:. For those who haven't seen it I suggest you give it a read :books: , definitely the route I am going to be taking for my future network requests :iphone: see what I did there ... take a look :eyeglasses:", 
+    "ts": "1554754467.001100", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "00a8ad21-3ab0-440d-8216-1050044e90fc", 
+    "thread_ts": "1554613140.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "brain", 
+        "users": [
+          "UCB58P2V6", 
+          "UBZLA95GV"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW", 
+          "UBZLA95GV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "swift", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Fixed it! So I had to drag all the files back into the Xcode project.", 
+    "ts": "1554674255.000100", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4f26b8ca-dae5-45dd-b158-b0610f1e857b", 
+    "thread_ts": "1554613140.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "see_no_evil", 
+        "users": [
+          "UBZLA95GV"
+        ]
+      }
+    ], 
+    "text": "Hmmm... did you try turning it on and off again? :zap::man-shrugging:", 
+    "ts": "1554615353.001800", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "11f6bf6f-6fd1-4c62-9e13-e9b6366329d3", 
+    "thread_ts": "1554613140.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "I did that. All the files are there but  xcode doesnt seem to see it", 
+    "ts": "1554615002.001500", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "841099de-ada9-4e40-a9e9-02aca45abde7", 
+    "thread_ts": "1554613140.000100", 
+    "text": "If you see it, get the shahash (the long ensemble of numbers) and run \"git reset --hard [the shahash of the commit you want to *revert back to*]\"", 
+    "ts": "1554614789.001300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "feeeaec8-c165-42c5-8888-23d013b38b1f", 
+    "thread_ts": "1554613140.000100", 
+    "text": "Try running git reflog, and see if the commit is there", 
+    "ts": "1554614227.001100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "be184af2-c209-4a13-a7f9-9a352cb5b9da", 
+    "thread_ts": "1554613140.000100", 
+    "text": "veryy confusing", 
+    "ts": "1554614056.000900", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "45759b28-1c6e-4c60-9b33-708d0ca88fe1", 
+    "thread_ts": "1554613140.000100", 
+    "text": "yeah, I did", 
+    "ts": "1554613897.000700", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f10bd2d7-5ec4-49be-89cd-4918de64451d", 
+    "thread_ts": "1554613140.000100", 
+    "text": "Did you commit the changes before the reset?", 
+    "ts": "1554613852.000500", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 256, 
+        "filetype": "png", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 426, 
+        "id": "FHFUU5A0Z", 
+        "thumb_480_h": 480, 
+        "original_h": 1280, 
+        "thumb_360_w": 192, 
+        "title": "Screen Shot 2019-04-06 at 9.54.36 PM.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHFUU5A0Z/screen_shot_2019-04-06_at_9.54.36_pm.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_64.png", 
+        "thumb_720_w": 384, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_80.png", 
+        "thumb_360_h": 360, 
+        "size": 210713, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_800.png", 
+        "timestamp": 1554613136, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHFUU5A0Z/download/screen_shot_2019-04-06_at_9.54.36_pm.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_1024.png", 
+        "user": "UCB3G0JKS", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHFUU5A0Z-393c16bc70", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3G0JKS/FHFUU5A0Z/screen_shot_2019-04-06_at_9.54.36_pm.png", 
+        "name": "Screen Shot 2019-04-06 at 9.54.36 PM.png", 
+        "created": 1554613136, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 682, 
+        "thumb_960_w": 512, 
+        "thumb_1024_w": 546, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHFUU5A0Z-ba0e3f679e/screen_shot_2019-04-06_at_9.54.36_pm_720.png"
+      }
+    ], 
+    "thread_ts": "1554613140.000100", 
+    "latest_reply": "1554674255.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCB3G0JKS"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "scream", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": ":sob::sob::dizzy_face::zipper_mouth_face: I'm dying over here. If anyone has gone through this please let me know. I was messing with git reset hard --&lt;commit hash&gt;", 
+    "upload": true, 
+    "ts": "1554613140.000100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UCB3G0JKS", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1554613852.000500"
+      }, 
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1554613897.000700"
+      }, 
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1554614056.000900"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1554614227.001100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1554614789.001300"
+      }, 
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1554615002.001500"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1554615353.001800"
+      }, 
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1554674255.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "ff2c4186-2135-47d6-9379-31e4ee4dd789", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "star", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 290292, 
+        "original_url": "https://medium.com/swift2go/application-security-musts-for-every-ios-app-dabf095b9c4f", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Application Security Musts for every iOS App", 
+        "ts": 1537447496, 
+        "title_link": "https://medium.com/swift2go/application-security-musts-for-every-ios-app-dabf095b9c4f", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*OI4z4XWDvpLpSSx3OWZZlQ.png", 
+        "image_width": 625, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/swift2go/application-security-musts-for-every-ios-app-dabf095b9c4f", 
+        "fallback": "Medium: Application Security Musts for every iOS App", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*_2VkJEN7Lqf8rF6HM2IdYQ.png", 
+        "text": "Application security is one of the most important aspects of software development.", 
+        "id": 1
+      }
+    ], 
+    "text": "Great article on ios app security <https://medium.com/swift2go/application-security-musts-for-every-ios-app-dabf095b9c4f>", 
+    "ts": "1554440023.003300", 
+    "user": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2d093144-4cbe-43fc-b356-772384cca284", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 17137, 
+        "original_url": "https://useyourloaf.com/blog/using-swift-codable-with-property-lists/", 
+        "service_name": "Use Your Loaf", 
+        "title": "Using Swift Codable With Property Lists", 
+        "ts": 1503316147, 
+        "title_link": "https://useyourloaf.com/blog/using-swift-codable-with-property-lists/", 
+        "image_height": 250, 
+        "image_url": "https://useyourloaf.com/assets/images/banner.png", 
+        "image_width": 476, 
+        "text": "Swift 4 and iOS 11 brings us the Codable protocol as a way to convert a type to and from an external format. The most popular format may be JSON but it also works great for old school Cocoa property lists.", 
+        "from_url": "https://useyourloaf.com/blog/using-swift-codable-with-property-lists/", 
+        "fallback": "Use Your Loaf: Using Swift Codable With Property Lists", 
+        "service_icon": "https://useyourloaf.com/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://useyourloaf.com/blog/using-swift-codable-with-property-lists/>", 
+    "ts": "1554343717.002600", 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "javascript", 
+        "lines_more": 35, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHMHMPWP6", 
+        "size": 793, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHMHMPWP6/-.js", 
+        "preview": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\">\n<plist version=\"1.0\">\n<dict>\n\t<key>firstTime</key>", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHMHMPWP6/-.js/edit", 
+        "username": "", 
+        "timestamp": 1554334990, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-operator\">&lt;?</span><span class=\"cm-variable\">xml</span> <span class=\"cm-variable\">version</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;1.0&quot;</span> <span class=\"cm-variable\">encoding</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;UTF-8&quot;</span><span class=\"cm-operator\">?&gt;</span></pre></div>\n<div><pre><span class=\"cm-operator\">&lt;!</span><span class=\"cm-variable\">DOCTYPE</span> <span class=\"cm-variable\">plist</span> <span class=\"cm-variable\">PUBLIC</span> <span class=\"cm-string\">&quot;-//Apple//DTD PLIST 1.0//EN&quot;</span> <span class=\"cm-string\">&quot;http://www.apple.com/DTDs/PropertyList-1.0.dtd&quot;</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">plist</span> <span class=\"cm-variable\">version</span><span class=\"cm-operator\">=</span><span class=\"cm-string\">&quot;1.0&quot;</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre><span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">dict</span><span class=\"cm-operator\">&gt;</span></pre></div>\n<div><pre>\t<span class=\"cm-operator\">&lt;</span><span class=\"cm-variable\">key</span><span class=\"cm-operator\">&gt;</span><span class=\"cm-variable\">firstTime</span><span class=\"cm-operator\">&lt;</span><span class=\"cm-string-2\">/key&gt;</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHMHMPWP6/download/-.js", 
+        "user": "UBZLA95GV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JavaScript/JSON", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHMHMPWP6-34e2245647", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UBZLA95GV/FHMHMPWP6/-.js", 
+        "name": "-.js", 
+        "created": 1554334990, 
+        "lines": 40, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554334990.002100", 
+    "display_as_bot": false, 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "34ea263d-92c4-4558-a7d5-2d920fd7c911", 
+    "text": "In case you're behind...", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554334984.002000"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "objc", 
+        "lines_more": 71, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHK66JZ4G", 
+        "size": 2434, 
+        "title": "Updated Plist stack overflow solution", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHK66JZ4G/updated_plist_stack_overflow_solution.m", 
+        "preview": "struct Plist {\r\n    \r\n    enum PlistError: Error {\r\n        \r\n        case FileNotWritten\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCDPM021J/FHK66JZ4G/updated_plist_stack_overflow_solution.m/edit", 
+        "username": "", 
+        "timestamp": 1554334021, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">struct</span> <span class=\"cm-variable\">Plist</span> {</pre></div>\n<div><pre>    </pre></div>\n<div><pre>    <span class=\"cm-keyword\">enum</span> <span class=\"cm-variable\">PlistError</span>: <span class=\"cm-variable\">Error</span> {</pre></div>\n<div><pre>        </pre></div>\n<div><pre>        <span class=\"cm-keyword\">case</span> <span class=\"cm-variable\">FileNotWritten</span></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHK66JZ4G/download/updated_plist_stack_overflow_solution.m", 
+        "user": "UCDPM021J", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Objective-C", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHK66JZ4G-cb01ea43fb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDPM021J/FHK66JZ4G/updated_plist_stack_overflow_solution.m", 
+        "name": "Updated_Plist_stack_overflow_solution.m", 
+        "created": 1554334021, 
+        "lines": 76, 
+        "mode": "snippet", 
+        "preview_is_truncated": true
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1554334021.001600", 
+    "display_as_bot": false, 
+    "user": "UCDPM021J", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "391bfe51-fa2d-4f2c-8dab-f36a9e389ece", 
+    "text": "<https://docs.google.com/presentation/d/120PCYFxp0G8i4Q4bx7TEATaDfWNHnILDbTFHnRVyd7E/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554331969.001400"
+  }, 
+  {
+    "client_msg_id": "c4f0a28e-542d-4efa-9ac0-0b1f0a33fdd0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UBZLA95GV"
+        ]
+      }
+    ], 
+    "text": "Hey ya'll :pikachu: , come through for office hours in the Great Hall from 1-2pm! :fire: <!here>", 
+    "ts": "1554313727.000800", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "41132c8a-81ea-4fef-9bb3-09befcd7fb9a", 
+    "thread_ts": "1554237905.007400", 
+    "text": "no :slightly_smiling_face:", 
+    "ts": "1554239036.007500", 
+    "user": "UBZLA95GV", 
+    "parent_user_id": "UCCS7HWGP", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "451de5cd-3f44-47b7-bdc5-7787f55e0c80", 
+    "thread_ts": "1554237905.007400", 
+    "latest_reply": "1554239036.007500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UBZLA95GV"
+    ], 
+    "text": "Is there anything due next class?", 
+    "ts": "1554237905.007400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCCS7HWGP", 
+    "replies": [
+      {
+        "user": "UBZLA95GV", 
+        "ts": "1554239036.007500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "5e2e73d5-d946-43ba-b608-7d3a3094e454", 
+    "text": "<https://docs.google.com/presentation/d/17TMA-xdVtfvTO-fGrwvNyFn-7-tuau6ONJZD42FmFfE/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554159796.006600"
+  }, 
+  {
+    "client_msg_id": "e94a2d62-c987-47fa-a282-b9ab483476ba", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "android", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": ":apple_logo:", 
+    "ts": "1554158495.005500", 
+    "user": "UCBLQF0R1", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "addf622d-a67f-4d0e-9cd3-fd6d1d30b7e5", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "-1", 
+        "users": [
+          "UCC4RUF4M", 
+          "U6XDGCKFF", 
+          "UCDPM021J"
+        ]
+      }
+    ], 
+    "text": ":microsoft:", 
+    "ts": "1554158333.005100", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0ad63bda-c1c4-4cf2-94c2-9e15db62103e", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "apple_logo", 
+        "users": [
+          "UCB3G0JKS", 
+          "UBZLA95GV", 
+          "UCDPM021J"
+        ]
+      }
+    ], 
+    "text": ":android:", 
+    "ts": "1554158264.004800", 
+    "user": "UCC4RHFU5", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UBZLA95GV> set the channel topic: Github repo: <http://make.sc/mob-2.1> tracker:  <http://make.sc/mob-2.1-tracker>", 
+    "ts": "1554153215.004400", 
+    "topic": "Github repo: <http://make.sc/mob-2.1> tracker:  <http://make.sc/mob-2.1-tracker>", 
+    "subtype": "channel_topic", 
+    "user": "UBZLA95GV", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UBZLA95GV> set the channel purpose: ", 
+    "ts": "1554153203.004300", 
+    "subtype": "channel_purpose", 
+    "user": "UBZLA95GV", 
+    "type": "message", 
+    "purpose": ""
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1554152591.004200", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1554152590.004000", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UFCF6M0TE> has joined the channel", 
+    "ts": "1554149807.003700", 
+    "subtype": "channel_join", 
+    "user": "UFCF6M0TE", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1554149807.003500", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1554149807.003300", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1554149806.003100", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1554149806.002900", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1554149806.002700", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1554149806.002500", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1554149806.002300", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1554149805.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1554149805.001900", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> has joined the channel", 
+    "ts": "1554149805.001700", 
+    "subtype": "channel_join", 
+    "user": "UCC4RUF4M", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1554149805.001500", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCBP3BYTW> has joined the channel", 
+    "ts": "1554149805.001300", 
+    "subtype": "channel_join", 
+    "user": "UCBP3BYTW", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1554149805.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1554149804.000900", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1554149804.000700", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UBZLA95GV"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCC4RUF4M"
+        ]
+      }
+    ], 
+    "inviter": "UBZLA95GV", 
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1554149804.000500", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UBZLA95GV> set the channel purpose: course repo: <http://make.sc/mob-2.1> tracker:  <http://make.sc/mob-2.1-tracker>", 
+    "pinned_info": {
+      "pinned_ts": 1554763165, 
+      "channel": "CHJB7G8S1", 
+      "pinned_by": "UCB3G0JKS"
+    }, 
+    "ts": "1554146145.000300", 
+    "pinned_to": [
+      "CHJB7G8S1"
+    ], 
+    "subtype": "channel_purpose", 
+    "purpose": "course repo: <http://make.sc/mob-2.1> tracker:  <http://make.sc/mob-2.1-tracker>", 
+    "type": "message", 
+    "user": "UBZLA95GV"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1554146145.000200", 
+    "text": "<@UBZLA95GV> has joined the channel"
+  }
+]

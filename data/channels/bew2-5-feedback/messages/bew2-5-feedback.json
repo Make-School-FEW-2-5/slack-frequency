@@ -1,0 +1,130 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1555435896.000200", 
+    "text": "<@U6XDKSREZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1555173575.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1554918899.000200", 
+    "text": "<@UCC0KLBPU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1554796185.000400", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1554786089.000200", 
+    "text": "<@UCBS8JUHH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554397694.000200", 
+    "text": "<@UCBQH1P6E> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1554244353.000800", 
+    "text": "<@UCBQJD3NW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1554238202.000600", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1554227588.000400", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1554149443.000200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1553535206.001200", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307375.001000", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1553298474.000800", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1553130425.000600", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1553018881.000400", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1552946369.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel topic: :gopher: 2019 Term 3 Feedback", 
+    "ts": "1552185763.006400", 
+    "topic": ":gopher: 2019 Term 3 Feedback", 
+    "subtype": "channel_topic", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: Feedback on Exercism challenges and MakeUtility projects.", 
+    "ts": "1552185725.006300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "Feedback on Exercism challenges and MakeUtility projects."
+  }
+]

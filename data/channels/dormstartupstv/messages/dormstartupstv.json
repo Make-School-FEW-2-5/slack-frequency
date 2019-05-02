@@ -1,0 +1,796 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1556052479.000200", 
+    "text": "<@UCC0KLBPU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1553308213.000700", 
+    "text": "<@UCB8T79UG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307375.000500", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1552927111.000200", 
+    "text": "<@UCBC9725P> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1551480488.000300", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCSGECPJ", 
+    "ts": "1550170809.000200", 
+    "text": "<@UCCSGECPJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1549482384.000400", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1549389872.000200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "client_msg_id": "e25cef61-a4c2-47c5-b020-1d44f9ebfc7a", 
+    "text": "Hey everyone! Ramon and I need more interviews for the show. We are doing them today and tomorrow at Vantaggio. If you click this link you can schedule a time that works for you. <https://calendly.com/jonathan-kopp/dorm-startups-tv/01-19-2019>", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1547933953.001600"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1547386948.000700", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1547076332.000200", 
+    "text": "<@UCBHEGLKB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650638.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1544181050.000200", 
+    "text": "<@UCBS3LMDZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1543212459.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "client_msg_id": "C063B05B-D8B7-4F79-9613-F50BF57C8FFD", 
+    "text": "Is that meeting still happening", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1542296861.005500"
+  }, 
+  {
+    "client_msg_id": "EF36509D-058D-446F-B693-5D26BF763431", 
+    "text": "Tomorrow we can all talk about maybe around noon in the great hall ", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1542245326.004800"
+  }, 
+  {
+    "client_msg_id": "e1360cbf-e1e4-4f54-b569-463586c65263", 
+    "text": "<@UCC4SUSHK> I can meet either tomorrow around 11:00am or today at vantaggio?", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1542244703.003900"
+  }, 
+  {
+    "client_msg_id": "40da8c63-e816-4363-ad64-8a8e05ed6b5f", 
+    "text": "today I probably won\u2019t be free", 
+    "type": "message", 
+    "user": "UCBLQF0R1", 
+    "ts": "1542228083.002800"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1542220917.002400", 
+    "text": "<@UCBMZFL4U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1542219463.002200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "client_msg_id": "109EE00B-5C8E-4CC9-8D5D-65F172A7986A", 
+    "text": "Jon and I got a call with the producer about the casting guys and some instructions to follow...when would be a good time to meet up to discuss this? ", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1542219362.002000"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1542079888.000600", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "client_msg_id": "F0037627-F0DD-4156-A73B-E0595E0C5B8D", 
+    "thread_ts": "1541216364.003300", 
+    "text": "We\u2019re stars ", 
+    "ts": "1541229950.005100", 
+    "user": "UCD1JVCJ3", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a1cd0604-fee2-48e9-abe9-da449b20d703", 
+    "thread_ts": "1541216364.003300", 
+    "text": "<@UCD1JVCJ3>", 
+    "ts": "1541229463.004600", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d1014ff0-2c36-4a52-81f5-857ea28ae560", 
+    "thread_ts": "1541216364.003300", 
+    "text": "oh hey there", 
+    "ts": "1541229456.004400", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "16f331a5-cec8-4032-8022-6012b0c759ba", 
+    "thread_ts": "1541216364.003300", 
+    "latest_reply": "1541229950.005100", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/gObqBOdRk2k/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/channel/UCAI5Egmx467jNp_QO6ppjnA", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/gObqBOdRk2k", 
+        "video_html_width": 400, 
+        "author_name": "Ramon Geronimo", 
+        "title_link": "https://youtu.be/gObqBOdRk2k", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/gObqBOdRk2k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/gObqBOdRk2k", 
+        "title": "Casting Video HD 1080p", 
+        "fallback": "YouTube Video: Casting Video HD 1080p", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": true, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "champagne", 
+        "users": [
+          "U8NMLKGDU", 
+          "UCB8T79UG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "UCC4RUF4M", 
+          "UCB8T79UG"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCC4RUF4M", 
+          "UCB8T79UG", 
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCC4RUF4M", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCDAF4FV4", 
+      "UCD1JVCJ3"
+    ], 
+    "last_read": "1541229950.005100", 
+    "replies": [
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1541229456.004400"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1541229463.004600"
+      }, 
+      {
+        "user": "UCD1JVCJ3", 
+        "ts": "1541229950.005100"
+      }
+    ], 
+    "ts": "1541216364.003300", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC4SUSHK", 
+    "text": "<https://youtu.be/gObqBOdRk2k>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "f4ea1f2c-d4a3-4216-b37a-e0aa26bd89e4", 
+    "text": "hello guys", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1541216358.003100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1541176053.002900", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1541129037.002700", 
+    "text": "<@UCBHLEZEY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1541128813.002500", 
+    "text": "<@UCBHLEZEY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1541124987.002300", 
+    "text": "<@UCD1JVCJ3> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "05306441-e839-4f66-8806-d6962e5927c0", 
+    "text": "Hey everyone! Today is the deadline to fill out the casting sheet(<https://docs.google.com/document/d/1pFD0YiXIp5GmaY5uL9j2bKDla2r2OPgxiKDK5Rr08_c/edit?usp=sharing>). Just click the link, make a copy of it. Then send it to my DM's. :make-school::fire::pikachu:", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541087890.002100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1541044890.020800", 
+    "text": "<@UCC0KLBPU> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1541025311.020500", 
+    "text": "<@UCD9FM8GN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHMLWEQ", 
+    "ts": "1541022655.019200", 
+    "text": "<@UCBHMLWEQ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1541022385.019000", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCSGECPJ", 
+    "ts": "1541017625.018700", 
+    "text": "<@UCCSGECPJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD4Y1DCN", 
+    "ts": "1541015425.018400", 
+    "text": "<@UCD4Y1DCN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1541015083.018200", 
+    "text": "<@U6XDGCKFF> has joined the channel"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1541014984.018000", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UCBC6K65P"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1541014984.017800", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCBC6K65P"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1541014593.017400", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1541013724.017200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "fc0fd3f4-8e20-47a2-a8e0-450699eb2aa2", 
+    "text": "I won\u2019t be able to attend, we have a senior meeting rn", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1541012722.017000"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC6K65P", 
+    "ts": "1541012200.016200", 
+    "text": "<@UCBC6K65P> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1541012033.016000", 
+    "text": "<@UCB8T79UG> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f1c5c9c1-4e7a-4bc5-b673-39eebc69af41", 
+    "text": "We are having a quick 5-10min meeting rn in the front of the great hall. :smile:", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541011998.015800"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1541011939.015000", 
+    "text": "<@U8NMLKGDU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "302436c0-bd27-46a2-b991-6f4a010b56e7", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "first would be more personal and would tell more about yourself", 
+    "ts": "1541011005.014600", 
+    "user": "UCC4SUSHK", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4a906238-6edd-4411-9a17-28c52ad95752", 
+    "text": "Bios in first or third person? <@UCC4SUSHK> <@UCC4RUF4M>", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1541010924.013900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UBZLA95GV", 
+    "ts": "1541010029.012900", 
+    "text": "<@UBZLA95GV> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c836ce31-6453-46e2-a404-98a751e71408", 
+    "edited": {
+      "user": "UCBHEGLKB", 
+      "ts": "1541009927.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "smiley", 
+        "users": [
+          "UCCSGECPJ"
+        ]
+      }
+    ], 
+    "text": "In the future if this gets rolling, I have connections with executives at NBC through my uncle and I have a friend who's mom is a Hollywood Producer, plus I have a friend who is a cinematographer in Sacramento who does great work. Has made movies, and also does commercials for Comcast, ect.  Who could potentially help later. He's quite talented", 
+    "ts": "1541009898.012300", 
+    "user": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS1DSF5", 
+    "ts": "1541009850.011300", 
+    "text": "<@UCBS1DSF5> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1541008826.009600", 
+    "text": "<@UCBS3LMDZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1541008461.009400", 
+    "text": "<@UCCS7HWGP> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1541008371.009200", 
+    "text": "<@UCDPM021J> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1541008342.009000", 
+    "text": "<@U6Z4KNWCD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1541008148.008800", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBLQF0R1", 
+    "ts": "1541008020.008600", 
+    "text": "<@UCBLQF0R1> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBC9725P", 
+    "ts": "1541007910.008400", 
+    "text": "<@UCBC9725P> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1541007785.008200", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3XNQFJ", 
+    "ts": "1541007532.008000", 
+    "text": "<@UCB3XNQFJ> has joined the channel"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1541007437.007800", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UCH838UC9"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1541007418.007600", 
+    "text": "<@UCH838UC9> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1541007394.007400", 
+    "text": "<@UCBS4EW59> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1541007326.007200", 
+    "text": "<@UCDAKSB7Y> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "cb63f3bc-858e-4bed-b4b8-3cd3756587b8", 
+    "text": ":ok_hand:", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541007302.007000"
+  }, 
+  {
+    "client_msg_id": "31edb0a3-7f84-4671-9e9c-53faa944ebb4", 
+    "text": "I just shared mine with you Jonathan", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541007294.006800"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1541007212.006500", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> set the channel topic: <https://docs.google.com/document/d/1pFD0YiXIp5GmaY5uL9j2bKDla2r2OPgxiKDK5Rr08_c/edit?usp=sharing>", 
+    "ts": "1541007185.006300", 
+    "topic": "<https://docs.google.com/document/d/1pFD0YiXIp5GmaY5uL9j2bKDla2r2OPgxiKDK5Rr08_c/edit?usp=sharing>", 
+    "subtype": "channel_topic", 
+    "user": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c30f7369-a78b-4487-ab23-6582b560607d", 
+    "text": "<mailto:jonathan.kopp@students.makeschool.com|jonathan.kopp@students.makeschool.com>", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541007167.006200"
+  }, 
+  {
+    "client_msg_id": "d0403483-baf2-4021-930f-af1a148212f9", 
+    "text": "What is your email guys so I can share with you", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541007145.005900"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1541006932.005500", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1541006923.005300", 
+    "text": "<@UCBDA2GGH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1541006923.005100", 
+    "text": "<@U6YHCA79U> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3G0JKS", 
+    "ts": "1541006849.004900", 
+    "text": "<@UCB3G0JKS> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "469e5281-8fca-4ac6-bf83-3a7a9e89664d", 
+    "text": "listen pitch 8 in the blog post where the producer request that info", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1541006744.004700"
+  }, 
+  {
+    "client_msg_id": "c4d56856-fcb0-4686-b63b-5a58da912108", 
+    "text": "digital is the way to go cause we have to send that back to the producer", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1541006688.003900"
+  }, 
+  {
+    "client_msg_id": "ba0bfa50-d664-490f-8bf2-db5b2a392bdb", 
+    "text": "Okay cool", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541006409.003500"
+  }, 
+  {
+    "client_msg_id": "676fd9d9-c54d-4d0c-8de2-f9453db26750", 
+    "text": "just share it with either me or <@UCC4SUSHK>", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541006204.003300"
+  }, 
+  {
+    "client_msg_id": "ecff5e51-1372-481c-a29d-937f8a1ff241", 
+    "text": "do you want us to print this out or email it?", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541006006.003000"
+  }, 
+  {
+    "client_msg_id": "cedbc754-94d8-4329-804b-3623f17de42b", 
+    "text": "<https://docs.google.com/document/d/1pFD0YiXIp5GmaY5uL9j2bKDla2r2OPgxiKDK5Rr08_c/edit?usp=sharing>", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541005934.002500"
+  }, 
+  {
+    "client_msg_id": "ba00dff0-9342-4e90-9bbd-47d91cbd8f25", 
+    "text": "woops i fix that rn", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541005819.002300"
+  }, 
+  {
+    "client_msg_id": "4902eba0-7332-4d29-9801-0dd626a87d1e", 
+    "attachments": [
+      {
+        "image_bytes": 23274, 
+        "original_url": "https://medium.com/@RGero215/hollywood-pitch-festival-experience-6adc6fe6016f", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Hollywood Pitch Festival Experience \u2013 Ramon Geronimo \u2013 Medium", 
+        "ts": 1540960515, 
+        "title_link": "https://medium.com/@RGero215/hollywood-pitch-festival-experience-6adc6fe6016f", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*rnyp9vRj6pKkoWO8FWif2A.png", 
+        "image_width": 987, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@RGero215/hollywood-pitch-festival-experience-6adc6fe6016f", 
+        "fallback": "Medium: Hollywood Pitch Festival Experience \u2013 Ramon Geronimo \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Deal or no deal\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://medium.com/@RGero215/hollywood-pitch-festival-experience-6adc6fe6016f>", 
+    "ts": "1541005796.001800", 
+    "user": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f1db8298-028d-44ad-920e-9cbf8b1ef47a", 
+    "text": "you have to give us access to the file <@UCC4RUF4M>", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541005793.001700"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1541005755.001300", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "96fc5a63-816a-4d7e-a52b-482b29b0142e", 
+    "edited": {
+      "user": "UCC4RUF4M", 
+      "ts": "1541005955.000000"
+    }, 
+    "text": "Make a copy of this(<https://docs.google.com/document/d/1pFD0YiXIp5GmaY5uL9j2bKDla2r2OPgxiKDK5Rr08_c/edit?usp=sharing>) fill it out and then send me a link when its done :smile:", 
+    "ts": "1541005539.001000", 
+    "user": "UCC4RUF4M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1541005048.000400", 
+    "text": "<@UCFCFQ7KK> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS25JKD", 
+    "ts": "1541005047.000200", 
+    "text": "<@UCBS25JKD> has joined the channel"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1541004050.000500", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCC4RUF4M"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> set the channel purpose: Casting and Info", 
+    "ts": "1541004050.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCC4RUF4M", 
+    "type": "message", 
+    "purpose": "Casting and Info"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4RUF4M", 
+    "ts": "1541004049.000200", 
+    "text": "<@UCC4RUF4M> has joined the channel"
+  }
+]

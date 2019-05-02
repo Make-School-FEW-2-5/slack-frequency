@@ -1,0 +1,4547 @@
+[
+  {
+    "text": "Please be sure you\u2019ve read this message <!here>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[April 5th, 2019 10:23 AM] jen: Hey, <!channel>!  Happy Friday! :tada:\n\nREMINDER: the *Add/Drop Deadline for Term 4* technical courses is EOD *Monday, April 8*!  :calendar: :scream_cat:\n\nSeniors who want to take a Supervised Intensive Study (SUP 2.1) or Project (SUP 2.2) must get their completed SUP contracts (<http://make.sc/SUP-contract|make.sc/SUP-contract>) signed and into me by *EOD Today* in order to be officially registered. :no_entry:\n\n*Today is also the Withdrawal deadline for Science &amp; Letters courses.* If you aren't doing well and would like to withdraw, please connect with your coach and have them contact me if they approve!", 
+        "author_link": "https://makeschoolstudents.slack.com/team/UC7PP1PTR", 
+        "color": "D0D0D0", 
+        "text": "Hey, <!channel>!  Happy Friday! :tada:\n\nREMINDER: the *Add/Drop Deadline for Term 4* technical courses is EOD *Monday, April 8*!  :calendar: :scream_cat:\n\nSeniors who want to take a Supervised Intensive Study (SUP 2.1) or Project (SUP 2.2) must get their completed SUP contracts (<http://make.sc/SUP-contract|make.sc/SUP-contract>) signed and into me by *EOD Today* in order to be officially registered. :no_entry:\n\n*Today is also the Withdrawal deadline for Science &amp; Letters courses.* If you aren't doing well and would like to withdraw, please connect with your coach and have them contact me if they approve!", 
+        "footer": "Posted in #general", 
+        "ts": "1554485002.190500", 
+        "author_name": "Jen Sikora [Academic Compliance]", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Jen Sikora [Academic Compliance]", 
+        "from_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1554485002190500", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-10/414214938017_b9a2f76f90b75f3507a2_48.jpg", 
+        "author_id": "UC7PP1PTR"
+      }
+    ], 
+    "ts": "1554489062.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307373.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sob", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pensive", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "butterfly", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@U8M6VPKUZ> has left the channel", 
+    "ts": "1551483534.000200", 
+    "subtype": "channel_leave", 
+    "user": "U8M6VPKUZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e8341392-8c88-4d78-8e07-20f124c2a5c2", 
+    "text": ":arrow_right: <@UCD1J9LDV> <@UCH838UC9> &amp; <@U6XDGCKFF>: Please complete this and submit it to me by Friday at 1pm! :hourglass_flowing_sand:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1551394928.002800"
+  }, 
+  {
+    "client_msg_id": "ed3313a2-2885-48be-9f97-cbc345b44726", 
+    "text": ":100: Thanks <@UCD1JVCJ3> <@UCB8U00KA> <@UCB3G0JKS> <@UCC0FMXCJ> &amp; <@U6X9L8VAN> for completing the internship/job readiness rubric this morning and talking it over with me. I\u2019m happy to approve your term 4 course registration!", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1551394815.001700"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFW5CMHJA", 
+        "size": 116964, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFW5CMHJA-5c9e0f8bbe/mharrilalresume_thumb_pdf.png", 
+        "title": "mharrilalresume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFW5CMHJA/mharrilalresume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1548957351, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFW5CMHJA/download/mharrilalresume.pdf", 
+        "user": "U6XDGCKFF", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFW5CMHJA-e4ad9d6534", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XDGCKFF/FFW5CMHJA/mharrilalresume.pdf", 
+        "name": "mharrilalresume.pdf", 
+        "created": 1548957351, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "hourglass", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "checkered_flag", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "confetti_ball", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1548957354.000100", 
+    "display_as_bot": false, 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFHGL8CKT", 
+        "size": 59380, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFHGL8CKT-4bbfde038b/elliot_s_resume_thumb_pdf.png", 
+        "title": "Elliot's Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFHGL8CKT/elliot_s_resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547935774, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFHGL8CKT/download/elliot_s_resume.pdf", 
+        "user": "U6YHCA79U", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFHGL8CKT-734965be74", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YHCA79U/FFHGL8CKT/elliot_s_resume.pdf", 
+        "name": "Elliot's Resume.pdf", 
+        "created": 1547935774, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1547935775.000100", 
+    "display_as_bot": false, 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFGNZ87J5", 
+        "size": 33798, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGNZ87J5-a29031b5e8/donovan_adams_data_scientist_developer_thumb_pdf.png", 
+        "title": "Donovan_Adams_Data_Scientist_Developer.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNZ87J5/donovan_adams_data_scientist_developer.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547826172, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNZ87J5/download/donovan_adams_data_scientist_developer.pdf", 
+        "user": "U6X9L8VAN", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFGNZ87J5-93532ec39b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6X9L8VAN/FFGNZ87J5/donovan_adams_data_scientist_developer.pdf", 
+        "name": "Donovan_Adams_Data_Scientist_Developer.pdf", 
+        "created": 1547826172, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1547826175.000100", 
+    "display_as_bot": false, 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFGNDLK7B", 
+        "size": 96778, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGNDLK7B-231da75972/updatedresume2019_thumb_pdf.png", 
+        "title": "updatedResume2019.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNDLK7B/updatedresume2019.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547825147, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNDLK7B/download/updatedresume2019.pdf", 
+        "user": "UCB3G0JKS", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFGNDLK7B-985f55982c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB3G0JKS/FFGNDLK7B/updatedresume2019.pdf", 
+        "name": "updatedResume2019.pdf", 
+        "created": 1547825147, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1547825150.000100", 
+    "display_as_bot": false, 
+    "user": "UCB3G0JKS", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFG84TW7J", 
+        "size": 98422, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFG84TW7J-326a55120e/fod___diop_-_makeschool_resum____1__thumb_pdf.png", 
+        "title": "Fod\u00e9 Diop - MakeSchool Resum\u00e9 (1).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFG84TW7J/fod___diop_-_makeschool_resum____1_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547796374, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFG84TW7J/download/fod___diop_-_makeschool_resum____1_.pdf", 
+        "user": "UCD1J9LDV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFG84TW7J-7252cc8565", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FFG84TW7J/fod___diop_-_makeschool_resum____1_.pdf", 
+        "name": "Fod\u00e9 Diop - MakeSchool Resum\u00e9 (1).pdf", 
+        "created": 1547796374, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "still in the works", 
+    "upload": true, 
+    "ts": "1547796376.007800", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "68aaa53f-5dc0-4659-a013-bc8c951f0401", 
+    "thread_ts": "1547794364.007100", 
+    "text": "Google Drive decided 3 pages was necessary :confused:", 
+    "ts": "1547794384.007400", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFH5UV5MK", 
+        "size": 56507, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFH5UV5MK-8b37d382be/resume_thumb_pdf.png", 
+        "title": "Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFH5UV5MK/resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547794362, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFH5UV5MK/download/resume.pdf", 
+        "user": "UCC0FMXCJ", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFH5UV5MK-decf1e36e7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0FMXCJ/FFH5UV5MK/resume.pdf", 
+        "name": "Resume.pdf", 
+        "created": 1547794362, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "thread_ts": "1547794364.007100", 
+    "latest_reply": "1547794384.007400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "It's three pages for whatever reason, but here's the first iteration", 
+    "upload": true, 
+    "ts": "1547794364.007100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0FMXCJ", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1547794384.007400"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFGNPRWQL", 
+        "size": 45235, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFGNPRWQL-8f5c37eb0e/faithchikwekweresume_thumb_pdf.png", 
+        "title": "FaithChikwekweResume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNPRWQL/faithchikwekweresume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547784874, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFGNPRWQL/download/faithchikwekweresume.pdf", 
+        "user": "UCB8U00KA", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFGNPRWQL-55a6094d09", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8U00KA/FFGNPRWQL/faithchikwekweresume.pdf", 
+        "name": "FaithChikwekweResume.pdf", 
+        "created": 1547784874, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Thanks <@U1HBKMW8Y>!", 
+    "upload": true, 
+    "ts": "1547784876.006500", 
+    "display_as_bot": false, 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFJ97NKV4", 
+        "size": 81183, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFJ97NKV4-8402b70cd4/betsy_bailey__software_developer_thumb_pdf.png", 
+        "title": "Betsy Bailey, Software Developer.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFJ97NKV4/betsy_bailey__software_developer.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547778539, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFJ97NKV4/download/betsy_bailey__software_developer.pdf", 
+        "user": "UCD1JVCJ3", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFJ97NKV4-fe209f158e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1JVCJ3/FFJ97NKV4/betsy_bailey__software_developer.pdf", 
+        "name": "Betsy Bailey, Software Developer.pdf", 
+        "created": 1547778539, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1547778541.005700", 
+    "display_as_bot": false, 
+    "user": "UCD1JVCJ3", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e6bd9d73-c5cb-4276-8d92-cd97ba6d78fe", 
+    "text": ":gift_heart: Thanks <@UCD1J9LDV>, <@UCD1JVCJ3>, <@UCB8U00KA>, <@UCB3G0JKS>, <@U8M6VPKUZ> &amp; <@UCH838UC9> for sharing your resume with me today. Great work so far! :100::page_facing_up: Please remember to share a PDF in this channel once it\u2019s updated.\n\n:arrow_right: <@UCC0FMXCJ>, <@U6X9L8VAN>, and <@U6XDGCKFF>: Please share your resume here by Friday morning.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1547776615.005500"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFHSLNU7R", 
+        "size": 84257, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFHSLNU7R-7b1e55c57a/full_stack_ios_-18-10-16-links_thumb_pdf.png", 
+        "title": "Erick Sanchez", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFHSLNU7R/full_stack_ios_-18-10-16-links.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1547772923, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFHSLNU7R/download/full_stack_ios_-18-10-16-links.pdf", 
+        "user": "U8M6VPKUZ", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFHSLNU7R-2d42d3396d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8M6VPKUZ/FFHSLNU7R/full_stack_ios_-18-10-16-links.pdf", 
+        "name": "Full Stack iOS -18-10-16-links.pdf", 
+        "created": 1547772923, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1547772925.002300", 
+    "display_as_bot": false, 
+    "user": "U8M6VPKUZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bf4090dc-3344-4154-bf14-9c608b0fd8d9", 
+    "text": "Thank you so much for sharing.", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1547772453.002200"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F408Z9LHM", 
+        "size": 274910, 
+        "title": "Alan Davis Resume 2016.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1485973843, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/download/alan_davis_resume_2016.pdf", 
+        "user": "U1HBKMW8Y", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "Alan Davis Resume 2016.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F408Z9LHM-4a9c143aca", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "is_external": false, 
+        "created": 1485973843, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U8M6VPKUZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alan", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Here\u2019s my resume, for your reference. You can see *every bullet point starts with an action verb that describes what I did*, and each role has a variety of words (you can use this as a thesaurus). Using *real numbers will also increase your credibility*.", 
+    "pinned_info": {
+      "pinned_ts": 1547772318, 
+      "channel": "C71JTHGRJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "upload": false, 
+    "ts": "1547772305.001600", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "pinned_to": [
+      "C71JTHGRJ"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fbee8c66-06ba-4300-8e4c-fd7ed599b527", 
+    "text": ":page_facing_up: This <!channel> is a great place to *share your resume and LinkedIn profile* so I everyone\u2019s is in one place!\n:white_check_mark: Always send your resume to potential employers in *PDF* (literally means *Portable Document Format*)\n:x: Do not send Word (many computers can\u2019t open `.docx` files), Google Docs (permissions issues), JPEG, etc.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1547772265.001500"
+  }, 
+  {
+    "client_msg_id": "6e40f73f-b477-4984-ae5f-61ebc87d229d", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I registered already", 
+    "ts": "1547093095.008600", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a80203de-8bc6-4371-abb7-3316bc45d2f4", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCD1JVCJ3"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCD1JVCJ3"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "medal", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCD1JVCJ3"
+        ]
+      }
+    ], 
+    "text": "<@U1HBKMW8Y> I\u2019ve already registered actually.", 
+    "ts": "1547090872.008000", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1547082543.006800", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "a1e284d0-ef24-4e8d-90d5-ce6d9e5cf18c", 
+    "text": "<@UCC0FMXCJ>, <@UCD1J9LDV>, <@U6X9L8VAN>, and <@U6XDGCKFF>: Please use these links to register for term 3 courses TODAY and then DM me when you\u2019re finished or, of course, if you have any questions about registration.\n\u2022 <http://make.sc/registration|make.sc/registration> \u2013 slides with lots of helpful information to guide your course registration\n\u2022 <http://make.sc/enrollment|make.sc/enrollment> \u2013 dashboard page on which to register for term 3 courses\n\u2022 <http://make.sc/course-offerings|make.sc/course-offerings> \u2013 all courses titles and descriptions\n\u2022 <http://make.sc/course-catalog|make.sc/course-catalog> \u2013 catalog and degree path information", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1547082540.006600"
+  }, 
+  {
+    "client_msg_id": "241dd653-28b1-4374-a784-bd9491eba8e8", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U8M6VPKUZ", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "smile", 
+        "users": [
+          "U8M6VPKUZ", 
+          "UCB3G0JKS"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U8M6VPKUZ", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": ":100::gift_heart: Thanks <@UCD1JVCJ3>, <@UCB8U00KA>, <@UCB3G0JKS>, <@UCH838UC9>, and <@U8M6VPKUZ> for registering for term 4 courses and confirming with me during the advising session! And <@U6YHCA79U> for seeking advice on degree path!", 
+    "ts": "1547081143.002300", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "captain-rainbow", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<@U6XDGCKFF> has left the channel", 
+    "ts": "1542218236.000200", 
+    "subtype": "channel_leave", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "95140311-e64d-40d6-b8df-c1f85b3279c3", 
+    "text": "Good practices for if you are falling behind in any of your courses and/or trying to better understand class concepts:\n(1) pair program (2) ask questions in class (3) pair with a classmate right after class or during programming lab to discuss and clarify class concepts (4) meet with course TAs (5) post questions in the course\u2019s Slack channel (6) google for more resources and read articles related to class concepts", 
+    "pinned_info": {
+      "pinned_ts": 1537471307, 
+      "channel": "C71JTHGRJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1537471304.000100", 
+    "pinned_to": [
+      "C71JTHGRJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7b00685-28c9-42f6-8bdc-1f66c2f0e4d1", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "alan", 
+        "users": [
+          "UCB8U00KA", 
+          "U8M6VPKUZ", 
+          "U6XDGCKFF", 
+          "UCD1JVCJ3"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "rainbow", 
+        "users": [
+          "UCB8U00KA", 
+          "U8M6VPKUZ", 
+          "U6XDGCKFF", 
+          "UCD1JVCJ3"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "UCC0FMXCJ", 
+          "U8M6VPKUZ", 
+          "U6XDGCKFF", 
+          "UCD1JVCJ3"
+        ]
+      }
+    ], 
+    "text": "Howdy, folks! :wave::face_with_cowboy_hat: I\u2019ve scheduled a coaching meeting with each of you on our calendars. Please accept the invitation today (and all other courses or commitments on your calendar), and if the time I picked doesn\u2019t work for you, please recommend two other options.", 
+    "ts": "1536783364.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1536783066.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1536783060.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1536783051.000200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1536783046.000200", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCH838UC9> has joined the channel", 
+    "ts": "1536783034.000200", 
+    "subtype": "channel_join", 
+    "user": "UCH838UC9", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1536783028.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1536783019.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1536783007.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1536597162.000200", 
+    "text": "<@UCC0FMXCJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1534802872.000200", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NHWRX0W", 
+    "ts": "1534792211.000200", 
+    "text": "<@U8NHWRX0W> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1534792207.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1534792203.000200", 
+    "text": "<@U6WMDD6U8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1534792199.000200", 
+    "text": "<@U6X9KPH7C> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1534792188.000200", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1534792185.000200", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1534792182.000200", 
+    "text": "<@U6YCV95L7> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1534792178.000200", 
+    "text": "<@U6XCTHTQQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1528760140.000213", 
+    "text": "<@U6WRNH1JM> has left the channel"
+  }, 
+  {
+    "client_msg_id": "7F485995-EF0D-4173-8688-02851B92D5BC", 
+    "edited": {
+      "user": "U6WRNH1JM", 
+      "ts": "1525232266.000000"
+    }, 
+    "text": "I\u2019ll turn it in to you Monday morning.", 
+    "ts": "1525232238.000023", 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7124ACBA-9671-4207-B223-02F5EB84EE65", 
+    "edited": {
+      "user": "U6WRNH1JM", 
+      "ts": "1525232255.000000"
+    }, 
+    "text": "My scores pretty much identical.  Working on the portfolio section this week to be ready for the companies that I want to work for \u2014 need 3 more projects", 
+    "ts": "1525232225.000150", 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "text": "Dan announced this at All Hands on Wednesday morning and in a follow-up email, I messaged in <#C1D3YFP6G|general> on Wednesday afternoon, and Braus reminded everyone on Friday morning.\n&gt;:white_check_mark: IMPORTANT TO-DOs:\n&gt;\u2022 Complete your *Internship/Job Readiness Rubric* for Term 5 (post Demo Night) and give to your coach or put on their desk \u2013 *important to complete before 12pm tomorrow (Thursday, 4/26)* to get connected to Make School\u2019s network of contacts\n&gt;\u2022 *Read Dan\u2019s email* from this morning with other action items to make the best use of Make School\u2019s professional network", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[April 27th, 2018 9:40 AM] braus: <!channel> - Please turn in your job readiness rubric to your coach today before 2pm.", 
+        "author_link": "https://product-college.slack.com/team/U1D40QFD4", 
+        "color": "D0D0D0", 
+        "text": "<!channel> - Please turn in your job readiness rubric to your coach today before 2pm.", 
+        "footer": "Posted in #general", 
+        "ts": "1524847253.000606", 
+        "author_name": "Adam Braus", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Adam Braus", 
+        "from_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1524847253000606", 
+        "author_icon": "https://avatars.slack-edge.com/2016-05-31/47179874018_aeae9ff2b6071a48bf71_48.jpg", 
+        "author_id": "U1D40QFD4"
+      }
+    ], 
+    "ts": "1525197928.000422", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "Christopher, Jeff, Johnathan, and Laurel: Please complete your rubric today and put it on my desk by 10am tomorrow.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1525197691.000206"
+  }, 
+  {
+    "text": ":100::page_facing_up: Thank you to Ansel, Kaichi, and Sam for giving me your updated Internship/Job Readiness Rubric last week. :gift_heart::thumbsup:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1525197633.000115"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9SHNQ5ST", 
+        "size": 573069, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9SHNQ5ST-9099f58b12/parnellkelleyresume2018_thumb_pdf.png", 
+        "title": "ParnellKelleyResume2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9SHNQ5ST/parnellkelleyresume2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1521249389, 
+        "thumb_pdf_w": 3896, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9SHNQ5ST/download/parnellkelleyresume2018.pdf", 
+        "user": "U8NHWRX0W", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9SHNQ5ST-0b6c170250", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NHWRX0W/F9SHNQ5ST/parnellkelleyresume2018.pdf", 
+        "name": "ParnellKelleyResume2018.pdf", 
+        "created": 1521249389, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 5042
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1521249392.000122", 
+    "display_as_bot": false, 
+    "user": "U8NHWRX0W", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1521150260.000467", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "text": "I think it's on our calendar already, and this is better to ask in a DM.", 
+    "ts": "1521151123.000001", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U6X9KPH7C", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U6X9KPH7C", 
+      "ts": "1521150268.000000"
+    }, 
+    "latest_reply": "1521151123.000001", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "thread_ts": "1521150260.000467", 
+    "text": "Hi Alan, I was wondering if you want to schedule a meeting for our coach session next week?", 
+    "ts": "1521150260.000467", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6X9KPH7C", 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1521151123.000001"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1521147692.000306", 
+    "text": ":thumbsup: and I highly recommend naming the file `Jeff Chiu Resume 2018.pdf` (no need to include date or Make School)"
+  }, 
+  {
+    "text": "Christopher, Nelley, and Jeff: Please share your updated resume (incorporating feedback) here today or tomorrow.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1521144050.000202", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1521144070.000000"
+    }
+  }, 
+  {
+    "text": "Thanks for sharing your latest resume, Ansel, Johnathan, Kaichi, and Sam! :100::page_facing_up:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1521143939.000384", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1521144084.000000"
+    }
+  }, 
+  {
+    "text": "You can add text descriptions now and then add photos when they\u2019re ready.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1521142565.000073"
+  }, 
+  {
+    "text": "Don\u2019t have a good photo of Sandpiper right now, will update when we do", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1521142023.000392"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XCTHTQQ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1521142588.000000"
+    }, 
+    "text": "Please update your Make School portfolio page (<https://www.makeschool.com/portfolio>) with information from your resume and/or LinkedIn profile, and add at least two projects to demonstrate, then click :make-school: when you\u2019re done. <!channel>", 
+    "ts": "1521141765.000049", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9PG2PS12", 
+        "size": 79621, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9PG2PS12-e8c90777cd/kaichi_momose_resume_2018_thumb_pdf.png", 
+        "title": "Kaichi Momose Resume 2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9PG2PS12/kaichi_momose_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1521007265, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9PG2PS12/download/kaichi_momose_resume_2018.pdf", 
+        "user": "U6WMDD6U8", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9PG2PS12-f42063f0fa", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6WMDD6U8/F9PG2PS12/kaichi_momose_resume_2018.pdf", 
+        "name": "Kaichi Momose Resume 2018.pdf", 
+        "created": 1521007265, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1521007267.000123", 
+    "display_as_bot": false, 
+    "user": "U6WMDD6U8", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9QAW1GMC", 
+        "size": 79962, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9QAW1GMC-ac3cfe85ea/ansel_bridgewater_resume_2018_thumb_pdf.png", 
+        "title": "Ansel_Bridgewater_Resume_2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9QAW1GMC/ansel_bridgewater_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1520994054, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9QAW1GMC/download/ansel_bridgewater_resume_2018.pdf", 
+        "user": "U6YCV95L7", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9QAW1GMC-bb2ef925b0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCV95L7/F9QAW1GMC/ansel_bridgewater_resume_2018.pdf", 
+        "name": "Ansel_Bridgewater_Resume_2018.pdf", 
+        "created": 1520994054, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1520994055.000258", 
+    "display_as_bot": false, 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9PEAUN4A", 
+        "size": 71246, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9PEAUN4A-4e24fc6c92/johnathan_chen_resume_thumb_pdf.png", 
+        "title": "Johnathan_Chen_Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9PEAUN4A/johnathan_chen_resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1520986802, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9PEAUN4A/download/johnathan_chen_resume.pdf", 
+        "user": "U6XJLPQ9Y", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9PEAUN4A-2405e9b7ba", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F9PEAUN4A/johnathan_chen_resume.pdf", 
+        "name": "Johnathan_Chen_Resume.pdf", 
+        "created": 1520986802, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1520986803.000223", 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9PQMNUR5", 
+        "size": 42894, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9PQMNUR5-ebfff9fc4d/sam_galizia_resume_2018_thumb_pdf.png", 
+        "title": "Updated resume based on your feedback @alan", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9PQMNUR5/sam_galizia_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1520901066, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9PQMNUR5/download/sam_galizia_resume_2018.pdf", 
+        "user": "U6XCTHTQQ", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9PQMNUR5-00cfccf2a4", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XCTHTQQ/F9PQMNUR5/sam_galizia_resume_2018.pdf", 
+        "name": "Sam Galizia Resume 2018.pdf", 
+        "created": 1520901066, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1520901067.000257", 
+    "display_as_bot": false, 
+    "user": "U6XCTHTQQ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9NPDPE22", 
+        "size": 64102, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9NPDPE22-6029be44df/kaichi_momose_resume_2018_thumb_pdf.png", 
+        "title": "Kaichi Momose Resume 2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9NPDPE22/kaichi_momose_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1520733010, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9NPDPE22/download/kaichi_momose_resume_2018.pdf", 
+        "user": "U6WMDD6U8", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9NPDPE22-515a71b77e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6WMDD6U8/F9NPDPE22/kaichi_momose_resume_2018.pdf", 
+        "name": "Kaichi Momose Resume 2018.pdf", 
+        "created": 1520733010, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1520733012.000042", 
+    "display_as_bot": false, 
+    "user": "U6WMDD6U8", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F9BAUPZFS", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "LinkedIn Profiles PC 2018", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1UN7P0vWcaPcdi0k5SsfMvnh_1iyc8X-Wmuy4ChI6xHQ/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 49042, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_800.png", 
+        "timestamp": 1519152474, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_1024.png", 
+        "user": "U2C90LDS9", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/F9BAUPZFS/linkedin_profiles_pc_2018", 
+        "name": "LinkedIn Profiles PC 2018", 
+        "created": 1519152474, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1UN7P0vWcaPcdi0k5SsfMvnh_1iyc8X-Wmuy4ChI6xHQ", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BAUPZFS-4bdf03cbf8/linkedin_profiles_pc_2018_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1UN7P0vWcaPcdi0k5SsfMvnh_1iyc8X-Wmuy4ChI6xHQ/edit#gid=0"
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1520455975.000530", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "page_facing_up", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7", 
+          "U6WMDD6U8", 
+          "U6WRNH1JM", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "writing_hand", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7", 
+          "U6WMDD6U8", 
+          "U6WRNH1JM", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "memo", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y", 
+          "U6WMDD6U8", 
+          "U6YCV95L7", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y", 
+          "U6WMDD6U8", 
+          "U6YCV95L7", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "link", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6WMDD6U8", 
+          "U6WRNH1JM", 
+          "U6YCV95L7", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "spider_web", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7", 
+          "U6WMDD6U8", 
+          "U6WRNH1JM", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "medal", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7", 
+          "U6WMDD6U8", 
+          "U6XJLPQ9Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "speaking_head_in_silhouette", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7", 
+          "U6WMDD6U8", 
+          "U6WRNH1JM", 
+          "U6XJLPQ9Y", 
+          "U8NHWRX0W"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1520456365.000000"
+    }, 
+    "text": "Please click the appropriate emoji below *today* to mark the status of your resume and LinkedIn profile, once you have\u2026\n:page_facing_up: shared your resume draft with me (probably two weeks ago)\n:writing_hand: received feedback from me on your printed resume\n:pencil: improved your resume by incorporating my feedback\n:white_check_mark: shared your updated resume (incorporating feedback) in this <!channel>\n:link: created/updated and shared your LinkedIn profile on this spreadsheet: <http://make.sc/pc-linkedin|make.sc/pc-linkedin>\n:spider_web: connected with at least 30 Make School students and staff on LinkedIn\n:medal: requested skill endorsements on LinkedIn from your project teammates\n:speaking_head_in_silhouette: asked two or more other students for quick feedback on your resume and/or profile\n:calendar: put time on your calendar when you\u2019ll complete any remaining tasks later this week\n:stopwatch: completed this _super short_ (3 question) important survey of student demographics: <http://make.sc/pc-demographics|make.sc/pc-demographics>", 
+    "ts": "1520455974.000191", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "Hello my coachees! Please remember to share your updated resume after incorporating my feedback in this <!channel>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1519940801.000413"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9DB3V2G4", 
+        "size": 66320, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9DB3V2G4-508df3e436/laurel_machak_resume_companyname_2018_thumb_pdf.png", 
+        "title": "Laurel_Machak_Resume_CompanyName_2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9DB3V2G4/laurel_machak_resume_companyname_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519326445, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9DB3V2G4/download/laurel_machak_resume_companyname_2018.pdf", 
+        "user": "U6YFF5B50", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9DB3V2G4-657c754c13", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFF5B50/F9DB3V2G4/laurel_machak_resume_companyname_2018.pdf", 
+        "name": "Laurel_Machak_Resume_CompanyName_2018.pdf", 
+        "created": 1519326445, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519326446.000194", 
+    "display_as_bot": false, 
+    "user": "U6YFF5B50", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://www.linkedin.com/in/ansel-bridgewater/>", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1519180775.000266"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9C6S0X7E", 
+        "size": 76188, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9C6S0X7E-423398815d/ansel_bridgewater_resume_2018_thumb_pdf.png", 
+        "title": "Ansel_Bridgewater_Resume_2018.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9C6S0X7E/ansel_bridgewater_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519180749, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9C6S0X7E/download/ansel_bridgewater_resume_2018.pdf", 
+        "user": "U6YCV95L7", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9C6S0X7E-169d441838", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCV95L7/F9C6S0X7E/ansel_bridgewater_resume_2018.pdf", 
+        "name": "Ansel_Bridgewater_Resume_2018.pdf", 
+        "created": 1519180749, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519180751.000069", 
+    "display_as_bot": false, 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "text": "Ansel, Jeff, and Laurel: please *share your resume and LinkedIn profile* in this channel right away! :stopwatch: Let\u2019s get it *done!*", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1519177714.000203"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9BH3QWV6", 
+        "size": 71738, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BH3QWV6-c29c7bf024/johnathan_chen_resume_thumb_pdf.png", 
+        "title": "Johnathan_Chen_Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9BH3QWV6/johnathan_chen_resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519177520, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9BH3QWV6/download/johnathan_chen_resume.pdf", 
+        "user": "U6XJLPQ9Y", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9BH3QWV6-dfdb86efab", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XJLPQ9Y/F9BH3QWV6/johnathan_chen_resume.pdf", 
+        "name": "Johnathan_Chen_Resume.pdf", 
+        "created": 1519177520, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519177521.000075", 
+    "display_as_bot": false, 
+    "user": "U6XJLPQ9Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9CAABE5T", 
+        "size": 51541, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9CAABE5T-cde84c34dd/kaichi_momose_resume_thumb_pdf.png", 
+        "title": "Kaichi Momose Resume.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9CAABE5T/kaichi_momose_resume.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519176613, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9CAABE5T/download/kaichi_momose_resume.pdf", 
+        "user": "U6WMDD6U8", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9CAABE5T-00d606889a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6WMDD6U8/F9CAABE5T/kaichi_momose_resume.pdf", 
+        "name": "Kaichi Momose Resume.pdf", 
+        "created": 1519176613, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519176620.000092", 
+    "display_as_bot": false, 
+    "user": "U6WMDD6U8", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9C3UJ2MR", 
+        "size": 40217, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9C3UJ2MR-a55f7a37e7/sam_galizia_resume_2018_thumb_pdf.png", 
+        "title": "Resume in PDF format", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9C3UJ2MR/sam_galizia_resume_2018.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519176492, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9C3UJ2MR/download/sam_galizia_resume_2018.pdf", 
+        "user": "U6XCTHTQQ", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9C3UJ2MR-79dcd049d7", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6XCTHTQQ/F9C3UJ2MR/sam_galizia_resume_2018.pdf", 
+        "name": "Sam Galizia Resume 2018.pdf", 
+        "created": 1519176492, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519176493.000188", 
+    "display_as_bot": false, 
+    "user": "U6XCTHTQQ", 
+    "type": "message"
+  }, 
+  {
+    "text": ":white_check_mark: Acceptable formats for sending your resume to potential employers: *PDF* (literally means *Portable Document Format*)\n:x: Not acceptable: Word (many computers cannot open `.docx` files), Google Docs (permissions issues), JPEG, etc.", 
+    "pinned_info": {
+      "pinned_ts": 1519174405, 
+      "channel": "C71JTHGRJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1519174233.000151", 
+    "pinned_to": [
+      "C71JTHGRJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1519172086.000062", 
+    "text": "You need to complete this to leave, right?\n*Dan Morse* [4:08 PM]\n&gt;Reminder of how to check out today: get your Resume and LinkedIn approved by your coach or Dan.", 
+    "ts": "1519173132.000039", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F408Z9LHM", 
+        "size": 274910, 
+        "title": "Alan Davis Resume 2016.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1485973843, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/download/alan_davis_resume_2016.pdf", 
+        "user": "U1HBKMW8Y", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "name": "Alan Davis Resume 2016.pdf", 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F408Z9LHM-4a9c143aca", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "is_external": false, 
+        "created": 1485973843, 
+        "mode": "hosted"
+      }
+    ], 
+    "comment": {
+      "comment": "Here\u2019s my resume, for your reference. You can see *every bullet point starts with an action verb that describes what I did*, and each role has a variety of words (you can use this as a thesaurus). Using *real numbers will also increase your credibility*.", 
+      "created": 1519172924, 
+      "timestamp": 1519172924, 
+      "is_intro": false, 
+      "user": "U1HBKMW8Y", 
+      "id": "Fc9C38AZV1"
+    }, 
+    "text": "<@U1HBKMW8Y> commented on <@U1HBKMW8Y>\u2019s file <https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F408Z9LHM/alan_davis_resume_2016.pdf|Alan Davis Resume 2016.pdf>: Here\u2019s my resume, for your reference. You can see *every bullet point starts with an action verb that describes what I did*, and each role has a variety of words (you can use this as a thesaurus). Using *real numbers will also increase your credibility*.", 
+    "ts": "1519172924.000287", 
+    "subtype": "file_comment", 
+    "is_intro": false, 
+    "file": {
+      "filetype": "pdf", 
+      "display_as_bot": false, 
+      "has_rich_preview": false, 
+      "id": "F408Z9LHM", 
+      "size": 274910, 
+      "title": "Alan Davis Resume 2016.pdf", 
+      "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/alan_davis_resume_2016.pdf", 
+      "external_type": "", 
+      "username": "", 
+      "timestamp": 1485973843, 
+      "public_url_shared": false, 
+      "editable": false, 
+      "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/download/alan_davis_resume_2016.pdf", 
+      "user": "U1HBKMW8Y", 
+      "is_public": true, 
+      "is_starred": false, 
+      "pretty_type": "PDF", 
+      "name": "Alan Davis Resume 2016.pdf", 
+      "mimetype": "application/pdf", 
+      "permalink_public": "https://slack-files.com/T1D4KRBR8-F408Z9LHM-4a9c143aca", 
+      "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F408Z9LHM/alan_davis_resume_2016.pdf", 
+      "is_external": false, 
+      "created": 1485973843, 
+      "mode": "hosted"
+    }, 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "reactions": [
+          {
+            "count": 5, 
+            "name": "fire", 
+            "users": [
+              "U1D5WKS73", 
+              "U1JE2T0MB", 
+              "U1DG2HBB2", 
+              "U1D66AMGQ", 
+              "U1YM6H8MA"
+            ]
+          }, 
+          {
+            "count": 2, 
+            "name": "book", 
+            "users": [
+              "U1DG2HBB2", 
+              "U1YM6H8MA"
+            ]
+          }, 
+          {
+            "count": 1, 
+            "name": "bookmark_tabs", 
+            "users": [
+              "U1DG2HBB2"
+            ]
+          }
+        ], 
+        "filetype": "pdf", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F408Z9LHM", 
+        "size": 274910, 
+        "title": "Alan Davis Resume 2016.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1485973843, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F408Z9LHM/download/alan_davis_resume_2016.pdf", 
+        "user": "U1HBKMW8Y", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F408Z9LHM-4a9c143aca", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F408Z9LHM/alan_davis_resume_2016.pdf", 
+        "name": "Alan Davis Resume 2016.pdf", 
+        "created": 1485973843, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "U1D5WKS73", 
+          "U1JE2T0MB", 
+          "U1DG2HBB2", 
+          "U1D66AMGQ", 
+          "U1YM6H8MA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "book", 
+        "users": [
+          "U1DG2HBB2", 
+          "U1YM6H8MA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "bookmark_tabs", 
+        "users": [
+          "U1DG2HBB2"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1519172924.000245", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "*Pro tip:* The best, clearest, and most professional filename for your resume is `First Last Resume 2018.pdf` Use this!", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1519172828.000373"
+  }, 
+  {
+    "text": "<https://www.linkedin.com/in/parnelldkelley/>", 
+    "type": "message", 
+    "user": "U8NHWRX0W", 
+    "ts": "1519172596.000102"
+  }, 
+  {
+    "files": [
+      {
+        "reactions": [
+          {
+            "count": 1, 
+            "name": "+1", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }
+        ], 
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9BGA6ZL0", 
+        "size": 569267, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9BGA6ZL0-0517f8e282/parnelldemondkelley_thumb_pdf.png", 
+        "title": "Nelley's Resume", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9BGA6ZL0/parnelldemondkelley.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519172573, 
+        "thumb_pdf_w": 3896, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9BGA6ZL0/download/parnelldemondkelley.pdf", 
+        "user": "U8NHWRX0W", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9BGA6ZL0-cdfcb6a868", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NHWRX0W/F9BGA6ZL0/parnelldemondkelley.pdf", 
+        "name": "ParnellDemondKelley.pdf", 
+        "created": 1519172573, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 5042
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519172577.000194", 
+    "display_as_bot": false, 
+    "user": "U8NHWRX0W", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1519172086.000062", 
+    "text": "Hi Alan, I don\u2019t think my resume and LinkedIn are ready for reviewing. I can still send what I have, but I know there are still improvements that I still need to fix.", 
+    "ts": "1519172396.000015", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://www.linkedin.com/in/doctacloak/>", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1519172268.000340"
+  }, 
+  {
+    "text": "still have to add GitHub but eh it\u2019s pretty much done", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1519172265.000095"
+  }, 
+  {
+    "files": [
+      {
+        "reactions": [
+          {
+            "count": 1, 
+            "name": "+1", 
+            "users": [
+              "U1HBKMW8Y"
+            ]
+          }
+        ], 
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F9C5ERD52", 
+        "size": 36304, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-F9C5ERD52-0cf0e98213/christopher_taylor_resume_microsoft_2017_thumb_pdf.png", 
+        "title": "CHRISTOPHER_TAYLOR_Resume_Microsoft_2017.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F9C5ERD52/christopher_taylor_resume_microsoft_2017.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1519172256, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F9C5ERD52/download/christopher_taylor_resume_microsoft_2017.pdf", 
+        "user": "U6WRNH1JM", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F9C5ERD52-5e3f6e5da4", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6WRNH1JM/F9C5ERD52/christopher_taylor_resume_microsoft_2017.pdf", 
+        "name": "CHRISTOPHER_TAYLOR_Resume_Microsoft_2017.pdf", 
+        "created": 1519172256, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1519172258.000113", 
+    "display_as_bot": false, 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1519172086.000062", 
+    "latest_reply": "1519173132.000039", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "U1HBKMW8Y"
+    ], 
+    "text": "This <!channel> is a great place to *share your resume and LinkedIn profile* so I can look in one place for everyone\u2019s!", 
+    "ts": "1519172086.000062", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U1HBKMW8Y", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1519172396.000015"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1519173132.000039"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "thread_ts": "1519069474.000328", 
+    "text": "I just found your message. Please complete the readiness rubric and self-analysis summary like everyone else and give it to me tomorrow. This is important for Term 4.", 
+    "ts": "1519094762.000069", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1519069474.000328", 
+    "latest_reply": "1519094762.000069", 
+    "subscribed": false, 
+    "reply_users": [
+      "U1HBKMW8Y"
+    ], 
+    "text": "For me I think it\u2019s better if I do it after this term since I\u2019ll have already taken CS3; we already did one together last term.", 
+    "ts": "1519069474.000328", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6WRNH1JM", 
+    "replies": [
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1519094762.000069"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "Christopher, Jeff, and Nelley: please give me your internship readiness rubric / self-assessment by Monday afternoon.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1518836889.000091"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1518836808.000098", 
+    "text": "Thank you Sam, Ansel, Laurel, Kaichi, and Johnathan for completing the internship readiness rubric / self-assessment and giving it to me today! :100::page_facing_up::ballot_box_with_check:"
+  }, 
+  {
+    "text": "<@U8NHWRX0W> has joined the channel", 
+    "ts": "1515453696.000042", 
+    "subtype": "channel_join", 
+    "user": "U8NHWRX0W", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1515453696.000025", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel topic: Channel for Alan\u2019s coachees", 
+    "ts": "1515442201.000077", 
+    "topic": "Channel for Alan\u2019s coachees", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "name": "alan-coachees", 
+    "text": "<@U1HBKMW8Y> has renamed the channel from \"alan-huddle\" to \"alan-coachees\"", 
+    "ts": "1515442133.000358", 
+    "subtype": "channel_name", 
+    "user": "U1HBKMW8Y", 
+    "old_name": "alan-huddle", 
+    "type": "message"
+  }, 
+  {
+    "text": "^ Same as we are working on the finaal touches", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1513185464.000372"
+  }, 
+  {
+    "text": "hi. I won't be huddle today. I plan to come into make school later.", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1513185440.000441"
+  }, 
+  {
+    "text": "I\u2019m going to be a bit late ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1513099294.000093"
+  }, 
+  {
+    "text": "Hey all, I don\u2019t think I\u2019m going to make it in time for todays huddles have to take care of something for my Dad.", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1513099134.000667"
+  }, 
+  {
+    "text": "I will be ~8 minutes late to huddles ", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1512753342.000072"
+  }, 
+  {
+    "text": "Quick reminder: I\u2019ll be away from school and offline all day today through Sunday. See you on Monday morning! :wave: :electric_plug:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512752219.000048"
+  }, 
+  {
+    "text": "Im running late today I won't be able to make it", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1512668581.000459"
+  }, 
+  {
+    "text": "I\u2019m here ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1512668097.000722"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1512667890.000244", 
+    "text": "just three of us, we\u2019ll start now."
+  }, 
+  {
+    "text": "Nobody is here <@U1HBKMW8Y> ", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1512667880.000378"
+  }, 
+  {
+    "text": "I'm coming ~8 minutes late. Start without me. Who's leading, Anthony? <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512667853.000608"
+  }, 
+  {
+    "text": "I'm in a lyft that keeps picking up ppl, so I will be late to huddles", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1512667830.000448"
+  }, 
+  {
+    "text": "I have another appointment tomorrow 9am-10am.\nI think I will not be able to be at the huddle tomorrow morning.", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512618731.000039"
+  }, 
+  {
+    "text": "I will be ~5 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1512581096.000436"
+  }, 
+  {
+    "text": "I forgot to ask yesterday: Who wants to lead huddle this morning? Discuss your goals for Open House next week as a <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512581001.000336"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512580599.000103", 
+    "text": "I won\u2019t  be at huddles this morning due to my doctor appointment at kaiser "
+  }, 
+  {
+    "text": "I'm coming ~6 minutes late too. If at least 3 people are there, you all should lead standup. <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512495059.000074"
+  }, 
+  {
+    "text": "I will be ~6 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1512493847.000557"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_thermometer", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1512490854.000896", 
+    "text": "I\u2019m not going to be at huddles today because I\u2019m almost done fighting stomach flu, I\u2019ll be at class tho "
+  }, 
+  {
+    "text": "I would say it depends on the person and how they handle the stressors. These are just examples of possible answers, since this subject is multi-faceted. For the first example, someone that tends to overthink or work themselves up for the smallest of issues may need something like a support system to handle stress. On the flip side of that, someone who doesn't tend to get worked up may only need thinking time by themselves. The one thing that one must be aware of when dealing with stress, is knowing when and when not to get worked up about something. From there you can make a plan of action on how to deal with the stress", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1512151879.000199"
+  }, 
+  {
+    "text": "Jeff is leading today. ETA ~9:40am", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512149514.000472"
+  }, 
+  {
+    "text": "I\u2019m a bit alte ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1512149206.000256"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1512149157.000166", 
+    "text": "I will be a bit late due to handling an issue with a cracked ceiling and mold"
+  }, 
+  {
+    "text": "We can spend first 5 minutes to write it down,  this might help you to form a plan or strategy, and talk about t ", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512148193.000451"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "relieved", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512148161.000454", 
+    "text": "What are some solution you think can help you to relieve those pain points in life(anxiety, frustration, stress, and discomfort)?"
+  }, 
+  {
+    "text": "I think for today huddle, we can talk more based on Anthony question.", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512148059.000323"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1512147683.000834", 
+    "text": "I'm running about 25 min late to day will miss huddles "
+  }, 
+  {
+    "text": "Maybe we can ask that question on Friday", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512063154.000160"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1512063128.000485", 
+    "text": "I thought we are doing Tues/Thursday huddle with work progress?"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YFF5B50"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1512063059.000138", 
+    "text": "Huddle question: Identify pain points in your life, (anxiety, frustration, discomfort, resistance ). What causes them? How can living in the present moment free you from these thoughts?"
+  }, 
+  {
+    "text": "Anthony is leading standup today. I'm coming 6~8 min late. <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1512063057.000332"
+  }, 
+  {
+    "text": "I will be late or absent from huddle due to timing", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1512062330.000251"
+  }, 
+  {
+    "text": "I might be late for huddles ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1512062190.000588"
+  }, 
+  {
+    "text": "I will be 5 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1512062158.000133"
+  }, 
+  {
+    "text": "Today\u2019s huddle topic (write for ~5 minutes, then we\u2019ll share as a <!group> at 9:40am):\n&gt;Mentors! What are you most excited to talk to your mentor about, and why are you looking forward to that?\n&gt;If you already met with your mentor, what was the most useful perspective you got out of the conversation?\n&gt;OR Is there anything blocking you from getting full value from a mentor, either logistically or on a personal level?", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1511976518.000502"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1511976021.000273", 
+    "text": "I'm running late and will miss huddle "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gotta_run", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1511890499.000330", 
+    "text": "Be there soon running now "
+  }, 
+  {
+    "text": "Be there in6", 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1511890416.000175"
+  }, 
+  {
+    "text": "Hey I'm missing huddle today I'll be at programming lab working on my personal project for web 2", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1511889726.000319"
+  }, 
+  {
+    "text": "I will miss today's huddle", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1511888322.000035"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "confused", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1511198452.000299", 
+    "text": "Not making it either."
+  }, 
+  {
+    "text": "I am running late and will miss hands in ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1511198377.000277"
+  }, 
+  {
+    "text": "I'm late, but Johnathan is leading today. Take it away! <!group> ", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510939968.000060", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1510940935.000000"
+    }
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510939135.000232", 
+    "text": "I will be leading huddles today"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "confused", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1510938573.000220", 
+    "text": "I'm running about 20 minutes late today, i might miss huddle "
+  }, 
+  {
+    "text": "I wont be in programming lab due to other engagement, but I would have worked on linked list", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1510861861.000432"
+  }, 
+  {
+    "text": "For today\u2019s lab I am working on the Linked List content.", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510861295.000198"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1510857241.000534", 
+    "text": "For today's lab I am finishing user authentication for my Reddit.clone and also adding more jquery to the core project to save user information when they press the buttons in a specific order "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1510856664.000043", 
+    "text": "For today\u2019s programming lab, I plan on fixing my CS2 linked list delete method. Afterwords, I plan on finishing a WEB7 tutorials project."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510856173.000269", 
+    "text": "My goal is to finish designing the iOS trip planner design and set aside a hour to build the link list "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1510855983.000141", 
+    "text": "My stand up goal is to begin  cs 3 HW for the sorting algorithm that is due this Friday 11/17. Also plan to set aside 30 minutes to pair programming with Ansel for core project"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510854921.000143", 
+    "text": "I went outside but there were 3 people"
+  }, 
+  {
+    "text": "o.o I was here ", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510854904.000098"
+  }, 
+  {
+    "text": "<@U6X9KPH7C> <@U6WRNH1JM> <@U6X9L8VAN> <@U6YCV95L7> <@U6XJLPQ9Y> <@U6YFF5B50>: Be sure to share your standup goals in this channel before 11am today.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510854850.000405"
+  }, 
+  {
+    "text": "<@U6YFF5B50> <@U6XJLPQ9Y>: No call? No Slack? No show? No bueno. :confused:\nIt's critical to overcommunicate in the professional world. Please don't miss huddle without notice again.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510854659.000374"
+  }, 
+  {
+    "text": "On my way, but ETA ~9:36. :bike::rain_cloud: Start standup though. <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510853604.000388"
+  }, 
+  {
+    "text": "Be there soon", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510853209.000111"
+  }, 
+  {
+    "text": "I will be 15 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1510852535.000244"
+  }, 
+  {
+    "text": "I won\u2019t be the huddle this morning due to doctor appointment ", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1510851168.000084"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510790940.000178", 
+    "text": "I can lead"
+  }, 
+  {
+    "text": "Who would like to lead our huddle group this Friday? (You should all have huddle questions prepared from last week)", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510788647.000308"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tokyo_tower", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "title": "Tower of Hanoi", 
+        "text": "Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.", 
+        "title_link": "https://www.mathsisfun.com/games/towerofhanoi.html", 
+        "service_name": "mathsisfun.com", 
+        "from_url": "https://www.mathsisfun.com/games/towerofhanoi.html", 
+        "fallback": "Tower of Hanoi", 
+        "service_icon": "https://www.mathsisfun.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.mathsisfun.com/games/towerofhanoi.html>", 
+    "ts": "1510768751.000049", 
+    "user": "U6YCV95L7", 
+    "type": "message"
+  }, 
+  {
+    "text": "If anyone wants to try the tower of Hanoi coding problem, it might be a good idea to try the puzzle yourself.", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1510768749.000352"
+  }, 
+  {
+    "text": "Today\u2019s huddle topic (write for ~8-10 minutes, then we\u2019ll share as a <!group> at ~9:40am):\n&gt;Don Rags are a reflective milestone. How do you hope your Don Rag will inform your personal growth?\n&gt;In what ways are you excited to grow and improve your learning at Make School in the coming months?", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510766086.000565"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "ferry", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1510763541.000351", 
+    "text": "I missed my ferry this morning , not sure if I can make it to huddle"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "slightly_frowning_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "train", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1510763507.000737", 
+    "text": "I'm running late and will miss huddles today "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510680756.000347", 
+    "text": "7 mins!"
+  }, 
+  {
+    "text": "ETA ~9:36 for standup <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510680687.000414"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hourglass_flowing_sand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510678994.000700", 
+    "text": "Going to be late and miss huddles today."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "date", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1510671174.000284", 
+    "text": "I'll be missing huddles due to a doctors appointment"
+  }, 
+  {
+    "text": "Going to be late and miss huddles.\nEdit: woops nvm it's all-hands today", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1510593698.000701", 
+    "edited": {
+      "user": "U6XCP1NLU", 
+      "ts": "1510593769.000000"
+    }
+  }, 
+  {
+    "text": "Go ahead and get started without me. ETA ~5 minutes. <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510335407.000171"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1510335379.000684", 
+    "text": "I think Anthony volunteer to lead us today "
+  }, 
+  {
+    "text": "Today, we're going to start huddle by writing down a few questions you'd like to ask our <!group>. Then, one person will volunteer to lead today's huddle with a question at ~9:35am. Others will lead in future weeks. ", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510334620.000660"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heroku", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510333234.000339", 
+    "text": "I\u2019m not going to make it to huddles today.\n\nMy goal today is to push my Reddit to Heroku and make it through the rest of the Authentication setup with the tutorial.    :slightly_smiling_face:"
+  }, 
+  {
+    "text": "today my goals were to finish 4 sections of react{complete}. I also wanted to help egon with the histogram project(complete)", 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1510272716.000020"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6WRNH1JM"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510257147.000353", 
+    "text": "Accomplishments: tweet gen is on heroku and I finished mobile challenges yesterday, read part one of how the internet works\n\nI plan on finishing histogram classes and part two of the how internet works today "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U6WRNH1JM", 
+      "ts": "1510251321.000000"
+    }, 
+    "text": "What I accomplished since our last class:\nWeb 2:  Made it to the authorization content\nCS 2: Completed the dictogram class and listogram class.  \n\nWhat I plan to work on today is restructuring my app architecture for Tweet Gen and I still have to get my web app pushed to Heroku  :unamused:\n\nWhen I finish that I am going to go back to working on Web 2.  In specifics, going through the Reddit tutorial.\n\nI also have to do some out of class stuff that I promised an instructor I would do sometime this week.  My aim is to start that tonight, but if I can\u2019t, then it will be my first order tomorrow morning.\n\nAm I currently stuck on anything?  Not really.  The situation with Heroku is kind of a drag, but I\u2019ll figure it out.  It\u2019s just tedious.", 
+    "ts": "1510251186.000356", 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "text": "I'm on my way but a few minutes late. ETA ~9:35-ish. See y'all soon.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510248641.000112"
+  }, 
+  {
+    "text": "I may also miss huddle.  I\u2019ll try to get there in time, but won\u2019t promise anything.", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510248386.000047"
+  }, 
+  {
+    "text": "I'm missing huddle today I'm sorry ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1510247588.000612"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510162287.000559", 
+    "text": "Like 3mjns"
+  }, 
+  {
+    "text": "I\u2019ll be a few mins late!", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510162283.000023"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1510161756.000215", 
+    "text": "Today\u2019s huddle topic (write for ~5 minutes, then we\u2019ll share as a <!group> at 9:40am):\n&gt;What are two things that you do well to take care of your health, and that you wish others would adopt?\n&gt;What are some effective ways to get people to adapt healthier practices?"
+  }, 
+  {
+    "text": "My goals for today is to build out the UI for the tweet generator and pass Anthony on hackerrank score", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1510095388.000177"
+  }, 
+  {
+    "text": "My goals for today are to create my flask server with templates. This week I accomplished 7 hacker rank projects", 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1510085092.000450"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1510076786.000219", 
+    "text": "I\ufe0f won\u2019t be there cause I have a meeting and I don\u2019t want to make two trips to the city "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1510075824.000365", 
+    "text": "Almost there"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alarm_clock", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1510075681.000041", 
+    "text": "I'll be late today "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dog", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gift_heart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1510071779.000079", 
+    "text": "I'll be late to huddled to to caring for brians dog while he's in the hospital "
+  }, 
+  {
+    "text": "Reminder: I'm out-of-office today and tomorrow for ODSC (open data science conference). Ansel is leading huddle this morning, Kaichi will lead tomorrow.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1509637709.000781"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1509556826.000583", 
+    "text": "For the core project, we\u2019re going to meet every other day to build and update our progress. We have a list of tasks each person is going to complete for each meeting and a project deadline to pace ourselves to stay on tack."
+  }, 
+  {
+    "text": "Today\u2019s huddle topic (write for ~5 minutes, then we\u2019ll share as a <!group> at 9:40am):\n&gt;What are you doing to ensure that your Core project team gets off to an effective start? If you haven\u2019t thought about this, think of a strategy now and write it down for future reference.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1509553871.000435"
+  }, 
+  {
+    "text": "I have an errand I need to run this morning. I won\u2019t be at standup ", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1509553489.000217"
+  }, 
+  {
+    "text": "I will be missing huddle this morning too ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1509552581.000380"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1VD417CP"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U6X9KPH7C", 
+      "ts": "1509547080.000000"
+    }, 
+    "text": "Good morning. I will miss our huddle meeting today since I have a doctor appointment this morning at Oakland.", 
+    "ts": "1509547068.000233", 
+    "user": "U6X9KPH7C", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1509467465.000127", 
+    "text": "Hah, I'm also running ~10 mins late, like everyone else. If there are at least 5 people there, go ahead and start standup and share your successes and goals for today. <!group>"
+  }, 
+  {
+    "text": "I'm also running late ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1509467294.000759"
+  }, 
+  {
+    "text": "I'm also running late ", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1509467013.000025"
+  }, 
+  {
+    "text": "I\u2019m running about 10 min late", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1509466714.000262"
+  }, 
+  {
+    "text": "9:53 ETA... I dislike Lyft line officially.", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1509381342.000070"
+  }, 
+  {
+    "text": "9:43 ETA", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1509380131.000743"
+  }, 
+  {
+    "text": "I may possibly be late or miss huddles, missed the train :(", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1509379831.000004"
+  }, 
+  {
+    "text": "Today's huddle topic: What classmate has inspired or empowered you, and how?\nWrite for 5 minutes, then discuss as a <!group> at 9:40am.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1509122028.000130"
+  }, 
+  {
+    "text": "Hey I'm not going to make it to huddles this morning ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1509120308.000463"
+  }, 
+  {
+    "text": "Thanks <@U6WRNH1JM>! I'm going to make it to school in about an hour. Have the student council meeting :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1509036698.000637"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heartbeat", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1509036647.000012", 
+    "text": "Hope you both feel better soon!  <@U1VD417CP> <@U1HBKMW8Y>  !  :slightly_smiling_face:"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1509035408.000514", 
+    "text": "Good morning group. I am also feeling a bit sick this morning, and will have to miss our meeting today. I will make it in by this afternoon."
+  }, 
+  {
+    "text": "I'm not feeling well and won't be in for standup today. Please elect a <!group> leader and support each other in stating a clear set of goals you want to accomplish at programming lab. :muscle::computer::dart:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1509035115.000203"
+  }, 
+  {
+    "text": "I won\u2019t be around this morning. I\u2019m in Oakland for a meeting ", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1508949348.000265"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F7QTREAMD", 
+        "thumb_480_h": 480, 
+        "original_h": 1035, 
+        "thumb_360_w": 278, 
+        "title": "Community Covenant - Class of 2018", 
+        "url_private": "https://docs.google.com/document/d/1cp61eFceV0F2mz6OjBGyDq7ys7H7quXMzCaOdHauqAs/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_80.png", 
+        "thumb_360_h": 360, 
+        "size": 1314, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_800.png", 
+        "timestamp": 1508949244, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_1024.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F7QTREAMD/community_covenant_-_class_of_2018", 
+        "name": "Community Covenant - Class of 2018", 
+        "created": 1508949244, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1cp61eFceV0F2mz6OjBGyDq7ys7H7quXMzCaOdHauqAs", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F7QTREAMD-be67acbf22/community_covenant_-_class_of_2018_720.png", 
+        "external_url": "https://docs.google.com/document/d/1cp61eFceV0F2mz6OjBGyDq7ys7H7quXMzCaOdHauqAs/edit"
+      }
+    ], 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1509924012.000000"
+    }, 
+    "text": "", 
+    "upload": false, 
+    "ts": "1508949246.000738", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1508949243.000412", 
+    "text": "Today\u2019s huddle <!group> topic:\nRemember the Community Covenant the class made during the retreat? We\u2019re going to revisit and reflect on that! Please review the covenant and write down your answer(s) to this query: *Which aspect of the covenant do you want to execute better?*\n\nYou can pick up a print out of the Covenant near Eliel and Mitchell\u2019s desk, or digitally here: <https://docs.google.com/document/d/1cp61eFceV0F2mz6OjBGyDq7ys7H7quXMzCaOdHauqAs/edit>"
+  }, 
+  {
+    "text": "Running about 20 min late ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1508948280.000514"
+  }, 
+  {
+    "text": "I will be 3-5 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1508947805.000004"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "U6X9KPH7C", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1508862084.000178", 
+    "text": "<!channel>: I can volunteer to lead (unless someone would like to practice leading the standup group)"
+  }, 
+  {
+    "text": "Someone please step up to lead standup today: 1. What did you accomplish, 2. What are your goals 3. Any blockers? (I forgot to mention yesterday that I have a dentist appointment this morning and won\u2019t be in for huddles.) <!channel>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1508861791.000094"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "disappointed", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1508516746.000178", 
+    "text": "I\u2019ll be running 30 min late "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_frowning_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1508516458.000210", 
+    "text": "I'm running about 20 min late "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "slightly_frowning_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1508515868.000641", 
+    "text": "I will be late 10 minutes"
+  }, 
+  {
+    "text": "I've asked Maribel to lead standup today. Remember: have a clear set of goals you want to accomplish at programming lab. :muscle::computer::dart:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1508429548.000218"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YCV95L7"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1508350158.000106", 
+    "text": "Hi Alan. I won't be able to join Thursday morning huddle due to my morning appointment."
+  }, 
+  {
+    "text": "Howdy <!group>! First thing to do today is to complete the survey Jade linked in <#C1D3YFP6G|general>. Then we'll start our standup around ~9:36.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1508257847.000604"
+  }, 
+  {
+    "text": "Sane here^", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1508257582.000174"
+  }, 
+  {
+    "text": "Good morning! I'm running late today ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1508257546.000140"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "carlton", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "U1VD417CP", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1508252409.000047", 
+    "text": "Headed to Make School now!  :dancing_penguin:"
+  }, 
+  {
+    "edited": {
+      "user": "U6WRNH1JM", 
+      "ts": "1508213894.000000"
+    }, 
+    "thread_ts": "1508213589.000073", 
+    "text": "If I don\u2019t see you all tomorrow and any of you need anything just Slack me, otherwise I\u2019ll be there during class.  :slightly_smiling_face: \n\n*but immediately departing upon class ending*", 
+    "ts": "1508213859.000149", 
+    "user": "U6WRNH1JM", 
+    "parent_user_id": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U6WRNH1JM", 
+      "ts": "1508213623.000000"
+    }, 
+    "latest_reply": "1508213859.000149", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6WRNH1JM"
+    ], 
+    "thread_ts": "1508213589.000073", 
+    "text": "Hey gang, so if the air quality doesn\u2019t improve tomorrow I\u2019m not going to come to school.  I\u2019ve been getting really sick lately with the worst migraines.  It\u2019s not *good* at our building, but it\u2019s at least bearable. ", 
+    "ts": "1508213589.000073", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6WRNH1JM", 
+    "replies": [
+      {
+        "user": "U6WRNH1JM", 
+        "ts": "1508213859.000149"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "Not going to make it to huddle", 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1507912573.000351"
+  }, 
+  {
+    "text": "Hi, I acquired a light disability, but I\u2019ll be at HQ!", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1507912340.000145"
+  }, 
+  {
+    "text": "Running late. I'll be there shortly ", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1507911843.000297"
+  }, 
+  {
+    "text": "I'm ~5 minutes late. Go ahead with the agile standup focused on your goals for Programming Lab. <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507825850.000212"
+  }, 
+  {
+    "text": "Hi all. just a reminder, I won't be able to join the huddle due to my 9am doctor appointment.", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1507823517.000753"
+  }, 
+  {
+    "text": "hola y\u2019all! I have a meeting in the east bay tomorrow at 9am, so i\u2019ll be missing huddle", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1507793869.000068"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507738737.000169", 
+    "text": "<@U6YFF5B50>: If you\u2019re on BART, you could do the writing before you arrive. (But don\u2019t try to write while driving\u2026 :stuck_out_tongue_winking_eye:)"
+  }, 
+  {
+    "text": "Bring your notebook (or anything you can write in) to huddle today! <!channel>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507738681.000011"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "seedling", 
+        "users": [
+          "U1VD417CP", 
+          "U6XJLPQ9Y", 
+          "U6X9KPH7C"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507738625.000020", 
+    "text": "Today\u2019s huddle topic: Read this quote by Mark Manson, write for 10 minutes, then share with the <!group> at 9:40am): \n&gt;\u201cBecause here\u2019s something that\u2019s weird but true: we don\u2019t actually know what a positive or negative experience is. Some of the most difficult and stressful moments of our lives also end up being the most formative and motivating. Some of the best and most gratifying experiences of our lives are also the most distracting and demotivating. Don\u2019t trust your conception of positive/negative experiences. All that we know for certain is what hurts in the moment and what doesn\u2019t. And that\u2019s not worth much\u201d\nWhat has been the biggest challenge for you so far at Make School? How is it helping you grow?"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1507738534.000073", 
+    "text": "Hey I'm running late today by about 15 min "
+  }, 
+  {
+    "text": "I am running behind this morning. Will be there about 5 mins late.", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1507652430.000291"
+  }, 
+  {
+    "text": "I think I'm going to be 5 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1507651807.000206"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1507650980.000169", 
+    "text": "I won\u2019t be at stand up cause I have a meeting in Oakland "
+  }, 
+  {
+    "text": "Friday\u2019s huddle topic (write for ~5 minutes, then we'll each share with the <!group> at 9:38):\n&gt;Reflect on plans from Core class and coaching sessions to adopt new habits. What has worked well and what hasn\u2019t? What new strategies will you try?", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507307433.000453"
+  }, 
+  {
+    "text": "Running late. I'll probably walk in mid stand up", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1507306545.000380"
+  }, 
+  {
+    "text": "Hey I'm so sorry, I forgot to let you know I'm running late today, my car didn't start this morning so I had to call triple a. I'll lyft to Bart today ", 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1507223858.000597"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U1VD417CP", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507221225.000136", 
+    "text": "I'm running late. Go ahead and get started. Today's huddle is an agile standup focused on your goals for Programming Lab. Remember to keep its sanctity (programming only). <!group>"
+  }, 
+  {
+    "text": "I have a meeting this morning. I won\u2019t be there for stand up", 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1507213592.000041", 
+    "edited": {
+      "user": "U22NDRMGA", 
+      "ts": "1507214107.000000"
+    }
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1507136215.000126", 
+    "text": "Hi Alan. I just wanted to remind you that I won't be able to join tomorrow's Huddle (Thursday)."
+  }, 
+  {
+    "text": "Today\u2019s huddle topic (write for 8 minutes, then we'll each share):\nWhen is your internal critic the strongest? Does it help or hurt you? How do you deal with it? <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1507134880.000105"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1VD417CP", 
+      "ts": "1507134578.000000"
+    }, 
+    "text": "Hello! I wanted to mention that as part of a new schedule, I will be present for Tues/Thursday huddles moving forward", 
+    "ts": "1507134555.000691", 
+    "user": "U1VD417CP", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "inviter": "U1HBKMW8Y", 
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1507087204.000145", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "text": "I will be around 7 minutes late", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1507046978.000390"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "face_with_thermometer", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heartbeat", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1507045434.000243", 
+    "text": "Feeling sick, so I will not be coming to stand up"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "anguished", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "computer", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "boom", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "broken_heart", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "white_frowning_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1507043969.000457", 
+    "text": "I cracked my macbook screen this weekend. :sweat:. I'm bringing it in for repair this morning so i wont be around for stand up"
+  }, 
+  {
+    "text": "Running a tiny bit late group, not sure if I\u2019ll make huddle this morning!", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1506962581.000187"
+  }, 
+  {
+    "text": "Please share with everyone in our <!group>: write a list of people who have positively impacted your life. Pick one and write about how they did so for 3 minutes. We'll all share at 9:40am.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506702790.000462"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1506702077.000330", 
+    "text": "I'll likely be around 5 minutes late"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1506701507.000590", 
+    "text": "Hi team. I won't be at stand ups today. I have another contract related meeting but I'll be around more consistently starting next week. "
+  }, 
+  {
+    "text": "Everyone: write down your goals for programming lab today to preload your thoughts before standup starts. ETA 9:35 <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506616249.000439"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1506614462.000204", 
+    "text": "Hi team. I gave notice to Alan earlier this week about my appt this morning at the DMV to renew my license. It looks like it will go a bit over time, so will need to miss stand up today."
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1506529800.000228", 
+    "text": "I will be late by 5-10 minutes"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 489, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F798PQYDT", 
+        "thumb_480_h": 294, 
+        "original_h": 1040, 
+        "thumb_360_w": 360, 
+        "title": "3. Find a time for meetings.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F798PQYDT/3._find_a_time_for_meetings.png", 
+        "thumb_720_h": 440, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_80.png", 
+        "thumb_360_h": 220, 
+        "size": 301974, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_800.png", 
+        "timestamp": 1506448518, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F798PQYDT/download/3._find_a_time_for_meetings.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_1024.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F798PQYDT-bbcf2bf63c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F798PQYDT/3._find_a_time_for_meetings.png", 
+        "name": "3. Find a time for meetings.png", 
+        "created": 1506448518, 
+        "thumb_1024_h": 626, 
+        "thumb_960_h": 587, 
+        "original_w": 1700, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F798PQYDT-d5b1c35fd4/3._find_a_time_for_meetings_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1506448522.000242", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 273, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "F792D9K0T", 
+        "thumb_480_h": 164, 
+        "original_h": 300, 
+        "thumb_360_w": 360, 
+        "title": "2. Make this calendar public.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F792D9K0T/2._make_this_calendar_public.png", 
+        "thumb_720_h": 245, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_80.png", 
+        "thumb_360_h": 123, 
+        "size": 61311, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_800.png", 
+        "timestamp": 1506448511, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F792D9K0T/download/2._make_this_calendar_public.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F792D9K0T-c8206fa78e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F792D9K0T/2._make_this_calendar_public.png", 
+        "name": "2. Make this calendar public.png", 
+        "created": 1506448511, 
+        "original_w": 880, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-F792D9K0T-ea3878ec5f/2._make_this_calendar_public_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1506448514.000045", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-F78EVU4TS-4864b2a55d/1._share_this_calendar_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "F78EVU4TS", 
+        "thumb_480_h": 277, 
+        "original_h": 416, 
+        "thumb_360_w": 360, 
+        "title": "1. Share this calendar.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-F78EVU4TS/1._share_this_calendar.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-F78EVU4TS-4864b2a55d/1._share_this_calendar_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-F78EVU4TS-4864b2a55d/1._share_this_calendar_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-F78EVU4TS-4864b2a55d/1._share_this_calendar_80.png", 
+        "thumb_360_h": 208, 
+        "size": 79634, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1506448502, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-F78EVU4TS-4864b2a55d/1._share_this_calendar_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-F78EVU4TS/download/1._share_this_calendar.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-F78EVU4TS-09efe30529", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/F78EVU4TS/1._share_this_calendar.png", 
+        "name": "1. Share this calendar.png", 
+        "created": 1506448502, 
+        "original_w": 720, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1506448504.000188", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": ":arrow_right::calendar: Anthony, Johnathan and Laurel: Please make your Google Calendar public for your @students.makeschool.com email account so I can see when you have classes and other commitments so it\u2019s easy for me to schedule around those.\n\n:white_check_mark::calendar::100::gift_heart: Thanks to Ansel, Christopher, Ferdinand, Jeff and Kaichi for already doing this!", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506448484.000187", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1506450728.000000"
+    }
+  }, 
+  {
+    "text": "Everyone: write down your goals for programming lab today to preload your thoughts before standup starts. ETA 9:35 <!group>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506443546.000477"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1506442591.000376", 
+    "text": "Hey I'm out sick today so will miss huddles. I'll see how I'm feeling before class and decide what I'll do then"
+  }, 
+  {
+    "text": "Hey group I may be late or miss huddles.  Woke up feeling terrible today.", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1506354933.000454"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1506097273.000540", 
+    "text": "I will be 10-15 minutes late"
+  }, 
+  {
+    "text": "I will arrive at school 9:50, so I can not make it", 
+    "type": "message", 
+    "user": "U70ECUX2T", 
+    "ts": "1506011704.000292"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1506011592.000269", 
+    "text": "I'm going to be missing huddle this morning "
+  }, 
+  {
+    "text": "I'm running 3-4 minutes late again today. ", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1506011437.000297"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U22NDRMGA", 
+    "ts": "1506006411.000045", 
+    "text": "I was out sick yesterday. I'm coming to make school today but after my appointment. "
+  }, 
+  {
+    "text": "<!channel>: I'm running 5-6 minutes late. :stopwatch::grimacing: Please gather and start considering and discussing today's question:\n&gt;If you had 6 months to live, what would you do?", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1505925017.000344"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YFF5B50", 
+    "ts": "1505836589.000475", 
+    "text": "I'm running about 20 minutes late today, I'll join y'all when I get to make school "
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "ok_hand", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "U6X9KPH7C", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505488451.000219", 
+    "text": "<!channel>: Good morning -- just a reminder that I will also not be attending standup due to a rescheduled conference call at 9:30 am. Hope you have fun today, enjoy the tour at Github :slightly_smiling_face:"
+  }, 
+  {
+    "text": "<!group>: Phone call was just rescheduled for tomorrow at 9:30 am, so I am on my way to MS, will be there shortly. Will need to miss stand up tomorrow morning.", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505406425.000474"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "telephone_receiver", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505404425.000180", 
+    "text": "<!group>: Good morning -- I will also not be attending standup bc I have a conference call at 9:30 am. If it is completed earlier, I will join the group after the call. :)"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "ok_hand", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XJLPQ9Y"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U22NDRMGA", 
+      "ts": "1505403670.000000"
+    }, 
+    "text": "<!group>: I won't be at standup. I have a meeting  but I'll be there after", 
+    "ts": "1505402881.000711", 
+    "user": "U22NDRMGA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<!group>: I'm actually running 10 mins late too due to poor planning on my part. Please gather and start considering what you all want our huddle *team name* to be! ", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1505234035.000326", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1505234068.000000"
+    }
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505233207.000327", 
+    "text": "<!group>: Update - my apologies. 3 cars have passed by very full. Will probably be about 10 minutes late."
+  }, 
+  {
+    "text": "Cars full on Bart coming into the city. I think I will be ~5 minutes late, will adjust accordingly for tomorrow and moving forward.", 
+    "type": "message", 
+    "user": "U1VD417CP", 
+    "ts": "1505232867.000088"
+  }, 
+  {
+    "text": "<!group>: Please post here before our huddle starts (9:30am) if you\u2019ll miss it or think you might arrive late. Thanks!", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1505185516.000170"
+  }, 
+  {
+    "text": "<@U6YFF5B50> has joined the channel", 
+    "ts": "1505185322.000129", 
+    "subtype": "channel_join", 
+    "user": "U6YFF5B50", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1505185322.000116", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1505185322.000098", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6X9KPH7C> has joined the channel", 
+    "ts": "1505185322.000082", 
+    "subtype": "channel_join", 
+    "user": "U6X9KPH7C", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1505185322.000067", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6WRNH1JM> has joined the channel", 
+    "ts": "1505185322.000048", 
+    "subtype": "channel_join", 
+    "user": "U6WRNH1JM", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U70ECUX2T> has joined the channel", 
+    "ts": "1505185322.000033", 
+    "subtype": "channel_join", 
+    "user": "U70ECUX2T", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1505185322.000020", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1VD417CP> has joined the channel", 
+    "ts": "1505185291.000067", 
+    "subtype": "channel_join", 
+    "user": "U1VD417CP", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U22NDRMGA> has joined the channel", 
+    "ts": "1505185291.000045", 
+    "subtype": "channel_join", 
+    "user": "U22NDRMGA", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel topic: Alan\u2019s huddle in Term 1", 
+    "ts": "1505185255.000141", 
+    "topic": "Alan\u2019s huddle in Term 1", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel purpose: Alan\u2019s huddle in Term 1", 
+    "ts": "1505185253.000050", 
+    "subtype": "channel_purpose", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "purpose": "Alan\u2019s huddle in Term 1"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1505185203.000208", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }
+]

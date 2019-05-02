@@ -1,0 +1,550 @@
+[
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1553307675.001300", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1553307567.001100", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1553307521.000900", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1553307376.000700", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1553307299.000500", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "934e44f0-aa80-4bee-a76b-8bf1245eb795", 
+    "edited": {
+      "user": "U9PA0BZQW", 
+      "ts": "1550776859.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U6YD3BYBD", 
+          "U1HBKMW8Y", 
+          "UCJ72FALU", 
+          "U6XV0FFEW"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCJ72FALU", 
+          "U6XV0FFEW"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "calendar", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XV0FFEW"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XV0FFEW"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hello Make School Alumni! :make-school:\n\nCome support your fellow Makers at Demo Night! :star2:\n\n*When:* Tuesday, March 26th, 6pm-9pm :calendar:\n*Where:* Make School: 555 Post Street, SF :heavy_check_mark:\n\n*Sign up:* <http://make.sc/demonight2019>\n\nFood &amp; drinks provided! :fork_and_knife:\n\nHope to see ya'll there! :tada:", 
+    "ts": "1550776835.002000", 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1UTEGPU6> has joined the channel", 
+    "ts": "1547864560.000800", 
+    "subtype": "channel_join", 
+    "user": "U1UTEGPU6", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UFHMAU6Q3", 
+    "ts": "1547853745.000600", 
+    "text": "<@UFHMAU6Q3> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1547852335.000400", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1547844274.000200", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }, 
+  {
+    "text": "<@UCB8SBFJ4> has joined the channel", 
+    "ts": "1544225080.000600", 
+    "subtype": "channel_join", 
+    "user": "UCB8SBFJ4", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1544225065.000400", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1544225029.000200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCJ72FALU"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1541187694.000200", 
+    "text": "<@U8MP28D9S> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1540577434.000200", 
+    "text": "<@UCBDA2GGH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1539759356.000200", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1536775798.000200", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1536775794.000200", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "ca30fcc7-91b2-45a5-9322-b46fb702bddc", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "U8NHWGBGW", 
+          "U6YHKG1RQ"
+        ]
+      }
+    ], 
+    "text": "Applied :slightly_smiling_face:   Thank you, <@U8NHWGBGW>.", 
+    "ts": "1536769312.000100", 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "587c7efb-46f0-4e47-bce6-930e355f57ec", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "heart", 
+        "users": [
+          "U6YHKG1RQ", 
+          "U6WRNH1JM", 
+          "U1HBKMW8Y", 
+          "U9PA0BZQW"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "U6YHKG1RQ", 
+          "U6WRNH1JM", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "pray", 
+        "users": [
+          "U6YHKG1RQ", 
+          "U6WRNH1JM", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 4711, 
+        "original_url": "https://www.dropbox.com/jobs/listing/1309718", 
+        "service_name": "dropbox.com", 
+        "title": "IGNITE Apprentice Program", 
+        "image_width": 200, 
+        "title_link": "https://www.dropbox.com/jobs/listing/1309718", 
+        "image_height": 170, 
+        "image_url": "https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/jobs/DropboxGlyph_Blue_CMYK_200px_width.png", 
+        "from_url": "https://www.dropbox.com/jobs/listing/1309718", 
+        "fallback": "IGNITE Apprentice Program", 
+        "service_icon": "https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.dropbox.com/jobs/listing/1309718>", 
+    "ts": "1536752100.000100", 
+    "user": "U8NHWGBGW", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6X9KPH7C> has joined the channel", 
+    "ts": "1536190406.000200", 
+    "subtype": "channel_join", 
+    "user": "U6X9KPH7C", 
+    "type": "message", 
+    "inviter": "U6YHKG1RQ"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1536181953.000200", 
+    "text": "<@UCMTPELBC> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRX3BB9", 
+    "ts": "1535397361.000200", 
+    "text": "<@UCCRX3BB9> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1535069645.000200", 
+    "text": "<@U8M6V7F3K> has left the channel"
+  }, 
+  {
+    "client_msg_id": "bdc13b27-00f3-40c9-868b-cf219df4323a", 
+    "thread_ts": "1535029636.000100", 
+    "text": "You\u2019re most welcome.", 
+    "ts": "1535039045.000100", 
+    "user": "U6WRNH1JM", 
+    "parent_user_id": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7dfe5905-fd7f-4120-926d-59fcb82cabb5", 
+    "thread_ts": "1535029636.000100", 
+    "latest_reply": "1535039045.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6WRNH1JM"
+    ], 
+    "text": "I imagine the questions may be universal that you would be asked.", 
+    "ts": "1535029636.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6WRNH1JM", 
+    "replies": [
+      {
+        "user": "U6WRNH1JM", 
+        "ts": "1535039045.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "325e9b38-52b0-4e9b-9eab-8f03e63746d5", 
+    "attachments": [
+      {
+        "thumb_height": 180, 
+        "thumb_url": "https://media.glassdoor.com/sqll/34865/linkedin-squarelogo-1462308283451.png", 
+        "thumb_width": 180, 
+        "original_url": "https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-Interview-Questions-EI_IE34865.0,8_KO9,26.htm", 
+        "service_name": "Glassdoor", 
+        "title": "LinkedIn Software Engineer Interview Questions", 
+        "title_link": "https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-Interview-Questions-EI_IE34865.0,8_KO9,26.htm", 
+        "text": "280 LinkedIn Software Engineer interview questions and 259 interview reviews. Free interview details posted anonymously by LinkedIn interview candidates.", 
+        "from_url": "https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-Interview-Questions-EI_IE34865.0,8_KO9,26.htm", 
+        "fallback": "Glassdoor: LinkedIn Software Engineer Interview Questions", 
+        "service_icon": "https://www.glassdoor.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "I am not, unfortunately <@U8M6V7F3K>.  However, this could potentially be an excellent place to start:  <https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-Interview-Questions-EI_IE34865.0,8_KO9,26.htm>\n\nWish you the best.  :dancing_penguin:", 
+    "ts": "1535029613.000100", 
+    "user": "U6WRNH1JM", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4692710-0a6b-4f86-94ae-888147cf63c7", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "anguished", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHKG1RQ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "cold_sweat", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHKG1RQ"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "joy", 
+        "users": [
+          "U8NHWGBGW", 
+          "U6YHKG1RQ", 
+          "U6WRNH1JM", 
+          "U1T2Q3G81"
+        ]
+      }
+    ], 
+    "text": "<@U1HBKMW8Y> why am I in this channel?  I still have at least another year left.", 
+    "ts": "1534836873.000100", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6WRNH1JM> has joined the channel", 
+    "ts": "1534791181.000200", 
+    "subtype": "channel_join", 
+    "user": "U6WRNH1JM", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8NHWRX0W> has joined the channel", 
+    "ts": "1534791171.000200", 
+    "subtype": "channel_join", 
+    "user": "U8NHWRX0W", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6WQK3Q73> has joined the channel", 
+    "ts": "1534791074.000200", 
+    "subtype": "channel_join", 
+    "user": "U6WQK3Q73", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YHKG1RQ> has joined the channel", 
+    "ts": "1534791070.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YHKG1RQ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> has joined the channel", 
+    "ts": "1534791037.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XE4NNSZ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8M6V7F3K> has joined the channel", 
+    "ts": "1534791017.000200", 
+    "subtype": "channel_join", 
+    "user": "U8M6V7F3K", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XRWEQGY> has joined the channel", 
+    "ts": "1534791000.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XRWEQGY", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YD3BYBD> has joined the channel", 
+    "ts": "1534790836.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YD3BYBD", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1534790834.000200", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1534790830.000200", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XDV6CVA> has joined the channel", 
+    "ts": "1534790828.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XDV6CVA", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1534790809.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U2B6Q2SVB> has joined the channel", 
+    "ts": "1534790799.000200", 
+    "subtype": "channel_join", 
+    "user": "U2B6Q2SVB", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U264ANGAE> has joined the channel", 
+    "ts": "1534790796.000200", 
+    "subtype": "channel_join", 
+    "user": "U264ANGAE", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1VDXDV0X> has joined the channel", 
+    "ts": "1534790743.000200", 
+    "subtype": "channel_join", 
+    "user": "U1VDXDV0X", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> has joined the channel", 
+    "ts": "1534790737.000200", 
+    "subtype": "channel_join", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "stuck_out_tongue_winking_eye", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U1YM6H8MA"
+        ]
+      }
+    ], 
+    "inviter": "U1HBKMW8Y", 
+    "text": "<@U1YM6H8MA> has joined the channel", 
+    "ts": "1534790668.000200", 
+    "subtype": "channel_join", 
+    "user": "U1YM6H8MA", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel topic: Discussion and networking with Make School alumni", 
+    "ts": "1534789120.000100", 
+    "topic": "Discussion and networking with Make School alumni", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel purpose: Discussion and networking with Make School alumni", 
+    "ts": "1534789116.000300", 
+    "subtype": "channel_purpose", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "purpose": "Discussion and networking with Make School alumni"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1534789116.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }
+]

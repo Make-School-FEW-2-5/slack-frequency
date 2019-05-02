@@ -1,0 +1,1324 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1556656675.000200", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1553308213.000400", 
+    "text": "<@UCB8T79UG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1553118783.000200", 
+    "text": "<@UCD53TKCN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1550384577.000300", 
+    "text": "<@UCBHS9M3N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JMBMM", 
+    "ts": "1549578246.000200", 
+    "text": "<@UCD1JMBMM> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547599863.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAMHRDL", 
+    "ts": "1547019052.000200", 
+    "text": "<@UCDAMHRDL> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1544650602.000200", 
+    "text": "<@UCD9FM8GN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "7b2fad01-876f-4ab2-9830-6d58fc1b69c6", 
+    "text": "we\u2019ll be using the same workshop, but in it\u2019s evolved form - I recently ported it to our tutorial system for use during Hour of Code during Code Week this week. would appreciate any QA/feedback on the changes: <http://make.sc/hoc2018|make.sc/hoc2018>", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1543868917.002800"
+  }, 
+  {
+    "client_msg_id": "ddd640cc-2e48-4894-b9f2-ce69f319ad38", 
+    "attachments": [
+      {
+        "image_bytes": 51058, 
+        "original_url": "https://www.eventbrite.com/e/learn-code-magic-programming-workshop-in-sf-registration-52853211378", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "555 Post St, San Francisco, CA 94102", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Tue, Dec 4, 2018 at 5:00 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Learn Code Magic - Programming Workshop in SF", 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/learn-code-magic-programming-workshop-in-sf-registration-52853211378", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F52963416%2F155197672887%2F1%2Foriginal.jpg?w=1000&auto=compress&rect=0%2C439%2C5182%2C2591&s=dd495510cf9c2b3b7587f72f6d493194", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/learn-code-magic-programming-workshop-in-sf-registration-52853211378", 
+        "fallback": "Eventbrite: Learn Code Magic - Programming Workshop in SF", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1d8fef/django/images/touch_icons/apple-touch-icon-180x180.png", 
+        "text": "Hello students! Have you ever wanted to learn more about the magical power of programming? Join us for a free 2-hour workshop to get hands-on programming experience as you learn how to create your own code wizard and magical code castle. No prior coding experience required, but if you are already familiar with the basics we have some extra challenges for you. :) DETAILS Who:\u00a0High school and college students\u00a0 Where:\u00a0Make School HQ, conveniently located near Union Square at 555 Post St, San Francisco, CA When: Tuesday, 04 December, from 5pm to 7pm, doors open 4:45. What to Bring: Bringing a personal laptop is highly recommended, though participants may also pair up if needed. What\u2019s Provided: light refreshments programming tutorial instruction and mentor support the chance to visit our new Union Square location the opportunity to meet current Make School students CAN'T MAKE IT? Have your school or organization sign up for a workshop and\u00a0we\u2019ll come to you!\u00a0 Educators - view our other events and join us for one of our Educator Workshops.", 
+        "id": 1
+      }
+    ], 
+    "text": "Hello again mentors!  Mentoring opportunity tomorrow from 5-7pm in Golden Gate: <https://www.eventbrite.com/e/learn-code-magic-programming-workshop-in-sf-registration-52853211378>", 
+    "ts": "1543868778.001000", 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "411ec555-f72f-4e79-8fa0-850e10c01206", 
+    "thread_ts": "1541191915.004700", 
+    "text": "ok", 
+    "ts": "1542066422.001900", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "21873d41-2e97-417a-9b83-63583f7a82c7", 
+    "thread_ts": "1541191915.004700", 
+    "text": "<@UCB58P2V6> yes", 
+    "ts": "1542066412.001700", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "484d9d9a-79ae-417e-8810-02dfa236748f", 
+    "thread_ts": "1541191915.004700", 
+    "text": "<@U2QTVG278> same time ? 4-6?", 
+    "ts": "1542065776.001500", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7e7b5f16-f702-47ab-be59-72ee5396fddc", 
+    "thread_ts": "1541191915.004700", 
+    "text": "<@UCB58P2V6> <@UCC0GL52N> <@UCC0HC7D0> - we are doing the workshop in Everest instead of in the great hall", 
+    "ts": "1542065748.001300", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3bfd1d2e-1d3c-45db-b64c-6a72af1d8224", 
+    "thread_ts": "1541191915.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "Yes, I'm good to help out.", 
+    "ts": "1542045301.001000", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E88FC86C-602E-49F2-B681-445CC79F8C73", 
+    "edited": {
+      "user": "UCB58P2V6", 
+      "ts": "1542044678.000000"
+    }, 
+    "thread_ts": "1541191915.004700", 
+    "text": "<@U2QTVG278> confirmed for me", 
+    "ts": "1542044668.000600", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "75cedd4f-ab35-46a7-9978-167e5fa0edd5", 
+    "thread_ts": "1541191915.004700", 
+    "text": "<@UCB58P2V6> and <@UCC0GL52N> checking to confirm if you are still both able to help out today from 4-6", 
+    "ts": "1542043145.000100", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ce7a99c6-1b65-44be-acd8-dd2ab099f2be", 
+    "thread_ts": "1541191915.004700", 
+    "text": "both added to the event :thankyou:", 
+    "ts": "1541448308.000300", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "06d5e2a2-960d-4cf1-870b-4e5be84218d9", 
+    "thread_ts": "1541191915.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "Hey Jordan, I would like to volunteer for the workshop also.", 
+    "ts": "1541407303.006300", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "91E69A41-2D0B-4B24-9C3D-D0DB4AB13A89", 
+    "thread_ts": "1541191915.004700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I can volunteer for the 4-6 workshop.", 
+    "ts": "1541192149.005700", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7df4bef-7cfc-4d93-8d69-91859670eba0", 
+    "edited": {
+      "user": "U2QTVG278", 
+      "ts": "1541194201.000000"
+    }, 
+    "latest_reply": "1542066422.001900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB58P2V6", 
+      "UCC0GL52N", 
+      "U2QTVG278"
+    ], 
+    "thread_ts": "1541191915.004700", 
+    "text": "On November 12th, we\u2019ll be hosting two workshops in the Great Hall. From 1-3p is for educators/teachers who want to learn how they can help teach programming even if they are just starting out themselves. Then from 4-6p we\u2019ll be hosting a more typical workshop for high schoolers.\n\nI would love to see as many of our volunteer mentors participate as possible - as participants in the first one and as mentors in the second. :slightly_smiling_face:\n\nLinked for reference, but please do not RSVP on evenbrite, just reply here and I\u2019ll add you to the calendar event.\n\n<https://www.eventbrite.com/edit?eid=52160881601>", 
+    "ts": "1541191915.004700", 
+    "type": "message", 
+    "reply_count": 10, 
+    "user": "U2QTVG278", 
+    "replies": [
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1541192149.005700"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1541407303.006300"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1541448308.000300"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1542043145.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1542044668.000600"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1542045301.001000"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1542065748.001300"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1542065776.001500"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1542066412.001700"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1542066422.001900"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "text": "<@U2QTVG278> set the channel topic: Make School sponsored/supported mentoring opportunities (for generic volunteering opportunities please post in <#C2D9R88Q0|events>)", 
+    "ts": "1540939605.000200", 
+    "topic": "Make School sponsored/supported mentoring opportunities (for generic volunteering opportunities please post in <#C2D9R88Q0|events>)", 
+    "subtype": "channel_topic", 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "de4eab30-4345-4b10-b707-975d0ba00406", 
+    "thread_ts": "1540838986.001300", 
+    "text": "oops this was today, so we missed out", 
+    "ts": "1540845770.001700", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab1d1512-f662-4bb8-bf5b-28639c111843", 
+    "thread_ts": "1540838986.001300", 
+    "latest_reply": "1540845770.001700", 
+    "subscribed": false, 
+    "reply_users": [
+      "U2QTVG278"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "From Amber at IGNITE:\n&gt; Also, we still need more volunteers for our coding workshop at Hilltop High School for Pregnant Minors. Could you spread the word to see if anyone is interested in helping tutoring? The panel is full and we have a facilitator, we just need more tutors :)\n\nI\u2019m following up to try and confirm dates/times but you can also reach out to her directly by email if you are interested: <mailto:amber@ignite-worldwide.org|amber@ignite-worldwide.org>", 
+    "ts": "1540838986.001300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U2QTVG278", 
+    "replies": [
+      {
+        "user": "U2QTVG278", 
+        "ts": "1540845770.001700"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "3a210308-caa6-40e0-a45f-35ad86aceeb9", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "UCD1JMBMM", 
+          "U916G04LB", 
+          "UCD9FM8GN"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 84936, 
+        "original_url": "http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/", 
+        "text": "Ida B. Wells Continuation High School in San Francisco gives a big shout out to Make School for creating and presenting a coding workshop. The students were engaged and enthusiastic about the awesome coding activity and Q&amp;A panel discussion. \u00a0Students use javascript to create a wizard that levitates and uses a wand. This was the first time many of our female students tried their hand at coding. Thank you to Lucia, Anisha, Jordan, Medi, Keoni, Seve, and Akhtar for assisting students. \u00a0 \u201cI enjoyed making the wizard and asking for help when it was needed.\u201d \u00a0 \u201c I enjoyed getting to code and getting to know more about this program.\u201d \u00a0 After the coding workshop, Lucia, Alisha, and Jordan were on a panel where they shared their stories. Their stories really resonated with the students. Thank you again for the opportunity for our students to meet such a talented and diverse group of computer scientists! \u00a0 \u201cI enjoyed when the panel opened up about their background.\u201d \u00a0 \u201cHearing the mentors personal experience inspired me not to give up.\u201d \u00a0 \u00a0 After this event: [siteorigin_widget class=SiteOrigin_Widget_Features_Widget][/siteorigin_widget] ADDITIONAL PHOTOS", 
+        "title": "Coding Workshop at Ida B. Wells Continuation High School", 
+        "image_width": 333, 
+        "title_link": "http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/", 
+        "image_height": 250, 
+        "image_url": "http://www.igniteworldwide.org/wp-content/uploads/2018/10/IMG_0127-1.jpg", 
+        "service_name": "igniteworldwide.org", 
+        "from_url": "http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/", 
+        "fallback": "Coding Workshop at Ida B. Wells Continuation High School", 
+        "service_icon": "http://www.igniteworldwide.org/wp-content/uploads/2015/07/favicon-2.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Hi-five to all of our awesome mentors! <http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/>", 
+    "ts": "1540329602.000100", 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7ebeb10-4d83-420c-a144-60e17ed143d1", 
+    "thread_ts": "1538155692.000100", 
+    "text": "still waiting on a few people to fill out the form (and sign the doc I assume) - please take a few minutes to complete this small task by the end of today", 
+    "ts": "1539715447.000100", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "235ac804-df71-4915-ba46-094ca38f4f31", 
+    "thread_ts": "1538155692.000100", 
+    "text": "<!here> it\u2019s not too late to volunteer to help out at Hyphen-Hacks for either just the workshop on Saturday or if you want to stay for longer (see pinned thread above to volunteer)", 
+    "ts": "1539627820.000100", 
+    "subtype": "thread_broadcast", 
+    "user": "U2QTVG278", 
+    "type": "message", 
+    "root": {
+      "client_msg_id": "48c60ed0-9900-4113-9fa1-7ffeb1ec676f", 
+      "edited": {
+        "user": "U2QTVG278", 
+        "ts": "1538174008.000000"
+      }, 
+      "latest_reply": "1539715447.000100", 
+      "subscribed": false, 
+      "reply_users": [
+        "UCHK87XEJ", 
+        "UCB58P2V6", 
+        "UCBS3LMDZ", 
+        "UCC0GL52N", 
+        "UCD53TKCN", 
+        "U2QTVG278"
+      ], 
+      "thread_ts": "1538155692.000100", 
+      "text": "Calendar event for mentoring on Oct 20th: <https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MHJmaHY4dXN2MGRkZnZmbG91ZHJlNjgxMXYgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&amp;tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com>\n\nDetails from event:\n*What*\nJoin Jordan in giving a workshop (intro to code) at a local hackathon for Bay Area high schoolers: Hyphen-Hacks (<https://hyphen-hacks.com/>).\n\nHelp out for just the workshop, or hangout longer to walk around and help young programmers debug their hackathon projects.\n\nThis is a wonderful way to help others as well as rapidly increase your own personal skill at debugging and communicating technical ideas and concepts with others. You don\u2019t have to already know how to find and solve their bugs, you will help enormously just by helping them learn to better debug and google their own issues.\n\n*Logistics*\nTo Be Determined, likely will arrange a group Lyft if needed\n\nTotal time commitment: 2+ hours (up to the full 24 if you want to be cool and hard core and be their over-night mentor hero, just saying...)\n\n*No volunteer limit on this one, hackathons can always use more mentors! :D*", 
+      "ts": "1538155692.000100", 
+      "type": "message", 
+      "reply_count": 8, 
+      "user": "U2QTVG278", 
+      "replies": [
+        {
+          "user": "UCHK87XEJ", 
+          "ts": "1538157922.000100"
+        }, 
+        {
+          "user": "UCB58P2V6", 
+          "ts": "1538159148.000100"
+        }, 
+        {
+          "user": "UCBS3LMDZ", 
+          "ts": "1538167119.000100"
+        }, 
+        {
+          "user": "UCC0GL52N", 
+          "ts": "1538173821.000100"
+        }, 
+        {
+          "user": "UCD53TKCN", 
+          "ts": "1538498884.000100"
+        }, 
+        {
+          "user": "U2QTVG278", 
+          "ts": "1539627753.000100"
+        }, 
+        {
+          "user": "U2QTVG278", 
+          "ts": "1539627820.000100"
+        }, 
+        {
+          "user": "U2QTVG278", 
+          "ts": "1539715447.000100"
+        }
+      ], 
+      "reply_users_count": 6
+    }
+  }, 
+  {
+    "client_msg_id": "6c262174-3b87-483e-a9a8-43114f5ed0db", 
+    "edited": {
+      "user": "U2QTVG278", 
+      "ts": "1539627847.000000"
+    }, 
+    "thread_ts": "1538155692.000100", 
+    "text": "Hello mentors - everyone who already volunteered above should have been added to the calendar event and also have received two emails just now with requests for info that the hackathon organizers need from each volunteer. Please complete these requests asap to help make the organizer\u2019s life easier. :slightly_smiling_face:\nedit- I\u2019ll also be updating the calendar event soon with the address and when/where to meet", 
+    "ts": "1539627753.000100", 
+    "user": "U2QTVG278", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1539276805.000200", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "U9W8R4A2W"
+  }, 
+  {
+    "client_msg_id": "f6e5a2e9-4056-4360-a642-7a16317b0304", 
+    "thread_ts": "1539208420.000100", 
+    "text": "that sounds great! <@U9PA0BZQW> we should make this happen!", 
+    "ts": "1539276802.000100", 
+    "user": "U9W8R4A2W", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8bbe6dca-f191-4708-b8ca-9ef823f28849", 
+    "thread_ts": "1539208420.000100", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U2QTVG278", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Yes. I think if all if the students heard other students talk about their positive experiences as being a mentor it would potentially inspire more people to serve as mentors for Make School.", 
+    "ts": "1539219938.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a957b5e7-5ef1-4ef5-b812-92d3a2d4cfb6", 
+    "text": "<https://www.hshacks.com/?ref=hackclub>", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1539213872.000200"
+  }, 
+  {
+    "client_msg_id": "c13098cf-e1a4-4168-8d11-fc6d9369c091", 
+    "thread_ts": "1539208420.000100", 
+    "text": "<@UCD53TKCN> as in those who mentored at the hackathon this weekend, would say a few words on monday's all hands?", 
+    "ts": "1539213405.000100", 
+    "user": "U9W8R4A2W", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB8SBFJ4> has joined the channel", 
+    "ts": "1539210398.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8SBFJ4", 
+    "type": "message", 
+    "inviter": "UCB58P2V6"
+  }, 
+  {
+    "client_msg_id": "e445853b-70ee-4e42-8061-7827d1b4fd7e", 
+    "thread_ts": "1539208420.000100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6", 
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "Just registered for the above event. Maybe we could have a section during the all hands where students mentoring can talk about their mentorship experience.", 
+    "ts": "1539210210.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1539210208.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UCB58P2V6"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1539210208.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCB58P2V6"
+  }, 
+  {
+    "client_msg_id": "278d866e-422e-4baa-9083-38d95010ec83", 
+    "thread_ts": "1539208420.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6"
+        ]
+      }
+    ], 
+    "text": "good thinking! and you can also encourage your peers to join this channel?", 
+    "ts": "1539209700.000100", 
+    "user": "U9W8R4A2W", 
+    "parent_user_id": "UCB58P2V6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0d55f158-5d2e-45c4-ad44-7047dac46876", 
+    "thread_ts": "1539208420.000100", 
+    "latest_reply": "1539276802.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U9W8R4A2W", 
+      "UCD53TKCN"
+    ], 
+    "text": "<@U9W8R4A2W> not many students are aware, maybe you should repost it on the general Chanel.", 
+    "ts": "1539208420.000100", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCB58P2V6", 
+    "replies": [
+      {
+        "user": "U9W8R4A2W", 
+        "ts": "1539209700.000100"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1539210210.000100"
+      }, 
+      {
+        "user": "U9W8R4A2W", 
+        "ts": "1539213405.000100"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1539219938.000100"
+      }, 
+      {
+        "user": "U9W8R4A2W", 
+        "ts": "1539276802.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD6U8C8D6", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "TeenTechSF 2018 Civic Hackathon Mentor Sign-Up Sheet", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_80.png", 
+        "thumb_360_h": 360, 
+        "size": 62029, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_800.png", 
+        "timestamp": 1538692301, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_1024.png", 
+        "user": "U2QTVG278", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2QTVG278/FD6U8C8D6/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet", 
+        "name": "TeenTechSF 2018 Civic Hackathon Mentor Sign-Up Sheet", 
+        "created": 1538692301, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "c8fa9d62-63c9-4242-afd7-487928f943f5", 
+    "text": "<!here> TeenTech SF is still taking mentors for the hackathon this weekend.  Would love to have some more Make School representation, especially since the hackathon will be running here on campus.  You can sign up to be a mentor here: <https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1539198373.000100", 
+    "display_as_bot": false, 
+    "user": "U9W8R4A2W", 
+    "x_files": [
+      "FD6U8C8D6"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7b29378-fe55-43b6-91c5-9ec3cf5f9c86", 
+    "thread_ts": "1538674157.000100", 
+    "text": "<@UCB58P2V6> A little bit of both. I'll be explaining some of the facts about Make School and our offerings and asking students questions about student life; access to professors; decision to attend, etc. And then we can take questions after after the session and y'all can definitely help answer those. Sound good?", 
+    "ts": "1538756049.000100", 
+    "user": "UD44P4YRE", 
+    "parent_user_id": "UD44P4YRE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fbceec53-5a86-416d-a883-b20039e8e00a", 
+    "thread_ts": "1538674157.000100", 
+    "text": "<@UD44P4YRE> is it like a panel or Q&amp;A with students?", 
+    "ts": "1538705141.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "UD44P4YRE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "47696846-b75f-484d-bf77-1dff770e59ac", 
+    "thread_ts": "1538677135.000100", 
+    "text": "Got it, Thank you", 
+    "ts": "1538704537.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 339, 
+        "filetype": "gsheet", 
+        "thumb_800_h": 1132, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FD6U8C8D6", 
+        "thumb_480_h": 480, 
+        "original_h": 1449, 
+        "thumb_360_w": 254, 
+        "title": "TeenTechSF 2018 Civic Hackathon Mentor Sign-Up Sheet", 
+        "url_private": "https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_64.png", 
+        "thumb_720_w": 509, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_80.png", 
+        "thumb_360_h": 360, 
+        "size": 62029, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_800.png", 
+        "timestamp": 1538692301, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_1024.png", 
+        "user": "U2QTVG278", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2QTVG278/FD6U8C8D6/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet", 
+        "name": "TeenTechSF 2018 Civic Hackathon Mentor Sign-Up Sheet", 
+        "created": 1538692301, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1024, 
+        "thumb_960_w": 678, 
+        "thumb_1024_w": 724, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FD6U8C8D6-ee085ff452/teentechsf_2018_civic_hackathon_mentor_sign-up_sheet_720.png", 
+        "external_url": "https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0"
+      }
+    ], 
+    "client_msg_id": "85269fd2-5721-453d-aefa-521339181280", 
+    "thread_ts": "1538677135.000100", 
+    "text": "<@UCB58P2V6> here\u2019s the sheet to sign up so TTSF knows who is mentoring: Please also register as a volunteer directly with TTSF on this sheet: <https://docs.google.com/spreadsheets/d/1gPSL_m67RXs4_4NDgd8d3pgK5pWDZcpP4ocB4k2mLv8/edit#gid=0>", 
+    "upload": false, 
+    "ts": "1538692299.000100", 
+    "display_as_bot": false, 
+    "user": "U2QTVG278", 
+    "x_files": [
+      "FD6U8C8D6"
+    ], 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCB58P2V6", 
+          "UCC0GL52N"
+        ]
+      }
+    ]
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U9W8R4A2W", 
+    "ts": "1538687752.000200", 
+    "text": "<@U9W8R4A2W> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "999e33c0-ae62-4f3d-ac3b-f4b243276a9c", 
+    "thread_ts": "1538677135.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thankyou", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I am interested to help as a mentor <@U2QTVG278>", 
+    "ts": "1538679138.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "357753fe-d317-463d-a412-0030b2eacf49", 
+    "thread_ts": "1538677135.000100", 
+    "latest_reply": "1538704537.000100", 
+    "attachments": [
+      {
+        "original_url": "https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2Q4M3Z1bnNwbzk5YWQ3YmhjcjlmZzV2OXQgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&amp;tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com", 
+        "text": "With Google's free online calendar, it\u2019s easy to keep track of life\u2019s important events all in one place.", 
+        "title": "Google Calendar", 
+        "title_link": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N2Q4M3Z1bnNwbzk5YWQ3YmhjcjlmZzV2OXQgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com", 
+        "service_name": "accounts.google.com", 
+        "from_url": "https://calendar.google.com/event?action=TEMPLATE&tmeid=N2Q4M3Z1bnNwbzk5YWQ3YmhjcjlmZzV2OXQgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com", 
+        "fallback": "Google Calendar", 
+        "service_icon": "https://accounts.google.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB58P2V6", 
+      "U2QTVG278"
+    ], 
+    "replies": [
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1538679138.000100"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1538692299.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1538704537.000100"
+      }
+    ], 
+    "ts": "1538677135.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U2QTVG278", 
+    "text": "*Teen Tech SF Hackathon @ Make School*\n*10/13/18 and 10/14/18* (check event for exact times)\nIn addition to the panel mentioned above, the TTSF team would love to have as many mentors as possible to create a great experience for the high school participants. Volunteers can come for as little or as much of the event as they like.\n\n<https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2Q4M3Z1bnNwbzk5YWQ3YmhjcjlmZzV2OXQgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&amp;tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1538675195.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "UCB8U00KA"
+  }, 
+  {
+    "client_msg_id": "44a045e8-1c89-47e4-bc61-400a1c86c833", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1538675211.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "unicorn_face", 
+        "users": [
+          "U2QTVG278", 
+          "UCB8T79UG", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "Had an awesome training session with <@UCB8T79UG> and Amber from IGNITE for the upcoming 10/24 and 10/25 panels! super excited :smile:", 
+    "ts": "1538675191.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1b7c3677-32d1-4e28-90c9-a08d682ed9be", 
+    "text": "I would love to volunteer!!!", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1538674461.000100"
+  }, 
+  {
+    "client_msg_id": "7f3c18bf-965c-42bb-8d77-bd701ad85cdc", 
+    "thread_ts": "1538674157.000100", 
+    "text": "Would love to be apart of this!", 
+    "ts": "1538674272.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UD44P4YRE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d6f06d75-45ff-42e7-86f2-f2bfbaa51c73", 
+    "thread_ts": "1538674157.000100", 
+    "latest_reply": "1538756049.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCD53TKCN", 
+      "UCB58P2V6", 
+      "UD44P4YRE"
+    ], 
+    "text": "Hey y'all! Admissions is going to put on an info session on Oct 13 during the TTSF hackathon. I need 2-3 volunteers to talk about their experiences at Make School. I'll guide you with questions. Appreciate your help!", 
+    "ts": "1538674157.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UD44P4YRE", 
+    "replies": [
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1538674272.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1538705141.000100"
+      }, 
+      {
+        "user": "UD44P4YRE", 
+        "ts": "1538756049.000100"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UD44P4YRE", 
+    "ts": "1538674050.000200", 
+    "text": "<@UD44P4YRE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1538505170.000200", 
+    "text": "<@UCDAKSB7Y> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2aff7d97-9136-47ec-a357-15994d763a25", 
+    "thread_ts": "1538155692.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "what everyone else said!", 
+    "ts": "1538498884.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1538497702.000200", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "5ff6a778-281b-411f-a266-05ed7a34dc38", 
+    "thread_ts": "1538155692.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I want to volunteer also!", 
+    "ts": "1538173821.000100", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5494d12d-34fb-4595-a812-9255ba39a890", 
+    "thread_ts": "1538171010.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I would love to do one of these Jordan! I just messaged Miki about it", 
+    "ts": "1538171469.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4143ac0-16cd-412f-9c41-0d6cade24560", 
+    "thread_ts": "1538171010.000100", 
+    "latest_reply": "1538171469.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA"
+    ], 
+    "text": "*10/25/18 (Thu) 9:45 - 12:00 pm*\nPlace: Washington High School (600 32rd Ave San Francisco, CA, 94121)\nWashington High School\u2019s IGNITE chapter is looking for a diverse group of women for one-on-one coding support as girls participate in a coding workshop! The chapter is also looking for women working on the computer science and robotics side of life sciences to tell their story.", 
+    "ts": "1538171010.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U2QTVG278", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1538171469.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "4dcdd88a-e344-47c3-ad75-f804c7ec73e7", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "hand::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "*10/24/18 (Wed) 11:45am - 1:20pm*\nPlace: Galileo HS (1150 Francisco St San Francisco, CA 94109)\nGalileo High School\u2019s IGNITE chapter is looking for a diverse group of women with to share their personal story with a diverse group of girls. Focus is on technology/software side of STEM.", 
+    "pinned_info": {
+      "pinned_ts": 1538171017, 
+      "channel": "CD3HJDNJH", 
+      "pinned_by": "U2QTVG278"
+    }, 
+    "ts": "1538170999.000100", 
+    "pinned_to": [
+      "CD3HJDNJH"
+    ], 
+    "user": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bab9a5e7-705b-4c62-bb6d-879d9691826a", 
+    "text": "Two more upcoming volunteering opportunities with IGNITE (<http://www.igniteworldwide.org/>) who is partnering with high schools to inspire more girls in STEM.\n\nPlease reply to each event that you want to volunteer for and I will add you to the calendar event. For now, I will limit the number of volunteers to a default of  *3 volunteers per event* unless otherwise stated. People can volunteer as backups after the first slots are filled.", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1538170980.000100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U916G04LB", 
+    "ts": "1538170520.000200", 
+    "text": "<@U916G04LB> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "1e80d80c-a481-40a7-b028-8e1632f39aa8", 
+    "thread_ts": "1538155692.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I would like to volunteer too", 
+    "ts": "1538167119.000100", 
+    "user": "UCBS3LMDZ", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD9FM8GN", 
+    "ts": "1538164483.000200", 
+    "text": "<@UCD9FM8GN> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1538164411.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1538162802.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "903E20AA-00DF-4E46-8E15-1E1A775C08A2", 
+    "thread_ts": "1538155692.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "i\u2019d like to volunteer as well", 
+    "ts": "1538159148.000100", 
+    "user": "UCB58P2V6", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "64a36d85-289e-4ac9-803e-35f14fcd7eb0", 
+    "thread_ts": "1538155692.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U2QTVG278"
+        ]
+      }
+    ], 
+    "text": "I'd like to volunteer for this event! :pikachu:", 
+    "ts": "1538157922.000100", 
+    "user": "UCHK87XEJ", 
+    "parent_user_id": "U2QTVG278", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1538157345.000200", 
+    "text": "<@UCBS3LMDZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1538156788.000200", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1538156637.000200", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1538156561.000200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1538156381.000200", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "48c60ed0-9900-4113-9fa1-7ffeb1ec676f", 
+    "edited": {
+      "user": "U2QTVG278", 
+      "ts": "1538174008.000000"
+    }, 
+    "latest_reply": "1539715447.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCHK87XEJ", 
+      "UCB58P2V6", 
+      "UCBS3LMDZ", 
+      "UCC0GL52N", 
+      "UCD53TKCN", 
+      "U2QTVG278"
+    ], 
+    "thread_ts": "1538155692.000100", 
+    "text": "Calendar event for mentoring on Oct 20th: <https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MHJmaHY4dXN2MGRkZnZmbG91ZHJlNjgxMXYgbWFrZWdhbWVzd2l0aC51c19pMzlscWlwbGh2ZnBuN21nZjlzYWJocXAxb0Bn&amp;tmsrc=makegameswith.us_i39lqiplhvfpn7mgf9sabhqp1o%40group.calendar.google.com>\n\nDetails from event:\n*What*\nJoin Jordan in giving a workshop (intro to code) at a local hackathon for Bay Area high schoolers: Hyphen-Hacks (<https://hyphen-hacks.com/>).\n\nHelp out for just the workshop, or hangout longer to walk around and help young programmers debug their hackathon projects.\n\nThis is a wonderful way to help others as well as rapidly increase your own personal skill at debugging and communicating technical ideas and concepts with others. You don\u2019t have to already know how to find and solve their bugs, you will help enormously just by helping them learn to better debug and google their own issues.\n\n*Logistics*\nTo Be Determined, likely will arrange a group Lyft if needed\n\nTotal time commitment: 2+ hours (up to the full 24 if you want to be cool and hard core and be their over-night mentor hero, just saying...)\n\n*No volunteer limit on this one, hackathons can always use more mentors! :D*", 
+    "ts": "1538155692.000100", 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "U2QTVG278", 
+    "replies": [
+      {
+        "user": "UCHK87XEJ", 
+        "ts": "1538157922.000100"
+      }, 
+      {
+        "user": "UCB58P2V6", 
+        "ts": "1538159148.000100"
+      }, 
+      {
+        "user": "UCBS3LMDZ", 
+        "ts": "1538167119.000100"
+      }, 
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1538173821.000100"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1538498884.000100"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1539627753.000100"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1539627820.000100"
+      }, 
+      {
+        "user": "U2QTVG278", 
+        "ts": "1539715447.000100"
+      }
+    ], 
+    "reply_users_count": 6
+  }, 
+  {
+    "client_msg_id": "7e70b714-90ff-4ea1-adb1-543dd42fcd24", 
+    "text": "I\u2019ve stopped accepting volunteers for the Oct 2nd workshop (sorry !:disappointed: ) since we have enough, but I will post here to update everyone about new opportunities as they arise.", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1538155234.000100"
+  }, 
+  {
+    "client_msg_id": "e95fa1a8-3731-4755-8c85-3bc1728b0310", 
+    "text": "Hello and thank you again to all of the volunteers that have reached out to me!", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1538155116.000100"
+  }, 
+  {
+    "text": "<@UCDAMHRDL> has joined the channel", 
+    "ts": "1538155086.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAMHRDL", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1538155077.001400", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCBHS9M3N> has joined the channel", 
+    "ts": "1538155077.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBHS9M3N", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1538155077.001000", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCD1JMBMM> has joined the channel", 
+    "ts": "1538155077.000800", 
+    "subtype": "channel_join", 
+    "user": "UCD1JMBMM", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1538155077.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1538155077.000400", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1538155077.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "U2QTVG278"
+  }, 
+  {
+    "text": "<@U2QTVG278> set the channel purpose: For posting and organizing volunteer mentor opportunities in the local community", 
+    "ts": "1538154867.000100", 
+    "subtype": "channel_purpose", 
+    "user": "U2QTVG278", 
+    "type": "message", 
+    "purpose": "For posting and organizing volunteer mentor opportunities in the local community"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1538154866.000200", 
+    "text": "<@U2QTVG278> has joined the channel"
+  }
+]

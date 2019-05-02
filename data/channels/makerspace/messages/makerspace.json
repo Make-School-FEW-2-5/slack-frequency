@@ -1,0 +1,3385 @@
+[
+  {
+    "client_msg_id": "C7FB9C8C-2E3B-4F98-B227-1C479C1EDE04", 
+    "text": "we should keep brainstorming on what kinds of things we can make to help teach CS! I was super impressed with this idea <@UCC0KLBPU> ", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556754772.001700"
+  }, 
+  {
+    "client_msg_id": "74b2f116-ba6f-4b25-a4a2-94d20c4a2422", 
+    "attachments": [
+      {
+        "image_bytes": 256161, 
+        "original_url": "https://medium.com/@RaymondDashWu/doubly-linked-lists-and-how-to-implement-them-in-python-3-6c672c9b06d8", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "5 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Doubly Linked Lists and How to Implement Them in Python 3", 
+        "ts": 1556750174, 
+        "title_link": "https://medium.com/@RaymondDashWu/doubly-linked-lists-and-how-to-implement-them-in-python-3-6c672c9b06d8", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*Mqzflv7gTUSV3FEDgs9_6g.png", 
+        "image_width": 602, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@RaymondDashWu/doubly-linked-lists-and-how-to-implement-them-in-python-3-6c672c9b06d8", 
+        "fallback": "Medium: Doubly Linked Lists and How to Implement Them in Python 3", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Linked lists are a linear way of storing data. It consists of nodes that contain data as well as pointers with how to get to the next\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "Published an article on doubly linked lists. Made a 3d model if you want to 3d print your own doubly linked list analogy as well! <https://medium.com/@RaymondDashWu/doubly-linked-lists-and-how-to-implement-them-in-python-3-6c672c9b06d8>", 
+    "ts": "1556750460.000500", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f2f3fba3-56aa-49e1-8ce6-9e057c91872d", 
+    "text": "making a spreadsheet for end of class trophies. Not linked to a spreadsheet yet <https://docs.google.com/forms/d/e/1FAIpQLSfP9OwVZ52hz9z9RmWRGI_Ei3wYs1XzdygqohDZndnUBHHj0Q/viewform>", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1556680071.003200"
+  }, 
+  {
+    "client_msg_id": "756292b5-d8f5-4500-b5a4-08216c05dabe", 
+    "attachments": [
+      {
+        "image_bytes": 361466, 
+        "original_url": "https://imgur.com/a/FSBwD3g", 
+        "service_name": "Imgur", 
+        "title": "I made a smart watch from scratch", 
+        "image_width": 250, 
+        "title_link": "https://imgur.com/a/FSBwD3g", 
+        "image_height": 250, 
+        "image_url": "https://i.imgur.com/i2sRriF.jpg", 
+        "text": "120588 views and 2727 votes on Imgur", 
+        "from_url": "https://imgur.com/a/FSBwD3g", 
+        "fallback": "Imgur: I made a smart watch from scratch", 
+        "service_icon": "http://s.imgur.com/images/favicon-152.png", 
+        "id": 1
+      }
+    ], 
+    "text": "stunning open-source 3d printed smartwatch!\n\n<https://imgur.com/a/FSBwD3g>\n<https://github.com/S-March/smarchWatch_PUBLIC>", 
+    "ts": "1556657627.002200", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "AC9C697A-8274-4692-BAAD-33016D164A92", 
+    "thread_ts": "1556655096.000300", 
+    "text": "Thanks for fixing the adhesive I screwed up hahahaha ", 
+    "ts": "1556656206.001100", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ4H5NEQH", 
+        "thumb_480_h": 480, 
+        "original_h": 2530, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4H5NEQH/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 501573, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_800.jpg", 
+        "timestamp": 1556655096, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ4H5NEQH/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_1024.jpg", 
+        "user": "UC36F4P2M", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ4H5NEQH-7f47591e37", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FJ4H5NEQH/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556655096, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 2530, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ4H5NEQH-ef1247dc66/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "2BEA4E81-E611-4478-943B-61AEED4A66A5", 
+    "latest_reply": "1556656206.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF"
+    ], 
+    "thread_ts": "1556655096.000300", 
+    "text": "<@U6YCJRXGF> slicing master! this is soooo cool ", 
+    "upload": true, 
+    "ts": "1556655096.000300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1556656206.001100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "smile", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Planetary_04.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Planetary_04.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:13:14", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1556648934.000200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Planetary_04.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Planetary_04.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:05:26", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1556647980.000100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ5BWA9QV", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ5BWA9QV/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1381439, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_800.jpg", 
+        "timestamp": 1556124343, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ5BWA9QV/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_1024.jpg", 
+        "user": "U6YCJRXGF", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ5BWA9QV-60fcd0ae28", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YCJRXGF/FJ5BWA9QV/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556124343, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ5BWA9QV-0bd343e558/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "08985F41-48D2-4C4E-A7BB-681EA7EEE33F", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": ":open_mouth::open_mouth::open_mouth:", 
+    "upload": true, 
+    "ts": "1556124346.000100", 
+    "display_as_bot": false, 
+    "user": "U6YCJRXGF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "32f55b50-6d63-4032-b02e-71c1878ffa02", 
+    "thread_ts": "1556056182.000400", 
+    "text": "This is awesome\u2026", 
+    "ts": "1556056222.000800", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "179a96cb-416b-4566-bfa1-614583249261", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1556056188.000000"
+    }, 
+    "latest_reply": "1556056222.000800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF"
+    ], 
+    "thread_ts": "1556056182.000400", 
+    "text": "<https://www.adafruit.com/mhosresistance> <@U6YCJRXGF> re: our convo this morning", 
+    "ts": "1556056182.000400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1556056222.000800"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "c76c7184-b41c-47e9-b36c-c9f0cab0add5", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "service_icon": "https://hackaday.com/wp-content/themes/hackaday-2/favicon.ico", 
+        "image_bytes": 225506, 
+        "original_url": "https://hackaday.com/2019/04/22/steel-reinforced-3d-prints/", 
+        "service_name": "Hackaday", 
+        "title": "Steel-Reinforced 3D Prints", 
+        "ts": 1555974003, 
+        "image_width": 464, 
+        "image_height": 250, 
+        "image_url": "https://hackaday.com/wp-content/uploads/2019/04/Steel1.png", 
+        "text": "Continuing on the never-ending adventure of how to make a 3D print stronger, [Brauns CNC] is coming at us with a new technique that involves steel-reinforced 3D printed parts. We\u2019ve seen plen\u2026", 
+        "from_url": "https://hackaday.com/2019/04/22/steel-reinforced-3d-prints/", 
+        "fallback": "Hackaday: Steel-Reinforced 3D Prints", 
+        "title_link": "https://hackaday.com/2019/04/22/steel-reinforced-3d-prints/", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://hackaday.com/2019/04/22/steel-reinforced-3d-prints/>", 
+    "ts": "1555989738.000200", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Air_Spinner_2_-_Solid.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Air_Spinner_2_-_Solid.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:01:54", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555695072.000200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Air_Spinner_2_-_Solid.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Air_Spinner_2_-_Solid.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:02:31", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555694903.000100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Air_Spinner_2_-_Solid.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Air_Spinner_2_-_Solid.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:00:29", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555611995.000200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: Air_Spinner_2_-_Solid.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Air_Spinner_2_-_Solid.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:08:07", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555611640.000100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "Phew! Printing has been resumed! Back to work... :hammer:", 
+        "fallback": "Print resumed! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555551087.002400", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "daa038", 
+        "pretext": "Printing has been paused... :sleeping:", 
+        "fallback": "Print paused... Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555551042.002300", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555550325.002200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:10:13", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555549973.002100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Uh oh... someone cancelled the print! :crying_cat_face:", 
+        "fallback": "Print cancelled! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:10:13", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555549973.002000", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555549360.001900", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:01:04", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548961.001800", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Uh oh... someone cancelled the print! :crying_cat_face:", 
+        "fallback": "Print cancelled! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:01:04", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548960.001700", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: pyp-box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "pyp-box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548896.001600", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:00:56", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548784.001500", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Uh oh... someone cancelled the print! :crying_cat_face:", 
+        "fallback": "Print cancelled! Filename: box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "00:00:56", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548783.001400", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: box.gcode", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "box.gcode", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "Local", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555548727.001300", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "Print finished successfully! :thumbsup:", 
+        "fallback": "Print finished! Filename: shoera~1.gco, Time: 01:28:44", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoera~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }, 
+          {
+            "short": true, 
+            "value": "01:28:44", 
+            "title": "Time"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555545390.001200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: shoera~1.gco", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoera~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555540066.001100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: shoe_r~1.gco", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoe_r~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555530054.001000", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Uh oh... someone cancelled the print! :crying_cat_face:", 
+        "fallback": "Print cancelled! Filename: shoe_r~1.gco", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoe_r~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555530054.000900", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Oh no! The print has failed... :rage2:", 
+        "fallback": "Print failed! Filename: shoe_r~1.gco", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoe_r~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555530053.000800", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "a30200", 
+        "pretext": "Uh oh... someone cancelled the print! :crying_cat_face:", 
+        "fallback": "Print cancelled! Filename: shoe_r~1.gco", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "shoe_r~1.gco", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555530052.000700", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "astonished", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "magic", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sparkles", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: SHOERA~1.GCO", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "SHOERA~1.GCO", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555527004.000300", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "daa038", 
+        "pretext": "Printing has been paused... :sleeping:", 
+        "fallback": "Print paused... Filename: SHOERA~1.GCO", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "SHOERA~1.GCO", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555527003.000200", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "attachments": [
+      {
+        "color": "2eb886", 
+        "pretext": "A new print has started! :muscle:", 
+        "fallback": "Print started! Filename: SHOERA~1.GCO", 
+        "id": 1, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "SHOERA~1.GCO", 
+            "title": "Filename"
+          }, 
+          {
+            "short": true, 
+            "value": "SD Card", 
+            "title": "Origin"
+          }
+        ]
+      }
+    ], 
+    "text": "", 
+    "ts": "1555526991.000100", 
+    "subtype": "bot_message", 
+    "type": "message", 
+    "bot_id": "BHLDHREHH"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1554397603.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U28S64ZJ5> has joined the channel", 
+    "ts": "1554397603.000900", 
+    "subtype": "channel_join", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCFCGA3C1> has joined the channel", 
+    "ts": "1554397603.000700", 
+    "subtype": "channel_join", 
+    "user": "UCFCGA3C1", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCDAE5GSJ> has joined the channel", 
+    "ts": "1554397603.000500", 
+    "subtype": "channel_join", 
+    "user": "UCDAE5GSJ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "ce8c8930-359a-46e1-a249-029131a4e1a5", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "tada", 
+        "users": [
+          "U6YCJRXGF", 
+          "UCBKC02JY", 
+          "UCBDPE94Z"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YCJRXGF", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 200, 
+        "thumb_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/c78.0.200.200a/p200x200/56478651_2765926123431579_4086855652104732672_n.jpg?_nc_cat=103&_nc_ht=scontent-iad3-1.xx&oh=1c38392347985cf5ef4dfa11db10d0d3&oe=5D43F4C3", 
+        "thumb_width": 200, 
+        "original_url": "https://www.facebook.com/events/275678970032232/", 
+        "text": "Event in San Francisco, CA by Alan Davis and Moldover Muzyka on Wednesday, April 10 2019", 
+        "title": "Build your own Voice Crusher (and learn to solder) with Moldover", 
+        "title_link": "https://www.facebook.com/events/275678970032232/", 
+        "service_name": "facebook.com", 
+        "from_url": "https://www.facebook.com/events/275678970032232/", 
+        "fallback": "Build your own Voice Crusher (and learn to solder) with Moldover", 
+        "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "I\u2019m hosting a *soldering workshop* here at Make School next Wednesday at 7pm! Come learn to solder from *Moldover*, a musical pioneer who creates his own instruments and controllers for his music. He\u2019ll teach soldering and take you through the steps to build your own Voice Crusher, the \u201cplayable packaging\u201d for his latest album Four Track. Even if you\u2019ve never soldered before, this workshop will give you the confidence in just a short time. If you do have experience, you\u2019ll learn how to solder better. <@UC36F4P2M> and I will be there to assist with soldering. Every participant will walk away with a fun and unique instrument that is also a collectible copy of \u201cFour Track\u201d.\n\n<@UCDAE5GSJ> and <@UCFCGA3C1> joined me for this at Noisebridge last December and we had a ton of fun! :smile:\n\n\u2022 Learn about the DIY Voice Crusher kit: <https://moldover.com/do-it-yourself-kit-for-the-voice-crusher/>\n\u2022 Facebook event with all the logistical details: <https://www.facebook.com/events/275678970032232/>\n\n<@U28S64ZJ5> <@UCC0KLBPU> <@U6YCJRXGF> <@UCBDPE94Z> <@UCBKC02JY> @anyonewholikeselectronicsandmusic", 
+    "ts": "1554397591.000200", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a00f90b-5b7d-4a5b-9d74-6e573ebf877b", 
+    "thread_ts": "1553837277.000100", 
+    "text": "lets do it in glitter silver and red :open_mouth:", 
+    "ts": "1553911461.001100", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b58beff2-27c1-48e6-a708-2e4a3c7b40f3", 
+    "attachments": [
+      {
+        "thumb_height": 384, 
+        "thumb_url": "https://lh3.googleusercontent.com/onCCwNXNesMNVRmJBGmMNQq4iY8G-tAV1GvekdlARPDX1WDnsRLa-1QjLUmyo8mFP9xYfuBCrtkOddQSf63ZYII", 
+        "thumb_width": 512, 
+        "original_url": "https://www.matterhackers.com/store/l/bubblegum-polyalchemy-elixir-silky-pla-175mm-075kg/sk/MDN7X99Z", 
+        "service_name": "MatterHackers", 
+        "title": "Bubblegum Polyalchemy Elixir Silky PLA - 1.75mm (0.75kg)", 
+        "title_link": "https://www.matterhackers.com/store/l/bubblegum-polyalchemy-elixir-silky-pla-175mm-075kg/sk/MDN7X99Z", 
+        "text": "PLA is an excellent 3D Printing material for general purpose parts because any 3D printer can work with it, and Polyalchemy Elixir is a quality PLA with a beautiful silky finish. With a variety of colors available, Elixir will make your next PLA project more beautiful than ever.", 
+        "from_url": "https://www.matterhackers.com/store/l/bubblegum-polyalchemy-elixir-silky-pla-175mm-075kg/sk/MDN7X99Z", 
+        "fallback": "MatterHackers: Bubblegum Polyalchemy Elixir Silky PLA - 1.75mm (0.75kg)", 
+        "service_icon": "https://www.matterhackers.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.matterhackers.com/store/l/bubblegum-polyalchemy-elixir-silky-pla-175mm-075kg/sk/MDN7X99Z>\n\nsilky PLA!", 
+    "ts": "1553911427.000900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FA60A8CC-2582-4FB7-9108-D0E76AB32922", 
+    "thread_ts": "1553837277.000100", 
+    "text": ":open_mouth: I\u2019ve been wanting to print this thing for so long ", 
+    "ts": "1553877154.000500", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1553837277.000100", 
+    "latest_reply": "1553911461.001100", 
+    "attachments": [
+      {
+        "image_bytes": 567703, 
+        "original_url": "https://www.facebook.com/groups/ender3supportandmodding/permalink/2168013566862575?sfns=mo", 
+        "text": "Parts all printed and assembled.", 
+        "title": "Derrick Aquino", 
+        "image_width": 444, 
+        "title_link": "https://www.facebook.com/groups/ender3supportandmodding/permalink/2168013566862575?sfns=mo", 
+        "image_height": 250, 
+        "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/56178721_10161646856950302_6649016064661258240_o.jpg?_nc_cat=108&_nc_ht=scontent-iad3-1.xx&oh=b01fa0d4b712d2de5f5e000741ccc4ea&oe=5D3DF990", 
+        "service_name": "facebook.com", 
+        "from_url": "https://www.facebook.com/groups/ender3supportandmodding/permalink/2168013566862575?sfns=mo", 
+        "fallback": "Derrick Aquino", 
+        "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF", 
+      "UC36F4P2M"
+    ], 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1553877154.000500"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1553911461.001100"
+      }
+    ], 
+    "ts": "1553837277.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "text": "<https://www.facebook.com/groups/ender3supportandmodding/permalink/2168013566862575?sfns=mo>\n\n:star-struck: we should set this up in front of our window somehow...", 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FH7JT42G3", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20190322_194250.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH7JT42G3/img_20190322_194250.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3905458, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_800.jpg", 
+        "timestamp": 1553311889, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH7JT42G3/download/img_20190322_194250.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_1024.jpg", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH7JT42G3-fde39a145a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FH7JT42G3/img_20190322_194250.jpg", 
+        "name": "IMG_20190322_194250.jpg", 
+        "created": 1553311889, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FH7JT42G3-fc7a5fa4a6/img_20190322_194250_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "dani", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gopher", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "<@U1HBKMW8Y> <@UC36F4P2M> got 5 soldering irons from home leaving me with a total of 6 here. I also brought in a bunch of LEDs that we could teach the soldering workshop with. Either that or if Noisebridge can bring their own things.", 
+    "upload": true, 
+    "ts": "1553311894.000700", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "45031f4b-2491-4eb7-ba24-4ea8926fece3", 
+    "thread_ts": "1553153657.002200", 
+    "text": "She was unsalvageable :disappointed:", 
+    "ts": "1553201793.003300", 
+    "user": "UCC0KLBPU", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "12DF60DC-FC31-411A-9250-41BE806760F4", 
+    "thread_ts": "1553153657.002200", 
+    "text": ":open_mouth: oh no, good luck!", 
+    "ts": "1553185184.003100", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0091b1b2-b1b8-4476-a3d8-df8d10336f98", 
+    "thread_ts": "1553153657.002200", 
+    "latest_reply": "1553201793.003300", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF", 
+      "UCC0KLBPU"
+    ], 
+    "text": "forgot to mention that one of the students had an emergency with their Mac. Spilled water on it. Borrowing the iFixit kit. Hope it's recoverable!", 
+    "ts": "1553153657.002200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1553185184.003100"
+      }, 
+      {
+        "user": "UCC0KLBPU", 
+        "ts": "1553201793.003300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "dbf4528c-5738-484f-9ad8-7e6a4bfdc971", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "raised_hands", 
+        "users": [
+          "UC36F4P2M", 
+          "U1HBKMW8Y", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "cubimal_chick", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBKC02JY", 
+          "UC36F4P2M"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "level_slider", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCBKC02JY", 
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "bed and z-offset are calibrated/leveled", 
+    "ts": "1553022284.000400", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6AD13FED-CF98-481E-9C8F-2BAEB2A60144", 
+    "attachments": [
+      {
+        "thumb_height": 472, 
+        "thumb_url": "https://cdn.thingiverse.com/renders/95/b5/cd/63/a9/1bb4112eda076c0faee5ecb07f0784c2_preview_featured.jpg", 
+        "thumb_width": 628, 
+        "original_url": "https://www.thingiverse.com/thing:1817180", 
+        "text": "This is a smaller, 4-leaf redesign of emmett's totally amazing Preassembled Iris Box (<http://www.thingiverse.com/thing:1811143>). After studying emmett's design carefully and with some advice from emmett himself, I managed to design a 60mm diameter version that prints faster. I also increased the internal clearances somewhat to make it less challenging to print. Like emmett's, it prints pre-assembled and without supports. Thanks, emmett! Update: I added and STL file for just the leaf in response to someone wanting to replace a broken one. I'm not sure how easy it'll be to get it assembled into place, though. Update: In my original version, the outer sphere was a little wobbly when closed and could cause jams. I've updated it to help prevent this problem. I've also included the Solidworks (2011) model for anyone to hack on.", 
+        "title": "Print-In-Place Iris Box (remix) by LoboCNC", 
+        "title_link": "https://www.thingiverse.com/thing:1817180", 
+        "service_name": "thingiverse.com", 
+        "from_url": "https://www.thingiverse.com/thing:1817180", 
+        "fallback": "Print-In-Place Iris Box (remix) by LoboCNC", 
+        "service_icon": "https://cdn.thingiverse.com/site/img/favicons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "these are sooo much fun to make! see: iris box\n\n<https://www.thingiverse.com/thing:1817180>", 
+    "ts": "1552975313.004300", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8436555E-D198-42D8-B5C3-1FE564A6D5AC", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 59973, 
+        "original_url": "https://www.instagram.com/p/BvHsr97hZPU/", 
+        "service_name": "Instagram", 
+        "title": "OutofMind on Instagram: \u201c3D printed box By @handmadewithashley . Follow @outofmind #filament #container #eyeball #printed #shutter #3dprinter\u201d", 
+        "image_width": 250, 
+        "title_link": "https://www.instagram.com/p/BvHsr97hZPU/", 
+        "image_height": 250, 
+        "image_url": "https://scontent-iad3-1.cdninstagram.com/vp/da9c539e3b68e79856273f05b9fcb0d1/5C93497E/t51.2885-15/e15/54247812_435833580293539_1682172796206270995_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com", 
+        "text": "23.2k Likes, 157 Comments - OutofMind (@outofmind) on Instagram: \u201c3D printed box By @handmadewithashley . Follow @outofmind #filament #container #eyeball #printed\u2026\u201d", 
+        "from_url": "https://www.instagram.com/p/BvHsr97hZPU/", 
+        "fallback": "Instagram: OutofMind on Instagram: \u201c3D printed box By @handmadewithashley . Follow @outofmind #filament #container #eyeball #printed #shutter #3dprinter\u201d", 
+        "service_icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/4272e394f5ad.png", 
+        "id": 1
+      }
+    ], 
+    "text": "I\u2019m just gonna leave this here... <https://www.instagram.com/p/BvHsr97hZPU/> ", 
+    "ts": "1552967972.003500", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "space", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FH498LBM4", 
+        "size": 859, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH498LBM4/-", 
+        "state": "locked", 
+        "editor": "UCC0KLBPU", 
+        "preview": "<document><p>Coming soon to the makerspace:</p><ul><li>Immediately:<ul><li tabbing=\"1\">3x purple glue sticks</li><li tabbing=\"1\">A LOT x CREE XML2 T6 Bin Cool White LEDs. Mounted on 3x MCPCBs</li></ul></li></ul></document>", 
+        "external_type": "", 
+        "username": "", 
+        "updated": 1552950617, 
+        "timestamp": 1552950617, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH498LBM4/download/-", 
+        "user": "UCC0KLBPU", 
+        "is_public": true, 
+        "is_starred": false, 
+        "last_editor": "UCC0KLBPU", 
+        "pretty_type": "Post", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH498LBM4-cc12a3eb06", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FH498LBM4/-", 
+        "name": "-", 
+        "created": 1552950368, 
+        "mode": "space"
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1552950640.002500", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "eaf97d0b-9a71-4461-ab73-a4afd84fe78d", 
+    "text": "please leave a note next time if you were doing something with it", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552927542.002000"
+  }, 
+  {
+    "client_msg_id": "45b75c72-4f47-4640-a445-fd67d3678c40", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "U6YCJRXGF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hotsprings", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "the VR computer had the fans on full blast but wasn't blowing out hot air so I shut it down", 
+    "ts": "1552927337.001700", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5d0be38a-0e7d-40a2-a0a3-89b2e7ef029d", 
+    "text": "just LMK if you want a really high res print of something (ie miniatures, jewelry, etc.)", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552610072.001500"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 475, 
+        "filetype": "png", 
+        "thumb_800_h": 808, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FH12H12MU", 
+        "thumb_480_h": 480, 
+        "original_h": 1470, 
+        "thumb_360_w": 357, 
+        "title": "Pasted image at 2019-03-14, 5:28 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FH12H12MU/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_64.png", 
+        "thumb_720_w": 713, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 396712, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_800.png", 
+        "timestamp": 1552609705, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FH12H12MU/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_1024.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FH12H12MU-83b55bed9a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FH12H12MU/image.png", 
+        "name": "image.png", 
+        "created": 1552609705, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1456, 
+        "thumb_960_w": 951, 
+        "thumb_1024_w": 1014, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FH12H12MU-359a4a7506/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YCJRXGF", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Getting these but they won't be in the makerspace. Resin is a lot more difficult to handle than FDM. Also, <@U6YCJRXGF> I'll bring more glue sticks from home.", 
+    "upload": true, 
+    "ts": "1552609711.000500", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc97a526-8114-4953-95ed-cf0d86509d09", 
+    "text": "Any chance anyone has more purple glue sticks they could bring in?", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1552500713.000500"
+  }, 
+  {
+    "client_msg_id": "36eef3bf-3ee8-4300-87a8-0291a3e33d5d", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dani", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "brain", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thunder_cloud_and_rain", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "i'll try to get an makerspace workshop outline going over spring break and post it here for some async brainstorming :slightly_smiling_face:", 
+    "ts": "1552098803.035000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ed39b730-9523-4d49-aa16-c5746656a193", 
+    "text": "yup have had other students express the same sentiment to me. My understanding is that unless it's labeled it's up for grabs. We have a free parts/projects bin in the corner as well. As to how you'd get started Dani and I have talked about teaching a session on 3d printing. We'll have to talk about that more.", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552093273.034200"
+  }, 
+  {
+    "client_msg_id": "31f7a3e0-43cf-4200-9c7e-4a38084fa8a4", 
+    "text": "cool :slightly_smiling_face: just thought i'd share that perspective in the context of \"how can we get more students to use the space?\"", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1552076094.032200"
+  }, 
+  {
+    "client_msg_id": "fd7980a3-e695-4d6c-9164-8d0ea4a51a71", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1552075598.000000"
+    }, 
+    "text": "yup its part of what i am working on and tracking!\nstep 0: establish space\nstep 1: find stuff from old building and put in space\nstep 2: get MS to buy me stuff\nstep 3: teach the people how to build the stuff with the stuff MS buys me :joy:\n\nwe are on step 3", 
+    "ts": "1552075584.031300", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8f48decc-db42-4539-81dc-e290e94e8e63", 
+    "text": "I imagine there must be other students that might feel the same =&gt; don't know where to get started", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1552074711.029700"
+  }, 
+  {
+    "client_msg_id": "e6d5f080-f08e-48c3-9d20-6c63bd328195", 
+    "text": "I am super interested in getting more involved with 3D printing, playing with LEDs, Arduinos, etc. but don't know what I'm allowed to touch / where to get started in the Makerspace.", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1552074617.028700"
+  }, 
+  {
+    "client_msg_id": "ae9f6ba8-8b58-4eaf-a850-8dd68f280e91", 
+    "text": "ez hardware fix &gt; software fix", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073697.027100"
+  }, 
+  {
+    "client_msg_id": "834f7617-70a4-46e2-b318-47647993ae15", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1552073632.000000"
+    }, 
+    "text": "rofl ya just move the z endstop up or down to compensate for the thickness of the plate.", 
+    "ts": "1552073624.026500", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8b803596-916c-4558-9732-835582a3f69f", 
+    "text": "i have the arduino uno chillin over there to flash the firmware but i def didnt do that yet", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073571.026000"
+  }, 
+  {
+    "client_msg_id": "cb7c6494-3b46-4207-9e3d-5329e16101c8", 
+    "text": "nvm i am remembering improperly", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073551.025600"
+  }, 
+  {
+    "client_msg_id": "5b646199-74a1-4dc8-9ddc-e04cf338c640", 
+    "text": "oh wait", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073546.025400"
+  }, 
+  {
+    "client_msg_id": "c8518815-da59-4e6f-8e59-17b113a9b925", 
+    "text": "ya is stock", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073518.025200"
+  }, 
+  {
+    "client_msg_id": "36cd372c-4dad-4159-9d7f-e55771e01087", 
+    "text": "?", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552073513.025000"
+  }, 
+  {
+    "client_msg_id": "459bbe5c-9970-471e-a6b2-09da315ab589", 
+    "text": "oh did we flash marlin onto the printer", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552073512.024800"
+  }, 
+  {
+    "client_msg_id": "73741a5a-6799-4473-882e-4e3b68f55716", 
+    "attachments": [
+      {
+        "thumb_height": 316, 
+        "thumb_url": "https://cdn.sstatic.net/Sites/3dprinting/img/apple-touch-icon@2.png?v=070a2b543ae4", 
+        "thumb_width": 316, 
+        "original_url": "https://3dprinting.stackexchange.com/a/6660", 
+        "service_name": "3D Printing Stack Exchange", 
+        "title": "Recalibrating Home-position", 
+        "title_link": "https://3dprinting.stackexchange.com/a/6660", 
+        "text": "I got myself the Ender 3. The Home position is about 1mm left and 2mm in front of the front left corner. Now, the hotend center axis is 11mm from the carrier plate with the \"Mk 10\" cooler mounted r...", 
+        "from_url": "https://3dprinting.stackexchange.com/a/6660", 
+        "fallback": "3D Printing Stack Exchange: Recalibrating Home-position", 
+        "service_icon": "https://cdn.sstatic.net/Sites/3dprinting/img/favicon.ico?v=dc6f2fade8b9", 
+        "id": 1
+      }
+    ], 
+    "text": "specifically: <https://3dprinting.stackexchange.com/a/6660>", 
+    "ts": "1552073499.024300", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bbfab6f0-cccc-4d0b-9b4e-b63f2c235643", 
+    "text": "yeah we can def do that in marlin", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552073410.023400"
+  }, 
+  {
+    "client_msg_id": "60b0d6bc-ed23-4c31-9946-78873c3ae01e", 
+    "text": "can't you adjust this in the printer? Z offset?", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552073348.023200"
+  }, 
+  {
+    "client_msg_id": "d8f43d06-22d5-4731-bd42-38d63f41374b", 
+    "text": "got the glass bed installed but there isn\u2019t enough clearance between the bed with the leveling screws fully tightened and the nozzle, so if you print make sure to manually move the Z axis up a step or two", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1552072698.022400"
+  }, 
+  {
+    "client_msg_id": "b019cc12-2422-4db0-b627-06c6f5e0fc28", 
+    "text": "very cool idea!! keep 'em coming!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1552072063.021400"
+  }, 
+  {
+    "client_msg_id": "b03de5a1-a024-4a1f-bb4e-b14d4ffcf99d", 
+    "text": "Project proposals: 1) Design and print more class trophies for all classes. This will involve communication between professors and give students an incentive to win a prize at the end of the term. Case study: BEW, FEW, MOB trophies were printed this term. 2) Teach 1-2 classes on designing, troubleshooting, and 3d printing 3) LED wall panel to display messages", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1552070292.021100"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "space", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGTFR70P7", 
+        "size": 2964, 
+        "title": "State of the Space 03/08/2019", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGTFR70P7/State_of_the_Space_03_08_2019", 
+        "state": "locked", 
+        "editor": "UC36F4P2M", 
+        "preview": "<document><h2>:dani:Latest Updates </h2><ol><li>This is <b><i>officially</i></b> one of my projects now! Meaning, I need to track metrics regarding the usage of the space starting Term 4. Ideas are appreciated! :smile: <ol><li tabbing=\"1\">Examples:<ol><li tabbing=\"2\"> Build something cool with proximity sensors</li></ol></li></ol></li></ol></document>", 
+        "external_type": "", 
+        "username": "", 
+        "updated": 1552066470, 
+        "timestamp": 1552066470, 
+        "public_url_shared": true, 
+        "editable": true, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGTFR70P7/download/State_of_the_Space_03_08_2019", 
+        "user": "UC36F4P2M", 
+        "is_public": true, 
+        "is_starred": false, 
+        "last_editor": "UC36F4P2M", 
+        "pretty_type": "Post", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGTFR70P7-24c0754044", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FGTFR70P7/State_of_the_Space_03_08_2019", 
+        "name": "State_of_the_Space_03_08_2019", 
+        "created": 1552064871, 
+        "mode": "space"
+      }
+    ], 
+    "text": "", 
+    "pinned_info": {
+      "pinned_ts": 1552066495, 
+      "channel": "CDNKXKAJU", 
+      "pinned_by": "UC36F4P2M"
+    }, 
+    "upload": false, 
+    "ts": "1552066462.016000", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "pinned_to": [
+      "CDNKXKAJU"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f39636d0-6bfd-40ed-911c-96089eb3c9b0", 
+    "thread_ts": "1551908694.001600", 
+    "text": "i fixed :smile:", 
+    "ts": "1551918209.002000", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a4df91f6-7cd0-4db6-9042-6bfc84c7b2d9", 
+    "thread_ts": "1551908694.001600", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "Sorry <@UC36F4P2M>, just saw this. The bed should be at least decently leveled right now, but I\u2019ve been having trouble getting that _perfect_ level", 
+    "ts": "1551918006.001800", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c58cdf8e-b8f6-4b66-a6b3-b5f82dddc41d", 
+    "thread_ts": "1551908694.001600", 
+    "latest_reply": "1551918209.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF", 
+      "UC36F4P2M"
+    ], 
+    "text": "jk just center perfect level plz", 
+    "ts": "1551908694.001600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1551918006.001800"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1551918209.002000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "aa45fe7e-078f-4509-931c-73bef467de77", 
+    "text": "after the test print ends", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1551908663.001300"
+  }, 
+  {
+    "client_msg_id": "5a5bcd2a-620d-4b5c-954a-e03da9381927", 
+    "text": "<@U6YCJRXGF> request! can you make sure the bed is crazy, crazy level for me at all major points? corners and center", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1551908657.001100"
+  }, 
+  {
+    "client_msg_id": "44859de4-df7a-443d-be4e-2c49983b96df", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": "requesting the printer for the remainder of the afternoon --- buay on staff side has commissioned prints from me :slightly_smiling_face:", 
+    "ts": "1551907845.000600", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "82a7e7df-4981-47fa-99f6-c112d415f0d0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "going to borrow the calipers for tonight. Will bring back tomorrow", 
+    "ts": "1551820852.002000", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0d7bebdf-f74c-46b2-940e-1f93a5c96e45", 
+    "text": "grazie", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1551811163.001600"
+  }, 
+  {
+    "client_msg_id": "C7F15225-657F-4C92-B587-0C01F0E36BD5", 
+    "text": "I'll help before lunch", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1551809899.001400"
+  }, 
+  {
+    "client_msg_id": "D262A4C8-9E9B-491C-95CE-548B0459E251", 
+    "text": "yup ", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1551809892.001100"
+  }, 
+  {
+    "client_msg_id": "b56ddccc-a0c6-44ea-870e-ab4c00327331", 
+    "edited": {
+      "user": "UCC0KLBPU", 
+      "ts": "1551808477.000000"
+    }, 
+    "text": "The bed is super unleveled. Can you show me that trick you had for leveling it later Dani or Duncan?", 
+    "ts": "1551808447.000700", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a5a3846f-9424-41cf-bd3f-5e0294d16479", 
+    "text": "<!channel> is there anything you want on the sd card for the printer? I may have to reformat it because I think I corrupted it by accident", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1551380010.001300"
+  }, 
+  {
+    "client_msg_id": "906a04c1-a446-4bda-b417-90865acd24b7", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "text": "I got a microusb + wall outlet for the Raspberry Pis. Will bring tomorrow", 
+    "ts": "1551339886.000500", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9f28e38f-0c13-48fc-aade-8d9086211e2d", 
+    "thread_ts": "1551225627.002300", 
+    "text": "yeah it even had a bit of tolerance for the supports to be removed. We'll have to see tomorrow though.", 
+    "ts": "1551233829.004300", 
+    "user": "UCC0KLBPU", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3EE04EF9-C671-447A-9960-33C32E042EAB", 
+    "thread_ts": "1551225627.002300", 
+    "text": "The stl comes with built in supports? I\u2019ve never seen that before...", 
+    "ts": "1551227803.004100", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D5233E2B-C4E8-44E4-BED3-EC8597BD9364", 
+    "thread_ts": "1551225627.002300", 
+    "text": "hahah funky ", 
+    "ts": "1551226212.003300", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 421, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH6RPBFB-ed379d68fb/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGH6RPBFB", 
+        "thumb_480_h": 480, 
+        "original_h": 652, 
+        "thumb_360_w": 316, 
+        "title": "Pasted image at 2019-02-26, 4:00 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGH6RPBFB/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH6RPBFB-ed379d68fb/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH6RPBFB-ed379d68fb/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH6RPBFB-ed379d68fb/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 381083, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1551225623, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH6RPBFB-ed379d68fb/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGH6RPBFB/download/image.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGH6RPBFB-8a6d6fdee3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGH6RPBFB/image.png", 
+        "name": "image.png", 
+        "created": 1551225623, 
+        "original_w": 572, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1551225627.002300", 
+    "latest_reply": "1551233829.004300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M", 
+      "U6YCJRXGF", 
+      "UCC0KLBPU"
+    ], 
+    "text": "we'll have to see how well it prints. Like poorly documented code this model did not include printing instructions. My concerns are that the built in supports will be difficult to remove from the print. If this doesn't work I'll try 0 infill", 
+    "upload": true, 
+    "ts": "1551225627.002300", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1551226212.003300"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1551227803.004100"
+      }, 
+      {
+        "user": "UCC0KLBPU", 
+        "ts": "1551233829.004300"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "50b3b087-eb88-470c-b29b-48be63d4be0a", 
+    "thread_ts": "1551209170.000400", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "the_horns", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I'll let you know when I start coding in Care Bear", 
+    "ts": "1551216547.001300", 
+    "user": "UCC0KLBPU", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dcb35c81-2679-4aac-99b5-37ebdccdef2c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "gopher", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCC0KLBPU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<https://github.com/StickmanVentures/go-gopher-model>", 
+    "ts": "1551214548.001100", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1f855e05-fe34-423a-a3bf-11bf5ecdb3f9", 
+    "text": "<https://github.com/golang-samples/gopher-3d>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1551214535.000900"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 384, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 640, 
+        "id": "FGJURF0CW", 
+        "thumb_480_h": 480, 
+        "original_h": 800, 
+        "thumb_360_w": 288, 
+        "title": "269204.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGJURF0CW/269204.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_64.jpg", 
+        "thumb_720_w": 576, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 244044, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_800.jpg", 
+        "timestamp": 1551209167, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGJURF0CW/download/269204.jpg", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGJURF0CW-103cca9893", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FGJURF0CW/269204.jpg", 
+        "name": "269204.jpg", 
+        "created": 1551209167, 
+        "original_w": 640, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJURF0CW-f8e6996361/269204_720.jpg"
+      }
+    ], 
+    "thread_ts": "1551209170.000400", 
+    "latest_reply": "1551216547.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0KLBPU"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "the_horns", 
+        "users": [
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "or the punk version\u2026 :male-singer::skull_and_crossbones::zap::the_horns::bear:", 
+    "upload": true, 
+    "ts": "1551209170.000400", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "replies": [
+      {
+        "user": "UCC0KLBPU", 
+        "ts": "1551216547.001300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 408, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 681, 
+        "id": "FGH9P3HT5", 
+        "thumb_480_h": 480, 
+        "original_h": 865, 
+        "thumb_360_w": 306, 
+        "title": "Rainbow care bear.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGH9P3HT5/rainbow_care_bear.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_64.jpg", 
+        "thumb_720_w": 613, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 49808, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_800.jpg", 
+        "timestamp": 1551204265, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGH9P3HT5/download/rainbow_care_bear.jpg", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGH9P3HT5-d4e1538b33", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FGH9P3HT5/rainbow_care_bear.jpg", 
+        "name": "Rainbow care bear.jpg", 
+        "created": 1551204265, 
+        "original_w": 736, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGH9P3HT5-57d064c17a/rainbow_care_bear_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551204269.000100", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 361, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGG0RSEJD-3d46d7895a/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGG0RSEJD", 
+        "thumb_480_h": 480, 
+        "original_h": 549, 
+        "thumb_360_w": 271, 
+        "title": "Pasted image at 2019-02-25, 3:28 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGG0RSEJD/image.png", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGG0RSEJD-3d46d7895a/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGG0RSEJD-3d46d7895a/image_64.png", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGG0RSEJD-3d46d7895a/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 92636, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1551137313, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGG0RSEJD-3d46d7895a/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGG0RSEJD/download/image.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGG0RSEJD-9a9faa6aac", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGG0RSEJD/image.png", 
+        "name": "image.png", 
+        "created": 1551137313, 
+        "original_w": 413, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "oh my gosh next keychain swag idea. How do we do this for other programming languages though?", 
+    "upload": true, 
+    "ts": "1551137316.001200", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b4f77864-e358-45eb-88c1-5b8eecb6e7c2", 
+    "text": "can't get the SD card reader to work", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1551116758.000600"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 382, 
+        "filetype": "png", 
+        "thumb_800_h": 1005, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGFUGN36H", 
+        "thumb_480_h": 480, 
+        "original_h": 2048, 
+        "thumb_360_w": 287, 
+        "title": "Pasted image at 2019-02-24, 9:57 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGFUGN36H/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_64.png", 
+        "thumb_720_w": 573, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 5343979, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_800.png", 
+        "timestamp": 1551074282, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGFUGN36H/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_1024.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGFUGN36H-345b14bdd2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGFUGN36H/image.png", 
+        "name": "image.png", 
+        "created": 1551074282, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1630, 
+        "thumb_960_w": 764, 
+        "thumb_1024_w": 815, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGFUGN36H-3b64e9311a/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YCJRXGF", 
+          "UC36F4P2M", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": ":joy:", 
+    "upload": true, 
+    "ts": "1551074290.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c6e0f625-1df6-468d-afde-fd082bf12a6a", 
+    "attachments": [
+      {
+        "thumb_height": 180, 
+        "thumb_url": "https://cdn.thingiverse.com/site/img/thingiverse-avatar-4_3.png", 
+        "thumb_width": 240, 
+        "original_url": "https://www.thingiverse.com/thing:3444564", 
+        "text": "Make School new logo pendant/necklace v2", 
+        "title": "Make School Logo Pendant by RaymondWu", 
+        "title_link": "https://www.thingiverse.com/thing:3444564", 
+        "service_name": "thingiverse.com", 
+        "from_url": "https://www.thingiverse.com/thing:3444564", 
+        "fallback": "Make School Logo Pendant by RaymondWu", 
+        "service_icon": "https://cdn.thingiverse.com/site/img/favicons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "expanded the loophole size for necklace + badge orientations <https://www.thingiverse.com/thing:3444564>", 
+    "ts": "1550897987.002900", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGDUSLLBS", 
+        "size": 2560680, 
+        "title": "New_Make_School_Logo_Pendant.gcode", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGDUSLLBS/new_make_school_logo_pendant.gcode", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550873220, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGDUSLLBS/download/new_make_school_logo_pendant.gcode", 
+        "user": "UC36F4P2M", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "name": "New_Make_School_Logo_Pendant.gcode", 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGDUSLLBS-a63aeac214", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UC36F4P2M/FGDUSLLBS/new_make_school_logo_pendant.gcode", 
+        "is_external": false, 
+        "created": 1550873220, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1550873222.002200", 
+    "display_as_bot": false, 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "12783672-a19a-4768-bdad-8704a395882a", 
+    "thread_ts": "1550852979.003700", 
+    "text": "i'll bring it over soon", 
+    "ts": "1550863872.001800", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "E3FBE690-F69E-49F5-8A3E-74C4F0931A37", 
+    "thread_ts": "1550852979.003700", 
+    "text": ":grin: thanks Dani!", 
+    "ts": "1550863810.001600", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1550856045.000200", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "454909E8-00DF-480C-BE81-77C88E2A56C4", 
+    "thread_ts": "1550852979.003700", 
+    "latest_reply": "1550863872.001800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF", 
+      "UC36F4P2M"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "birthday", 
+        "users": [
+          "UCC0KLBPU", 
+          "UD57U4QAV", 
+          "U6YCJRXGF", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "cake", 
+        "users": [
+          "UCC0KLBPU", 
+          "UCBKC02JY"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "candle", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tada", 
+        "users": [
+          "UCC0KLBPU", 
+          "UD57U4QAV"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "confetti_ball", 
+        "users": [
+          "UCC0KLBPU", 
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gopher", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": ":gift: :star: :cake: HAPPY BIRTHDAY DUNCAN! :grin:\n\nimaginarium transparent inland blue pla\nproto pasta stardust glitter htpla\nproto pasta lime green glitter htpla limited edition!\n\n", 
+    "ts": "1550852979.003700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1550863810.001600"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1550863872.001800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "7EBCE0B5-B632-4EC9-9664-356125741FEF", 
+    "text": "I'll bring in the pretty filament(s) tomorrow :grin:", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550818573.002200"
+  }, 
+  {
+    "client_msg_id": "529DD622-0DBC-477C-A92B-D10D5F3CE717", 
+    "text": ":clap::raised_hands:", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550818547.001500"
+  }, 
+  {
+    "client_msg_id": "01bb9fb7-3536-40b3-9b68-64a05d3ce1a9", 
+    "attachments": [
+      {
+        "thumb_height": 472, 
+        "thumb_url": "https://cdn.thingiverse.com/renders/2e/12/57/14/c8/528a8eb88f00c5b45cbdb56976d265fc_preview_featured.jpg", 
+        "thumb_width": 628, 
+        "original_url": "https://www.thingiverse.com/thing:3444564", 
+        "text": "V1", 
+        "title": "Make School Logo Pendant by RaymondWu", 
+        "title_link": "https://www.thingiverse.com/thing:3444564", 
+        "service_name": "thingiverse.com", 
+        "from_url": "https://www.thingiverse.com/thing:3444564", 
+        "fallback": "Make School Logo Pendant by RaymondWu", 
+        "service_icon": "https://cdn.thingiverse.com/site/img/favicons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.thingiverse.com/thing:3444564>", 
+    "ts": "1550816967.001100", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 411, 
+        "filetype": "png", 
+        "thumb_800_h": 935, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGD4JUBLG", 
+        "thumb_480_h": 480, 
+        "original_h": 1494, 
+        "thumb_360_w": 308, 
+        "title": "Pasted image at 2019-02-21, 10:22 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGD4JUBLG/image.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_64.png", 
+        "thumb_720_w": 616, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_80.png", 
+        "thumb_360_h": 360, 
+        "size": 137100, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_800.png", 
+        "timestamp": 1550816540, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGD4JUBLG/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_1024.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGD4JUBLG-dddeb90fb3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGD4JUBLG/image.png", 
+        "name": "image.png", 
+        "created": 1550816540, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1278, 
+        "thumb_960_w": 821, 
+        "thumb_1024_w": 876, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD4JUBLG-485820ace5/image_720.png"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1550816544.000700", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 698, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGD9P9F6V", 
+        "thumb_480_h": 419, 
+        "original_h": 1486, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-02-21, 10:21 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGD9P9F6V/image.png", 
+        "thumb_720_h": 628, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_80.png", 
+        "thumb_360_h": 314, 
+        "size": 89211, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_800.png", 
+        "timestamp": 1550816510, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGD9P9F6V/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_1024.png", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGD9P9F6V-202bd94d54", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FGD9P9F6V/image.png", 
+        "name": "image.png", 
+        "created": 1550816510, 
+        "thumb_1024_h": 893, 
+        "thumb_960_h": 837, 
+        "original_w": 1704, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGD9P9F6V-420aa83808/image_720.png"
+      }
+    ], 
+    "edited": {
+      "user": "UCC0KLBPU", 
+      "ts": "1550817057.000000"
+    }, 
+    "text": "finished the design while procrastinating on religion hw. Can't think of a better way to do necklace/badge though. This was the best method I could think of that would use the least support material.", 
+    "upload": true, 
+    "ts": "1550816514.000400", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ff9b5d0e-6920-481f-8699-14b11b269c53", 
+    "text": "<https://www.makeschool.com/brand-guidelines>", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1550798666.000200"
+  }, 
+  {
+    "client_msg_id": "620c307e-322f-460b-b880-87f742221419", 
+    "text": "got some metallic sharpies for the makerspace", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1544215456.000700"
+  }, 
+  {
+    "client_msg_id": "3071cbff-0cbb-49cf-b241-d5bb89d843fb", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thankyou", 
+        "users": [
+          "U6YCJRXGF", 
+          "UCC0KLBPU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": "<@UCC0KLBPU>", 
+    "ts": "1544132936.000500", 
+    "user": "UD57U4QAV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "6a3b76b5-f48f-40ef-8f81-358a5cfe67ed", 
+    "text": "hello! I put the new filament on the window sill in the makerspace", 
+    "type": "message", 
+    "user": "UD57U4QAV", 
+    "ts": "1544132932.000300"
+  }, 
+  {
+    "client_msg_id": "32806b83-4874-4ad7-a2ef-32b58ec124ee", 
+    "text": "let me look!", 
+    "type": "message", 
+    "user": "UD57U4QAV", 
+    "ts": "1543443625.001300"
+  }, 
+  {
+    "client_msg_id": "2bbee984-6c0b-4644-940a-e421f2c8d1ab", 
+    "text": "<@UD57U4QAV> do we have a bunch of extension cords? I want to make something to put all of the power strips on the underside of the tables. They're a tripping hazard as is", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1543438486.001000"
+  }, 
+  {
+    "client_msg_id": "9ca418e2-44d7-43fc-a10f-752c2ec99874", 
+    "text": "the tolerances are pretty good on those whiteboard rails. That was the only side that was loose and there was one other that was tight. Most were the same", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1543342693.000700"
+  }, 
+  {
+    "client_msg_id": "32E9C58F-142A-480E-8509-CA5467B73015", 
+    "thread_ts": "1543274311.000900", 
+    "text": "Printing!", 
+    "ts": "1543276201.001100", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "55ccbf2a-b983-444c-b551-24885387d8ad", 
+    "thread_ts": "1543274311.000900", 
+    "latest_reply": "1543276201.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF"
+    ], 
+    "text": "<@U6YCJRXGF> V2 <https://a360.co/2PetaxS>", 
+    "ts": "1543274311.000900", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1543276201.001100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEC6XET4J", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181126_092721.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEC6XET4J/img_20181126_092721.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3674745, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_800.jpg", 
+        "timestamp": 1543253517, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEC6XET4J/download/img_20181126_092721.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_1024.jpg", 
+        "user": "UCC0KLBPU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEC6XET4J-551e3dac01", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0KLBPU/FEC6XET4J/img_20181126_092721.jpg", 
+        "name": "IMG_20181126_092721.jpg", 
+        "created": 1543253517, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEC6XET4J-548798e826/img_20181126_092721_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UD57U4QAV", 
+          "UCBKC02JY"
+        ]
+      }
+    ], 
+    "text": "<@UD57U4QAV>", 
+    "upload": true, 
+    "ts": "1543253527.000200", 
+    "display_as_bot": false, 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5e458503-d109-47d3-afeb-fae1760be70c", 
+    "text": "going back home tomorrow. Will definitely use my printer back home to print out those clean/dirty dishwasher tags and  some V2 whiteboard/eraser holders", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1542510454.002500"
+  }, 
+  {
+    "client_msg_id": "8685bad4-7fe9-46bc-bfa5-b63ccfdd88ff", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "slightly_smiling_face", 
+        "users": [
+          "UCBKC02JY", 
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UD57U4QAV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 71402, 
+        "original_url": "https://www.instagram.com/p/BqPwr_elgEt/?utm_source=ig_twitter_share&amp;igshid=1pbthabav3w6x", 
+        "service_name": "Instagram", 
+        "title": "Dani Roxberry on Instagram: \u201cbest 3d printer mod yet :laughing: :eyes: #3dprinting #happyrobot\u201d", 
+        "image_width": 250, 
+        "title_link": "https://www.instagram.com/p/BqPwr_elgEt/?utm_source=ig_twitter_share&igshid=1pbthabav3w6x", 
+        "image_height": 250, 
+        "image_url": "https://scontent-iad3-1.cdninstagram.com/vp/11025c97ba7458936de9ba2a2c3087f8/5C7D9F0B/t51.2885-15/e35/45939616_580986682363733_624414522876195911_n.jpg", 
+        "text": "5 Likes, 0 Comments - Dani Roxberry (@droxey) on Instagram: \u201cbest 3d printer mod yet :laughing: :eyes: #3dprinting #happyrobot\u201d", 
+        "from_url": "https://www.instagram.com/p/BqPwr_elgEt/?utm_source=ig_twitter_share&igshid=1pbthabav3w6x", 
+        "fallback": "Instagram: Dani Roxberry on Instagram: \u201cbest 3d printer mod yet \ud83d\ude06 \ud83d\udc40 #3dprinting #happyrobot\u201d", 
+        "service_icon": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/4272e394f5ad.png", 
+        "id": 1
+      }
+    ], 
+    "text": "best 3d printer mod i ever made: <https://www.instagram.com/p/BqPwr_elgEt/?utm_source=ig_twitter_share&amp;igshid=1pbthabav3w6x> :joy:", 
+    "ts": "1542394985.000500", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b14b5aac-ef16-4aff-b71a-a479c305eae4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "UD57U4QAV"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 472, 
+        "thumb_url": "https://cdn.thingiverse.com/renders/46/c6/64/61/fc/bcf5fc4e27a1f1b8614f6623ab48e247_preview_featured.jpg", 
+        "thumb_width": 628, 
+        "original_url": "https://www.thingiverse.com/thing:2867275", 
+        "text": "(Update: 4/25/2018 - I added a blank version part A and B so you can cut or stick your own words. Thanks to TurtleKid for the suggestion.) This is a sliding Clean/Dirty Dishes sign for your dishwasher. Instructions: *If you have been 3d Printing for a while - you are probably ok without these instructions for changing colors to make \"Clean\" Green, \"Dirty\" Red, \"Dishes\" Black, and the body silver. However, read on if in doubt and feel free to comment if you need clarification/help. Start \"Clean_Dirty_Sign_Parta01.STL\" with green filament or whatever color you want for \"Clean\" As soon as you start to see the sidewall edges form for the word \"clean\" on the left, which indicates that the word clean's last layer is finished, then change the color to red for the word \"Dirty\"- Change From Green to Red at or between 2.6mm to 2.8mm When the red word Dirty is complete, you will see the sidewall edges form around the word \"Dirty\", and that tells you it is time to change to Silver to complete the print.- Change from Red to Silver at or between 3.3mm to 3.5mm In the slicer orient \"Clean_Dirty_Sign_Partb01.STL\" with the word \"Dishes\" at the bottom by rotating on the X axis 180 degrees. *Optionally, (advanced) print with Dishes facing upwards with support material as originally oriented - adjust color change as needed. Start printing the \"Clean_Dirty_Sign_Partb01.STL\" with the color Silver and change to Black after about 3 to 4 layers at 0.2 layer resolution or 5-6 layers at 0.15 resolution so that the word \"Dishes\" is Black and finish the part in Black.- Change from Silver to Black at or between 1.4mm and 1.6mm Post Printing: Glue three 10mmx1.5mm magnets in the three recessed holes on the back. Cover with masking tape and trim so you don't scratch your dishwasher with the magnets. 10mm with 1mm thickness would be fine also - like these: <https://www.amazon.com/MosShop-Refrigerator-Magnets-50pcs-10mmX1mm/dp/B07176K33G/ref=sr_1_9?ie=UTF8&amp;qid=1524023465&amp;sr=8-9&amp;keywords=10mm+magnets> Break a magnet in half (or optionally use whole magnet) and paste the parts on the inside of part B (the \"Dishes\" part) next to each side wall as depicted in the picture of the Black part. Before you glue, check your polarity with the main part for magnetic attraction to the \"Clean\" and \"Dirty\" sides of the part A. You can snap the two parts together to check this. Snap Part A to Part B and place it on your dishwasher. If the magnets are causing repulsion such that the slide does not snap to clean and dirty then reorient the magnets on Part B.", 
+        "title": "Clean Dishes, Dishes Dirty, dishwasher sliding sign by Jimbotron", 
+        "title_link": "https://www.thingiverse.com/thing:2867275", 
+        "service_name": "thingiverse.com", 
+        "from_url": "https://www.thingiverse.com/thing:2867275", 
+        "fallback": "Clean Dishes, Dishes Dirty, dishwasher sliding sign by Jimbotron", 
+        "service_icon": "https://www.thingiverse.com/img/favicons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "something we could use in the kitchen. I can never tell if the dishes are clean or dirty. Print it in one color and I'll do the clean/dirty coloring part. Probably melt crayons into the crevice. <https://www.thingiverse.com/thing:2867275>", 
+    "ts": "1542161192.001100", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b6b025e5-4201-4b25-b46b-04f7b54e3726", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "text": "Fixed design to deepen the eraser hole. That would use the least amount of filament", 
+    "ts": "1541804728.000500", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "37F166E6-B1C1-4AA4-87C7-3C00F241DFD5", 
+    "thread_ts": "1541576899.000700", 
+    "text": "I\u2019ll definitely try to print it if I can get my printer fixed today", 
+    "ts": "1541611434.000500", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "444e335f-adb2-40bb-abd9-5eb160de9dcd", 
+    "thread_ts": "1541576899.000700", 
+    "latest_reply": "1541611434.000500", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF"
+    ], 
+    "text": "oops was making some changes to the file and noticed I didn't even link it <https://a360.co/2PetaxS>", 
+    "ts": "1541576899.000700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0KLBPU", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1541611434.000500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "38baf50c-9bdd-469b-9daf-bcb0d255d98b", 
+    "text": "<@U6YCJRXGF> can you print this once you fix your printer?", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1541546421.000400"
+  }, 
+  {
+    "client_msg_id": "28ffe659-3eab-433a-ab9c-bfd31b90b45d", 
+    "text": "request for calipers. Solar powered so we don't have to worry about batteries <https://www.amazon.com/Luerme-Electronic-Fractions-Conversion-Jewelry-Measurement/dp/B07HFBYT9J/ref=sr_1_17?ie=UTF8&amp;qid=1541292791&amp;sr=8-17&amp;keywords=solar+caliper>", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1541292850.000500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1541188331.000200", 
+    "text": "<@UCC0KLBPU> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "7558b610-ae0f-4883-acb7-ce9ec2357926", 
+    "thread_ts": "1540571192.007700", 
+    "text": "Awesome!", 
+    "ts": "1540572370.011200", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "95322212-185b-464a-b812-7226ea54bbd9", 
+    "thread_ts": "1540571192.007700", 
+    "text": "i totally have spare...\n\u2022 filament spool thing\n\u2022 scraper tool\n\u2022 glass bed cohesion stuff like glue sticks and some sample specific products\n\ni will throw in the donate to make school box :smile: its not getting used at my house!", 
+    "ts": "1540572349.011000", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a204fc82-ff42-4a23-b78a-267bf5355e99", 
+    "edited": {
+      "user": "U6YCJRXGF", 
+      "ts": "1540571727.000000"
+    }, 
+    "thread_ts": "1540571192.007700", 
+    "text": "I also had some hairspray I was using for bed adhesion, but I think that was probably thrown away in the move", 
+    "ts": "1540571721.010600", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a0e18d33-87f0-4049-b837-86ceb785f2b6", 
+    "thread_ts": "1540571192.007700", 
+    "text": "I think I did lose my scrapers to pry the prints off the bed though, this is what I originally had that is probably floating around in some closet somewhere: <https://www.amazon.com/gp/product/B01A81FXMK/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1>", 
+    "ts": "1540571689.010400", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "252a1335-9c6b-4dd8-8f25-4c85bca6f244", 
+    "thread_ts": "1540571192.007700", 
+    "text": "My filament rack on the top broke off unfortunately, but it would be easy to just print another one", 
+    "ts": "1540571622.010200", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d8b7be4c-53e6-41e5-b60e-2de11c7e58ac", 
+    "thread_ts": "1540571192.007700", 
+    "text": "do you need anything on day 1 to get up and running? nozzles, etc?", 
+    "ts": "1540571425.010000", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a2526ef8-ce80-43ad-9778-74e8a045f202", 
+    "thread_ts": "1540571192.007700", 
+    "text": "sweeeeet", 
+    "ts": "1540571397.009700", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "38c56130-f279-4ef4-b86d-859253b19a08", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0KLBPU"
+        ]
+      }
+    ], 
+    "text": "and ps - if you see Sarah or Erin today, be sure to thank them --- despite limited space in the building and plenty of work on their plates they made this happen on a way faster timetable than expected!", 
+    "ts": "1540571379.009600", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bbe69908-2ccf-43f2-bef4-aed898662829", 
+    "thread_ts": "1540571192.007700", 
+    "text": "Yea it\u2019s an old reprap style. I think it\u2019s an older version of this <https://www.amazon.com/Arrival-HICTOP-Filament-Self-assembly-Printing/dp/B01ERDWSFU/ref=sr_1_18?ie=UTF8&amp;qid=1540571213&amp;sr=8-18&amp;keywords=hictop+3d+printer>", 
+    "ts": "1540571378.009400", 
+    "user": "U6YCJRXGF", 
+    "parent_user_id": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "25ec9b7c-7d25-49b1-9db6-3f51347d98af", 
+    "thread_ts": "1540571192.007700", 
+    "latest_reply": "1540572370.011200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCJRXGF", 
+      "UC36F4P2M"
+    ], 
+    "text": "<@U6YCJRXGF> what model / style printer you got? reprap?", 
+    "ts": "1540571192.007700", 
+    "type": "message", 
+    "reply_count": 8, 
+    "user": "UC36F4P2M", 
+    "replies": [
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1540571378.009400"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1540571397.009700"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1540571425.010000"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1540571622.010200"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1540571689.010400"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1540571721.010600"
+      }, 
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1540572349.011000"
+      }, 
+      {
+        "user": "U6YCJRXGF", 
+        "ts": "1540572370.011200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1540571073.007300", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UD57U4QAV> has joined the channel", 
+    "ts": "1540571073.007100", 
+    "subtype": "channel_join", 
+    "user": "UD57U4QAV", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "client_msg_id": "209f2ff6-8aae-4422-8093-a1ecd48322fd", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "grin", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6YCJRXGF"
+        ]
+      }
+    ], 
+    "text": "happy to support an alternative creative and positive space to make cool stuff - glad alan got me involved! :smile:", 
+    "ts": "1540571042.006600", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d6df37c2-5439-45bd-b4c4-82ca86879b79", 
+    "text": "Thank you! This is awesome!", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1540570985.005700"
+  }, 
+  {
+    "client_msg_id": "d3336a44-dc37-46e7-a2e4-524efa816d23", 
+    "text": "<@U6YCJRXGF> I'm appointing you as the official student ambassador for the space. Please invite any and all interested students or staff!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1540570962.005100"
+  }, 
+  {
+    "client_msg_id": "bc087f1e-9d85-4bfa-a259-8d42eba7f8ae", 
+    "text": "Wooooooo!", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1540570950.004700"
+  }, 
+  {
+    "client_msg_id": "8da4b06b-c632-4d41-bad9-0f6ec9daf1e0", 
+    "text": "<!channel> Great news! Ops has been 100% supportive of our makerspace endeavor, securing us time and space in the Great Hall!\n\nLooks like we'll start getting set up next week!\n\nI'm also donating some stuff I don't use at home in an effort to spark some creativity and DIY spirit and kick us off with some awesome projects that support our new space:\n\n\u2022 Project 1: Materials to make a DIY filament dry box\n\u2022 Project 2: Raspberry Pi + Octoprint for wifi enabled printing\n\nand some odds and ends...\n\n\u2022 A couple KG of filament\n\u2022 3d printer tools\n\u2022 LEDs, resistors, sensors, and other DIY odds and ends / finishing touches", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1540570926.004200"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1540570637.000500", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "UC36F4P2M"
+  }, 
+  {
+    "text": "<@UC36F4P2M> set the channel purpose: make school maker space chat and ops", 
+    "ts": "1540570637.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC36F4P2M", 
+    "type": "message", 
+    "purpose": "make school maker space chat and ops"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1540570637.000200", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }
+]

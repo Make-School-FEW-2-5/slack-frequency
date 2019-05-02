@@ -1,0 +1,523 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554919019.010100", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1554796287.009800", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "client_msg_id": "C627CB74-85AE-4151-86F2-7D55CABDBEAD", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "make-school", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBS4EW59", 
+          "UF83RJTHD", 
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "raised_hands::skin-tone-3", 
+        "users": [
+          "UCDAETD5L", 
+          "UCBS4EW59", 
+          "UF83RJTHD"
+        ]
+      }
+    ], 
+    "text": "<!channel> shout out to all yall spending your Saturday hacking away! thanks for being great representatives of our community :make-school: \n\nI would love to see your accomplishments on Monday and hear your stories :star-struck:", 
+    "ts": "1554603537.008900", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1554573643.006300", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "082BFA26-FE59-4FEA-AF3C-4AD27C3F01BC", 
+    "text": "Gonna be Ubering over there in about 20, for anyone at McAllister who wants to tag along ", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1554564343.006000"
+  }, 
+  {
+    "client_msg_id": "8B1FA6D4-2CD6-4A1A-B2EB-8AE869A16728", 
+    "edited": {
+      "user": "UCC0H4UJE", 
+      "ts": "1554558643.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Who\u2019s going to Minerva?\nEdit: not me :(", 
+    "ts": "1554534164.003000", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1554531989.002700", 
+    "text": "<@UCC0HC7D0> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1554531948.002500", 
+    "text": "<@UCC0HC7D0> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1554531735.002300", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UF83RJTHD", 
+    "ts": "1554529321.002100", 
+    "text": "<@UF83RJTHD> has joined the channel"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1554528523.001900", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "client_msg_id": "cb13171d-f370-4b1e-ae12-86fa461df126", 
+    "text": "I had another idea to help the homeless if anyone wants to msg me :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554528489.001700"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554527836.001300", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "4187940a-e1c7-4ca7-9af0-80a6b76172ae", 
+    "text": "Looking to implement a Facebook messenger bot tomorrow if anyone has experience working with it?", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554526446.001100"
+  }, 
+  {
+    "text": "<@UCDAETD5L> set the channel topic: Hackathons!", 
+    "ts": "1554526358.000400", 
+    "topic": "Hackathons!", 
+    "subtype": "channel_topic", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1554356816.000200", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1554180700.000200", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1553308165.000200", 
+    "text": "<@U6WMDD6U8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHKG1RQ", 
+    "ts": "1553307449.000200", 
+    "text": "<@U6YHKG1RQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1549921221.000200", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1541195705.000200", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1540840532.000200", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1539710004.000200", 
+    "text": "<@UCBDBB3LZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1539503243.000200", 
+    "text": "<@UCB58P2V6> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1537396430.000200", 
+    "text": "<@U2QTVG278> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1537396422.000200", 
+    "text": "<@U2QTVG278> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "140D4502-E61D-45A3-99F9-B043FB955FE4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "This is happening in November! <https://calhacks.io/>", 
+    "ts": "1535731168.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b47f74da-15d1-417f-8daa-1186c48afef7", 
+    "attachments": [
+      {
+        "image_bytes": 157279, 
+        "original_url": "https://ethsanfrancisco.com/", 
+        "service_name": "ETHSanFrancisco", 
+        "title": "ETHSanFrancisco | October 5 - 7, 2018", 
+        "image_width": 476, 
+        "title_link": "https://ethsanfrancisco.com/", 
+        "image_height": 250, 
+        "image_url": "https://ethsanfrancisco.com/img/ethsanfrancisco-fb.png", 
+        "text": "ETHSanFrancisco is an Ethereum hackathon starting on October 5th, 2018. Part of <http://ethglobal.co|ethglobal.co>, the largest Ethereum hackathon in the world.", 
+        "from_url": "https://ethsanfrancisco.com/", 
+        "fallback": "ETHSanFrancisco: ETHSanFrancisco | October 5 - 7, 2018", 
+        "service_icon": "https://ethsanfrancisco.com/img/favicons/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Please sign up as soon as you can <https://ethsanfrancisco.com/>", 
+    "ts": "1535391205.000100", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1535332380.000200", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1535121981.000200", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDBB3LZ", 
+    "ts": "1534834939.000200", 
+    "text": "<@UCBDBB3LZ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YD3BYBD", 
+    "ts": "1524685149.000042", 
+    "text": "<@U6YD3BYBD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1520289125.000384", 
+    "text": "<@U6YCJRXGF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1516773619.000219", 
+    "text": "<@U6XJLPQ9Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z9LHPEH", 
+    "ts": "1508825176.000033", 
+    "text": "<@U6Z9LHPEH> has left the channel"
+  }, 
+  {
+    "text": "myself, <@U6Y6KU78W> , <@U6YFF5B50> , and <@U703HM5PY> are teaming up to do this hackathon in Berkeley. More teams are welcome to join, registration is still open. \n<https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&amp;aff=eios>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 196890, 
+        "title": "Hackaton to build 100 apps that fix 100 real problems in Africa", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Berkeley, Ca 94704", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Sat, Oct 14, 2017 at 11:00 AM", 
+            "title": "When"
+          }
+        ], 
+        "image_width": 500, 
+        "title_link": "https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&aff=eios", 
+        "image_height": 250, 
+        "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F35882927%2F97499603957%2F1%2Foriginal.jpg?w=1000&rect=0%2C438%2C1024%2C512&s=7127c9c1a3ecdec245c9585a3eb914a3", 
+        "service_name": "Eventbrite", 
+        "from_url": "https://www.eventbrite.com/e/hackaton-to-build-100-apps-that-fix-100-real-problems-in-africa-tickets-38316531778?ref=eios&aff=eios", 
+        "fallback": "Eventbrite: Hackaton to build 100 apps that fix 100 real problems in Africa", 
+        "service_icon": "https://cdn.evbstatic.com/s3-build/perm_001/1aab42/django/images/touch_icons/apple-touch-icon-57x57.png", 
+        "text": "This is a weekly hackathon Saturday/Sunday.Former Apple engineer Seeking iOS, android developers to build Mobile apps for Africa that fix real issues in Africa since mobile usage and coverage in Africa is over 80% .\u00a0I already have a list of apps to build and would like to release one app every 2 weeks.\u00a0I will be financing the project with my own money and rewarding your effort if fund permitted.\u00a0 Contact me for details and location : 415 609 2306", 
+        "id": 1
+      }
+    ], 
+    "ts": "1506724817.000105", 
+    "user": "U6YP200VB"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1505845732.000532", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1505769625.000045", 
+    "text": "<@U6XCP1NLU> has joined the channel"
+  }, 
+  {
+    "text": "** I ment this for the makerclub lolol", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1505344644.000050"
+  }, 
+  {
+    "text": "lets make a repo for it", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1505327344.000302"
+  }, 
+  {
+    "text": "what was the first project we decided on?", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1505327337.000495"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YD3BYBD", 
+    "ts": "1505239193.000156", 
+    "text": "<@U6YD3BYBD> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YHKG1RQ", 
+    "ts": "1505184720.000153", 
+    "text": "<@U6YHKG1RQ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1505183266.000139", 
+    "text": "<@U6WMDD6U8> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6Z9LHPEH", 
+    "ts": "1505182670.000204", 
+    "text": "<@U6Z9LHPEH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1505177719.000097", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "text": "awesomeSauce :dancing-dan:", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505174489.000275"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1505174460.000032", 
+    "text": "<@U6YP200VB> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1505173499.000224", 
+    "text": "<@U6ZCE0AKG> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XJLPQ9Y", 
+    "ts": "1505172602.000211", 
+    "text": "<@U6XJLPQ9Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1505172287.000109", 
+    "text": "<@U6YCJRXGF> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XDV6CVA", 
+    "ts": "1505172091.000002", 
+    "text": "<@U6XDV6CVA> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "jeremy", 
+        "users": [
+          "U6XJLPQ9Y", 
+          "U6Z9LHPEH"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1505172010.000106", 
+    "text": "It\u2019s lit"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YBN8NJ2", 
+    "ts": "1505171990.000351", 
+    "text": "<@U6YBN8NJ2> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "gem", 
+        "users": [
+          "U1T2Q3G81", 
+          "U6YBN8NJ2", 
+          "U6ZCE0AKG", 
+          "U1HBKMW8Y", 
+          "U1GJHRYLE"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U1GJHRYLE", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505171920.000239", 
+    "text": ":clap::skin-tone-2: let's :clap::skin-tone-2: sweep:clap::skin-tone-2: thru :clap::skin-tone-2: cal :clap::skin-tone-2: hacks :clap::skin-tone-2:"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1GJHRYLE", 
+    "ts": "1505171860.000168", 
+    "text": "<@U1GJHRYLE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1505171742.000244", 
+    "text": "<@U1T2Q3G81> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6XE4NNSZ", 
+    "ts": "1505168890.000107", 
+    "text": "<@U6XE4NNSZ> has joined the channel"
+  }
+]

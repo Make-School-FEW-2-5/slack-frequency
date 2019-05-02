@@ -1,0 +1,794 @@
+[
+  {
+    "client_msg_id": "F8FBFA01-AA98-4773-9401-2510A7B6EE39", 
+    "thread_ts": "1556150562.006600", 
+    "text": "<@UC36F4P2M> ", 
+    "ts": "1556177670.014700", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "69012E33-1276-4A97-A3C5-0618CD212848", 
+    "thread_ts": "1556150562.006600", 
+    "text": "I can do Kali but that\u2019s outside the scope of Make School.  Would it still be useful?", 
+    "ts": "1556177623.014300", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556177006.010900", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "e7f77385-c840-4a25-988f-b95f841146bc", 
+    "thread_ts": "1556150562.006600", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "gopher", 
+        "users": [
+          "UC36F4P2M", 
+          "UCD53TKCN"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UC36F4P2M", 
+          "UCD53TKCN"
+        ]
+      }
+    ], 
+    "text": "Quicky.dev may support linux soon", 
+    "ts": "1556163686.010200", 
+    "user": "UCBDDHX7T", 
+    "parent_user_id": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1556159882.010100", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "128ccec1-6c98-4d51-bfc4-e825e59a27fe", 
+    "thread_ts": "1556147319.001900", 
+    "text": "Some kind of star wars + penguin thing? Idk tbh I'm shit at design", 
+    "ts": "1556157794.009700", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "422697c2-506b-4610-83a4-b3148ef698a9", 
+    "thread_ts": "1556147319.001900", 
+    "text": "Have an idea for the logo design?", 
+    "ts": "1556156988.009500", 
+    "user": "UCC0KLBPU", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ef8cd53e-fb3b-4b33-a54b-1da69abc1f17", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1556150990.000000"
+    }, 
+    "attachments": [
+      {
+        "author_id": "UCBS4EW59", 
+        "original_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1542751090084000", 
+        "is_thread_root_unfurl": true, 
+        "text": "Before the next wave of people go through the application process, I think it should be clarified that macbooks are only really required for the mobile track. I know I'm not the only one who was pretty salty about having to buy a macbook and not actually needing it.", 
+        "footer": "Thread in #general", 
+        "ts": "1542751090.084000", 
+        "author_link": "https://makeschoolstudents.slack.com/team/UCBS4EW59", 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "author_name": "Luc Boettner", 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "from_url": "https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1542751090084000", 
+        "author_subname": "Luc Boettner", 
+        "fallback": "[November 20th, 2018 1:58 PM] luc.boettner: Before the next wave of people go through the application process, I think it should be clarified that macbooks are only really required for the mobile track. I know I'm not the only one who was pretty salty about having to buy a macbook and not actually needing it.", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-29/425724969540_f368128f9ee58efc8b5b_48.jpg", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "I\u2019m all for it because this is still pretty relevant:\n<https://makeschoolstudents.slack.com/archives/C1D3YFP6G/p1542751090084000>", 
+    "ts": "1556150909.007900", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "56797872-4e0d-49b4-987a-ba96252ab827", 
+    "text": "<@UCD53TKCN> leading the pack!!", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556150625.006900"
+  }, 
+  {
+    "client_msg_id": "b091d674-7841-42de-9095-f08876c3bdce", 
+    "thread_ts": "1556150562.006600", 
+    "latest_reply": "1556177670.014700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDDHX7T", 
+      "UCBDPE94Z"
+    ], 
+    "text": "<@UC36F4P2M> I would be honored to do a debian installation setup if someone would like to match me with a distro of their choosing.", 
+    "ts": "1556150562.006600", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCD53TKCN", 
+    "replies": [
+      {
+        "user": "UCBDDHX7T", 
+        "ts": "1556163686.010200"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1556177623.014300"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1556177670.014700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD53TKCN", 
+    "ts": "1556150488.005600", 
+    "text": "<@UCD53TKCN> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "2b473634-4b27-491e-852a-9d8149a60841", 
+    "edited": {
+      "user": "UC36F4P2M", 
+      "ts": "1556150223.000000"
+    }, 
+    "text": "pssst - one thing that would change the game - installation and support documentation for different distros!\nsince i'm writing classes right now, i haven't had time to write field guides on this --- it's tremendously difficult to make the case for linux as an option without. not every instructor can know all the things on all the OSes, yknow?\nif a student wanted to lead that effort, i would certainly raise up that voice during our weekly instructor meetings!", 
+    "ts": "1556150195.005300", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4aea940c-c540-4521-be4e-991300685a52", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rebel", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "lowkey supporter of the rebellion :crossed_swords: :shield:", 
+    "ts": "1556150018.003000", 
+    "user": "UC36F4P2M", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556149957.002100", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "0c361fdd-efd8-4440-83fc-7c2971baafab", 
+    "thread_ts": "1556147319.001900", 
+    "latest_reply": "1556157794.009700", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0KLBPU", 
+      "UCC0GD5V0"
+    ], 
+    "text": "hey I know we aren't even a formal club but what if I made t-shirts?", 
+    "ts": "1556147319.001900", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCC0KLBPU", 
+        "ts": "1556156988.009500"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1556157794.009700"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "wave::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "inviter": "UCBS4EW59", 
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1556147153.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 541, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ7KMQXDM", 
+        "thumb_480_h": 325, 
+        "original_h": 656, 
+        "thumb_360_w": 360, 
+        "title": "baobab.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ7KMQXDM/baobab.png", 
+        "thumb_720_h": 487, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_80.png", 
+        "thumb_360_h": 243, 
+        "size": 99085, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_800.png", 
+        "timestamp": 1556147135, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ7KMQXDM/download/baobab.png", 
+        "user": "UCBS4EW59", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ7KMQXDM-2e1c5e21bf", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS4EW59/FJ7KMQXDM/baobab.png", 
+        "name": "baobab.png", 
+        "created": 1556147135, 
+        "thumb_960_h": 649, 
+        "original_w": 970, 
+        "thumb_960_w": 960, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ7KMQXDM-6a45333208/baobab_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rebel", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556147139.000800", 
+    "display_as_bot": false, 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0c19afd5-00ef-48c0-a5dd-f84fac1bb4fe", 
+    "text": "super cool!!! Mine doesn't look quite as cool though :disappointed:", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1556147113.000700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJ58VPEK0", 
+        "thumb_480_h": 442, 
+        "original_h": 681, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2019-04-22, 10:59 AM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ58VPEK0/image.png", 
+        "thumb_720_h": 663, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_80.png", 
+        "thumb_360_h": 332, 
+        "size": 170971, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1555955952, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ58VPEK0/download/image.png", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ58VPEK0-504b2e5b92", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FJ58VPEK0/image.png", 
+        "name": "image.png", 
+        "created": 1555955952, 
+        "original_w": 739, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58VPEK0-a38a38b14f/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCBS4EW59", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Baobab is a cool visual tool to see what's on your computer", 
+    "upload": true, 
+    "ts": "1555955955.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1554157685.000200", 
+    "text": "<@UCC0FMXCJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1553981109.000200", 
+    "text": "<@UCBQLD4M8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1553307832.000700", 
+    "text": "<@UCBD9KCQH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307374.000500", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1553290587.000300", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "cry", 
+        "users": [
+          "UCBS4EW59", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<@UCD53TKCN> has left the channel", 
+    "ts": "1548956631.000200", 
+    "subtype": "channel_leave", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d29b5917-f114-4151-a3b0-6d6a349d3684", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1542841812.000000"
+    }, 
+    "text": "I was looking to buy a laptop with much better specs for around the same price as my current macbook, but was told by MS that I wouldn't be able to complete the program without MacOS. I do 80% of my work on my Debian based desktop, and could probably even get away with doing it on windows if I felt like torturing myself. lol", 
+    "ts": "1542841801.002500", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "734f014a-088e-4a00-9a43-b8b2c48273cc", 
+    "edited": {
+      "user": "UCD53TKCN", 
+      "ts": "1542841674.000000"
+    }, 
+    "text": "very true", 
+    "ts": "1542841671.000300", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[November 20th, 2018 1:58 PM] luc.boettner: Before the next wave of people go through the application process, I think it should be clarified that macbooks are only really required for the mobile track. I know I'm not the only one who was pretty salty about having to buy a macbook and not actually needing it.", 
+        "author_link": "https://product-college.slack.com/team/UCBS4EW59", 
+        "is_thread_root_unfurl": true, 
+        "text": "Before the next wave of people go through the application process, I think it should be clarified that macbooks are only really required for the mobile track. I know I'm not the only one who was pretty salty about having to buy a macbook and not actually needing it.", 
+        "footer": "Thread in #general", 
+        "ts": "1542751090.084000", 
+        "author_name": "Luc Boettner", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Luc Boettner", 
+        "from_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1542751090084000?thread_ts=1542751090084000&cid=C1D3YFP6G", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-29/425724969540_f368128f9ee58efc8b5b_48.jpg", 
+        "author_id": "UCBS4EW59", 
+        "color": "D0D0D0"
+      }
+    ], 
+    "ts": "1542827115.000100", 
+    "user": "UCC0GD5V0"
+  }, 
+  {
+    "client_msg_id": "b30ec964-72ab-4145-9e99-9a7fba6c90f2", 
+    "attachments": [
+      {
+        "thumb_height": 50, 
+        "thumb_url": "https://betanews.com/wp-content/uploads/2018/10/x-org-logo-50x50.jpg", 
+        "thumb_width": 50, 
+        "original_url": "https://betanews.com/2018/10/28/x-org-server-vulnerability/", 
+        "service_name": "BetaNews", 
+        "title": "Linux systems vulnerable to privilege escalation and file overwrite exploit in X.Org server", 
+        "ts": 1540721032, 
+        "title_link": "https://betanews.com/2018/10/28/x-org-server-vulnerability/", 
+        "text": "An", 
+        "from_url": "https://betanews.com/2018/10/28/x-org-server-vulnerability/", 
+        "fallback": "BetaNews: Linux systems vulnerable to privilege escalation and file overwrite exploit in X.Org server", 
+        "service_icon": "https://betanews.com/wp-content/uploads/2017/01/cropped-BN-Social-180x180.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://betanews.com/2018/10/28/x-org-server-vulnerability/>", 
+    "ts": "1540912201.000100", 
+    "user": "UCBQLD4M8", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1540843918.000400", 
+    "text": "<@UCBQLD4M8> has joined the channel"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1540839715.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "client_msg_id": "856f0f3c-126c-4a8f-b077-318d4741c1cb", 
+    "thread_ts": "1538788089.000100", 
+    "text": "How does that work? Is it like running a virtual machine?", 
+    "ts": "1538793985.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4f0104ec-ba35-4b5f-b0ae-3e0040eaf695", 
+    "thread_ts": "1538788089.000100", 
+    "text": "18.04 - the version on the Windows Store", 
+    "ts": "1538793788.000100", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8bbc3bc8-9975-46b6-8139-2f91f0e3c3a8", 
+    "thread_ts": "1538788089.000100", 
+    "text": "Nice, what version?", 
+    "ts": "1538791055.000100", 
+    "user": "UCD53TKCN", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8512cfe9-5d44-4d4e-94a7-0e81b2b7102b", 
+    "thread_ts": "1538788089.000100", 
+    "latest_reply": "1538793985.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCD53TKCN", 
+      "UCC0FMXCJ"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "I'm messing around with the Linux subsystem for Windows and installed Ubuntu - it works surprisingly well", 
+    "ts": "1538788089.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC0FMXCJ", 
+    "replies": [
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1538791055.000100"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1538793788.000100"
+      }, 
+      {
+        "user": "UCD53TKCN", 
+        "ts": "1538793985.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1538177354.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "client_msg_id": "93bb2605-23ca-4d14-b219-ea5956e8c9d8", 
+    "text": "did any of you have linux with an ethernet port? May need help setting up a pineapple", 
+    "type": "message", 
+    "user": "UCC0KLBPU", 
+    "ts": "1538114521.000100"
+  }, 
+  {
+    "client_msg_id": "384f5cec-3aeb-41c7-b362-6f707769ab2a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rebel", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "It's all about that :manj:anjaro life!", 
+    "ts": "1537902555.000100", 
+    "user": "UCBS4EW59", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1537893300.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "client_msg_id": "8655fe93-3cec-4c7f-ad61-ae2de5c15788", 
+    "text": "that will be handy for those of us in the DS track", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537842550.000100"
+  }, 
+  {
+    "client_msg_id": "0ba1c0b9-45e0-4189-8038-abb709b7e34a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "I can set up tensorflow and other machine learning libraries/models on Ubuntu", 
+    "ts": "1537842513.000100", 
+    "user": "UCC0KLBPU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3343acd8-bbbb-44c0-aea1-896f5140a5c8", 
+    "text": "ditto with Ubuntu and especially linux mint", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537842426.000100"
+  }, 
+  {
+    "client_msg_id": "e7521ebe-d82b-4847-a702-a2c2f4057a95", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rebel", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "If you need help with Debian or Ubuntu specifically, I got you!", 
+    "ts": "1537840945.000100", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "369eea01-5f20-418e-8c32-9836005b584a", 
+    "text": "(oh and feel free to invite anyone else you know who likes linux or was mad that they had to buy a macbook)", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537828512.000100"
+  }, 
+  {
+    "client_msg_id": "09d9680c-1083-4607-8cff-4afd99f5f4d2", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1537842649.000000"
+    }, 
+    "text": "(Windows users and hackintoshers are also welcome here but I haven't met any at Make School yet so we'll just be linux for now)", 
+    "ts": "1537828468.000100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f5ceea5f-d86a-4633-8e90-c7b1771233af", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1537842883.000000"
+    }, 
+    "text": "Hello <!here>. This channel is basically to assemble everyone I've been talking to about this. I don't intend to make a formal club unless we have more people and more interest. I'm not going to organize formal in-person meetings either but if any of you want to do that we can make it happen.\n\nUse this group to talk about linux, ask for help with linux-related things, and share blockers or troubleshooting tips that have helped you complete homework on your non-mac machine.", 
+    "pinned_info": {
+      "pinned_ts": 1537842373, 
+      "channel": "CCZUAKPC3", 
+      "pinned_by": "UCC0GD5V0"
+    }, 
+    "ts": "1537828465.000100", 
+    "pinned_to": [
+      "CCZUAKPC3"
+    ], 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3fb5d966-a2a9-4644-ae27-0076380185a6", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "rebel", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS4EW59"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "luke", 
+        "users": [
+          "UCBS4EW59"
+        ]
+      }
+    ], 
+    "text": "strongly agree with this", 
+    "ts": "1537825222.000100", 
+    "user": "UCD53TKCN", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> set the channel topic: Talk about Linux and lobby Make School to let future students use non-mac laptops.", 
+    "ts": "1537822709.000100", 
+    "topic": "Talk about Linux and lobby Make School to let future students use non-mac laptops.", 
+    "subtype": "channel_topic", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1537822676.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1537822634.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> set the channel topic: Lobby Make School to let future students use non-mac laptops.", 
+    "ts": "1537822599.000100", 
+    "topic": "Lobby Make School to let future students use non-mac laptops.", 
+    "subtype": "channel_topic", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1537821782.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1537821781.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1537821781.000200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }
+]

@@ -1,0 +1,3489 @@
+[
+  {
+    "client_msg_id": "a84c6c88-dbd6-428f-bc05-8510173e175c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 301636, 
+        "original_url": "https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "8 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "TensorFlow is dead, long live TensorFlow!", 
+        "ts": 1553787695, 
+        "title_link": "https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*EzG5lSdofG6lR66VSXlMjg.png", 
+        "image_width": 385, 
+        "service_name": "Hacker Noon", 
+        "from_url": "https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04", 
+        "fallback": "Hacker Noon: TensorFlow is dead, long live TensorFlow!", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+        "text": "If you\u2019re an AI enthusiast and you didn\u2019t see the big news this month, you might have just snoozed through an off-the-charts earthquake\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "This is especially important now that Google decided to kill TensorFlow. They just announced the sunsetting schedule this weekend: <https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04>", 
+    "ts": "1554148757.002400", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b0d60a62-a166-4503-aa0a-8e2f76019f12", 
+    "text": "I found this awesome new tool that allows _anyone_ to easily do Deep Learning: <http://www.deepexcel.net/>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1554148608.001200"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "globe_with_meridians", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "computer", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "brains", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1553845765.000000"
+    }, 
+    "text": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio won this year\u2019s Turing Award for their pioneering work on neural networks: <https://www.nytimes.com/2019/03/27/technology/turing-award-ai.amp.html>", 
+    "ts": "1553844627.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://techxplore.com/news/2019-03-algorithm-optimized-machine-learning-faster-traditional.amp>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 120448, 
+        "original_url": "https://techxplore.com/news/2019-03-algorithm-optimized-machine-learning-faster-traditional.amp", 
+        "text": "A new area in artificial intelligence involves using algorithms to automatically design machine-learning systems known as neural networks, which are more accurate and efficient than those developed by human engineers. But this so-called neural architecture search (NAS) technique is computationally expensive.", 
+        "title": "Algorithm designs optimized machine-learning models up to 200 times faster than traditional methods", 
+        "image_width": 375, 
+        "title_link": "https://techxplore.com/news/2019-03-algorithm-optimized-machine-learning-faster-traditional.amp", 
+        "image_height": 250, 
+        "image_url": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2019/algorithmdes.jpg", 
+        "service_name": "techxplore.com", 
+        "from_url": "https://techxplore.com/news/2019-03-algorithm-optimized-machine-learning-faster-traditional.amp", 
+        "fallback": "Algorithm designs optimized machine-learning models up to 200 times faster than traditional methods", 
+        "service_icon": "https://techxplore.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "ts": "1553379671.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1553307374.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "text": "Overview and review of Andrew Ng\u2019s Deep Learning course on Coursera: <https://machinelearningmastery.com/deeplearning-ai-convolutional-neural-networks-deep-learning-specialization-review/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "service_icon": "https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-icon-180x180.png", 
+        "image_bytes": 269362, 
+        "original_url": "https://machinelearningmastery.com/deeplearning-ai-convolutional-neural-networks-deep-learning-specialization-review/", 
+        "service_name": "Machine Learning Mastery", 
+        "title": "DeepLearning.AI Convolutional Neural Networks Deep Learning Specialization Course (Review)", 
+        "ts": 1552845619, 
+        "image_width": 444, 
+        "image_height": 250, 
+        "image_url": "https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Convolutional-Neural-Networks-Taught-by-Andrew-Ng-1024x576.png", 
+        "text": "Andrew Ng is famous for his Stanford machine learning course provided on Coursera. In 2017, he released a five-part course on deep learning also on Coursera titled \u201cDeep Learning Specialization\u201d that included one module on deep learning for computer vision titled \u201cConvolutional Neural Networks.\u201d This course provides an excellent introduction to deep learning methods for \u2026", 
+        "from_url": "https://machinelearningmastery.com/deeplearning-ai-convolutional-neural-networks-deep-learning-specialization-review/", 
+        "fallback": "Machine Learning Mastery: DeepLearning.AI Convolutional Neural Networks Deep Learning Specialization Course (Review)", 
+        "title_link": "https://machinelearningmastery.com/deeplearning-ai-convolutional-neural-networks-deep-learning-specialization-review/", 
+        "id": 1
+      }
+    ], 
+    "ts": "1552886163.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "77cda2d9-9476-4bec-b815-0339eef22443", 
+    "thread_ts": "1552355859.002200", 
+    "text": "See you in DS 2.3", 
+    "ts": "1552364488.003100", 
+    "user": "UCHMQH2HE", 
+    "parent_user_id": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7e2728c5-66d2-4ba3-b612-3f50f6a6ea88", 
+    "thread_ts": "1552355859.002200", 
+    "text": "Thank you James for your compliment :+1:", 
+    "ts": "1552364443.002800", 
+    "user": "UCHMQH2HE", 
+    "parent_user_id": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7772a2f3-8652-438b-aa65-6195cd01b2e5", 
+    "thread_ts": "1552355859.002200", 
+    "latest_reply": "1552364488.003100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCHMQH2HE"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCHMQH2HE", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "gift_heart", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "We did it! You passed as a great teacher too! <@UCHMQH2HE>", 
+    "ts": "1552355859.002200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YFC7074", 
+    "replies": [
+      {
+        "user": "UCHMQH2HE", 
+        "ts": "1552364443.002800"
+      }, 
+      {
+        "user": "UCHMQH2HE", 
+        "ts": "1552364488.003100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "cd335092-9dde-47e9-8bd0-5c13c20a43c1", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "confetti_ball", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "<!channel>: Happy to announce that all of you have passed DS 2.2\n*Great work guys*", 
+    "ts": "1552340481.001100", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1552939786.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://d26a57ydsghvgx.cloudfront.net/content/blog/35-AI.png", 
+        "thumb_width": 680, 
+        "original_url": "https://www.zendesk.com/blog/machine-learning-and-deep-learning/", 
+        "service_name": "Zendesk", 
+        "title": "A simple way to understand machine learning vs deep learning - Zendesk", 
+        "title_link": "https://www.zendesk.com/blog/machine-learning-and-deep-learning/", 
+        "text": "Machine learning and deep learning - you've heard of these terms that describe artificial intelligence. Here's a simple way to understand the difference.", 
+        "from_url": "https://www.zendesk.com/blog/machine-learning-and-deep-learning/", 
+        "fallback": "Zendesk: A simple way to understand machine learning vs deep learning - Zendesk", 
+        "service_icon": "http://d26a57ydsghvgx.cloudfront.net/www/public/assets/images/logos/zendesk144.png", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "text": "&gt;\u201cI think AI is akin to building a rocket ship. You need a huge engine and a lot of fuel. If you have a large engine and a tiny amount of fuel, you won\u2019t make it to orbit. If you have a tiny engine and a ton of fuel, you can\u2019t even lift off. To build a rocket you need a huge engine and a lot of fuel.\u201d\n&gt;\u201c*The analogy to deep learning is that the rocket engine is the deep learning models and the fuel is the huge amounts of data we can feed to these algorithms.*\u201d\n\u2014Andrew Ng (_chief scientist of China\u2019s major search engine Baidu and one of the leaders of the Google Brain Project_)\n\nSource: _Wired Magazine_, via: <https://www.zendesk.com/blog/machine-learning-and-deep-learning/>", 
+    "ts": "1552261850.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "361c0ec7-465f-4fee-95e9-5b9600d41315", 
+    "text": "My DS final project ^^^", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1551911724.000600"
+  }, 
+  {
+    "client_msg_id": "4ae80242-5615-43dc-8da2-bca6e46568ac", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCD9D1YH4"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 5500, 
+        "original_url": "https://colab.research.google.com/drive/11MVdKfpDtfYHb1XfduHq5u3s24HWQATy", 
+        "service_name": "colab.research.google.com", 
+        "title": "Google Colaboratory", 
+        "image_width": 250, 
+        "title_link": "https://colab.research.google.com/drive/11MVdKfpDtfYHb1XfduHq5u3s24HWQATy", 
+        "image_height": 250, 
+        "image_url": "https://colab.research.google.com/img/colab_favicon_256px.png", 
+        "from_url": "https://colab.research.google.com/drive/11MVdKfpDtfYHb1XfduHq5u3s24HWQATy", 
+        "fallback": "Google Colaboratory", 
+        "service_icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20190305-085300-RC01_236936773", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://colab.research.google.com/drive/11MVdKfpDtfYHb1XfduHq5u3s24HWQATy>", 
+    "ts": "1551911715.000200", 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "88B5684F-5B90-49D9-9898-881C7ABDD2F0", 
+    "text": "I\u2019m going to be late to class. ETA: 1.40", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1551733276.001800"
+  }, 
+  {
+    "client_msg_id": "cbcb51a7-dd5c-4191-86af-700f62ac8a4d", 
+    "text": "<!channel>: After investigation, I think Fang is right. For AutoEncoder, we can not just simply do `model.evaluate` and check accuracy. Maybe the loss = mse would be good. We can verify the model performance by human interaction or feeding the output of AutoEncoder to a trained MLP or trained CNN to see how it works", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1551393234.003100"
+  }, 
+  {
+    "client_msg_id": "34f542a7-90d0-45b3-96df-80a4507b921d", 
+    "text": "\u201cTransfer learning is taking a model and its weights and adding it your DL architechture\u201d -Shane", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1551309647.003500"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGL0SG6Q7", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGL0SG6Q7/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 960481, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_800.jpg", 
+        "timestamp": 1551309503, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGL0SG6Q7/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_1024.jpg", 
+        "user": "U6YFC7074", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGL0SG6Q7-3f82a262e3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFC7074/FGL0SG6Q7/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551309503, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0SG6Q7-a5c747a59f/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "F5A663B6-3093-46D9-B787-A1BD40AD800B", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551309511.002400", 
+    "display_as_bot": false, 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGL0LRW15", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGL0LRW15/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 745493, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_800.jpg", 
+        "timestamp": 1551309042, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGL0LRW15/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_1024.jpg", 
+        "user": "U6YFC7074", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGL0LRW15-2f33ef9994", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFC7074/FGL0LRW15/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551309042, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGL0LRW15-59d43283d3/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "B00E25C1-6EB7-449B-85D7-56AF28BCAE4F", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551309047.002100", 
+    "display_as_bot": false, 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGJTVF7B4", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGJTVF7B4/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 790434, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_800.jpg", 
+        "timestamp": 1551308678, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGJTVF7B4/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_1024.jpg", 
+        "user": "U6YFC7074", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGJTVF7B4-0a716df27e", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFC7074/FGJTVF7B4/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551308678, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJTVF7B4-b43bda09e3/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "83B4A3B3-03F0-4A3A-ABC7-AF9ACFF2F6B7", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551308688.001800", 
+    "display_as_bot": false, 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGJ5P51RN", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGJ5P51RN/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 994574, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_800.jpg", 
+        "timestamp": 1551308295, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGJ5P51RN/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_1024.jpg", 
+        "user": "U6YFC7074", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGJ5P51RN-967fe9fbb3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFC7074/FGJ5P51RN/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551308295, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJ5P51RN-60e18f7606/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "B34F3796-83F1-4869-8A2A-6E2A729ABA51", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551308300.001500", 
+    "display_as_bot": false, 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGJAP9QV7", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGJAP9QV7/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1092274, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_800.jpg", 
+        "timestamp": 1551308061, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGJAP9QV7/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_1024.jpg", 
+        "user": "U6YFC7074", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGJAP9QV7-cd37696291", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YFC7074/FGJAP9QV7/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1551308061, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGJAP9QV7-44204cac60/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "6B9864CA-1CB3-409E-A4B0-372A5A0E8B54", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1551308065.001200", 
+    "display_as_bot": false, 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7780fe2-4c31-4f69-b72f-7bd1968860de", 
+    "attachments": [
+      {
+        "image_bytes": 242274, 
+        "original_url": "https://www.datascience.com/blog/fraud-detection-with-tensorflow", 
+        "text": "Lenovo's David Ellison explains how autoencoders in Keras can be used to detect fraud. Read the tutorial the learn this invaluable TensorFlow application.", 
+        "title": "Fraud Detection Using Autoencoders in Keras with a TensorFlow Backend", 
+        "image_width": 600, 
+        "title_link": "https://www.datascience.com/blog/fraud-detection-with-tensorflow", 
+        "image_height": 250, 
+        "image_url": "https://www.datascience.com/hubfs/fraud-detection-tensorflow-1.jpg#keepProtocol", 
+        "service_name": "datascience.com", 
+        "from_url": "https://www.datascience.com/blog/fraud-detection-with-tensorflow", 
+        "fallback": "Fraud Detection Using Autoencoders in Keras with a TensorFlow Backend", 
+        "service_icon": "https://www.datascience.com/hubfs/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.datascience.com/blog/fraud-detection-with-tensorflow>", 
+    "ts": "1551305932.001000", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c618afe5-1dce-492f-b4dd-8ea89b577ee5", 
+    "text": "```\nfrom keras.layers import Input, Dense\nfrom keras.models import Model\nfrom keras.datasets import mnist\nimport numpy as np\n\n# this is the size of our encoded representations\nencoding_dim = 32  # 32 floats -&gt; compression of factor 24.5, assuming the input is 784 floats\n\n# this is our input placeholder\ninput_img = Input(shape=(784,))\n# \"encoded\" is the encoded representation of the input\nencoded = Dense(encoding_dim, activation='relu')(input_img)\n# \"decoded\" is the lossy reconstruction of the input\ndecoded = Dense(784, activation='sigmoid')(encoded)\n\n# this model maps an input to its reconstruction\nautoencoder = Model(input_img, decoded)\n\n# configure our model to use a per-pixel binary crossentropy loss, and the Adadelta optimizer:\n\nautoencoder.compile(optimizer='adadelta', loss='binary_crossentropy')\n\n# prepare our input data. We're using MNIST digits, and we're discarding the labels\n# since we're only interested in encoding/decoding the input images\n\n\n(x_train, _), (x_test, _) = mnist.load_data()\n\n# normalize all values between 0 and 1 and we will flatten the 28x28 images into vectors of size 784\n\nx_train = x_train.astype('float32') / 255.\nx_test = x_test.astype('float32') / 255.\n\n# Reshape x_train and x_test\nx_train = np.reshape(x_train,[-1, 28*28])\nx_test = np.reshape(x_test,[-1, 28*28])\n\n# train our autoencoder for 50 epochs\n\nautoencoder.fit(x_train, x_train,\n                epochs=50,\n                batch_size=256,\n                shuffle=True,\n                validation_data=(x_test, x_test))\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1551303972.000800"
+  }, 
+  {
+    "client_msg_id": "552c2cfa-8f15-4589-943f-c778ea865d05", 
+    "text": "```\nfrom __future__ import print_function\nimport numpy as np\n\nfrom hyperopt import Trials, STATUS_OK, tpe\nfrom keras.datasets import mnist\nfrom keras.layers.core import Dense, Dropout, Activation\nfrom keras.models import Sequential\nfrom keras.utils import np_utils\n\nfrom hyperas import optim\nfrom hyperas.distributions import choice, uniform\n\n\ndef data():\n    \"\"\"\n    Data providing function:\n\n    This function is separated from create_model() so that hyperopt\n    won't reload data for each evaluation run.\n    \"\"\"\n    (x_train, y_train), (x_test, y_test) = mnist.load_data()\n    x_train = x_train.reshape(60000, 784)\n    x_test = x_test.reshape(10000, 784)\n    x_train = x_train.astype('float32')\n    x_test = x_test.astype('float32')\n    x_train /= 255\n    x_test /= 255\n    nb_classes = 10\n    y_train = np_utils.to_categorical(y_train, nb_classes)\n    y_test = np_utils.to_categorical(y_test, nb_classes)\n    return x_train, y_train, x_test, y_test\n\n\ndef create_model(x_train, y_train):\n    \"\"\"\n    Model providing function:\n\n    Create Keras model with double curly brackets dropped-in as needed.\n    Return value has to be a valid python dictionary with two customary keys:\n        - loss: Specify a numeric evaluation metric to be minimized\n        - status: Just use STATUS_OK and see hyperopt documentation if not feasible\n    The last one is optional, though recommended, namely:\n        - model: specify the model just created so that we can later use it again.\n    \"\"\"\n    model = Sequential()\n    model.add(Dense(512, input_shape=(784,)))\n    model.add(Activation('relu'))\n    model.add(Dropout({{uniform(0, 1)}}))\n    model.add(Dense({{choice([256, 512, 1024])}}))\n    model.add(Activation({{choice(['relu', 'sigmoid'])}}))\n    model.add(Dropout({{uniform(0, 1)}}))\n\n    # If we choose 'four', add an additional fourth layer\n    if {{choice(['three', 'four'])}} == 'four':\n        model.add(Dense(100))\n\n        # We can also choose between complete sets of layers\n\n        model.add({{choice([Dropout(0.5), Activation('linear')])}})\n        model.add(Activation('relu'))\n\n    model.add(Dense(10))\n    model.add(Activation('softmax'))\n\n    model.compile(loss='categorical_crossentropy', metrics=['accuracy'],\n                  optimizer={{choice(['rmsprop', 'adam', 'sgd'])}})\n\n    result = model.fit(x_train, y_train,\n                       batch_size={{choice([64, 128])}},\n                       epochs=2,\n                       verbose=2,\n                       validation_split=0.1)\n    # get the highest validation accuracy of the training epochs\n    validation_acc = np.amax(result.history['val_acc'])\n    print('Best validation acc of epoch:', validation_acc)\n    return {'loss': -validation_acc, 'status': STATUS_OK, 'model': model}\n\n\nif __name__ == '__main__':\n    best_run, best_model = optim.minimize(model=create_model,\n                                          data=data,\n                                          algo=tpe.suggest,\n                                          max_evals=5,\n                                          trials=Trials())\n    X_train, Y_train, X_test, Y_test = data()\n    print(\"Evalutation of best performing model:\")\n    print(best_model.evaluate(X_test, Y_test))\n    print(\"Best performing model chosen hyper-parameters:\")\n    print(best_run)\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1551133992.000900"
+  }, 
+  {
+    "client_msg_id": "aab0350b-3b20-4f88-919d-d75d16c10087", 
+    "text": "```\nimport tensorflow as tf\n\nc = []\na = tf.get_variable(\"a\", [2, 2], initializer=tf.random_uniform_initializer(-1, 1))\nb = tf.get_variable(\"b\", [2, 2], initializer=tf.random_uniform_initializer(-1, 1))\n\nc.append(tf.matmul(a, b))\n\nc.append(a + b)\n\nd = tf.add_n(c)\n\n\ninit = tf.global_variables_initializer()\n\nwith tf.Session() as sess:\n    sess.run(init)\n    print(sess.run(c))\n    print(sess.run(d))\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1551131876.000700"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "docx", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGEUWGJDT", 
+        "size": 45853, 
+        "title": "Data Engineering Intern (Summer 2019) .docx", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGEUWGJDT/data_engineering_intern__summer_2019__.docx", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1550868892, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGEUWGJDT/download/data_engineering_intern__summer_2019__.docx", 
+        "user": "UCHMQH2HE", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Word Document", 
+        "name": "Data Engineering Intern (Summer 2019) .docx", 
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGEUWGJDT-3777553b2f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCHMQH2HE/FGEUWGJDT/data_engineering_intern__summer_2019__.docx", 
+        "is_external": false, 
+        "created": 1550868892, 
+        "mode": "hosted"
+      }
+    ], 
+    "edited": {
+      "user": "UCHMQH2HE", 
+      "ts": "1550868953.000000"
+    }, 
+    "text": "<!channel>: There is opening for Data Engineer Intern role at Zendesk. Let me know if you are interested:", 
+    "upload": true, 
+    "ts": "1550868893.000300", 
+    "display_as_bot": false, 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8069443c-7d5b-417a-9d91-8abb330222af", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "magic", 
+        "users": [
+          "U6XDKSREZ", 
+          "U6YMU9QCF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sparkles", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "```\na = tf.constant([[1, 2], [3, 4]])\nb = tf.constant([[5, 6], [7, 8]])\n\n#element wise mulitplication\nc = tf.multiply(a, b)\n#matrix mulitplication\nd = tf.matmul(a, b)\n\nwith tf.Session() as sess:\n    print(sess.run(c))\n    print(sess.run(d))\n```", 
+    "ts": "1550701000.001300", 
+    "user": "U6YFC7074", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "77d67186-01f7-4310-bee1-702dd2173cf5", 
+    "text": "```\nfrom __future__ import print_function\n\nimport tensorflow as tf\nimport numpy\nimport matplotlib.pyplot as plt\nrng = numpy.random\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1550699905.001100"
+  }, 
+  {
+    "client_msg_id": "acb6167a-b413-4be9-8115-7279d989bf73", 
+    "text": "```\ntrain_X = numpy.asarray([3.3,4.4,5.5,6.71,6.93,4.168,9.779,6.182,7.59,2.167,\n                         7.042,10.791,5.313,7.997,5.654,9.27,3.1])\ntrain_Y = numpy.asarray([1.7,2.76,2.09,3.19,1.694,1.573,3.366,2.596,2.53,1.221,\n                         2.827,3.465,1.65,2.904,2.42,2.94,1.3])\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1550699877.000900"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550543542.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "431917cf-c3b7-491a-88e8-98e63c43f289", 
+    "text": "```\nimport numpy as np\n\n\ndef data_gen(df, batch_size):\n    while True:\n        x_batch = np.zeros((batch_size, 3, 224, 224))\n        y_batch = np.zeros((batch_size, 1))\n        for j in range(len(df['url']/batch_size)):\n            b = 0\n            for m, k in zip(df['url'].values[j*batch_size:(j+1)*batch_size], df['class'].values[j*batch_size:(j+1)*batch_size]):\n                x_batch[b] = m\n                y_batch[b] = k\n                b += 1\n            yield (x_batch, y_batch)\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1550099109.000300"
+  }, 
+  {
+    "client_msg_id": "e6f8aeb4-dfe9-4098-adf0-d9b4322ba4f3", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "text": "```x_max = np.max(x_train)\nx_train = x_train/x_max\nx_test = x_test/x_max```", 
+    "ts": "1549927226.001600", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d467ad8e-d5ff-4249-8439-3e3b1a45d88c", 
+    "text": "```\nfrom keras.datasets import mnist\nimport numpy as np\nfrom keras.models import Sequential\nfrom keras.layers import Dense, Dropout, Activation\nfrom keras.layers import LSTM\nimport keras\n\n(x_train, y_train), (x_test, y_test) = mnist.load_data()\nx_train = x_train/np.max(x_train)\nx_test = x_test/np.max(x_test)\ny_train = keras.utils.to_categorical(y_train, 10)\ny_test = keras.utils.to_categorical(y_test, 10)\n\n# print(x_train[1])\nx_train = x_train.reshape(x_train.shape[0], 28, 28)\nx_test = x_test.reshape(x_test.shape[0], 28, 28)\nprint(x_train[0])\nnb_units = 50\n\nmodel = Sequential()\n# input_shape for LSTM shoud be (time steps, features)\nmodel.add(LSTM(nb_units, input_shape=(28, 28)))\nmodel.add(Dense(units=10, activation='softmax'))\n# 2.5 Compile the model.\nmodel.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])\n# 2.6 Print out model.summary\nepochs = 3\n\nhistory = model.fit(x_train,\n                    y_train,\n                    epochs=epochs,\n                    batch_size=128,\n                    verbose=1,\n                    validation_split=0.2)\n\nscores = model.evaluate(x_test, y_test, verbose=2)\nprint(\"%s: %.2f%%\" % (model.metrics_names[1], scores[1]*100))\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1549926433.001000"
+  }, 
+  {
+    "client_msg_id": "c44f89e2-ff98-4d53-b67d-4e940beb898f", 
+    "text": "<!channel>: Homework 2, due date Feb 13:\nBuild and train a CNN+MLP deep learning model with Keras with two followings for MNIST dataset:\n1. Conv2D(32, kernel_size=(3, 3), activation='relu')\n2. Conv2D(64, kernel_size=(3, 3), activation='relu')\n3. MaxPooling2D(pool_size=(2, 2))\n4. Dense(128, activation='relu')\n5. Dense(num_classes, activation='softmax')\n\nAlso build another model with BatchNormalization and Dropout.\nCompare these two models performance for test data", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1549566945.002200"
+  }, 
+  {
+    "client_msg_id": "1c8e32d9-5c7a-480f-ac44-7c56fccc1260", 
+    "thread_ts": "1549510931.001900", 
+    "text": "Fixed!", 
+    "ts": "1549563910.001100", 
+    "user": "U6X9L8VAN", 
+    "parent_user_id": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1598651e-76be-4e18-b074-6a9f7d244c80", 
+    "thread_ts": "1549510931.001900", 
+    "text": "It's view-only", 
+    "ts": "1549563130.000900", 
+    "user": "U6XDKSREZ", 
+    "parent_user_id": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "822f3a14-4bdb-4a99-a8f2-13a637465642", 
+    "text": "This is the tentative progress tracker", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1549510942.002900"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "gsheet", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": true, 
+        "id": "FFZG469S5", 
+        "size": 147216, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FFZG469S5-79683973df/ds_2_thumb_pdf.png", 
+        "title": "DS 2.2 Progress Tracker", 
+        "url_private": "https://docs.google.com/spreadsheets/d/13xfhjQUEg6lJnPc0UosTYIX3T9xRwLLJhsnMNpUj1J4/edit?usp=sharing", 
+        "external_type": "gdrive", 
+        "username": "", 
+        "timestamp": 1549486290, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "user": "U6X9L8VAN", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Spreadsheet", 
+        "name": "DS 2", 
+        "mimetype": "application/vnd.google-apps.spreadsheet", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6X9L8VAN/FFZG469S5/ds_2", 
+        "is_external": true, 
+        "created": 1549486290, 
+        "mode": "external", 
+        "external_id": "13xfhjQUEg6lJnPc0UosTYIX3T9xRwLLJhsnMNpUj1J4", 
+        "thumb_pdf_h": 1210, 
+        "external_url": "https://docs.google.com/spreadsheets/d/13xfhjQUEg6lJnPc0UosTYIX3T9xRwLLJhsnMNpUj1J4/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "29c8de5e-bf49-4c76-a04a-bd48ff3fab66", 
+    "latest_reply": "1549563910.001100", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XDKSREZ", 
+      "U6X9L8VAN"
+    ], 
+    "thread_ts": "1549510931.001900", 
+    "text": "<https://docs.google.com/spreadsheets/d/13xfhjQUEg6lJnPc0UosTYIX3T9xRwLLJhsnMNpUj1J4/edit?usp=sharing>", 
+    "x_files": [
+      "FFZG469S5"
+    ], 
+    "upload": false, 
+    "ts": "1549510931.001900", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6X9L8VAN", 
+    "replies": [
+      {
+        "user": "U6XDKSREZ", 
+        "ts": "1549563130.000900"
+      }, 
+      {
+        "user": "U6X9L8VAN", 
+        "ts": "1549563910.001100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCHMQH2HE"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0ad8ffd9-acd4-4430-b3d1-31b631e5a20e", 
+    "text": "Do we have a tracker for this class? Otherwise how do we submit our homework?", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1549509227.001700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FG0CPM8CD-550e8ab314/pooling_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FG0CPM8CD", 
+        "thumb_480_h": 379, 
+        "original_h": 406, 
+        "thumb_360_w": 360, 
+        "title": "pooling.jpeg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FG0CPM8CD/pooling.jpeg", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FG0CPM8CD-550e8ab314/pooling_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FG0CPM8CD-550e8ab314/pooling_64.jpg", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FG0CPM8CD-550e8ab314/pooling_80.jpg", 
+        "thumb_360_h": 284, 
+        "size": 24107, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1549490652, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FG0CPM8CD-550e8ab314/pooling_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FG0CPM8CD/download/pooling.jpeg", 
+        "user": "UCD9D1YH4", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FG0CPM8CD-ebc374a628", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD9D1YH4/FG0CPM8CD/pooling.jpeg", 
+        "name": "pooling.jpeg", 
+        "created": 1549490652, 
+        "original_w": 514, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1549490655.000700", 
+    "display_as_bot": false, 
+    "user": "UCD9D1YH4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c1a83d11-f113-46d4-a3c9-b39183016895", 
+    "text": "```\nfrom __future__ import print_function\nimport keras\n\nfrom keras.models import Sequential\nfrom keras.layers import Dense, Dropout, Flatten\nfrom keras.layers import Conv2D, MaxPooling2D\n\n\nmodel = Sequential()\nmodel.add(Conv2D(32, kernel_size=(3, 3),\n                 activation='relu',\n                 input_shape=(28, 28, 1)))\nmodel.add(Conv2D(64, (3, 3), activation='relu'))\nmodel.add(MaxPooling2D(pool_size=(2, 2)))\n# model.add(Dropout(0.25))\nmodel.add(Flatten())\nmodel.add(Dense(128, activation='relu'))\n# model.add(Dropout(0.5))\nmodel.add(Dense(10, activation='softmax'))\n\nmodel.compile(loss=keras.losses.categorical_crossentropy,\n              optimizer=keras.optimizers.Adadelta(),\n              metrics=['accuracy'])\n\nprint(model.summary())\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1549489090.000600"
+  }, 
+  {
+    "client_msg_id": "6cd2d534-e67b-4276-99e4-7ed28545ba67", 
+    "attachments": [
+      {
+        "service_icon": "https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/09/cropped-icon-180x180.png", 
+        "image_bytes": 127485, 
+        "original_url": "https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/", 
+        "service_name": "Machine Learning Mastery", 
+        "title": "Regression Tutorial with the Keras Deep Learning Library in Python", 
+        "ts": 1465412435, 
+        "image_width": 376, 
+        "image_height": 250, 
+        "image_url": "https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/Regression-Tutorial-with-Keras-Deep-Learning-Library-in-Python.jpg", 
+        "text": "Keras is a deep learning library that wraps the efficient numerical libraries Theano and TensorFlow. In this post you will discover how to develop and evaluate neural network models using Keras\u00a0for a regression problem. After completing this step-by-step tutorial, you will know: How to load a CSV dataset and make it available to Keras. How \u2026", 
+        "from_url": "https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/", 
+        "fallback": "Machine Learning Mastery: Regression Tutorial with the Keras Deep Learning Library in Python", 
+        "title_link": "https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/>", 
+    "ts": "1549488431.000200", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 18, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FFY63N6R3", 
+        "size": 1021, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FFY63N6R3/-.txt", 
+        "preview": "#WRONG WAY\r\nmodel = Sequential()\r\nmodel.add(Dense(16, input_shape=(4,)))\r\nmodel.add(Activation('sigmoid'))\r\nmodel.add(Dense(3))\r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/U8NHWGBGW/FFY63N6R3/-.txt/edit", 
+        "username": "", 
+        "timestamp": 1549320282, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>#WRONG WAY</pre></div>\n<div><pre>model = Sequential()</pre></div>\n<div><pre>model.add(Dense(16, input_shape=(4,)))</pre></div>\n<div><pre>model.add(Activation('sigmoid'))</pre></div>\n<div><pre>model.add(Dense(3))</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FFY63N6R3/download/-.txt", 
+        "user": "U8NHWGBGW", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FFY63N6R3-0eec1ebb78", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U8NHWGBGW/FFY63N6R3/-.txt", 
+        "name": "-.txt", 
+        "created": 1549320282, 
+        "lines": 23, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "text": "The wrong and correct way to test out hyperparameters. The first method, will reuse the previous training, which you don\u2019t want. The second way will start you off on a clean state for each iteration of the hyperparameter. Additionally, smaller batch size increased accuracy, but also increases training time.", 
+    "upload": true, 
+    "ts": "1549320282.000700", 
+    "display_as_bot": false, 
+    "user": "U8NHWGBGW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "74f67054-9fbd-4e8b-a11b-3fd6165b18a6", 
+    "edited": {
+      "user": "UCHMQH2HE", 
+      "ts": "1548961076.000000"
+    }, 
+    "text": "<!channel>: Homework (Due date is Wednesday Feb 6):\n1- Build a Keras Model for simple linear regression (check: <https://keras.io/activations/>)\n2- Build a Keras Model for logistic regression", 
+    "ts": "1548960539.005100", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9fe1d2d3-c22b-42f5-90c5-02ad9e0b6371", 
+    "text": "<https://ml-cheatsheet.readthedocs.io/en/latest/>", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1548888896.002900"
+  }, 
+  {
+    "client_msg_id": "ead255ea-2392-44ea-8f6a-9dadcc0de877", 
+    "attachments": [
+      {
+        "image_bytes": 34917, 
+        "original_url": "https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "7 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Beginners Ask \u201cHow Many Hidden Layers/Neurons to Use in Artificial Neural Networks?\u201d", 
+        "ts": 1530105601, 
+        "title_link": "https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*mqTfsRjBrdjY2FsEuqqpaA.png", 
+        "image_width": 287, 
+        "service_name": "Towards Data Science", 
+        "from_url": "https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e", 
+        "fallback": "Towards Data Science: Beginners Ask \u201cHow Many Hidden Layers/Neurons to Use in Artificial Neural Networks?\u201d", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*F0LADxTtsKOgmPa-_7iUEQ.jpeg", 
+        "text": "Beginners in artificial neural networks (ANNs) are likely to ask some questions. Some of these questions include what is the number of\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://towardsdatascience.com/beginners-ask-how-many-hidden-layers-neurons-to-use-in-artificial-neural-networks-51466afa0d3e>", 
+    "ts": "1548887078.002600", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "da9b8904-a0c8-4b5f-ad0f-9cbc1dad04c5", 
+    "attachments": [
+      {
+        "image_bytes": 16332, 
+        "original_url": "https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "2 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "What is One Hot Encoding? Why And When do you have to use it?", 
+        "ts": 1501729356, 
+        "title_link": "https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*VEUpeqme8XUA4jHBN9CjWA.png", 
+        "image_width": 642, 
+        "service_name": "Hacker Noon", 
+        "from_url": "https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f", 
+        "fallback": "Hacker Noon: What is One Hot Encoding? Why And When do you have to use it?", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*76XiKOa05Yya6_CdYX8pVg.jpeg", 
+        "text": "So, you\u2019re playing with ML models and you encounter this \u201cOne hot encoding\u201d term all over the place. You see the sklearn documentation for\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f>", 
+    "ts": "1548886904.002300", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5bad2549-2d70-4c8c-9150-606d2dc6a955", 
+    "text": "```\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)\n\ny_train_one_hot = np_utils.to_categorical(y_train)\ny_test_one_hot = np_utils.to_categorical(y_test)\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1548886867.002100"
+  }, 
+  {
+    "client_msg_id": "07e3e7c2-f592-48f7-9c3e-9fa70e7025a2", 
+    "text": "```\nfrom keras.models import Sequential\nfrom keras.layers.core import Dense, Activation\nfrom keras.utils import np_utils\nfrom sklearn.preprocessing import LabelEncoder\nfrom sklearn import datasets\nfrom sklearn.model_selection import train_test_split\n\niris = datasets.load_iris()\nX, y = iris.data, iris.target\n\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=0)\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1548886679.001900"
+  }, 
+  {
+    "client_msg_id": "52ee13b4-0953-446a-9ca8-0f6678d7135d", 
+    "edited": {
+      "user": "UCHMQH2HE", 
+      "ts": "1548885006.000000"
+    }, 
+    "text": "```\nX=np.array([[1,0,1,0],[1,0,1,1],[0,1,0,1]])\n\n#Output\ny=np.array([[1],[1],[0]])\n```", 
+    "ts": "1548884998.001600", 
+    "user": "UCHMQH2HE", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "280fcf6a-b096-4aaf-bfb8-f5c475ffa03c", 
+    "text": "```\n#weight and bias initialization\nwh=np.random.uniform(size=(inputlayer_neurons,hiddenlayer_neurons))\nbh=np.random.uniform(size=(1,hiddenlayer_neurons))\nwout=np.random.uniform(size=(hiddenlayer_neurons,output_neurons))\nbout=np.random.uniform(size=(1,output_neurons))\n```", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1548713892.001400"
+  }, 
+  {
+    "client_msg_id": "0ae66c17-c62e-40dc-ba91-f49bde5956a8", 
+    "edited": {
+      "user": "U6X9L8VAN", 
+      "ts": "1548712109.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "https://www.mathsisfun.com/calculus/derivatives-partial.html", 
+        "text": "Math explained in easy language, plus puzzles, games, quizzes, videos and worksheets. For K-12 kids, teachers and parents.", 
+        "title": "Partial Derivatives", 
+        "title_link": "https://www.mathsisfun.com/calculus/derivatives-partial.html", 
+        "service_name": "mathsisfun.com", 
+        "from_url": "https://www.mathsisfun.com/calculus/derivatives-partial.html", 
+        "fallback": "Partial Derivatives", 
+        "service_icon": "https://www.mathsisfun.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> Hey everyone!! Here is more on partial derivatives from my favorite math site <http://mathisfun.com|mathisfun.com>\n\n<https://www.mathsisfun.com/calculus/derivatives-partial.html>", 
+    "ts": "1548712080.000900", 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9f2c8003-02d8-43dc-99fa-588400c43abc", 
+    "text": "```print(v.reshape(3, -1))```", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1548282070.000700"
+  }, 
+  {
+    "client_msg_id": "078bca84-e6c2-4833-bd51-b05df12a44d4", 
+    "text": "`v = np.array([[[1., 2.,3.], [4.,5.,6.]], [[7.,8.,9.], [11.,12.,13.]]])`", 
+    "type": "message", 
+    "user": "UCHMQH2HE", 
+    "ts": "1548281900.000500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1548279202.000200", 
+    "text": "<@U6YFC7074> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "3555384a-0313-4e6b-8da9-0b141c4490d6", 
+    "text": "XD", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1548222343.000600"
+  }, 
+  {
+    "client_msg_id": "a4c398fe-ae35-4c3d-accf-6677030c565d", 
+    "text": "Hello everyone! I'll be your TA for deep learning!", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1548222341.000400"
+  }, 
+  {
+    "client_msg_id": "ef6d9f87-9f59-4fbd-b758-03b1ffd46413", 
+    "edited": {
+      "user": "U6XDKSREZ", 
+      "ts": "1548130302.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/rA5qnZUXcqo/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/Vsauce", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=rA5qnZUXcqo", 
+        "video_html_width": 400, 
+        "author_name": "Vsauce", 
+        "title_link": "https://www.youtube.com/watch?v=rA5qnZUXcqo", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/rA5qnZUXcqo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=rA5qnZUXcqo", 
+        "title": "The Stilwell Brain", 
+        "fallback": "YouTube Video: The Stilwell Brain", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "I sent this on the other channel, but it's a great way to understand neural networks:\n<https://www.youtube.com/watch?v=rA5qnZUXcqo>", 
+    "ts": "1548130256.000200", 
+    "user": "U6XDKSREZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[January 18th, 2019 5:02 PM] milad: Deep Learning in Medicine, published by nature:\n<https://www.nature.com/articles/s41591-018-0300-7>", 
+        "author_link": "https://product-college.slack.com/team/UCHMQH2HE", 
+        "color": "D0D0D0", 
+        "text": "Deep Learning in Medicine, published by nature:\n<https://www.nature.com/articles/s41591-018-0300-7>", 
+        "footer": "Posted in #general", 
+        "ts": "1547859754.474100", 
+        "author_name": "Milad Toutounchian (DS Instructor)", 
+        "is_share": true, 
+        "channel_name": "general", 
+        "channel_id": "C1D3YFP6G", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Milad Toutounchian (DS Instructor)", 
+        "from_url": "https://product-college.slack.com/archives/C1D3YFP6G/p1547859754474100", 
+        "author_icon": "https://avatars.slack-edge.com/2018-09-11/433554643411_3f510fda02ca1092e5b4_48.png", 
+        "author_id": "UCHMQH2HE"
+      }
+    ], 
+    "ts": "1547859933.001300", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1547859906.001200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1547859892.001000", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XDKSREZ> has joined the channel", 
+    "ts": "1547859886.000800", 
+    "subtype": "channel_join", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1547859877.000500", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@UCHMQH2HE> has joined the channel", 
+    "ts": "1547859857.000200", 
+    "subtype": "channel_join", 
+    "user": "UCHMQH2HE", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "8919676e-5f0d-4c5d-9934-8f8cad66f403", 
+    "attachments": [
+      {
+        "image_bytes": 799263, 
+        "original_url": "https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/", 
+        "service_name": "MIT Technology Review", 
+        "title": "A radical new neural network design could overcome big challenges in AI", 
+        "image_width": 444, 
+        "title_link": "https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/", 
+        "image_height": 250, 
+        "image_url": "https://cdn.technologyreview.com/i/images/screen-shot-2018-12-07-at-7.07.03-pm.png?cx=0&cy=12&cw=1888&ch=1062&sw=1200", 
+        "text": "Researchers borrowed equations from calculus to redesign the core machinery of deep learning so it can model continuous processes like changes in health.", 
+        "from_url": "https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/", 
+        "fallback": "MIT Technology Review: A radical new neural network design could overcome big challenges in AI", 
+        "service_icon": "https://www.technologyreview.com/favicon.ico?v=2", 
+        "id": 1
+      }
+    ], 
+    "text": "Have you heard about \u201cODE networks\u201d with continuous rather than discrete layers? I just heard of them here: <https://www.technologyreview.com/s/612561/a-radical-new-neural-network-design-could-overcome-big-challenges-in-ai/amp/>", 
+    "ts": "1545094377.000200", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "[November 12th, 2018 12:54 PM] miki: Essential Cheat Sheets for Machine Learning and Deep Learning Engineers (Keras, Numpy, Pandas, Scipy, Matplotlib, Scikit-learn etc): <https://link.medium.com/d2d5OW1VMR>", 
+        "author_link": "https://product-college.slack.com/team/U916G04LB", 
+        "color": "D0D0D0", 
+        "text": "Essential Cheat Sheets for Machine Learning and Deep Learning Engineers (Keras, Numpy, Pandas, Scipy, Matplotlib, Scikit-learn etc): <https://link.medium.com/d2d5OW1VMR>", 
+        "footer": "Posted in #data-science-club", 
+        "ts": "1542056069.013000", 
+        "author_name": "Miki Nomura", 
+        "is_share": true, 
+        "channel_name": "data-science-club", 
+        "channel_id": "C7TLQSG4C", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Miki Nomura", 
+        "from_url": "https://product-college.slack.com/archives/C7TLQSG4C/p1542056069013000", 
+        "author_icon": "https://avatars.slack-edge.com/2018-01-30/307320597010_749ec1dbbe8af9119219_48.jpg", 
+        "author_id": "U916G04LB"
+      }
+    ], 
+    "ts": "1542064201.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540780758.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "0cdccfa5-557d-49a8-970c-1cf41c7dcc80", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "<@U6YMU9QCF>: Wrong channel", 
+    "ts": "1540240467.000100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d466c6e3-1e14-49e9-b26e-b555d080a16b", 
+    "text": "DS 2.1 is starting now in Machu Picchu!!!! :aakash: :make-school: :dancing_penguin: <!channel>", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1540240146.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NHWGBGW", 
+    "ts": "1540233133.000200", 
+    "text": "<@U8NHWGBGW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1T2Q3G81", 
+    "ts": "1540233125.000200", 
+    "text": "<@U1T2Q3G81> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDV6CVA", 
+    "ts": "1540233121.000200", 
+    "text": "<@U6XDV6CVA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1540233117.000200", 
+    "text": "<@U6WMDD6U8> has left the channel"
+  }, 
+  {
+    "name": "ds22-deep-learning", 
+    "text": "<@U1HBKMW8Y> has renamed the channel from \"ds3-deep-learning\" to \"ds22-deep-learning\"", 
+    "ts": "1540233092.000100", 
+    "subtype": "channel_name", 
+    "user": "U1HBKMW8Y", 
+    "old_name": "ds3-deep-learning", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e53bde64-f3f8-47cf-8d56-f2d995c3dbe9", 
+    "text": "<!channel>: Hey DS3 students, there's a kickass biomedical hackathon happening in a couple of days. There's a need for data science nerds/geeks/enthusiasts who know their way around some basic CNNs and machine learning models - if that's something any of y'all are interested in, check out this link! <https://qbihackathon.ucsf.edu/>", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1539200193.000100"
+  }, 
+  {
+    "client_msg_id": "D3405024-8A9B-467B-BADF-C6D39CDF2B9A", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 267, 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Computer Vision / Deep Learning Engineer", 
+            "title": "Title"
+          }, 
+          {
+            "short": true, 
+            "value": "$110K \u2013 $135K, 0.1% \u2013 0.2%", 
+            "title": "Compensation"
+          }
+        ], 
+        "thumb_width": 267, 
+        "original_url": "https://angel.co/kairos/jobs/319329-computer-vision-deep-learning-engineer?src=rec", 
+        "text": "Apply now for Computer Vision / Deep Learning Engineer Job at Kairos in Miami, Singapore - Kairos is an artificial intelligence company specializing in face recognition. Through computer vision and machine learning, Kairos can recognize faces in videos, photos, and the real-world - making it easier than ever to transform the way your business interacts with people. Kairos navigates the complexities of face analysis technology, so you don\u2019t have to. We offer APIs and SDKs any developer can integrate with ease. Founded in 2012 and based in Miami, Kairos is a venture backed organization servicing a diverse global customer base. Learn more at <https://www.kairos.com/>", 
+        "title": "Computer Vision / Deep Learning Engineer - Kairos Jobs on AngelList", 
+        "title_link": "https://angel.co/kairos/jobs/319329-computer-vision-deep-learning-engineer?src=rec", 
+        "service_name": "angel.co", 
+        "from_url": "https://angel.co/kairos/jobs/319329-computer-vision-deep-learning-engineer?src=rec", 
+        "fallback": "Computer Vision / Deep Learning Engineer - Kairos Jobs on AngelList", 
+        "thumb_url": "https://d1qb2nb5cznatu.cloudfront.net/startups/i/81358-1531a61536990ad8e82cb2b73ea29127-medium_jpg.jpg?buster=1420213309", 
+        "id": 1
+      }
+    ], 
+    "text": "Anyone in DS looking for a position:\n<https://angel.co/kairos/jobs/319329-computer-vision-deep-learning-engineer?src=rec>", 
+    "ts": "1532299475.000008", 
+    "user": "U8NMLKGDU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a33dd1b0-17c2-4a4a-94c8-918b247afcd4", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-5", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 285838, 
+        "original_url": "https://ibmdatascienceday.bemyapp.com/", 
+        "service_name": "IBM Community Day: Data Science is a free, 1-day virtual conference for developers featuring speakers from IBM and IBM partners.", 
+        "title": "Introducing the first virtual IBM Community Day featuring Data Science!", 
+        "image_width": 478, 
+        "title_link": "https://ibmdatascienceday.bemyapp.com/", 
+        "image_height": 250, 
+        "image_url": "http://v.fastcdn.co/u/0bc8903d/32602381-0-Ad-Facebook-1200x628.jpg", 
+        "text": "IBM Community Day: Data Science is a free, 1-day virtual conference for developers featuring speakers from IBM and IBM partners.", 
+        "from_url": "https://ibmdatascienceday.bemyapp.com/", 
+        "fallback": "IBM Community Day: Data Science is a free, 1-day virtual conference for developers featuring speakers from IBM and IBM partners.: Introducing the first virtual IBM Community Day featuring Data Science!", 
+        "service_icon": "http://v.fastcdn.co/u/0bc8903d/31596471-0-favicon-1.png", 
+        "id": 1
+      }
+    ], 
+    "text": "IBM is offering a free 1-day online/virtual data science conference July 24th: <https://ibmdatascienceday.bemyapp.com/>", 
+    "ts": "1531951942.000129", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heart_eyes", 
+        "users": [
+          "U8NHWGBGW", 
+          "U703HM5PY", 
+          "U8NMLKGDU"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U1NCM4VME", 
+    "ts": "1527876679.000276", 
+    "text": "The author, Judea Pearl, is famous in the AI world, perhaps on the level of people like Hinton and LeCunn.  He's largely responsible for introducing bayesian probabilistic methods into AI in the 80s, and one of the world's foremost experts on things like Markov Logic Networks.  \n\nThe main point behind this book is that current Machine/Deep Learning methods are essentially just glorified curve fitting.  They're not actually doing anything impressive, when compared to human models of cognition, because they're mathematically incapable of inferring causality.  Because x=y, y=x, and we don't know which causes which (an AI can't know if the temperature outside causes the reading on the thermometer, or the reading on the thermometer causes the temperature outside).  He's invented his own form of calculus, do-calculus, that is used to test for and express causality."
+  }, 
+  {
+    "text": "For anyone looking for a really, really, really good read about the future of AI and machine learning, I highly recommend this book.  \n\n<https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/ref=sr_1_1/146-8651237-3070627?ie=UTF8&amp;qid=1527875863&amp;sr=8-1&amp;keywords=the+book+of+why>", 
+    "type": "message", 
+    "user": "U1NCM4VME", 
+    "ts": "1527876139.000697", 
+    "edited": {
+      "user": "U1NCM4VME", 
+      "ts": "1527876152.000000"
+    }
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "scream", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alan", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rainbow", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dab-squidward", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 96192, 
+        "original_url": "https://www.paperspace.com/", 
+        "text": "Cloud Machine Learning, AI, and effortless GPU infrastructure", 
+        "title": "Paperspace", 
+        "image_width": 372, 
+        "title_link": "https://www.paperspace.com/", 
+        "image_height": 250, 
+        "image_url": "https://www.paperspace.com/images/archbg2.jpg", 
+        "service_name": "paperspace.com", 
+        "from_url": "https://www.paperspace.com/", 
+        "fallback": "Paperspace", 
+        "id": 1
+      }
+    ], 
+    "text": "I just learned about Paperspace, \u201cEffortless cloud infrastructure for Machine Learning\u201d \u2013 <https://www.paperspace.com/>", 
+    "ts": "1527812920.000168", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1527645633.000016", 
+    "text": "I miss jiro ramen\u2026", 
+    "ts": "1527698277.000708", 
+    "user": "U6WMDD6U8", 
+    "parent_user_id": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://twitter.com/MIT_CSAIL/status/1001540927456989185>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "footer": "Twitter", 
+        "image_bytes": 287143, 
+        "author_link": "https://twitter.com/MIT_CSAIL/status/1001540927456989185", 
+        "text": "Perhaps the best/only way to explain neural networks to a five-year-old: <http://bit.ly/2IYMbgC> #MachineLearning #ELI5 (credit kouhoutek on <https://twitter.com/reddit|@reddit>) <https://pbs.twimg.com/media/DeYvmt8XkAUVGQS.jpg>", 
+        "from_url": "https://twitter.com/MIT_CSAIL/status/1001540927456989185", 
+        "original_url": "https://twitter.com/MIT_CSAIL/status/1001540927456989185", 
+        "ts": 1527620939, 
+        "author_name": "CSAIL at MIT", 
+        "image_width": 1200, 
+        "image_height": 1198, 
+        "image_url": "https://pbs.twimg.com/media/DeYvmt8XkAUVGQS.jpg", 
+        "service_name": "twitter", 
+        "author_subname": "@MIT_CSAIL", 
+        "service_url": "https://twitter.com/", 
+        "fallback": "<https://twitter.com/MIT_CSAIL|@MIT_CSAIL>: Perhaps the best/only way to explain neural networks to a five-year-old: <http://bit.ly/2IYMbgC> #MachineLearning #ELI5 (credit kouhoutek on <https://twitter.com/reddit|@reddit>) <https://pbs.twimg.com/media/DeYvmt8XkAUVGQS.jpg>", 
+        "author_icon": "https://pbs.twimg.com/profile_images/885505956272115712/U81HpDxb_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1527649916.000235", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "thread_ts": "1527645633.000016", 
+    "latest_reply": "1527698277.000708", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/Rnj2RLycHA4/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/channel/UCO64vqfUwx_MdCAgPsLX-DQ", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=Rnj2RLycHA4", 
+        "video_html_width": 400, 
+        "author_name": "Kenji Doi", 
+        "title_link": "https://www.youtube.com/watch?v=Rnj2RLycHA4", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/Rnj2RLycHA4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=Rnj2RLycHA4", 
+        "title": "jirou interpolation video", 
+        "fallback": "YouTube Video: jirou interpolation video", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }, 
+      {
+        "footer": "Twitter", 
+        "author_link": "https://twitter.com/goodfellow_ian/status/998616901541482497", 
+        "text": "Interpolating through the latent space of ramen dishes uses a GAN <https://twitter.com/knjcode/status/998577972419248130>", 
+        "original_url": "https://twitter.com/goodfellow_ian/status/998616901541482497", 
+        "ts": 1526923797, 
+        "author_name": "Ian Goodfellow", 
+        "service_url": "https://twitter.com/", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/goodfellow_ian/status/998616901541482497", 
+        "author_subname": "@goodfellow_ian", 
+        "fallback": "<https://twitter.com/goodfellow_ian|@goodfellow_ian>: Interpolating through the latent space of ramen dishes uses a GAN <https://twitter.com/knjcode/status/998577972419248130>", 
+        "author_icon": "https://pbs.twimg.com/profile_images/885666767355338752/YbueXqob_normal.jpg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 2
+      }, 
+      {
+        "indent": true, 
+        "footer": "Twitter", 
+        "color": "32BBF3", 
+        "text": "Google Drive\u306b\u30e9\u30fc\u30e1\u30f3\u4e8c\u90ceGAN\u52d5\u753b\u306e\u5143\u30d5\u30a1\u30a4\u30eb\u3092\u7f6e\u304d\u307e\u3057\u305f\u3002 <https://drive.google.com/open?id=16w8k40RfKhGLqTL1nvqGgB_P19lT-I7v> #\u30e9\u30fc\u30e1\u30f3\u4e8c\u90ce #GAN", 
+        "author_link": "https://twitter.com/knjcode/status/998577972419248130", 
+        "ts": 1526914515, 
+        "author_name": "Kenji Doi", 
+        "service_url": "https://twitter.com/", 
+        "service_name": "twitter", 
+        "from_url": "https://twitter.com/knjcode/status/998577972419248130", 
+        "author_subname": "@knjcode", 
+        "fallback": "<https://twitter.com/knjcode|@knjcode>: Google Drive\u306b\u30e9\u30fc\u30e1\u30f3\u4e8c\u90ceGAN\u52d5\u753b\u306e\u5143\u30d5\u30a1\u30a4\u30eb\u3092\u7f6e\u304d\u307e\u3057\u305f\u3002 <https://drive.google.com/open?id=16w8k40RfKhGLqTL1nvqGgB_P19lT-I7v> #\u30e9\u30fc\u30e1\u30f3\u4e8c\u90ce #GAN", 
+        "author_icon": "https://pbs.twimg.com/profile_images/528815156554260481/XINP-kQj_normal.jpeg", 
+        "footer_icon": "https://a.slack-edge.com/6e067/img/services/twitter_pixel_snapped_32.png", 
+        "id": 3
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "robot_face", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "brain", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thought_balloon", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "ramen", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "tv", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "yum", 
+        "users": [
+          "U1HBKMW8Y", 
+          "U6XDV6CVA"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "U6WMDD6U8"
+    ], 
+    "replies": [
+      {
+        "user": "U6WMDD6U8", 
+        "ts": "1527698277.000708"
+      }
+    ], 
+    "ts": "1527645633.000016", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U1HBKMW8Y", 
+    "text": "A generative adversarial network (GAN) trained on 60,000 images of ramen created this video continuously interpolating through its latent space could make you hungry or give you nightmares: <https://www.youtube.com/watch?v=Rnj2RLycHA4>\n\nFound scrolling through Ian Goodfellow\u2019s Twitter stream: <https://twitter.com/goodfellow_ian/status/998616901541482497>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "attachments": [
+      {
+        "thumb_height": 512, 
+        "thumb_url": "https://www.springboard.com/blog/wp-content/uploads/2016/10/pablo-34.png", 
+        "thumb_width": 1024, 
+        "original_url": "https://www.springboard.com/blog/data-science-interview-questions/", 
+        "service_name": "Springboard Blog", 
+        "title": "109 Commonly Asked Data Science Interview Questions", 
+        "ts": 1477545479, 
+        "title_link": "https://www.springboard.com/blog/data-science-interview-questions/", 
+        "text": "This guide contains all of the types of data science interview questions an interviewee should expect when interviewing for a position as a data scientist.", 
+        "from_url": "https://www.springboard.com/blog/data-science-interview-questions/", 
+        "fallback": "Springboard Blog: 109 Commonly Asked Data Science Interview Questions", 
+        "service_icon": "https://www.springboard.com/blog/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "Data Science Interview Questions \u2013 Look at questions in these sections: 1. Statistics, 3. Modeling, and 5. Problem-Solving: <https://www.springboard.com/blog/data-science-interview-questions/>", 
+    "pinned_info": {
+      "pinned_ts": 1527645672, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1527635543.000170", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "Yep! That's correct.  The positional arguments are the number of filters to learn and the filter size (32 filters, that are 3 x 3 size in the example above).  Padding goes inside the Conv2D instantiation as a keyword argument as well.  There are a few other things you can tweak as well, such as stride.", 
+    "type": "message", 
+    "user": "U1NCM4VME", 
+    "ts": "1527607457.000518"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1NCM4VME"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1527561507.000125", 
+    "text": "it looks like this -&gt; model.add(Conv2D(32, (3, 3), padding=\u2018same\u2019))"
+  }, 
+  {
+    "text": "<@U703HM5PY> padding is argument of Conv2D. You should care about the place of curly bracket.", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1527561475.000219"
+  }, 
+  {
+    "text": "rather, line 5 and 12", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1527461480.000005"
+  }, 
+  {
+    "text": "I removed the padding arguments from line 3 and 12 and it seems to work", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1527461461.000074"
+  }, 
+  {
+    "text": "though padding worked just fine on line 3", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1527461225.000082"
+  }, 
+  {
+    "text": "For some reason line 5 where you\u2019re building the network is complaining ```TypeError: add() got an unexpected keyword argument 'padding'```", 
+    "type": "message", 
+    "user": "U703HM5PY", 
+    "ts": "1527461203.000065"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 771597, 
+        "original_url": "https://distill.pub/2017/feature-visualization/", 
+        "service_name": "Distill", 
+        "title": "Feature Visualization", 
+        "image_width": 475, 
+        "title_link": "https://distill.pub/2017/feature-visualization/", 
+        "image_height": 250, 
+        "image_url": "https://distill.pub/2017/feature-visualization/thumbnail.jpg", 
+        "text": "How neural networks build up their understanding of images", 
+        "from_url": "https://distill.pub/2017/feature-visualization/", 
+        "fallback": "Distill: Feature Visualization", 
+        "id": 1
+      }
+    ], 
+    "text": "\u2022 Most helpful CNNs article and video I found: <http://brohrer.github.io/how_convolutional_neural_networks_work.html>\n\u2022 Coolest article with beautiful and trippy images of convolutional filters: <https://distill.pub/2017/feature-visualization/>", 
+    "pinned_info": {
+      "pinned_ts": 1527645680, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1527299235.000026", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "I\u2019ve added a new notebook on convolutional neural networks, along with several great articles and videos to the DS 3 repo. Update your local repo with `git pull course master` \u2013 _after committing your changes locally._", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527299133.000019", 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1527299142.000000"
+    }
+  }, 
+  {
+    "client_msg_id": "20726A27-1A73-4B42-A70F-6DC409741EE5", 
+    "text": "I won't be at programming lab at 10am but you can get together to work on your final projects and help unblock each other! :muscle::female-technologist::male-technologist:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527267749.000001"
+  }, 
+  {
+    "text": "Christopher Olah\u2019s article on convolutional neural networks: <https://colah.github.io/posts/2014-07-Conv-Nets-Modular/>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527206765.000062"
+  }, 
+  {
+    "text": "I found this exploration of MNIST dimensionality reduction: <https://colah.github.io/posts/2014-10-Visualizing-MNIST/>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527206598.000241"
+  }, 
+  {
+    "text": "<http://scs.ryerson.ca/~aharley/vis/conv/>", 
+    "type": "message", 
+    "user": "U6XDV6CVA", 
+    "ts": "1527202644.000302"
+  }, 
+  {
+    "text": "<http://user-image.logdown.io/user/13673/blog/12890/post/302641/V21DnAAeTKiOirZRFKhT_dl2.png>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "800x439px image", 
+        "image_bytes": 219919, 
+        "original_url": "http://user-image.logdown.io/user/13673/blog/12890/post/302641/V21DnAAeTKiOirZRFKhT_dl2.png", 
+        "image_width": 800, 
+        "image_height": 439, 
+        "image_url": "http://user-image.logdown.io/user/13673/blog/12890/post/302641/V21DnAAeTKiOirZRFKhT_dl2.png", 
+        "from_url": "http://user-image.logdown.io/user/13673/blog/12890/post/302641/V21DnAAeTKiOirZRFKhT_dl2.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1527201524.000008", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "Here\u2019s an image from the above post of convolutional filters: <https://i.stack.imgur.com/D6pXk.jpg>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "fallback": "328x367px image", 
+        "image_bytes": 56512, 
+        "original_url": "https://i.stack.imgur.com/D6pXk.jpg", 
+        "image_width": 328, 
+        "image_height": 367, 
+        "image_url": "https://i.stack.imgur.com/D6pXk.jpg", 
+        "from_url": "https://i.stack.imgur.com/D6pXk.jpg", 
+        "id": 1
+      }
+    ], 
+    "ts": "1527201238.000350", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<http://www.zhanjunlang.com/resources/tutorial/Data%20Science%20from%20Scratch%20First%20Principles%20with%20Python.pdf>", 
+    "pinned_info": {
+      "pinned_ts": 1527645693, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1527201205.000325", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U6X9L8VAN", 
+    "type": "message"
+  }, 
+  {
+    "text": "<https://datascience.stackexchange.com/questions/16463/what-is-are-the-default-filters-used-by-keras-convolution2d>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 316, 
+        "thumb_url": "https://cdn.sstatic.net/Sites/datascience/img/apple-touch-icon@2.png?v=1c36463984b3", 
+        "thumb_width": 316, 
+        "original_url": "https://datascience.stackexchange.com/questions/16463/what-is-are-the-default-filters-used-by-keras-convolution2d", 
+        "service_name": "Data Science Stack Exchange", 
+        "title": "What is/are the default filters used by Keras Convolution2d()?", 
+        "title_link": "https://datascience.stackexchange.com/questions/16463/what-is-are-the-default-filters-used-by-keras-convolution2d", 
+        "text": "I am pretty new to neural networks, but I understand linear algebra and the mathematics of convolution pretty decently. I am trying to understand the example code I find in various places on the ...", 
+        "from_url": "https://datascience.stackexchange.com/questions/16463/what-is-are-the-default-filters-used-by-keras-convolution2d", 
+        "fallback": "Data Science Stack Exchange: What is/are the default filters used by Keras Convolution2d()?", 
+        "service_icon": "https://cdn.sstatic.net/Sites/datascience/img/favicon.ico?v=6fd4da7d1890", 
+        "id": 1
+      }
+    ], 
+    "ts": "1527201180.000079", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "I\u2019ve added a new notebook on techniques for improving neural network performance, along with several helpful articles and resources to the DS 3 repo. Update your local repo with `git pull course master` \u2013 _after committing your changes locally._", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527112924.000265"
+  }, 
+  {
+    "text": "<https://github.com/kaichimomose/DS-3-Deep-Learning/tree/master/Dota2_Games_Results_Prediction>", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1527032844.000068", 
+    "edited": {
+      "user": "U6WMDD6U8", 
+      "ts": "1527032912.000000"
+    }
+  }, 
+  {
+    "thread_ts": "1527031814.000328", 
+    "text": "I have more improvements on the models that\u2019s not committed", 
+    "ts": "1527031856.000019", 
+    "user": "U8NHWGBGW", 
+    "parent_user_id": "U8NHWGBGW", 
+    "type": "message"
+  }, 
+  {
+    "edited": {
+      "user": "U8NHWGBGW", 
+      "ts": "1527032425.000000"
+    }, 
+    "latest_reply": "1527031856.000019", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NHWGBGW"
+    ], 
+    "thread_ts": "1527031814.000328", 
+    "text": "<https://github.com/Austrie/Deep-Learning/blob/45f7ae2a28395443d1a3446f870174a38f23aa35/notebooks/Adult%20Census%20Notebook.ipynb>", 
+    "ts": "1527031814.000328", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U8NHWGBGW", 
+    "replies": [
+      {
+        "user": "U8NHWGBGW", 
+        "ts": "1527031856.000019"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "thread_ts": "1527022008.000248", 
+    "text": "Where you at, KA$H? <@U6YMU9QCF>", 
+    "ts": "1527028436.000329", 
+    "user": "U1HBKMW8Y", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1527022008.000248", 
+    "text": "In the meantime, lemme also share my project. Struggled with the model because of some encoding issues or something? If anyone knows what\u2019s going on, feel free to ping me. Would love the help.", 
+    "ts": "1527025403.000376", 
+    "user": "U6YMU9QCF", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1527022008.000248", 
+    "text": "Running a little late; hopefully shouldn\u2019t be too long now. Hiring dude at Transcriptic is a chatty guy indeed.", 
+    "ts": "1527025302.000377", 
+    "user": "U6YMU9QCF", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1527022008.000248", 
+    "latest_reply": "1527028436.000329", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YMU9QCF", 
+      "U1HBKMW8Y"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "phone", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stopwatch", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I\u2019ll be a little late as well; am on a work-related call. Will show up though around up to 30 minutes though.", 
+    "ts": "1527022008.000248", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6YMU9QCF", 
+    "replies": [
+      {
+        "user": "U6YMU9QCF", 
+        "ts": "1527025302.000377"
+      }, 
+      {
+        "user": "U6YMU9QCF", 
+        "ts": "1527025403.000376"
+      }, 
+      {
+        "user": "U1HBKMW8Y", 
+        "ts": "1527028436.000329"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U6XDV6CVA", 
+      "ts": "1527032430.000000"
+    }, 
+    "text": "Hey guys, I won\u2019t be in class today. Here\u2019s the link to my project notebook: <https://github.com/melodyfs/DS-3-Deep-Learning/blob/master/project/diabetes.ipynb>", 
+    "ts": "1527021473.000363", 
+    "user": "U6XDV6CVA", 
+    "type": "message"
+  }, 
+  {
+    "text": "You should also select and obtain a different dataset for your final project. It could be another dataset recommended in the first project, or a different one that you find or collect on your own to start exploring next week. If you\u2019ve completed the first project, then you can start scrubbing and exploring your final project dataset, since it\u2019s due on Tuesday, May 29th.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527014393.000581"
+  }, 
+  {
+    "text": "Friendly reminder that you\u2019ll each be presenting your end-to-end data science project in class today (5-8 minutes each). Please have your notebook ready to go at 2pm and be prepared to explain your process, modeling, and any conclusions.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1527014153.000454"
+  }, 
+  {
+    "text": "Reminder to *complete the guided project* and also *select and obtain a dataset for your final project* by tomorrow\u2019s class.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1526954408.000287"
+  }, 
+  {
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1526603567.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 172890, 
+        "original_url": "https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/", 
+        "service_name": "Machine Learning Mastery", 
+        "title": "Dropout Regularization in Deep Learning Models With Keras", 
+        "ts": 1466362837, 
+        "image_width": 376, 
+        "image_height": 250, 
+        "image_url": "https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/Dropout-Regularization-in-Deep-Learning-Models-With-Keras.jpg", 
+        "text": "A simple and powerful regularization technique for neural networks and deep learning models is dropout. In this post you will discover the dropout regularization technique and how to apply it to your models in Python with Keras. After reading this post you will know: How the dropout regularization technique works. How to use dropout on \u2026", 
+        "from_url": "https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/", 
+        "fallback": "Machine Learning Mastery: Dropout Regularization in Deep Learning Models With Keras", 
+        "title_link": "https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "the_horns", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rainbow", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alan", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "text": "Here are some resources and tips to follow-up on what we discussed in today\u2019s class. FYI <@U6YMU9QCF> <@U6YHCA79U> \n\n:one: How to use *TensorBoard* with Keras: <https://keras.io/callbacks/#tensorboard>\n\u2022 Create a `logs` directory (where your Juptyter notebooks are) to store training log data for TensorBoard: `mkdir logs`\n\n\u2022 Run TensorBoard (in another Terminal tab/window from your Jupyter notebooks server): `tensorboard --logdir=logs`\n\n\u2022 Create a callback to send log data to TensorBoard (just copy code from the Keras documentation and modify as needed):\n`callback = keras.callbacks.TensorBoard(log_dir='./logs', ...)`\n\n\u2022 Pass the callback function into the call to `model.fit` with the `callbacks` keyword (`callback` must be wrapped in a list):\n`model.fit(X_train, y_train, ..., callbacks=[callback])`\n\n\u2022 Inspect the graphs on TensorBoard\u2019s \u201cscalars\u201d tab to observe your model training and to detect if it is overfit or underfit.\n\n:two: *Dropout layers* and the intuition behind why they act as a regularization method to add robustness to neural networks.\n\u2022 Read this article to learn more: <https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/>\n\n\u2022 To see how dropout layers improve model robustness and avoid overfitting, modify the MNIST classifier you built last week.\nFirst remember to import the `Dropout` layer class: `from keras.layers import Dropout`\nThen add a `Dropout` layer after each `Dense` layer: `model.add(Dropout(0.5))`\n\n\u2022 Play with the probability hyperparameters in the dropout layers and see how it affects the model (try `0.2`, `0.5`, and `0.8`).\n\nConfused by anything? Read the Keras docs with examples! <https://keras.io/getting-started/sequential-model-guide/>\n\n:three: Finally, it\u2019s time to *select and obtain a dataset for your final project* by next Tuesday\u2019s class. It could be another dataset recommended in the first project, or a different one that you find or collect on your own to start exploring next week.", 
+    "ts": "1526602536.000290", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "EF6F8B23-612E-45AC-86EC-10E68BCC3E07", 
+    "text": "Instructor meeting running over. Please pair review your projects.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1526591126.000413"
+  }, 
+  {
+    "text": "WHY AAKASH?????", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1526545050.000414"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "U8NHWGBGW", 
+          "U1NCM4VME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heart", 
+        "users": [
+          "U1NCM4VME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "face_with_rolling_eyes", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "fallback": "1086x574px image", 
+        "image_bytes": 85326, 
+        "original_url": "https://scontent.fsjc1-3.fna.fbcdn.net/v/t31.0-8/17760760_10212164427536536_6621477151338319210_o.jpg?_nc_cat=0&amp;oh=6aa49f97b3c35d40e28444e0cccfe4b1&amp;oe=5B92514B", 
+        "image_width": 1086, 
+        "image_height": 574, 
+        "image_url": "https://scontent.fsjc1-3.fna.fbcdn.net/v/t31.0-8/17760760_10212164427536536_6621477151338319210_o.jpg?_nc_cat=0&oh=6aa49f97b3c35d40e28444e0cccfe4b1&oe=5B92514B", 
+        "from_url": "https://scontent.fsjc1-3.fna.fbcdn.net/v/t31.0-8/17760760_10212164427536536_6621477151338319210_o.jpg?_nc_cat=0&oh=6aa49f97b3c35d40e28444e0cccfe4b1&oe=5B92514B", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://scontent.fsjc1-3.fna.fbcdn.net/v/t31.0-8/17760760_10212164427536536_6621477151338319210_o.jpg?_nc_cat=0&amp;oh=6aa49f97b3c35d40e28444e0cccfe4b1&amp;oe=5B92514B>", 
+    "ts": "1526543552.000287", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "text": "Who is working on the adults dataset? How did you count / handle the question marks?", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1526531664.000104"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U6WMDD6U8", 
+          "U6XDV6CVA", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "unicorn_face", 
+        "users": [
+          "U703HM5PY", 
+          "U6XDV6CVA", 
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1526497107.000000"
+    }, 
+    "text": "<!here>\u2019s what you should do before class starts on Thursday:\n:one: *Finish the notebook on multilayer perceptrons*, trying several different network topologies and hyperparameters \u2013 Remember to _change only one thing at a time_ and *record hyperparameter values* along with their *validation accuracy.*\n:two: Continue with the end-to-end data science project \u2013 *Complete the obtain, scrub, and explore steps* of the OSEMiN process, and *begin the model and interpret steps* (as a repeating loop) using a multilayer perceptron with Keras.", 
+    "ts": "1526497013.000217", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1526441699.000175", 
+    "attachments": [
+      {
+        "service_icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180", 
+        "image_bytes": 19971, 
+        "original_url": "https://techcrunch.com/2017/09/14/geoffrey-hinton-was-briefly-a-google-intern-in-2012-because-of-bureaucracy/", 
+        "service_name": "TechCrunch", 
+        "title": "Geoffrey Hinton was briefly a Google intern in 2012 because of bureaucracy", 
+        "ts": 1505424491, 
+        "image_width": 444, 
+        "image_height": 250, 
+        "image_url": "https://techcrunch.com/wp-content/uploads/2017/09/geoffrey-hinton.jpg?w=711", 
+        "text": "Geoffrey Hinton is one the most famous researchers in the field of artificial intelligence. His work helped kick off the world of deep learning we see today. So it was a bit hilarious to learn in a Reddit AMA hosted by the Google Brain Team that\u00a0Hinton was briefly a Google intern in 2012.", 
+        "from_url": "https://techcrunch.com/2017/09/14/geoffrey-hinton-was-briefly-a-google-intern-in-2012-because-of-bureaucracy/", 
+        "fallback": "TechCrunch: Geoffrey Hinton was briefly a Google intern in 2012 because of bureaucracy", 
+        "title_link": "https://techcrunch.com/2017/09/14/geoffrey-hinton-was-briefly-a-google-intern-in-2012-because-of-bureaucracy/", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "U6YHCA79U", 
+          "U1HBKMW8Y", 
+          "U8NHWGBGW"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dab-squidward", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "google", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Had to look this one up--yes!! Apparently he was supposed to be a visiting researcher on the brain team, but a bureaucratic mixup, he was misclassified as one of Jeff Dean's interns :joy:\n\nThe idea of a phD with 35+ years experience as an intern is prettttty hilarious.  Thanks for pointing this out!\n\n<https://techcrunch.com/2017/09/14/geoffrey-hinton-was-briefly-a-google-intern-in-2012-because-of-bureaucracy/>", 
+    "ts": "1526490321.000614", 
+    "user": "U1NCM4VME", 
+    "parent_user_id": "U1NCM4VME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A901F2C8-5257-487E-92E5-7DEF7EAD9196", 
+    "thread_ts": "1526441699.000175", 
+    "text": "Wasn\u2019t he also the oldest intern at Google? ", 
+    "ts": "1526489551.000679", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U1NCM4VME", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1526441699.000175", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "U6YHCA79U", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "exploding_head", 
+        "users": [
+          "U6YHCA79U", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "magic", 
+        "users": [
+          "U6YHCA79U", 
+          "U6YMU9QCF", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "male-technologist", 
+        "users": [
+          "U6YHCA79U", 
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "Lol I might have been a bit facetious there.  :wink:\n\nHinton and Rummelhart discovered and published generalized back propagation back in the 80s.  He's arguably the most famous/important name in Deep Learning. Dude has changed the field several times over.  \n\nOnce you all have a strong grasp on CNNs, I recommend taking a look at his talks on his newest findings, Capsule Networks.   Seems like it has the potential to turn computer vision on it's head", 
+    "ts": "1526484367.000189", 
+    "user": "U1NCM4VME", 
+    "parent_user_id": "U1NCM4VME", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1526441699.000175", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "U1NCM4VME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "muscle", 
+        "users": [
+          "U1NCM4VME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U1NCM4VME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "chart_with_upwards_trend", 
+        "users": [
+          "U1NCM4VME", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "brain", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "robot_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I'm currently taking his Neural Network class at Coursera", 
+    "ts": "1526450828.000119", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U1NCM4VME", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1526441699.000175", 
+    "text": "He is a teacher at the University of Toronto", 
+    "ts": "1526450805.000167", 
+    "user": "U6YHCA79U", 
+    "parent_user_id": "U1NCM4VME", 
+    "type": "message"
+  }, 
+  {
+    "text": "^ I dont know her......", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1526442785.000123"
+  }, 
+  {
+    "thread_ts": "1526441699.000175", 
+    "latest_reply": "1526490321.000614", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YHCA79U", 
+      "U1NCM4VME"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "alan", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue_winking_eye", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "Geoffrey Hinton? That name sounds familiar....", 
+    "ts": "1526441699.000175", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "U1NCM4VME", 
+    "replies": [
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1526450805.000167"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1526450828.000119"
+      }, 
+      {
+        "user": "U1NCM4VME", 
+        "ts": "1526484367.000189"
+      }, 
+      {
+        "user": "U6YHCA79U", 
+        "ts": "1526489551.000679"
+      }, 
+      {
+        "user": "U1NCM4VME", 
+        "ts": "1526490321.000614"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<https://d18ky98rnyall9.cloudfront.net/_4bd9216688e0605b8e05f5533577b3b8_lec1.pdf?Expires=1526515200&amp;Signature=Ib94L-1GD~9712Vpm9jmD1HUkS2F1pHSUHYxKleGHec3D8bKzRh5vWBVuhmErmLWNWH6GuIn9FSvxrd6vqQjVJ0dPmKuNLKJGkcOhd0mB0mH40ZGDYj2WtfD5I-cpcB90QlYBRJbgfXixzt~tw1jjngnNv1gUIz1fpOva5vxiSs_&amp;Key-Pair-Id=APKAJLTNE6QMUY6HBC5A>", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1526437547.000254"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "thinking_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thought_balloon", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "robot_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "brain", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "nerd_face", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 186696, 
+        "original_url": "https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "8 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Stochastic Weight Averaging \u2014 a New Way to Get State of the Art Results in Deep Learning", 
+        "ts": 1524908412, 
+        "title_link": "https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*-EZtClthC4fmDo45tjNXZA.png", 
+        "image_width": 1200, 
+        "service_name": "Towards Data Science", 
+        "from_url": "https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a", 
+        "fallback": "Towards Data Science: Stochastic Weight Averaging \u2014 a New Way to Get State of the Art Results in Deep Learning", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*F0LADxTtsKOgmPa-_7iUEQ.jpeg", 
+        "text": "In this article, I will discuss two interesting recent papers that provide an easy way to improve performance of any given neural network\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a>", 
+    "ts": "1526280110.000166", 
+    "user": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "text": "Friendly reminder to make progress on the end-to-end data science project by obtaining, scrubbing, and exploring one of the recommended datasets this weekend. Next week we\u2019ll do the model and interpret steps (as a repeating loop) with Keras.", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1525996984.000100"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1034, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FAJV9PPU6", 
+        "thumb_480_h": 480, 
+        "original_h": 1034, 
+        "thumb_360_w": 279, 
+        "title": "DS 3: End-to-End Data Science Project Guidelines", 
+        "url_private": "https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_80.png", 
+        "thumb_360_h": 360, 
+        "size": 4256, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_800.png", 
+        "timestamp": 1525382080, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_1024.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FAJV9PPU6/end-to-end_data_science_project", 
+        "name": "End-to-End Data Science Project", 
+        "created": 1525382080, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 743, 
+        "thumb_1024_w": 792, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_720.png", 
+        "external_url": "https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit"
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1525996856.000194", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "I\u2019ve added resources and a new notebook on multilayer perceptrons as a challenge for you to complete after today\u2019s class. Update your DS 3 course repo with `git pull course master` \u2013 _after you\u2019ve committed your latest changes locally._", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1525992505.000201"
+  }, 
+  {
+    "edited": {
+      "user": "U1HBKMW8Y", 
+      "ts": "1525989510.000000"
+    }, 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/wvWpdrfoEv0/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/CGPGrey", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=wvWpdrfoEv0", 
+        "video_html_width": 400, 
+        "author_name": "CGP Grey", 
+        "title_link": "https://www.youtube.com/watch?v=wvWpdrfoEv0", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/wvWpdrfoEv0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=wvWpdrfoEv0", 
+        "title": "How Machines *Really* Learn.  [Footnote]", 
+        "fallback": "YouTube Video: How Machines *Really* Learn.  [Footnote]", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "How Machines *Really* Learn (how neural networks are trained): <https://www.youtube.com/watch?v=wvWpdrfoEv0>", 
+    "ts": "1525989419.000282", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "image_bytes": 887779, 
+        "footer": "Posted using /giphy", 
+        "title": "kool aid man", 
+        "image_width": 335, 
+        "title_link": "https://giphy.com/gifs/life-daily-VRa3YCyi3JSWk", 
+        "image_height": 230, 
+        "image_url": "https://media0.giphy.com/media/VRa3YCyi3JSWk/giphy-downsized.gif", 
+        "fallback": "giphy: https://giphy.com/gifs/life-daily-VRa3YCyi3JSWk", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1525981753.000572", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "text": "Hello, fellow Make School students.  I heard a rumor that there will be a dashingly handsome and charming guest lecturer in class today.  Let's all make sure we are there in our Sunday Best**, ready to learn!\n\n**(Disclaimer--Read this is as 'Saturday Best' if you are one of the chosen, or substitute in the appropriate day of worship for your religion)", 
+    "type": "message", 
+    "user": "U1NCM4VME", 
+    "ts": "1525980139.000471"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart_eyes", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "aakash", 
+        "users": [
+          "U6YMU9QCF", 
+          "U6YHCA79U"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dab-squidward", 
+        "users": [
+          "U6YHCA79U"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 1047115, 
+        "footer": "Posted using /giphy", 
+        "title": "how do you do, fellow kids", 
+        "image_width": 500, 
+        "title_link": "https://giphy.com/gifs/30-rock-sme-how-do-you-1Qdp4trljSkY8", 
+        "image_height": 282, 
+        "image_url": "https://media0.giphy.com/media/1Qdp4trljSkY8/giphy-downsized.gif", 
+        "fallback": "giphy: https://giphy.com/gifs/30-rock-sme-how-do-you-1Qdp4trljSkY8", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1525980008.000397", 
+    "user": "U1NCM4VME", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1NCM4VME", 
+    "ts": "1525979745.000502", 
+    "text": "<@U1NCM4VME> has joined the channel"
+  }, 
+  {
+    "text": "<http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf>", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1525959604.000413"
+  }, 
+  {
+    "thread_ts": "1525843500.000068", 
+    "text": "If Alan can\u2019t get to you, then I can help", 
+    "ts": "1525843811.000223", 
+    "user": "U8NHWGBGW", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1525843500.000068", 
+    "latest_reply": "1525843811.000223", 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NHWGBGW"
+    ], 
+    "text": "<!channel> Can I sit down with someone tomorrow or later this week to go over stuff we covered today in class? Had a job-related call for most of the day. ", 
+    "ts": "1525843500.000068", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YMU9QCF", 
+    "replies": [
+      {
+        "user": "U8NHWGBGW", 
+        "ts": "1525843811.000223"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 359, 
+        "filetype": "png", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__480.png", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FALELMAV9", 
+        "thumb_480_h": 480, 
+        "original_h": 776, 
+        "thumb_360_w": 269, 
+        "title": "TensorFlow Spiral 96.1%.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FALELMAV9/tensorflow_spiral_96.1_.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__64.png", 
+        "thumb_720_w": 538, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__80.png", 
+        "thumb_360_h": 360, 
+        "size": 244844, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1525826448, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FALELMAV9/download/tensorflow_spiral_96.1_.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FALELMAV9-7108c5f0c5", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FALELMAV9/tensorflow_spiral_96.1_.png", 
+        "name": "TensorFlow Spiral 96.1%.png", 
+        "created": 1525826448, 
+        "original_w": 580, 
+        "mode": "hosted", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FALELMAV9-79c5b7db5e/tensorflow_spiral_96.1__720.png"
+      }
+    ], 
+    "text": "This is my best attempt so far (test loss 0.039 means 96.1% accuracy on the test set)", 
+    "upload": true, 
+    "ts": "1525826450.000157", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "Play around with neural network architectures and activation functions on TensorFlow Playground\u2019s and see how low you can get the test error on the spiral dataset with noise level 20: <http://playground.tensorflow.org/#dataset=spiral&amp;noise=20>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 164023, 
+        "original_url": "http://playground.tensorflow.org/#dataset=spiral&amp;noise=20", 
+        "text": "Tinker with a real neural network right here in your browser.", 
+        "title": "Tensorflow \u2014 Neural Network Playground", 
+        "image_width": 475, 
+        "title_link": "http://playground.tensorflow.org/#dataset=spiral&noise=20", 
+        "image_height": 250, 
+        "image_url": "http://playground.tensorflow.org/preview.png", 
+        "service_name": "playground.tensorflow.org", 
+        "from_url": "http://playground.tensorflow.org/#dataset=spiral&noise=20", 
+        "fallback": "Tensorflow \u2014 Neural Network Playground", 
+        "service_icon": "http://playground.tensorflow.org/favicon.png", 
+        "id": 1
+      }
+    ], 
+    "ts": "1525826402.000246", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "I _highly recommend_ this *Intuitive Guide to Linear Algebra*: <https://betterexplained.com/articles/linear-algebra-guide/>", 
+    "pinned_info": {
+      "pinned_ts": 1525818783, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1525818776.000084", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "pip install tensorflow==1.2.0 --ignore-installed", 
+    "pinned_info": {
+      "pinned_ts": 1525816159, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1525815430.000538", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U6YHCA79U", 
+    "type": "message"
+  }, 
+  {
+    "attachments": [
+      {
+        "thumb_height": 250, 
+        "thumb_url": "https://avatars0.githubusercontent.com/u/26469999?s=400&v=4", 
+        "thumb_width": 250, 
+        "original_url": "https://github.com/Product-College-Courses/DS-3-Deep-Learning", 
+        "service_name": "GitHub", 
+        "title": "Product-College-Courses/DS-3-Deep-Learning", 
+        "title_link": "https://github.com/Product-College-Courses/DS-3-Deep-Learning", 
+        "text": "DS-3-Deep-Learning - DS 3: Neural Networks &amp; Deep Learning", 
+        "from_url": "https://github.com/Product-College-Courses/DS-3-Deep-Learning", 
+        "fallback": "GitHub: Product-College-Courses/DS-3-Deep-Learning", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/github.png", 
+        "id": 1
+      }
+    ], 
+    "text": "*DS 3 course repository* is <!here>: <http://make.sc/ds3-repo|make.sc/ds3-repo> = <https://github.com/Product-College-Courses/DS-3-Deep-Learning>\n\n:warning: *Please follow these instructions exactly* to set up your fork of the course repo correctly before you commit your code: <http://github.com/Product-College-Courses/DS-3-Deep-Learning/blob/master/Setup.md|github.com/Product-College-Courses/DS-3-Deep-Learning/blob/master/Setup.md>", 
+    "pinned_info": {
+      "pinned_ts": 1525816154, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1525815000.000404", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1034, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FAJV9PPU6", 
+        "thumb_480_h": 480, 
+        "original_h": 1034, 
+        "thumb_360_w": 279, 
+        "title": "DS 3: End-to-End Data Science Project Guidelines", 
+        "url_private": "https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_80.png", 
+        "thumb_360_h": 360, 
+        "size": 4256, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_800.png", 
+        "timestamp": 1525382080, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_1024.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FAJV9PPU6/end-to-end_data_science_project", 
+        "name": "End-to-End Data Science Project", 
+        "created": 1525382080, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 743, 
+        "thumb_1024_w": 792, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FAJV9PPU6-8abb5f6f7e/end-to-end_data_science_project_720.png", 
+        "external_url": "https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit"
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1525382083.000162", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "Project guidelines: <https://docs.google.com/document/d/1VPu2GpoDfaxYXAuc0X7ToYxE-i0MaBbznUXqvZqOvl0/edit>", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1525382079.000172"
+  }, 
+  {
+    "thread_ts": "1525216234.000227", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6YMU9QCF"
+        ]
+      }
+    ], 
+    "text": "My old Calculus frenemy, WolframAlpha", 
+    "ts": "1525274031.000040", 
+    "user": "U8NHWGBGW", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1525216234.000227", 
+    "latest_reply": "1525274031.000040", 
+    "attachments": [
+      {
+        "image_bytes": 40890, 
+        "original_url": "http://www.wolframalpha.com/input/?i=z+%3D+3+%2B+4x+%2B+2y", 
+        "text": "Wolfram|Alpha brings expert-level knowledge and capabilities to the broadest possible range of people\u2014spanning all professions and education levels.", 
+        "title": "Wolfram|Alpha: Making the world\u2019s knowledge computable", 
+        "image_width": 250, 
+        "title_link": "http://www.wolframalpha.com/input/?i=z+%3D+3+%2B+4x+%2B+2y", 
+        "image_height": 250, 
+        "image_url": "http://www.wolframalpha.com/share.png", 
+        "service_name": "wolframalpha.com", 
+        "from_url": "http://www.wolframalpha.com/input/?i=z+%3D+3+%2B+4x+%2B+2y", 
+        "fallback": "Wolfram|Alpha: Making the world\u2019s knowledge computable", 
+        "service_icon": "http://www.wolframalpha.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NHWGBGW"
+    ], 
+    "replies": [
+      {
+        "user": "U8NHWGBGW", 
+        "ts": "1525274031.000040"
+      }
+    ], 
+    "ts": "1525216234.000227", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YMU9QCF", 
+    "text": "Wolfram Alpha 3D Visualization for the plane equation: \nZ = 3 + 4*x1 + 2*x2\n\n<http://www.wolframalpha.com/input/?i=z+%3D+3+%2B+4x+%2B+2y>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "thread_ts": "1525210853.000451", 
+    "text": "Only I can post articles! :fire:", 
+    "ts": "1525210885.000387", 
+    "user": "U8NHWGBGW", 
+    "parent_user_id": "U6YMU9QCF", 
+    "type": "message"
+  }, 
+  {
+    "thread_ts": "1525210853.000451", 
+    "latest_reply": "1525210885.000387", 
+    "attachments": [
+      {
+        "fallback": "wikipedia: Perceptron", 
+        "image_bytes": 62969, 
+        "original_url": "https://en.wikipedia.org/wiki/Perceptron#History", 
+        "title": "Perceptron", 
+        "text": "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers (functions that can decide whether an input, represented by a vector of numbers, belongs to some specific class or not). It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector.", 
+        "author_link": "https://en.wikipedia.org/", 
+        "image_width": 1200, 
+        "author_name": "Wikipedia", 
+        "title_link": "https://en.wikipedia.org/wiki/Perceptron#History", 
+        "image_height": 545, 
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png", 
+        "from_url": "https://en.wikipedia.org/wiki/Perceptron#History", 
+        "service_icon": "https://a.slack-edge.com/bfaba/img/unfurl_icons/wikipedia.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reply_users": [
+      "U8NHWGBGW"
+    ], 
+    "replies": [
+      {
+        "user": "U8NHWGBGW", 
+        "ts": "1525210885.000387"
+      }
+    ], 
+    "ts": "1525210853.000451", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "U6YMU9QCF", 
+    "text": "<https://en.wikipedia.org/wiki/Perceptron#History>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<https://medium.com/swlh/artificial-neural-network-some-misconceptions-cb93e80b34bb>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "image_bytes": 592438, 
+        "original_url": "https://medium.com/swlh/artificial-neural-network-some-misconceptions-cb93e80b34bb", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "30 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Artificial Neural Network: Some Misconceptions \u2013 The Startup \u2013 Medium", 
+        "ts": 1517046676, 
+        "title_link": "https://medium.com/swlh/artificial-neural-network-some-misconceptions-cb93e80b34bb", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*2-b43hUO2U3Gw0myHLFCPA.png", 
+        "image_width": 567, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/swlh/artificial-neural-network-some-misconceptions-cb93e80b34bb", 
+        "fallback": "Medium: Artificial Neural Network: Some Misconceptions \u2013 The Startup \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*Xd2uZaVHfrGOP14W_3UQRg.jpeg", 
+        "text": "Neural networks are one of the most popular and powerful classes of machine learning algorithms. In quantitative finance neural networks\u2026", 
+        "id": 1
+      }
+    ], 
+    "ts": "1525210808.000065", 
+    "user": "U8NHWGBGW"
+  }, 
+  {
+    "text": "Guys this is a good resource about last class", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524864861.000083"
+  }, 
+  {
+    "text": "<https://pdfs.semanticscholar.org/fd88/2a24391a05bf4cf92e8259101f7944d88a56.pdf>", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524864822.000084"
+  }, 
+  {
+    "text": "Let's do it!", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524864794.000224"
+  }, 
+  {
+    "text": "#team ?", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1524864378.000277"
+  }, 
+  {
+    "text": "I could do it as well", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524864248.000512"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1524862743.000113", 
+    "text": "I could do it."
+  }, 
+  {
+    "text": "Would anyone like to chat with a prospective student about their experience with data science? Find Raymond Wu today!", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1524862611.000188"
+  }, 
+  {
+    "text": "lol", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524847479.000484"
+  }, 
+  {
+    "text": "Sleep? sleep who? I don't know her", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524847472.000309"
+  }, 
+  {
+    "client_msg_id": "F53215A8-EFAA-4D0A-BC94-F73382E5ABDF", 
+    "text": "(I'm working on it, will post soon.)", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1524846626.000400"
+  }, 
+  {
+    "client_msg_id": "CC35C04D-AEB0-4B1A-BAEC-3DF55033C2E5", 
+    "text": "Do you sleep Elliot? :flushed::alarm_clock::stuck_out_tongue_winking_eye:", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1524846612.000641"
+  }, 
+  {
+    "text": "Do we have a DS-3 repo ?", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1524828035.000207"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1034, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FAE4D9L59", 
+        "thumb_480_h": 480, 
+        "original_h": 1034, 
+        "thumb_360_w": 279, 
+        "title": "DS 3: Deep Learning Syllabus", 
+        "url_private": "https://docs.google.com/document/d/1WHOrbG8h7q4vOyLfCwEH_W6UBzbcHt1rQMOZukoS6QE/edit", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_80.png", 
+        "thumb_360_h": 360, 
+        "size": 9651, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_800.png", 
+        "timestamp": 1524790357, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_1024.png", 
+        "user": "U1HBKMW8Y", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U1HBKMW8Y/FAE4D9L59/ds_3__deep_learning_syllabus", 
+        "name": "DS 3: Deep Learning Syllabus", 
+        "created": 1524790357, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 743, 
+        "thumb_1024_w": 792, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1WHOrbG8h7q4vOyLfCwEH_W6UBzbcHt1rQMOZukoS6QE", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FAE4D9L59-0125c43d01/ds_3__deep_learning_syllabus_720.png", 
+        "external_url": "https://docs.google.com/document/d/1WHOrbG8h7q4vOyLfCwEH_W6UBzbcHt1rQMOZukoS6QE/edit"
+      }
+    ], 
+    "text": "", 
+    "upload": false, 
+    "ts": "1524790359.000272", 
+    "display_as_bot": false, 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "DS 3: Neural Networks &amp; Deep Learning course syllabus: <http://make.sc/ds3-syllabus|make.sc/ds3-syllabus>\nContains course overview, prerequisites, topics, competencies, and _tentative_ schedule", 
+    "pinned_info": {
+      "pinned_ts": 1524790366, 
+      "channel": "CADD5KDKJ", 
+      "pinned_by": "U1HBKMW8Y"
+    }, 
+    "ts": "1524790353.000131", 
+    "pinned_to": [
+      "CADD5KDKJ"
+    ], 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> has joined the channel", 
+    "ts": "1524777161.000019", 
+    "subtype": "channel_join", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1524777160.000468", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1524777160.000342", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1524777160.000223", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1524777160.000116", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1524777160.000092", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1524777159.000625", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1524777159.000491", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U6XDV6CVA> has joined the channel", 
+    "ts": "1524777159.000362", 
+    "subtype": "channel_join", 
+    "user": "U6XDV6CVA", 
+    "type": "message", 
+    "inviter": "U1HBKMW8Y"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel topic: DS 3: Neural Networks &amp; Deep Learning course discussion and resources", 
+    "ts": "1524777054.000332", 
+    "topic": "DS 3: Neural Networks &amp; Deep Learning course discussion and resources", 
+    "subtype": "channel_topic", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> set the channel purpose: DS 3: Neural Networks &amp; Deep Learning course discussion and resources", 
+    "ts": "1524777051.000391", 
+    "subtype": "channel_purpose", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "purpose": "DS 3: Neural Networks &amp; Deep Learning course discussion and resources"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1524777051.000130", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "status_expiration": 0, 
+    "display_name": "DanielS", 
+    "status_emoji": "", 
+    "avatar_hash": "g3cde57adde3", 
+    "title": "", 
+    "status_text_canonical": "", 
+    "skype": "", 
+    "real_name": "Daniel Sullivan", 
+    "image_24": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-24.png", 
+    "phone": "", 
+    "real_name_normalized": "Daniel Sullivan", 
+    "image_512": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-512.png", 
+    "display_name_normalized": "DanielS", 
+    "image_32": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-32.png", 
+    "image_48": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-48.png", 
+    "team": "T1D4KRBR8", 
+    "image_72": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-72.png", 
+    "status_text": "", 
+    "email": "daniel.sullivan@students.makeschool.com", 
+    "image_192": "https://secure.gravatar.com/avatar/3cde57adde3ca37a8ffca5debaded29a.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0013-192.png"
+  }, 
+  "updated": 1554277625, 
+  "name": "daniel.sullivan", 
+  "presence": "away", 
+  "deleted": true, 
+  "is_app_user": false, 
+  "is_bot": false, 
+  "team_id": "T1D4KRBR8", 
+  "id": "UCFRMA9V1"
+}

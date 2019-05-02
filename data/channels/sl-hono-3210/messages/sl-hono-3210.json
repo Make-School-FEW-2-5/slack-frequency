@@ -1,0 +1,1230 @@
+[
+  {
+    "client_msg_id": "8F6E9A51-EC7F-4F41-9D35-B85E03EC7079", 
+    "text": "Thought this pic was pretty cool!", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1556322912.000600"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ1QRBYGZ", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1QRBYGZ/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1513197, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_800.jpg", 
+        "timestamp": 1556322898, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ1QRBYGZ/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_1024.jpg", 
+        "user": "UCBMZFL4U", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ1QRBYGZ-641bd8c6e0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBMZFL4U/FJ1QRBYGZ/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556322898, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ1QRBYGZ-923a7d4f1d/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "6D6934A0-81EF-4544-89F9-2E6DCA82CCB6", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556322903.000100", 
+    "display_as_bot": false, 
+    "user": "UCBMZFL4U", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a8a70692-d9aa-4d28-907e-cb4364896a62", 
+    "text": "<@UCBMZFL4U> we're like 5 minutes ahead of you", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556315634.007300"
+  }, 
+  {
+    "client_msg_id": "01ff94f3-f9f3-4fe1-8100-3ed3bc4344f4", 
+    "text": "We're at the beach walking towards the bridge", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556315610.006600"
+  }, 
+  {
+    "client_msg_id": "BD1E613D-9815-4C65-81D7-B9041098B53B", 
+    "text": "Been walking around trying to find everyone ", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1556315176.005800"
+  }, 
+  {
+    "client_msg_id": "8B72528B-336A-4B59-8FC2-4E9219A6A4CF", 
+    "text": "Where's everyone at? Lol", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1556315168.005400"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ817NKJR", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ817NKJR/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1110620, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_800.jpg", 
+        "timestamp": 1556314352, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ817NKJR/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_1024.jpg", 
+        "user": "UCBHQSTB6", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ817NKJR-676550dc85", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHQSTB6/FJ817NKJR/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556314352, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ817NKJR-3f2dcb83c4/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "E02900AB-1044-4286-AECD-85ACD4CE5CB3", 
+    "text": "I\u2019m over here\n", 
+    "upload": true, 
+    "ts": "1556314352.004400", 
+    "display_as_bot": false, 
+    "user": "UCBHQSTB6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ae8115c8-1bd7-40ee-ba3e-b17d062d1ae6", 
+    "text": "We're watching ducks in front of the big dome", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556314053.004100"
+  }, 
+  {
+    "client_msg_id": "bbe485fc-9324-426f-aff3-d5bad752eb9b", 
+    "text": "Not going to make it. Need to meet with Jen to get something cleared with administrative papers <@UCZQFV9BR>", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1556314037.003600"
+  }, 
+  {
+    "client_msg_id": "B5B5FB9F-BEB8-4A6E-93CC-D0E89DE907BA", 
+    "text": "Go to the main dome", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556314036.003500"
+  }, 
+  {
+    "client_msg_id": "dc83d2d6-f7b9-45c3-88e6-24a3eda1c122", 
+    "text": "I found them!", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556314034.003300"
+  }, 
+  {
+    "client_msg_id": "21c3aa45-b3ee-42e8-8ab9-f56208bfb632", 
+    "text": "I'm in the big palace thing", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556313916.001900"
+  }, 
+  {
+    "client_msg_id": "FE2E9197-C251-47A3-8506-85F563869B80", 
+    "text": "Where are you guys? I\u2019m ", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1556313827.001600"
+  }, 
+  {
+    "client_msg_id": "E2C87D35-6E55-47D9-950C-70415ACA727C", 
+    "text": "Also going to be late ", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1556313798.001300"
+  }, 
+  {
+    "client_msg_id": "60640416-e1ca-4978-8a4a-d316c75fef91", 
+    "text": "Yo I'm gonna be late + maybe bringing some prospective students. ETA 2:30 <@UCZQFV9BR>", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556312241.001000"
+  }, 
+  {
+    "client_msg_id": "539e8bf6-bdad-4440-a785-409db9917d2b", 
+    "text": "Hey Amy! I'm sorry I won't be in class today I'm not feeling well. Also I don't know if I told you but last week I was in Indiana doing legal stuff that's why I wasn't there", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1556298653.001400"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHHQ000CA", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from Android", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHHQ000CA/20190412_143730.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3743266, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_800.jpg", 
+        "timestamp": 1555109359, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHHQ000CA/download/20190412_143730.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_1024.jpg", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHHQ000CA-2dc9989b54", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FHHQ000CA/20190412_143730.jpg", 
+        "name": "20190412_143730.jpg", 
+        "created": 1555109359, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHHQ000CA-049872b267/20190412_143730_720.jpg"
+      }
+    ], 
+    "client_msg_id": "02d40f67-12ea-428c-a345-5542dad4ef2c", 
+    "text": "Field trip: Success!", 
+    "upload": true, 
+    "ts": "1555109364.002500", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "AC6D4705-B4C2-4A13-A09E-05D8FF6AB014", 
+    "text": "I not going to be meet at the lobby but I am on the bus", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1555099742.002400"
+  }, 
+  {
+    "client_msg_id": "08fcd7ad-d984-42b3-86af-a37cc0231bcf", 
+    "text": "Meet at 2 pm!!!", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1555096295.001500"
+  }, 
+  {
+    "client_msg_id": "f40b25b5-c917-4d4a-a251-22be714c94bb", 
+    "attachments": [
+      {
+        "thumb_height": 256, 
+        "thumb_url": "https://maps.google.com/maps/api/staticmap?center=37.78375542%2C-122.53118282&zoom=10&size=256x256&markers=37.7877128%2C-122.4109721%7C37.7804369%2C-122.5136935&sensor=false&client=google-maps-frontend&signature=w7tycThJJS4qSZXZKyZOzOBQppU", 
+        "thumb_width": 256, 
+        "original_url": "https://www.google.com/maps/dir/555+Post+Street,+San+Francisco,+CA/Sutro+Baths,+1004+Point+Lobos+Ave,+San+Francisco,+CA+94121/@37.7801537,-122.5103321,18z/data=!4m14!4m13!1m5!1m1!1s0x8085808e4225b99d:0xb5a342f527b361c2!2m2!1d-122.4109721!2d37.7877128!1m5!1m1!1s0x808587b56c4f30b3:0xe01af746c44bb97e!2m2!1d-122.5136935!2d37.7804369!3e3", 
+        "text": "Find local businesses, view maps and get driving directions in Google Maps.", 
+        "title": "555 Post St to Sutro Baths", 
+        "title_link": "https://www.google.com/maps/dir/555+Post+Street,+San+Francisco,+CA/Sutro+Baths,+1004+Point+Lobos+Ave,+San+Francisco,+CA+94121/@37.7801537,-122.5103321,18z/data=!4m14!4m13!1m5!1m1!1s0x8085808e4225b99d:0xb5a342f527b361c2!2m2!1d-122.4109721!2d37.7877128!1m5!1m1!1s0x808587b56c4f30b3:0xe01af746c44bb97e!2m2!1d-122.5136935!2d37.7804369!3e3", 
+        "service_name": "google.com", 
+        "from_url": "https://www.google.com/maps/dir/555+Post+Street,+San+Francisco,+CA/Sutro+Baths,+1004+Point+Lobos+Ave,+San+Francisco,+CA+94121/@37.7801537,-122.5103321,18z/data=!4m14!4m13!1m5!1m1!1s0x8085808e4225b99d:0xb5a342f527b361c2!2m2!1d-122.4109721!2d37.7877128!1m5!1m1!1s0x808587b56c4f30b3:0xe01af746c44bb97e!2m2!1d-122.5136935!2d37.7804369!3e3", 
+        "fallback": "555 Post St to Sutro Baths", 
+        "service_icon": "https://www.google.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.google.com/maps/dir/555+Post+Street,+San+Francisco,+CA/Sutro+Baths,+1004+Point+Lobos+Ave,+San+Francisco,+CA+94121/@37.7801537,-122.5103321,18z/data=!4m14!4m13!1m5!1m1!1s0x8085808e4225b99d:0xb5a342f527b361c2!2m2!1d-122.4109721!2d37.7877128!1m5!1m1!1s0x808587b56c4f30b3:0xe01af746c44bb97e!2m2!1d-122.5136935!2d37.7804369!3e3>", 
+    "ts": "1555096200.001200", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "100ef212-1300-4d50-88e4-ec39c3dbfe98", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/vGBaL3udkHI/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/channel/UCqnMRLOkCwdXl8Fg-yV9fBQ", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=vGBaL3udkHI", 
+        "video_html_width": 400, 
+        "author_name": "Thin Ice", 
+        "title_link": "https://www.youtube.com/watch?v=vGBaL3udkHI", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/vGBaL3udkHI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=vGBaL3udkHI", 
+        "title": "Thin Ice: the Southern Ocean - Thermohaline circulation", 
+        "fallback": "YouTube Video: Thin Ice: the Southern Ocean - Thermohaline circulation", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.youtube.com/watch?v=vGBaL3udkHI>", 
+    "ts": "1555096162.000800", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C8548F2E-9170-4F82-AA59-2F429F6C334A", 
+    "text": "Can someone let me in of the building?\nI forgot I keycard ", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1555089908.000600"
+  }, 
+  {
+    "client_msg_id": "14536899-060d-4054-a4da-3bf68b5d669b", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "chillparrot", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "beach_with_umbrella", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "wind_blowing_face", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dash", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "It is likely to be windy-- so bring something to keep you warm--- we will meet first for lecture as always, and then head there after lunch! If you have a clipper card-- bring it to school tomorrow!", 
+    "ts": "1555023568.002200", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "744849f9-b437-4480-9f45-721be777dd3a", 
+    "text": "Tomorrow--- it is not going to rain, and we are going to head to explore Sutro Baths and the beach right next to it! <https://goo.gl/maps/DnDp6GXFz7B2>", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1555023496.000800"
+  }, 
+  {
+    "client_msg_id": "24993207-b160-4cdd-b98d-c1bf5be6ec36", 
+    "text": "see you all friday!", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1554316042.000600"
+  }, 
+  {
+    "client_msg_id": "a38841ea-9659-4f80-a09f-d349cf967baf", 
+    "text": "you can email me the projects at:  <mailto:amy@eastshore.com|amy@eastshore.com>", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1554316037.000400"
+  }, 
+  {
+    "client_msg_id": "1fe7fffd-57fe-4bb3-98fd-f66938d325dd", 
+    "text": "how do we submit the project?", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1553892760.000300"
+  }, 
+  {
+    "client_msg_id": "ca6e86d9-8825-468f-a9f3-5efdf74ae238", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "star2", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCBS25XMZ", 
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "A quick reminder that we are not meeting tomorrow.... university holiday. Great time to get your slide deck done! Let me know if you have any questions!", 
+    "ts": "1553810887.001600", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 470, 
+        "filetype": "jpg", 
+        "thumb_800_h": 817, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHAQ702T0", 
+        "thumb_480_h": 480, 
+        "original_h": 1124, 
+        "thumb_360_w": 352, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHAQ702T0/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_64.jpg", 
+        "thumb_720_w": 705, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 141509, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_800.jpg", 
+        "timestamp": 1553547370, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHAQ702T0/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_1024.jpg", 
+        "user": "UCBHQSTB6", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHAQ702T0-d2b282b655", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBHQSTB6/FHAQ702T0/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1553547370, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1100, 
+        "thumb_960_w": 940, 
+        "thumb_1024_w": 1002, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHAQ702T0-26e3f5fdf0/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "94E66D29-D45A-4FCB-B375-CCBBBF6BB845", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1553547372.000200", 
+    "display_as_bot": false, 
+    "user": "UCBHQSTB6", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "71b1bd26-fe94-4444-ad32-483c50d3224b", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCB8WCDTJ", 
+          "UCBDPE94Z", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "Just to remind everyone that we are not meeting Friday the 22nd... I am at a conference. Perfect time to get your water issues slide deck done...due next friday, the 29th (also no class). Let me know if you have any problems,  need any help!!", 
+    "ts": "1553208780.002900", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5cb54d92-8b13-4b95-a8e6-9e33265f031a", 
+    "edited": {
+      "user": "UCC0GD5V0", 
+      "ts": "1551481801.000000"
+    }, 
+    "text": "<https://docs.google.com/document/d/1z5ZdJu9ouygxWvhBre8kWrlg3hihbCA-aaNnxLxq9OQ/edit?usp=sharing> made the water issues assignment spec a google doc because I don't like downloading things", 
+    "ts": "1551481774.002900", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d8371188-46f3-41a0-9901-f67bf58ece9a", 
+    "edited": {
+      "user": "UCZQFV9BR", 
+      "ts": "1551479529.000000"
+    }, 
+    "text": "Hey all!\n\nHere are two great projects from last semester that you should check out:\n\n<https://geologyproj2018.herokuapp.com/index.html>\n\n<https://docs.google.com/presentation/d/1hjGnN0JrX-Mmf8u1i9sRld_yrOCyBYR7EZhTToC6bI0/edit?usp=sharing>", 
+    "ts": "1551479491.002200", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b8f62ba-7cfa-4463-bb7f-0ed4e62e16ef", 
+    "text": "Me three", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1551466214.001100"
+  }, 
+  {
+    "client_msg_id": "f43ef37b-c902-4dfa-8b45-183ee9fbd6b4", 
+    "text": "Me too sorry!! :(", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1551464076.000900"
+  }, 
+  {
+    "client_msg_id": "000887AE-B122-4C19-A85E-A249C0FE2A0E", 
+    "text": "Going to be a little late ", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1551463464.000300"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "docx", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FGKUFM7U2", 
+        "size": 153506, 
+        "title": "Water Issue Deck.docx", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGKUFM7U2/water_issue_deck.docx", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1551386353, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGKUFM7U2/download/water_issue_deck.docx", 
+        "user": "UCZQFV9BR", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Word Document", 
+        "name": "Water Issue Deck.docx", 
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGKUFM7U2-6d02e44759", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCZQFV9BR/FGKUFM7U2/water_issue_deck.docx", 
+        "is_external": false, 
+        "created": 1551386353, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "Okay-- I am going to try to paste the first big assignment-- the water issues deck. We will talk about this tomorrow in class, here it is to look at before hand!", 
+    "upload": true, 
+    "ts": "1551386354.000300", 
+    "display_as_bot": false, 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b7930195-8d05-45b7-b556-73a89820e2e1", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chompy", 
+        "users": [
+          "UCBDPE94Z"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "exclamation", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "oil_drum", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 293, 
+        "thumb_url": "https://static01.nyt.com/images/2019/02/20/us/00water-001/merlin_148524327_09d8a08e-9fa1-439d-960e-c5a38bab1d69-mediumThreeByTwo440.jpg", 
+        "thumb_width": 440, 
+        "original_url": "https://www.nytimes.com/2019/02/22/us/military-water-toxic-chemicals.html", 
+        "service_name": "The New York Times", 
+        "title": "Toxic \u2018Forever Chemicals\u2019 in Drinking Water Leave Military Families Reeling", 
+        "author_name": "By JULIE TURKEWITZ", 
+        "title_link": "https://www.nytimes.com/2019/02/22/us/military-water-toxic-chemicals.html", 
+        "service_url": "https://www.nytimes.com", 
+        "text": "The pollution, often from foam used in firefighting, is part of a mounting concern over the presence of toxic substances that could affect at least 10 million Americans.", 
+        "from_url": "https://www.nytimes.com/2019/02/22/us/military-water-toxic-chemicals.html", 
+        "fallback": "The New York Times Toxic \u2018Forever Chemicals\u2019 in Drinking Water Leave Military Families Reeling", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/nytimes.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.nytimes.com/2019/02/22/us/military-water-toxic-chemicals.html>", 
+    "ts": "1550872649.006700", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "fa478956-602c-48d3-8c4c-633a03f8d141", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sweat_smile", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "Waaaaat? Lame.", 
+    "ts": "1550870643.006400", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c5a334bd-5867-42ee-aecb-995dd42e9ebe", 
+    "edited": {
+      "user": "UCCS7HWGP", 
+      "ts": "1550870275.000000"
+    }, 
+    "text": "We are watching a movie <@UCC0GD5V0> called last call to the oasis", 
+    "ts": "1550870248.005200", 
+    "user": "UCCS7HWGP", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "08c3ea4a-08bd-4647-9eb5-87be10aae85f", 
+    "text": "<!channel> are we doing a field trip today? If so, when/where?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550870074.004500"
+  }, 
+  {
+    "client_msg_id": "e034cd96-2658-425a-ad85-51d79862e73f", 
+    "text": "I\u2019m going to be a tad late today", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1550858047.003100"
+  }, 
+  {
+    "client_msg_id": "D68A56C5-E91D-4FBD-944A-170D7DF7AFF0", 
+    "text": "Not going to make it in today!", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1550855437.002800"
+  }, 
+  {
+    "client_msg_id": "5cbea871-c4da-4be7-9457-195e54cbc8aa", 
+    "text": "Yo, I'm moving into a new place so I'll be showing up later for the fieldtrip/lab", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550854896.002300"
+  }, 
+  {
+    "client_msg_id": "db86f3e0-8b07-4f0a-a895-1c7ffb2fe303", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chompy", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "sunglasses", 
+        "users": [
+          "UCB8WCDTJ", 
+          "UCBS25XMZ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sparkles", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Yes, we have class!! We are classy people!", 
+    "ts": "1550854851.001800", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "79a990b8-ae3f-4a50-a0a6-6a24518d3d3c", 
+    "text": "If we do have class, I will be a little late in the beginning <@UCZQFV9BR>", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1550854793.001000"
+  }, 
+  {
+    "client_msg_id": "77cf24e5-87ab-4d5b-a96b-88da413bdd28", 
+    "text": "Any reason why we wouldn\u2019t?  <@UCCS7HWGP>", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1550854768.000500"
+  }, 
+  {
+    "client_msg_id": "7578146d-ab85-4c39-b1bd-eb81852737e1", 
+    "text": "Do we have class tomorrow?", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1550788764.000900"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGA4G7Q14", 
+        "thumb_480_h": 480, 
+        "original_h": 2448, 
+        "thumb_360_w": 270, 
+        "title": "20190215_143804.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGA4G7Q14/20190215_143804.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 242592, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_800.jpg", 
+        "timestamp": 1550270381, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGA4G7Q14/download/20190215_143804.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_1024.jpg", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 8, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGA4G7Q14-4e88c3a29a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FGA4G7Q14/20190215_143804.jpg", 
+        "name": "20190215_143804.jpg", 
+        "created": 1550270381, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3264, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4G7Q14-26c2fc9f60/20190215_143804_720.jpg"
+      }
+    ], 
+    "client_msg_id": "2905324e-2991-4502-be95-e3f039909941", 
+    "text": "Well we're leaving but we got cotton candy", 
+    "upload": true, 
+    "ts": "1550270381.010400", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGA4A1GVC", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "20190215_142652.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGA4A1GVC/20190215_142652.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 860405, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_800.jpg", 
+        "timestamp": 1550269791, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGA4A1GVC/download/20190215_142652.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_1024.jpg", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGA4A1GVC-4fca32b3fc", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FGA4A1GVC/20190215_142652.jpg", 
+        "name": "20190215_142652.jpg", 
+        "created": 1550269791, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGA4A1GVC-d172db4c7f/20190215_142652_720.jpg"
+      }
+    ], 
+    "client_msg_id": "12f567cc-31f5-47fd-8968-3c26627de415", 
+    "text": "Nathan and I are at the statue if any stragglers are joining. It's beautiful out now", 
+    "upload": true, 
+    "ts": "1550269798.009100", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8ed311e9-5c8f-4c15-b3d1-9287f7d3bd5c", 
+    "text": "Same", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268947.008200"
+  }, 
+  {
+    "client_msg_id": "1a899a86-e272-46c2-a6a8-a402d59ddafd", 
+    "text": "Sure, I'll be walking towards the corner of Dolores and 20th", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1550268940.008000"
+  }, 
+  {
+    "client_msg_id": "5e59a87e-2eb1-48a7-b9c1-2e119e6f8357", 
+    "text": "At 18th and church ", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268933.007700"
+  }, 
+  {
+    "client_msg_id": "06bf5ebf-b502-4823-9beb-cd1f4c46a9dc", 
+    "text": "I'll be there in a bit. We can all just hang out at Dolores instead ", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268808.005800"
+  }, 
+  {
+    "client_msg_id": "7ec68d80-2041-450c-abb4-18ba2fe79a73", 
+    "text": "Are you still here <@UCC0GD5V0> ", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1550268722.004700"
+  }, 
+  {
+    "client_msg_id": "ec2bb072-d96a-4afe-9311-e96e0fddda20", 
+    "text": "<!channel> field trip canceled ", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268553.004300"
+  }, 
+  {
+    "client_msg_id": "1dd249b5-e6bb-47f5-8eb3-4f08a2619ab7", 
+    "text": "It is pretty cold out", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268447.003700"
+  }, 
+  {
+    "client_msg_id": "48af0631-452d-48fb-8fa8-fd026241d3e6", 
+    "text": "Oh shit I just got here tho", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1550268425.003200"
+  }, 
+  {
+    "client_msg_id": "FF44047F-6AC5-4C91-A3B5-E79AF49E030D", 
+    "thread_ts": "1550267836.002100", 
+    "text": "Just go to Dolores park", 
+    "ts": "1550268028.002500", 
+    "user": "UCBHQSTB6", 
+    "parent_user_id": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f25c980c-0aaf-4de5-9128-7600f2d6ab26", 
+    "thread_ts": "1550267836.002100", 
+    "latest_reply": "1550268028.002500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBHQSTB6"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "tired_face", 
+        "users": [
+          "UCBHQSTB6", 
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "It is raining on us. Trip cancelled, see you friday", 
+    "ts": "1550267836.002100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCZQFV9BR", 
+    "replies": [
+      {
+        "user": "UCBHQSTB6", 
+        "ts": "1550268028.002500"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "19F45EFA-2C59-41F9-B66E-36CFC7C5D961", 
+    "text": "I got lost in the station", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1550266741.001500"
+  }, 
+  {
+    "client_msg_id": "4C7A48E2-D929-4172-B07E-DD46C9D898CE", 
+    "text": "I might be late ", 
+    "type": "message", 
+    "user": "UCBHQSTB6", 
+    "ts": "1550266272.001200"
+  }, 
+  {
+    "client_msg_id": "d2669aba-d819-44e1-b092-8fac57fad70c", 
+    "text": "that would be Dolores and 20th st.", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1550260860.001000"
+  }, 
+  {
+    "client_msg_id": "c186fffa-3c70-4f4e-90c3-e508badf1df6", 
+    "text": "meeting at the South East corner of Dolores Park at 1:30", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1550260849.000700"
+  }, 
+  {
+    "client_msg_id": "c7273238-d718-4818-a59d-cea64a0f6aa7", 
+    "attachments": [
+      {
+        "thumb_height": 256, 
+        "thumb_url": "https://maps.google.com/maps/api/staticmap?center=37.76828005%2C-122.43510335&zoom=12&size=256x256&markers=37.7582204%2C-122.4258736%7C37.7786296%2C-122.404539&sensor=false&client=google-maps-frontend&signature=PDdB7QfAyVoSFm0q0Q1KAFNxGyw", 
+        "thumb_width": 256, 
+        "original_url": "https://www.google.com/maps/dir/Dolores+St+%26+20th+St,+San+Francisco,+CA+94114/The+Golden+Fire+Hydrant,+3899+20th+St,+San+Francisco,+CA+94114/300+Cumberland+Street,+San+Francisco,+CA/Mission+Dolores+Park,+Dolores+St+%26+19th+St,+San+Francisco,+CA+94114/623+Natoma+St,+San+Francisco,+CA+94103/274+Shipley+Street,+San+Francisco,+CA/@37.768281,-122.4263485,15z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x808f7e164b4bb225:0x2aadc3405d65c4cb!2m2!1d-122.4258736!2d37.7582204!1m5!1m1!1s0x808f7e1719f2f13d:0x64daf639ceab9ae6!2m2!1d-122.4279487!2d37.7579793!1m5!1m1!1s0x808f7e10a6968e0b:0x3b54f4f4b6cbf6a3!2m2!1d-122.4306881!2d37.7588629!1m5!1m1!1s0x808f7e1779aa70a7:0xa618e4eff1228d60!2m2!1d-122.4269038!2d37.7596168!1m5!1m1!1s0x808580831a75f29f:0xb75f94ee1b01f973!2m2!1d-122.4104743!2d37.7778456!1m5!1m1!1s0x80858081ac23b9f7:0xcfd372703776dd51!2m2!1d-122.404539!2d37.7786296!3e2!5m1!1e1", 
+        "text": "Find local businesses, view maps and get driving directions in Google Maps.", 
+        "title": "Dolores St &amp; 20th St to 274 Shipley St", 
+        "title_link": "https://www.google.com/maps/dir/Dolores+St+%26+20th+St,+San+Francisco,+CA+94114/The+Golden+Fire+Hydrant,+3899+20th+St,+San+Francisco,+CA+94114/300+Cumberland+Street,+San+Francisco,+CA/Mission+Dolores+Park,+Dolores+St+%26+19th+St,+San+Francisco,+CA+94114/623+Natoma+St,+San+Francisco,+CA+94103/274+Shipley+Street,+San+Francisco,+CA/@37.768281,-122.4263485,15z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x808f7e164b4bb225:0x2aadc3405d65c4cb!2m2!1d-122.4258736!2d37.7582204!1m5!1m1!1s0x808f7e1719f2f13d:0x64daf639ceab9ae6!2m2!1d-122.4279487!2d37.7579793!1m5!1m1!1s0x808f7e10a6968e0b:0x3b54f4f4b6cbf6a3!2m2!1d-122.4306881!2d37.7588629!1m5!1m1!1s0x808f7e1779aa70a7:0xa618e4eff1228d60!2m2!1d-122.4269038!2d37.7596168!1m5!1m1!1s0x808580831a75f29f:0xb75f94ee1b01f973!2m2!1d-122.4104743!2d37.7778456!1m5!1m1!1s0x80858081ac23b9f7:0xcfd372703776dd51!2m2!1d-122.404539!2d37.7786296!3e2!5m1!1e1", 
+        "service_name": "google.com", 
+        "from_url": "https://www.google.com/maps/dir/Dolores+St+%26+20th+St,+San+Francisco,+CA+94114/The+Golden+Fire+Hydrant,+3899+20th+St,+San+Francisco,+CA+94114/300+Cumberland+Street,+San+Francisco,+CA/Mission+Dolores+Park,+Dolores+St+%26+19th+St,+San+Francisco,+CA+94114/623+Natoma+St,+San+Francisco,+CA+94103/274+Shipley+Street,+San+Francisco,+CA/@37.768281,-122.4263485,15z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x808f7e164b4bb225:0x2aadc3405d65c4cb!2m2!1d-122.4258736!2d37.7582204!1m5!1m1!1s0x808f7e1719f2f13d:0x64daf639ceab9ae6!2m2!1d-122.4279487!2d37.7579793!1m5!1m1!1s0x808f7e10a6968e0b:0x3b54f4f4b6cbf6a3!2m2!1d-122.4306881!2d37.7588629!1m5!1m1!1s0x808f7e1779aa70a7:0xa618e4eff1228d60!2m2!1d-122.4269038!2d37.7596168!1m5!1m1!1s0x808580831a75f29f:0xb75f94ee1b01f973!2m2!1d-122.4104743!2d37.7778456!1m5!1m1!1s0x80858081ac23b9f7:0xcfd372703776dd51!2m2!1d-122.404539!2d37.7786296!3e2!5m1!1e1", 
+        "fallback": "Dolores St &amp; 20th St to 274 Shipley St", 
+        "service_icon": "https://www.google.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.google.com/maps/dir/Dolores+St+%26+20th+St,+San+Francisco,+CA+94114/The+Golden+Fire+Hydrant,+3899+20th+St,+San+Francisco,+CA+94114/300+Cumberland+Street,+San+Francisco,+CA/Mission+Dolores+Park,+Dolores+St+%26+19th+St,+San+Francisco,+CA+94114/623+Natoma+St,+San+Francisco,+CA+94103/274+Shipley+Street,+San+Francisco,+CA/@37.768281,-122.4263485,15z/data=!3m1!4b1!4m38!4m37!1m5!1m1!1s0x808f7e164b4bb225:0x2aadc3405d65c4cb!2m2!1d-122.4258736!2d37.7582204!1m5!1m1!1s0x808f7e1719f2f13d:0x64daf639ceab9ae6!2m2!1d-122.4279487!2d37.7579793!1m5!1m1!1s0x808f7e10a6968e0b:0x3b54f4f4b6cbf6a3!2m2!1d-122.4306881!2d37.7588629!1m5!1m1!1s0x808f7e1779aa70a7:0xa618e4eff1228d60!2m2!1d-122.4269038!2d37.7596168!1m5!1m1!1s0x808580831a75f29f:0xb75f94ee1b01f973!2m2!1d-122.4104743!2d37.7778456!1m5!1m1!1s0x80858081ac23b9f7:0xcfd372703776dd51!2m2!1d-122.404539!2d37.7786296!3e2!5m1!1e1>", 
+    "ts": "1550260651.000200", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0565eb78-ea44-44d1-ac3b-ff2f650889cc", 
+    "text": "Hey <@UCZQFV9BR> hope you're having a great Wednesday. As I said in class. My parents are arriving Friday morning. Would you mind if they joined along on the field trip?", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1549498558.002000"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "cry", 
+        "users": [
+          "UCB8WCDTJ"
+        ]
+      }
+    ], 
+    "text": "<@U6YCJRXGF> has left the channel", 
+    "ts": "1549081992.001700", 
+    "subtype": "channel_leave", 
+    "user": "U6YCJRXGF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "837f2f80-4609-41b8-9f5c-924277d68495", 
+    "text": "ONE PAGER:\nHalf a billion people around the world live in areas at risk from volcanic eruptions, in that they live in an area that would be directly affected by a volcano that is active or dormant. There is little in terms of hazard mitigation (such as earthquake building codes or tornado basements) that can protect life and property in the event of an eruption. Volcanic eruptions are a perfect example of a \u201chigh impact/low probability\u201d event. This means that the chance of an eruption occurring during any one person\u2019s lifetime is quite low, but the repercussions of that event could be devastating.\nPeople don\u2019t have a natural feeling for what is risky and what isn\u2019t (how strong one risk is compared to another) so when people do want to make decisions about risk, they can\u2019t rely on their gut, they need  to rely on analytics. These high impact/low probability events are the most difficult to deal with and address as everyday risks and needs often make this sort of long term danger seem less important. Much of the mitigation strategy revolves around community mobilization during an event. But false alarms can be costly in terms of lost business and displacement costs. Other hazards (like drunk driving and flu epidemics) may feel more pressing in the moment. How should society deal with these rare but deadly events? Should we always err on the side of caution, even if that has its own embedded costs? What would we (in the US) do if there was a devastating eruption in a major US city, like Seattle? How do differing circumstances affect how people might look at this problem,thinking about the risks in places like Iceland, Japan, and the US, where there are relatively robust resources compared with places in Africa where resources are more scarce? In areas with large yearly death tolls from other issues (lack of clean water, poor sanitation, political unrest) is there any point to long term disaster planning?", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1549061717.001500"
+  }, 
+  {
+    "client_msg_id": "f753d4b9-15a4-49ac-becf-a51d9d92a6da", 
+    "text": "here is the assignemnt:", 
+    "type": "message", 
+    "user": "UCZQFV9BR", 
+    "ts": "1549061714.001300"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1549061577.000700", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "UCC0GD5V0"
+  }, 
+  {
+    "client_msg_id": "58968400-2105-4887-95c5-5af46413a226", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "cry", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCZQFV9BR"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "umbrella_with_rain_drops", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8WCDTJ"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "wind_blowing_face", 
+        "users": [
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "text": "hi all-- we are expecting a storm tomorrow that is going to bring a good amount of rain. The point of the earthquake field trip is to have a good time looking at neat stuff and talking about cool concepts-- if it is unpleasant out, it won\u2019t be as much fun. The storm is certainly coming- but timing is always the variable. Let\u2019s meet tomorrow, and if it seems like a wet day, we can swap the next two lectures-- and postpone the field trip to next week. We can make the call at the beginning of class.", 
+    "ts": "1548994647.003700", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBC9725P> has joined the channel", 
+    "ts": "1548282442.002300", 
+    "subtype": "channel_join", 
+    "user": "UCBC9725P", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1548282442.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1548282442.001900", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1548282442.001700", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1548282442.001500", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1548282441.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCBHQSTB6> has joined the channel", 
+    "ts": "1548282441.001100", 
+    "subtype": "channel_join", 
+    "user": "UCBHQSTB6", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1548282441.000900", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1548282441.000700", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "UC45RJQ7M"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "volcano", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBS25XMZ"
+        ]
+      }
+    ], 
+    "inviter": "UC45RJQ7M", 
+    "text": "<@UCZQFV9BR> has joined the channel", 
+    "ts": "1548282441.000500", 
+    "subtype": "channel_join", 
+    "user": "UCZQFV9BR", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UC45RJQ7M> set the channel purpose: Channel for HONO 3210 - Bay Area Rocks Course", 
+    "ts": "1548282441.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UC45RJQ7M", 
+    "type": "message", 
+    "purpose": "Channel for HONO 3210 - Bay Area Rocks Course"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548282440.000200", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }
+]

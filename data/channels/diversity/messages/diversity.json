@@ -1,0 +1,1129 @@
+[
+  {
+    "text": "A deleted Wikipedia page speaks volumes about its biggest problem:\n<https://www.fastcompany.com/90339700/a-deleted-wikipedia-page-speaks-volumes-about-its-biggest-problem>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "service_icon": "https://www.fastcompany.com/apple-touch-icon.png?v=5", 
+        "image_bytes": 58613, 
+        "original_url": "https://www.fastcompany.com/90339700/a-deleted-wikipedia-page-speaks-volumes-about-its-biggest-problem", 
+        "service_name": "Fast Company", 
+        "title": "A deleted Wikipedia page speaks volumes about its biggest problem", 
+        "ts": 1556243237, 
+        "image_width": 444, 
+        "image_height": 250, 
+        "image_url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/04/p-1-wikipedia.jpg", 
+        "text": "Clarice Phelps may have been the first African-American woman to help discover a chemical element. For Wikipedia, that wasn\u2019t enough.", 
+        "from_url": "https://www.fastcompany.com/90339700/a-deleted-wikipedia-page-speaks-volumes-about-its-biggest-problem", 
+        "fallback": "Fast Company: A deleted Wikipedia page speaks volumes about its biggest problem", 
+        "title_link": "https://www.fastcompany.com/90339700/a-deleted-wikipedia-page-speaks-volumes-about-its-biggest-problem", 
+        "id": 1
+      }
+    ], 
+    "ts": "1556296827.000100", 
+    "user": "U1HBKMW8Y"
+  }, 
+  {
+    "client_msg_id": "39f59ec9-c63b-44eb-ac5b-cb483c500b66", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/zeAEFEXvcBg/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/TEDxTalks", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=zeAEFEXvcBg", 
+        "video_html_width": 400, 
+        "author_name": "TEDx Talks", 
+        "title_link": "https://www.youtube.com/watch?v=zeAEFEXvcBg", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zeAEFEXvcBg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=zeAEFEXvcBg", 
+        "title": "Why do so many incompetent men become leaders? | Tomas Chamorro-Premuzic | TEDxUniversityofNevada", 
+        "fallback": "YouTube Video: Why do so many incompetent men become leaders? | Tomas Chamorro-Premuzic | TEDxUniversityofNevada", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Excellent ted talk on picking better and more diverse leaders: <https://www.youtube.com/watch?v=zeAEFEXvcBg>", 
+    "ts": "1555698867.003100", 
+    "user": "U1D40QFD4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F74529FF-3C66-430A-8264-59C8CF8F42B1", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "U2C90LDS9", 
+          "U9HT8DV8S", 
+          "U9PA0BZQW", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tada", 
+        "users": [
+          "U2C90LDS9", 
+          "U9PA0BZQW", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UC45RJQ7M", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 73171, 
+        "original_url": "https://anchor.fm/tech-queens", 
+        "service_name": "Anchor", 
+        "title": "Tech Queens \u2022 A podcast on Anchor", 
+        "image_width": 250, 
+        "title_link": "https://anchor.fm/tech-queens", 
+        "image_height": 250, 
+        "image_url": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded400/329678/329678-1553374766704-32d92460b4bbb.jpg", 
+        "text": "Stories and advice shared by women of color in tech. :crown: #TechQueens", 
+        "from_url": "https://anchor.fm/tech-queens", 
+        "fallback": "Anchor: Tech Queens \u2022 A podcast on Anchor", 
+        "service_icon": "https://d12xoj7p9moygp.cloudfront.net/favicon/apple-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "I was on a podcast for women of color in tech. Feel free to listen to it, and or reach out to share your story/experience! <https://anchor.fm/tech-queens>", 
+    "ts": "1555697757.002000", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1555697688.000300", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "3a075b24-1e79-41e2-a2d4-4bc6a1d5153b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "U9HT8DV8S"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UC45RJQ7M", 
+          "U90HP2ZT6"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 130209, 
+        "original_url": "https://www.theatlantic.com/technology/archive/2018/04/how-slack-got-ahead-in-diversity/558806/", 
+        "service_name": "The Atlantic", 
+        "title": "How Slack Got Ahead in Diversity", 
+        "ts": 1524753635, 
+        "title_link": "https://www.theatlantic.com/technology/archive/2018/04/how-slack-got-ahead-in-diversity/558806/", 
+        "image_height": 250, 
+        "image_url": "https://cdn.theatlantic.com/assets/media/img/mt/2018/04/005/facebook.jpg?1524680133", 
+        "image_width": 480, 
+        "text": "Slack has been outperforming other Silicon Valley companies when it comes to minority employees, according to the organization\u2019s latest diversity report.", 
+        "from_url": "https://www.theatlantic.com/technology/archive/2018/04/how-slack-got-ahead-in-diversity/558806/", 
+        "fallback": "The Atlantic: How Slack Got Ahead in Diversity", 
+        "service_icon": "https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/apple-touch-icon-iphone.png", 
+        "id": 1
+      }
+    ], 
+    "text": "&gt;\u201cSlack hires more women and under represented minorities than any other tech company without having a Chief Diversity Officer but instead focusing on the obvious.\n&gt;If you interview more women and URMs then you\u2019ll hire more. That\u2019s it.\u201d\n\n<https://www.theatlantic.com/technology/archive/2018/04/how-slack-got-ahead-in-diversity/558806/>", 
+    "ts": "1555093844.001100", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FHUCPRH8F", 
+        "size": 392038, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FHUCPRH8F-9e15cf6f1a/2017-10-diversity_inclusion-handbook-digital_thumb_pdf.png", 
+        "title": "2017-10-diversity&amp;inclusion-handbook-digital.pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHUCPRH8F/2017-10-diversity_inclusion-handbook-digital.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1554848452, 
+        "thumb_pdf_w": 605, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHUCPRH8F/download/2017-10-diversity_inclusion-handbook-digital.pdf", 
+        "user": "U2C90LDS9", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHUCPRH8F-0910ff8d4d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U2C90LDS9/FHUCPRH8F/2017-10-diversity_inclusion-handbook-digital.pdf", 
+        "name": "2017-10-diversity&inclusion-handbook-digital.pdf", 
+        "created": 1554848452, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 935
+      }
+    ], 
+    "text": "Great guide from our industry partners at Lever", 
+    "upload": true, 
+    "ts": "1554848455.000200", 
+    "display_as_bot": false, 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WMDD6U8", 
+    "ts": "1553308165.001100", 
+    "text": "<@U6WMDD6U8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U2B6Q2SVB", 
+    "ts": "1553307189.000900", 
+    "text": "<@U2B6Q2SVB> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YD3BYBD", 
+    "ts": "1553306926.000700", 
+    "text": "<@U6YD3BYBD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U264ANGAE", 
+    "ts": "1553306887.000500", 
+    "text": "<@U264ANGAE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XV0FFEW", 
+    "ts": "1553306807.000300", 
+    "text": "<@U6XV0FFEW> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1548381551.000600", 
+    "text": "<@U6YCV95L7> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC45RJQ7M", 
+    "ts": "1548280551.000300", 
+    "text": "<@UC45RJQ7M> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6ZCE0AKG", 
+    "ts": "1541436355.000200", 
+    "text": "<@U6ZCE0AKG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Y6KU78W", 
+    "ts": "1540961801.000200", 
+    "text": "<@U6Y6KU78W> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1540835887.000200", 
+    "text": "<@U6YV4A45C> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540820982.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1540335016.000400", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YFC7074", 
+    "ts": "1540315262.000200", 
+    "text": "<@U6YFC7074> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1540258797.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCTHTQQ", 
+    "ts": "1539895007.000200", 
+    "text": "<@U6XCTHTQQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YHCA79U", 
+    "ts": "1538809113.000200", 
+    "text": "<@U6YHCA79U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1538020688.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U28S64ZJ5", 
+    "ts": "1537504221.000200", 
+    "text": "<@U28S64ZJ5> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6Z4KNWCD", 
+    "ts": "1536940797.000200", 
+    "text": "<@U6Z4KNWCD> has left the channel"
+  }, 
+  {
+    "client_msg_id": "77291b55-610a-46f4-be98-e43fa8dd1609", 
+    "edited": {
+      "user": "U6ZCE0AKG", 
+      "ts": "1536940264.000000"
+    }, 
+    "attachments": [
+      {
+        "original_url": "http://worldaftercapital.org/", 
+        "text": "Humans have dreamed of a world of plenty in which nobody needs to work. Find out more about Albert Wenger's new book: World After Capital.", 
+        "title": "World After Capital", 
+        "title_link": "http://worldaftercapital.org/", 
+        "service_name": "World After Capital", 
+        "from_url": "http://worldaftercapital.org/", 
+        "fallback": "World After Capital", 
+        "id": 1
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "100", 
+        "users": [
+          "U6X9L8VAN", 
+          "U8NHWGBGW", 
+          "UCC0GL52N", 
+          "U1HBKMW8Y", 
+          "UCB8U00KA", 
+          "UCD1J9LDV", 
+          "U6XV0FFEW"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "female-technologist::skin-tone-4", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "male-technologist::skin-tone-5", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "hero", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I read this book some time over the summer - <http://worldaftercapital.org/>\n\nIts unfinished, but I thought I'd drop it here because it strengthened my belief that learning how to code gives people an opportunity to overcome social boundaries and to leap frog years of social inequality. I think learning how to code has become more accessible than before which makes it a great avenue for facilitating diversity in tech. Although that is not the underlying topic which the book discusses, rather the new \"Knowledge Era\" we live in as a result of technological innovation, this book really got me thinking a lot about \"coding as a superpower\" which Jeremy and Ashu have talked about at Make School.\n\nI'm a big proponent of <#CCMPNFPFH|blockchain> and feel that, in the right hands, it can be a tool for systemic change (this book also mentions blockchain/crypto at the end), but feel like there's a lack of diversity in that space despite it being a great fit for making change that would in-turn fuel more diversity. As such I think that the blockchain space needs a greater variety of minds, I'd love if you guys could join the <#CCMPNFPFH|blockchain> channel as I hope to encourage more discussion related to this in the coming months.\n\nIf the book piques your interest (its like a 3-4 hour read) and you give it a shot, lmk I'd love to talk about it.", 
+    "ts": "1536940164.000100", 
+    "user": "U6ZCE0AKG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3ef2c07b-6493-485c-a2e6-33e84c6ab613", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "blue_heart", 
+        "users": [
+          "U2QTVG278", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "thumbsup_all", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 614, 
+        "thumb_url": "https://cdn.blackenterprise.com/wp-content/blogs.dir/1/files/2018/03/twitter-e1522104435475.jpg", 
+        "thumb_width": 999, 
+        "original_url": "https://www.blackenterprise.com/black-woman-scientist-discovered-twitter/", 
+        "service_name": "Black Enterprise", 
+        "title": "Unsung Black Woman Scientist is Discovered by Twitter", 
+        "ts": 1522180823, 
+        "title_link": "https://www.blackenterprise.com/black-woman-scientist-discovered-twitter/", 
+        "text": "Twitter helps identify the lone black woman pictured with 37 male scientists at the 1971 International Conference on the Biology of Whales in Virginia, a gathering of prominent experts in marine biology. Everyone in the photo had been named, except for her.", 
+        "from_url": "https://www.blackenterprise.com/black-woman-scientist-discovered-twitter/", 
+        "fallback": "Black Enterprise: Unsung Black Woman Scientist is Discovered by Twitter", 
+        "service_icon": "https://www.blackenterprise.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.blackenterprise.com/black-woman-scientist-discovered-twitter/>", 
+    "ts": "1536859820.000100", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YCJRXGF", 
+    "ts": "1536770375.000200", 
+    "text": "<@U6YCJRXGF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U72SB0WG6", 
+    "ts": "1536548265.000200", 
+    "text": "<@U72SB0WG6> has left the channel"
+  }, 
+  {
+    "client_msg_id": "119c9066-cc14-4e68-a612-e395bf629419", 
+    "text": "aye aye", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1536440745.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1536361178.000200", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "2d8ce85b-740a-481e-a8cd-87eff32fe3aa", 
+    "text": "Yeee", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1536361131.000100"
+  }, 
+  {
+    "client_msg_id": "bb7913f9-8139-4973-aa97-dd076e987421", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1536360796.000000"
+    }, 
+    "text": "Is anybody in here?? Roll call.", 
+    "ts": "1536360782.000100", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2QTVG278", 
+    "ts": "1536106822.000200", 
+    "text": "<@U2QTVG278> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1535397798.000200", 
+    "text": "<@U6YGZN9HD> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1535081175.000200", 
+    "text": "<@UCB8U00KA> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1534824260.000200", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1534802916.000200", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMF5THV", 
+    "ts": "1534547628.000200", 
+    "text": "<@U6YMF5THV> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XDKSREZ", 
+    "ts": "1530494209.000025", 
+    "text": "<@U6XDKSREZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6WRNH1JM", 
+    "ts": "1528760118.000315", 
+    "text": "<@U6WRNH1JM> has left the channel"
+  }, 
+  {
+    "text": "Lesbians Who Tech + Allies San Francisco || May Cocktails + Conversations\n<https://www.facebook.com/events/315401602328976/>", 
+    "type": "message", 
+    "attachments": [
+      {
+        "thumb_height": 200, 
+        "thumb_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/c100.0.200.200/p200x200/31144277_10160332607440261_6020904722142372250_n.png?_nc_cat=0&oh=a526154887218d90a9787b3459c55319&oe=5B986C2A", 
+        "thumb_width": 200, 
+        "original_url": "https://www.facebook.com/events/315401602328976/", 
+        "text": "Cocktails and Conversations are back! Remember hanging out at Slate back in the day, connecting, catching up, and being with your people? Well, it's that...", 
+        "title": "Lesbians Who Tech + Allies San Francisco || May Cocktails + Conversations", 
+        "title_link": "https://www.facebook.com/events/315401602328976/", 
+        "service_name": "facebook.com", 
+        "from_url": "https://www.facebook.com/events/315401602328976/", 
+        "fallback": "Lesbians Who Tech + Allies San Francisco || May Cocktails + Conversations", 
+        "service_icon": "https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico", 
+        "id": 1
+      }
+    ], 
+    "ts": "1524610065.000166", 
+    "user": "U298FAPT7"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9KPH7C", 
+    "ts": "1524541057.000176", 
+    "text": "<@U6X9KPH7C> has left the channel"
+  }, 
+  {
+    "text": "<http://www.kaporcenter.org/wp-content/uploads/2017/04/KAPOR_Tech-Leavers-17-0428.pdf>", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1524073408.000264"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1523989053.000082", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1521142751.000078", 
+    "text": "<@U8M6VPKUZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6V7F3K", 
+    "ts": "1521062674.000270", 
+    "text": "<@U8M6V7F3K> has left the channel"
+  }, 
+  {
+    "edited": {
+      "user": "U2C90LDS9", 
+      "ts": "1554848493.000000"
+    }, 
+    "attachments": [
+      {
+        "image_bytes": 1709729, 
+        "title": "Delivering through diversity", 
+        "service_name": "McKinsey &amp; Company", 
+        "image_width": 250, 
+        "title_link": "https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity", 
+        "image_height": 250, 
+        "image_url": "https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Organization/Our%20Insights/Delivering%20through%20diversity/Delivering-through-diversity-hero.ashx", 
+        "text": "Our latest research reinforces the link between diversity and company financial performance--and suggests how organizations can craft better inclusion strategies for a competitive edge.", 
+        "from_url": "https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity", 
+        "fallback": "McKinsey &amp; Company: Delivering through diversity", 
+        "service_icon": "https://www.mckinsey.com/redesign/resources/images/mck-touch-icon-57x57.png", 
+        "id": 1
+      }
+    ], 
+    "text": "McKinsey does some of the most rigorous research on diversity and profitability and just updated their study. Their 2018 study is a good read:\n<https://www.mckinsey.com/business-functions/organization/our-insights/delivering-through-diversity> thanks for the share <@U298FAPT7>", 
+    "ts": "1521051393.000631", 
+    "user": "U2C90LDS9", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1521050228.000580", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YBN8NJ2> has joined the channel", 
+    "ts": "1521050228.000534", 
+    "subtype": "channel_join", 
+    "user": "U6YBN8NJ2", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1521050228.000371", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XDKSREZ> has joined the channel", 
+    "ts": "1521050228.000188", 
+    "subtype": "channel_join", 
+    "user": "U6XDKSREZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1521050228.000030", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U1YM6H8MA> has joined the channel", 
+    "ts": "1521050227.000842", 
+    "subtype": "channel_join", 
+    "user": "U1YM6H8MA", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U72SB0WG6> has joined the channel", 
+    "ts": "1521050227.000658", 
+    "subtype": "channel_join", 
+    "user": "U72SB0WG6", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XE4NNSZ> has joined the channel", 
+    "ts": "1521050227.000492", 
+    "subtype": "channel_join", 
+    "user": "U6XE4NNSZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NHWGBGW> has joined the channel", 
+    "ts": "1521050227.000289", 
+    "subtype": "channel_join", 
+    "user": "U8NHWGBGW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XCTHTQQ> has joined the channel", 
+    "ts": "1521050227.000094", 
+    "subtype": "channel_join", 
+    "user": "U6XCTHTQQ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1521050226.000781", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1521050226.000614", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NHWRX0W> has joined the channel", 
+    "ts": "1521050226.000442", 
+    "subtype": "channel_join", 
+    "user": "U8NHWRX0W", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U4CEBV4SW> has joined the channel", 
+    "ts": "1521050226.000399", 
+    "subtype": "channel_join", 
+    "user": "U4CEBV4SW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U35BQ8G07> has joined the channel", 
+    "ts": "1521050226.000351", 
+    "subtype": "channel_join", 
+    "user": "U35BQ8G07", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U28S64ZJ5> has joined the channel", 
+    "ts": "1521050226.000298", 
+    "subtype": "channel_join", 
+    "user": "U28S64ZJ5", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U1NCM4VME> has joined the channel", 
+    "ts": "1521050226.000139", 
+    "subtype": "channel_join", 
+    "user": "U1NCM4VME", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U1T2Q3G81> has joined the channel", 
+    "ts": "1521050225.000865", 
+    "subtype": "channel_join", 
+    "user": "U1T2Q3G81", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XDV6CVA> has joined the channel", 
+    "ts": "1521050225.000674", 
+    "subtype": "channel_join", 
+    "user": "U6XDV6CVA", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1521050225.000628", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1521050225.000473", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U90HP2ZT6> has joined the channel", 
+    "ts": "1521050225.000424", 
+    "subtype": "channel_join", 
+    "user": "U90HP2ZT6", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YFF5B50> has joined the channel", 
+    "ts": "1521050225.000390", 
+    "subtype": "channel_join", 
+    "user": "U6YFF5B50", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2481KKBM> has joined the channel", 
+    "ts": "1521050225.000351", 
+    "subtype": "channel_join", 
+    "user": "U2481KKBM", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6Z4KNWCD> has joined the channel", 
+    "ts": "1521050225.000315", 
+    "subtype": "channel_join", 
+    "user": "U6Z4KNWCD", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6WMDD6U8> has joined the channel", 
+    "ts": "1521050225.000268", 
+    "subtype": "channel_join", 
+    "user": "U6WMDD6U8", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1521050225.000206", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8M6V7F3K> has joined the channel", 
+    "ts": "1521050225.000042", 
+    "subtype": "channel_join", 
+    "user": "U8M6V7F3K", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6WQK3Q73> has joined the channel", 
+    "ts": "1521050224.000915", 
+    "subtype": "channel_join", 
+    "user": "U6WQK3Q73", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1521050224.000878", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1521050224.000696", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U237ELPUH> has joined the channel", 
+    "ts": "1521050224.000528", 
+    "subtype": "channel_join", 
+    "user": "U237ELPUH", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6X9KPH7C> has joined the channel", 
+    "ts": "1521050224.000479", 
+    "subtype": "channel_join", 
+    "user": "U6X9KPH7C", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1521050224.000431", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YFC7074> has joined the channel", 
+    "ts": "1521050224.000386", 
+    "subtype": "channel_join", 
+    "user": "U6YFC7074", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6Z5ZDKP1> has joined the channel", 
+    "ts": "1521050224.000335", 
+    "subtype": "channel_join", 
+    "user": "U6Z5ZDKP1", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1521050224.000147", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U9HT8DV8S> has joined the channel", 
+    "ts": "1521050223.000835", 
+    "subtype": "channel_join", 
+    "user": "U9HT8DV8S", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1521050223.000783", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1521050223.000731", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YHKG1RQ> has joined the channel", 
+    "ts": "1521050223.000690", 
+    "subtype": "channel_join", 
+    "user": "U6YHKG1RQ", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2GN4U8GL> has joined the channel", 
+    "ts": "1521050223.000651", 
+    "subtype": "channel_join", 
+    "user": "U2GN4U8GL", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U48LVBV34> has joined the channel", 
+    "ts": "1521050223.000610", 
+    "subtype": "channel_join", 
+    "user": "U48LVBV34", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1521050223.000425", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YCJRXGF> has joined the channel", 
+    "ts": "1521050223.000385", 
+    "subtype": "channel_join", 
+    "user": "U6YCJRXGF", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1521050223.000206", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2C90DSLF> has joined the channel", 
+    "ts": "1521050223.000056", 
+    "subtype": "channel_join", 
+    "user": "U2C90DSLF", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U8NJD3N7K> has joined the channel", 
+    "ts": "1521050223.000010", 
+    "subtype": "channel_join", 
+    "user": "U8NJD3N7K", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2B6Q2SVB> has joined the channel", 
+    "ts": "1521050222.000815", 
+    "subtype": "channel_join", 
+    "user": "U2B6Q2SVB", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6WRNH1JM> has joined the channel", 
+    "ts": "1521050222.000777", 
+    "subtype": "channel_join", 
+    "user": "U6WRNH1JM", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XRWEQGY> has joined the channel", 
+    "ts": "1521050222.000740", 
+    "subtype": "channel_join", 
+    "user": "U6XRWEQGY", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U264ANGAE> has joined the channel", 
+    "ts": "1521050222.000582", 
+    "subtype": "channel_join", 
+    "user": "U264ANGAE", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YHCA79U> has joined the channel", 
+    "ts": "1521050222.000398", 
+    "subtype": "channel_join", 
+    "user": "U6YHCA79U", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2FCY2FBR> has joined the channel", 
+    "ts": "1521050222.000201", 
+    "subtype": "channel_join", 
+    "user": "U2FCY2FBR", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YD3BYBD> has joined the channel", 
+    "ts": "1521050221.000848", 
+    "subtype": "channel_join", 
+    "user": "U6YD3BYBD", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1521050221.000670", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6XV0FFEW> has joined the channel", 
+    "ts": "1521050221.000617", 
+    "subtype": "channel_join", 
+    "user": "U6XV0FFEW", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1521050221.000397", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1521050221.000354", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U298FAPT7> has joined the channel", 
+    "ts": "1521050221.000177", 
+    "subtype": "channel_join", 
+    "user": "U298FAPT7", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U1D40QFD4> has joined the channel", 
+    "ts": "1521050221.000004", 
+    "subtype": "channel_join", 
+    "user": "U1D40QFD4", 
+    "type": "message", 
+    "inviter": "U2C90LDS9"
+  }, 
+  {
+    "text": "<@U2C90LDS9> set the channel purpose: Share resources that help us create a more diverse, compassionate and understanding community. Also, news on industry diversity &amp; inclusion best practices. Let\u2019s build a work environment that supports people of all backgrounds!!", 
+    "ts": "1521050220.000545", 
+    "subtype": "channel_purpose", 
+    "user": "U2C90LDS9", 
+    "type": "message", 
+    "purpose": "Share resources that help us create a more diverse, compassionate and understanding community. Also, news on industry diversity &amp; inclusion best practices. Let\u2019s build a work environment that supports people of all backgrounds!!"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U2C90LDS9", 
+    "ts": "1521050220.000172", 
+    "text": "<@U2C90LDS9> has joined the channel"
+  }
+]

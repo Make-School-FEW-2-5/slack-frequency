@@ -1,0 +1,723 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQLD4M8", 
+    "ts": "1553981089.000200", 
+    "text": "<@UCBQLD4M8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1553307832.000400", 
+    "text": "<@UCBD9KCQH> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1553146320.000200", 
+    "text": "<@U1HBKMW8Y> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1548373750.000600", 
+    "text": "<@UCBDPE94Z> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHLEZEY", 
+    "ts": "1548352487.000400", 
+    "text": "<@UCBHLEZEY> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1548273544.000200", 
+    "text": "<@UCFCFQ7KK> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1547512013.000200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1542009241.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1541787506.000200", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1541629774.000200", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1541005836.000200", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540780740.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1540347006.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UCBDPE94Z"
+  }, 
+  {
+    "client_msg_id": "eb2a8084-2af0-48d4-8577-05f10b629f3b", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "UCBDPE94Z"
+        ]
+      }
+    ], 
+    "text": "Once you complete it please react to this message", 
+    "ts": "1540326906.000100", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3852f2b0-091c-4044-9522-e0d25e45b0a3", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "original_url": "https://doodle.com/poll/a642fpyb8ztabsvd", 
+        "text": "Doodle radically simplifies the process of scheduling events, meetings, appointments, etc. Herding cats gets 2x faster with Doodle. For free!", 
+        "title": "Doodle: Emerging Technologies 10/25/18", 
+        "image_width": 300, 
+        "title_link": "https://doodle.com/poll/a642fpyb8ztabsvd", 
+        "image_height": 200, 
+        "image_url": "https://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "doodle.com", 
+        "from_url": "https://doodle.com/poll/a642fpyb8ztabsvd", 
+        "fallback": "Doodle: Emerging Technologies 10/25/18", 
+        "service_icon": "https://cdn2.doodle.com/dist/i/7479b568749fca315a2969e30cbee4f5.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://doodle.com/poll/a642fpyb8ztabsvd>", 
+    "ts": "1540326877.000100", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e3194eca-cfe0-4c89-b7e2-3c7998f0dd54", 
+    "text": "Please complete this doodle and enter *all* times that work for you!  We're planning our first meeting and getting ready to register ourselves as a Make School recognized club so we can do things like request a budget.", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1540326875.000100"
+  }, 
+  {
+    "client_msg_id": "f42b98bb-2b0e-4ca1-ab1f-ef91ee5a4b50", 
+    "text": "Good afternoon everybody. Our sincere apologies for the delay in setting up this first meetup. We\u2019re pushing for this Thursday for the first one. Please stay tuned \u2014 with <@UCBDPE94Z>", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1540325369.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1539898040.000200", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "client_msg_id": "F24CCE65-EF4B-4BA5-B300-499E65BA4A17", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0HC7D0", 
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "text": "I forgot to post the times but its hell week!  Sorry about that but I think it would be best to start after this term.  Ill see yall then!", 
+    "ts": "1539107700.000100", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dd71c93e-0b97-4419-8e1e-4b86f4922f6a", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "Hey techies sorry for the wait!  We will announce the dates for next week later today based on the doodle numbers and get started.", 
+    "ts": "1538772766.000100", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1c8c957d-dee5-45bd-9ed0-0a6999d416f4", 
+    "attachments": [
+      {
+        "image_bytes": 150421, 
+        "original_url": "https://www.meetup.com/noisebridge/events/254677938/", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Noisebridge 2169 Mission St. San Francisco, CA", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Fri, Sep 28, 2018, 8:01 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "WebVR Study Group: Visualize Brain Machine data: EEG+VR+Tensorflow", 
+        "image_width": 444, 
+        "title_link": "https://www.meetup.com/noisebridge/events/254677938/", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/c/c/0/d/600_473572237.jpeg", 
+        "service_name": "Meetup", 
+        "from_url": "https://www.meetup.com/noisebridge/events/254677938/", 
+        "fallback": "Meetup: WebVR Study Group: Visualize Brain Machine data: EEG+VR+Tensorflow", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "text": "Fri, Sep 28, 2018, 8:01 PM: Hacknight: We are playing with things like WebXR, EEG, Oculus GO, and Tensorflow. Lets Study WebXR for Brain Computer Interfaces.We have successfully achieved connecting EE", 
+        "id": 1
+      }
+    ], 
+    "text": "Turns out a lot of makeStudents are here <https://www.meetup.com/noisebridge/events/254677938/>", 
+    "ts": "1538195494.000100", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b95e800f-01b4-4928-94a9-27cb0adec63c", 
+    "text": "Found about this tonight at NoiseBridge <https://aframe.io/docs/0.8.0/introduction/>", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1538195453.000100"
+  }, 
+  {
+    "client_msg_id": "af1eb783-e716-4fa4-a63f-5b13129801aa", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/xwW-1mbemGc/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/oculusvr", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/xwW-1mbemGc", 
+        "video_html_width": 400, 
+        "author_name": "Oculus", 
+        "title_link": "https://youtu.be/xwW-1mbemGc", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/xwW-1mbemGc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/xwW-1mbemGc", 
+        "title": "Oculus Quest: Under the Hood", 
+        "fallback": "YouTube Video: Oculus Quest: Under the Hood", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://youtu.be/xwW-1mbemGc>", 
+    "ts": "1538005331.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "rocket", 
+        "users": [
+          "UCD1J9LDV", 
+          "U1HBKMW8Y"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sunglasses", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "fallback": "[September 26th, 2018 4:37 PM] severiano.badajoz: Oculus just announced a $399 standalone 6-dof headset, big news!", 
+        "author_link": "https://product-college.slack.com/team/UCDAF4FV4", 
+        "is_thread_root_unfurl": true, 
+        "text": "Oculus just announced a $399 standalone 6-dof headset, big news!", 
+        "footer": "Thread in #vr-ar", 
+        "ts": "1538005037.000100", 
+        "author_name": "Seve Badajoz", 
+        "is_share": true, 
+        "channel_name": "vr-ar", 
+        "channel_id": "C3Q8J6X7U", 
+        "is_msg_unfurl": true, 
+        "mrkdwn_in": [
+          "text"
+        ], 
+        "author_subname": "Seve Badajoz", 
+        "from_url": "https://product-college.slack.com/archives/C3Q8J6X7U/p1538005037000100?thread_ts=1538005037000100&cid=C3Q8J6X7U", 
+        "author_icon": "https://avatars.slack-edge.com/2018-08-22/421106031729_580c38832beb5e2c9f06_48.png", 
+        "author_id": "UCDAF4FV4", 
+        "color": "D0D0D0"
+      }
+    ], 
+    "text": "", 
+    "ts": "1538005277.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f7e033c2-91ba-4686-bf94-68a83307702e", 
+    "thread_ts": "1537837615.000100", 
+    "text": "I'm down, let's see if we can get anyone else, maybe share an Uber", 
+    "ts": "1537838586.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0644f037-1902-4bfa-8eaf-d934e3c28873", 
+    "thread_ts": "1537837615.000100", 
+    "text": "I would imagine they wouldn\u2019t be turned off by the idea of students showing interest in their projects and seeing what MR is like", 
+    "ts": "1537838329.000100", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3a3700df-4416-4a22-b4a6-ef5238509281", 
+    "thread_ts": "1537837615.000100", 
+    "text": "Don't we need to be working on mixed reality projects?", 
+    "ts": "1537838125.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9c21b77d-b2a2-41bc-ac72-c45b30e51274", 
+    "thread_ts": "1537837615.000100", 
+    "latest_reply": "1537838586.000100", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCDAF4FV4"
+    ], 
+    "text": "Anyone interested in going? I probably won't be going unless I can get a small group ", 
+    "last_read": "1537838586.000100", 
+    "ts": "1537837615.000100", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1537838125.000100"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1537838329.000100"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1537838586.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "af126686-4c3d-4400-a991-8eab8059e157", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "rocket", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "sunglasses", 
+        "users": [
+          "U1HBKMW8Y"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 358569, 
+        "original_url": "https://www.meetup.com/hololens-mr/events/254791796/?gj=co2&amp;rv=co2&amp;_xtd=gatlbWFpbF9jbGlja9oAJGMzNTUyZTFjLTVlMjYtNDA5Ny04MzQ5LWI1OTg0MDNiNTdmNw", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "Microsoft Reactor 680 Folsom Street  San Francisco, CA", 
+            "title": "Where"
+          }, 
+          {
+            "short": true, 
+            "value": "Mon, Sep 24, 2018, 6:30 PM", 
+            "title": "When"
+          }
+        ], 
+        "title": "Mixed Reality Workgroup", 
+        "image_width": 444, 
+        "title_link": "https://www.meetup.com/hololens-mr/events/254791796/?gj=co2&rv=co2&_xtd=gatlbWFpbF9jbGlja9oAJGMzNTUyZTFjLTVlMjYtNDA5Ny04MzQ5LWI1OTg0MDNiNTdmNw", 
+        "image_height": 250, 
+        "image_url": "https://secure.meetupstatic.com/photos/event/5/8/6/4/600_472642628.jpeg", 
+        "service_name": "Meetup", 
+        "from_url": "https://www.meetup.com/hololens-mr/events/254791796/?gj=co2&rv=co2&_xtd=gatlbWFpbF9jbGlja9oAJGMzNTUyZTFjLTVlMjYtNDA5Ny04MzQ5LWI1OTg0MDNiNTdmNw", 
+        "fallback": "Meetup: Mixed Reality Workgroup", 
+        "service_icon": "https://www.meetup.com/mu_static/en-US/m_swarm_120x120.4f86abc9.png", 
+        "text": "Mon, Sep 24, 2018, 6:30 PM: The Mixed Reality Workgroup is an opportunity for MR developers (AR, VR, XR, MR, whatever!) to come together, share ideas, and get work done in a friendly and supportive en", 
+        "id": 1
+      }
+    ], 
+    "text": "If anyone wants to come checkout some MR projects tonight: <https://www.meetup.com/hololens-mr/events/254791796/?gj=co2&amp;rv=co2&amp;_xtd=gatlbWFpbF9jbGlja9oAJGMzNTUyZTFjLTVlMjYtNDA5Ny04MzQ5LWI1OTg0MDNiNTdmNw>", 
+    "ts": "1537823280.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "27db6428-0b3e-42db-a8a3-b5005ed19f91", 
+    "thread_ts": "1537819972.000100", 
+    "text": "No, just fixed it!", 
+    "ts": "1537820328.000100", 
+    "user": "UCBDPE94Z", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c8c3f909-35b3-46d0-a0cd-654e6c81746e", 
+    "thread_ts": "1537819972.000100", 
+    "text": "Are these meant to all be AM? :smile:", 
+    "ts": "1537820176.000100", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2d3cf8ee-ccc9-4e65-b65d-035bf079e3c1", 
+    "thread_ts": "1537819972.000100", 
+    "latest_reply": "1537820328.000100", 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "original_url": "https://doodle.com/poll/depk2vtcd6kimywr", 
+        "text": "Add all the slots that you are available to meet for emerging technology. The club might be weekly or biweekly.", 
+        "title": "Doodle: Times for Emerging Technology", 
+        "image_width": 300, 
+        "title_link": "https://doodle.com/poll/depk2vtcd6kimywr", 
+        "image_height": 200, 
+        "image_url": "https://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "doodle.com", 
+        "from_url": "https://doodle.com/poll/depk2vtcd6kimywr", 
+        "fallback": "Doodle: Times for Emerging Technology", 
+        "service_icon": "https://cdn2.doodle.com/dist/i/7479b568749fca315a2969e30cbee4f5.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCBDPE94Z"
+    ], 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1537820176.000100"
+      }, 
+      {
+        "user": "UCBDPE94Z", 
+        "ts": "1537820328.000100"
+      }
+    ], 
+    "ts": "1537819972.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBDPE94Z", 
+    "text": "Hey guys.  Fill out this doodle to let us know when you're available to meet: <https://doodle.com/poll/depk2vtcd6kimywr>", 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1536944965.000200", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> set the channel topic: Leaders: Fod\u00e9 Diop and Dylan Finn - Topics: AR, VR, Crypto &amp; Blockchain technologies\u2026", 
+    "ts": "1536863242.000100", 
+    "topic": "Leaders: Fod\u00e9 Diop and Dylan Finn - Topics: AR, VR, Crypto &amp; Blockchain technologies\u2026", 
+    "subtype": "channel_topic", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1536859362.000200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1536859207.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> set the channel topic: AR, VR, Crypto &amp; Blockchain technologies", 
+    "ts": "1536859071.000100", 
+    "topic": "AR, VR, Crypto &amp; Blockchain technologies", 
+    "subtype": "channel_topic", 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d95b9d51-ca3f-46cc-b0da-0950265ba7d2", 
+    "text": "What\u2019s good <@UCDAF4FV4>", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1536859023.000100"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1536858914.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1536858900.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1536858886.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBDBLTFB> has joined the channel", 
+    "ts": "1536858868.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDBLTFB", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "client_msg_id": "c6248862-63d4-4376-95b4-58e39ef266eb", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "zipper_mouth_face", 
+        "users": [
+          "UCBDDHX7T"
+        ]
+      }
+    ], 
+    "text": "AYO <@UCD1J9LDV>", 
+    "ts": "1536858858.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1536858797.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1536858787.000200", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCD4Y1DCN> has joined the channel", 
+    "ts": "1536858779.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD4Y1DCN", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1536858763.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1536858737.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1536858715.000200", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1536858699.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1536858684.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1536858672.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBQLD4M8> has joined the channel", 
+    "ts": "1536858655.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBQLD4M8", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1536858641.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1536858625.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1536858611.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1536858604.000200", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> set the channel purpose: A group for Emerging Technologies", 
+    "ts": "1536857995.000500", 
+    "subtype": "channel_purpose", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "purpose": "A group for Emerging Technologies"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1536857995.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCD1J9LDV"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1536857995.000200", 
+    "text": "<@UCD1J9LDV> has joined the channel"
+  }
+]

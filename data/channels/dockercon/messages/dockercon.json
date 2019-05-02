@@ -1,0 +1,1112 @@
+[
+  {
+    "client_msg_id": "9F1A529D-5874-47E6-9990-9A05D4710AF0", 
+    "thread_ts": "1556682991.031400", 
+    "text": ":100::100::100:", 
+    "ts": "1556754807.003400", 
+    "user": "UC36F4P2M", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d269f4e5-0b3e-45f0-a1c0-93250d5b725f", 
+    "thread_ts": "1556746283.001900", 
+    "text": "Snacks seem to be offered between breakouts", 
+    "ts": "1556749322.002800", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "31e74b34-0a28-4699-a3d3-e7f8d3c38d70", 
+    "thread_ts": "1556746283.001900", 
+    "text": "<https://www.docker.com/dockercon/agenda/>", 
+    "ts": "1556749277.002600", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b5d4ae33-f2d0-4fe2-adab-8b5b7e859499", 
+    "thread_ts": "1556746283.001900", 
+    "text": "The snacks only seemed available at certain times, at least from my experience from spending all my time on the first floor. When they are out, you can find them on tables in the wider walking areas.", 
+    "ts": "1556746697.002400", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "35b620f1-eba4-4996-939b-4a8a4dc627e8", 
+    "thread_ts": "1556746283.001900", 
+    "text": "Cool. What about the snacks?", 
+    "ts": "1556746461.002200", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "13e3f37a-1f65-45b6-b42a-a646a2460ed3", 
+    "thread_ts": "1556746283.001900", 
+    "text": "They should be on the second floor, in the area above the whales", 
+    "ts": "1556746371.002000", 
+    "user": "U6YCV95L7", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "242657ce-1f87-419f-9685-4cab335ac931", 
+    "thread_ts": "1556746283.001900", 
+    "latest_reply": "1556749322.002800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YCV95L7", 
+      "UCC0GD5V0", 
+      "UCC0FMXCJ"
+    ], 
+    "text": "Where'd y'all get the sweaters?", 
+    "ts": "1556746283.001900", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556746371.002000"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1556746461.002200"
+      }, 
+      {
+        "user": "U6YCV95L7", 
+        "ts": "1556746697.002400"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556749277.002600"
+      }, 
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556749322.002800"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "be10a6d9-bd4d-428b-94a3-1b6819a52a74", 
+    "text": "I'm gonna go now if anyone wants to walk over together", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556743264.001300"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ58JR9Q9", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ58JR9Q9/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 1145685, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_800.jpg", 
+        "timestamp": 1556728274, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ58JR9Q9/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_1024.jpg", 
+        "user": "UCC0HC7D0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ58JR9Q9-69f4f909b2", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0HC7D0/FJ58JR9Q9/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556728274, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ58JR9Q9-92ffe52a28/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "0688E0CD-9950-4034-BC3A-52B6B2DB6073", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC0GD5V0", 
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "text": "Hallway event", 
+    "upload": true, 
+    "ts": "1556728274.000400", 
+    "display_as_bot": false, 
+    "user": "UCC0HC7D0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FHZNL3WAW", 
+        "thumb_480_h": 480, 
+        "original_h": 2208, 
+        "thumb_360_w": 203, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FHZNL3WAW/image_from_ios.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_80.png", 
+        "thumb_360_h": 360, 
+        "size": 1286298, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_800.png", 
+        "timestamp": 1556682991, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FHZNL3WAW/download/image_from_ios.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_1024.png", 
+        "user": "UCBDPE94Z", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FHZNL3WAW-fd30c56ced", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDPE94Z/FHZNL3WAW/image_from_ios.png", 
+        "name": "Image from iOS.png", 
+        "created": 1556682991, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1242, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FHZNL3WAW-fccd65790a/image_from_ios_720.png"
+      }
+    ], 
+    "client_msg_id": "D74716C6-B36D-4CDF-AF22-8AFC1D57CB5A", 
+    "latest_reply": "1556754807.003400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UC36F4P2M"
+    ], 
+    "thread_ts": "1556682991.031400", 
+    "text": "Some notes from the \u201cOptimize your dockerfile\u201d talk", 
+    "upload": true, 
+    "ts": "1556682991.031400", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBDPE94Z", 
+    "replies": [
+      {
+        "user": "UC36F4P2M", 
+        "ts": "1556754807.003400"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "whale", 
+        "users": [
+          "UCCRGTD0X", 
+          "UCBQJD3NW", 
+          "UC36F4P2M"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "docker", 
+        "users": [
+          "UCBQJD3NW", 
+          "UC36F4P2M"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJD8ZEB1C", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJD8ZEB1C/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 963641, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_800.jpg", 
+        "timestamp": 1556674374, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJD8ZEB1C/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_1024.jpg", 
+        "user": "UCBQJD3NW", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJD8ZEB1C-937d8bdbae", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQJD3NW/FJD8ZEB1C/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556674374, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJD8ZEB1C-d0c681e049/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "CCDCF4C8-7FFE-4D64-A083-E35A12E4ABE8", 
+    "text": "The schwag, the schwag ", 
+    "upload": true, 
+    "ts": "1556674374.031000", 
+    "display_as_bot": false, 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7b6a8c15-b162-48e1-8200-56f110fb2ea2", 
+    "thread_ts": "1556672396.030100", 
+    "text": "Lmao aww I really want a nginx and traefic shirt", 
+    "ts": "1556673759.030800", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3f94fc4d-3042-46a6-a5f5-82679cb6f437", 
+    "text": "I went to two workshops today, here are the tutorial repos!\n\n<https://github.com/nigelpoulton/k8s101>\n<https://github.com/silvin-lubecki/docker-app-workshop-dc19>", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1556672466.030600"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FJAH549PW", 
+        "size": 24842394, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJAH549PW/file_from_ios.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1556672395, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJAH549PW/download/file_from_ios.mov", 
+        "user": "UCBDPE94Z", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "name": "File from iOS.MOV", 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJAH549PW-963a609b40", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDPE94Z/FJAH549PW/file_from_ios.mov", 
+        "is_external": false, 
+        "created": 1556672395, 
+        "mode": "hosted"
+      }
+    ], 
+    "thread_ts": "1556672396.030100", 
+    "latest_reply": "1556673759.030800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E"
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "astonished", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": "My back hurts from the walk home", 
+    "upload": true, 
+    "ts": "1556672396.030100", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBDPE94Z", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1556673759.030800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBPUT6AX", 
+    "ts": "1556672334.029500", 
+    "text": "<@UCBPUT6AX> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "60a0bbfc-5af8-4e3d-970e-0b7e216e8351", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "boom", 
+        "users": [
+          "U1HBKMW8Y", 
+          "UCDAETD5L", 
+          "UC36F4P2M", 
+          "UCB8YJNBT", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Just ran into the guy that did my mock technical interview at the CZI Study Hall. Small world.", 
+    "ts": "1556670452.029200", 
+    "user": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "db535444-cbd8-4759-96f9-c66e49c237dd", 
+    "thread_ts": "1556652579.027000", 
+    "text": "i'll be there in ~ 1 hr !", 
+    "ts": "1556659897.027600", 
+    "user": "UCBKC02JY", 
+    "parent_user_id": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7d40fc83-9046-467a-a88f-89c908732ffe", 
+    "thread_ts": "1556652579.027000", 
+    "text": "I am", 
+    "ts": "1556653441.027100", 
+    "user": "UCBQH1P6E", 
+    "parent_user_id": "UCBHS9M3N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3CEEC2D8-2957-47A8-9AFC-5FD0B481885F", 
+    "thread_ts": "1556652579.027000", 
+    "latest_reply": "1556659897.027600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBQH1P6E", 
+      "UCBKC02JY"
+    ], 
+    "text": "<!channel> who\u2019s at DockerCon now?", 
+    "ts": "1556652579.027000", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBHS9M3N", 
+    "replies": [
+      {
+        "user": "UCBQH1P6E", 
+        "ts": "1556653441.027100"
+      }, 
+      {
+        "user": "UCBKC02JY", 
+        "ts": "1556659897.027600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1556652547.026400", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJCG9KZL7", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJCG9KZL7/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 842191, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_800.jpg", 
+        "timestamp": 1556645402, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJCG9KZL7/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_1024.jpg", 
+        "user": "UCBQJD3NW", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJCG9KZL7-0fb60e1282", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBQJD3NW/FJCG9KZL7/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556645402, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCG9KZL7-4f2c990ea3/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "27D469EB-8D41-4147-A56A-8A7629BCE2B2", 
+    "text": "General Session happening now ", 
+    "upload": true, 
+    "ts": "1556645402.026000", 
+    "display_as_bot": false, 
+    "user": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2E7FFEF4-03D9-4CD0-9701-700AEDFAD3FC", 
+    "text": "Rip", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556644612.025900"
+  }, 
+  {
+    "client_msg_id": "E513EC78-0F51-4A76-A0C0-EB964A9EC30C", 
+    "text": "I\u2019m already like halfway there, lol ", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1556644599.025700"
+  }, 
+  {
+    "client_msg_id": "5F0B82D7-9365-4C6B-9438-E0BA35ED5168", 
+    "text": "Ill come with you!", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556644557.024800"
+  }, 
+  {
+    "client_msg_id": "9FFED122-9558-48FB-A761-74646D81F162", 
+    "text": "Jaeson wait", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556644553.024500"
+  }, 
+  {
+    "client_msg_id": "A92B64E6-CA56-4B0A-9DB4-8195B0A38FE5", 
+    "text": "Headed there now ", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1556644517.024300"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCH838UC9", 
+    "ts": "1556643667.023000", 
+    "text": "<@UCH838UC9> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "ded5dbee-e793-4178-9ef0-f10dc8229233", 
+    "text": "Nvm something came up.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556643648.022800"
+  }, 
+  {
+    "client_msg_id": "96b33938-59ba-4f04-b340-c016b5be7070", 
+    "text": "Anyone wanna head over after huddles?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556642128.022400"
+  }, 
+  {
+    "client_msg_id": "93cab628-c7c8-4bc4-bff0-db96fa21c437", 
+    "text": "I will be there from 12-6pm", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1556641541.022000"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJCNK63QW", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20190430_085024.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJCNK63QW/img_20190430_085024.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 847395, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_800.jpg", 
+        "timestamp": 1556639594, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJCNK63QW/download/img_20190430_085024.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_1024.jpg", 
+        "user": "UCC0FMXCJ", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJCNK63QW-f164bd6415", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0FMXCJ/FJCNK63QW/img_20190430_085024.jpg", 
+        "name": "IMG_20190430_085024.jpg", 
+        "created": 1556639594, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJCNK63QW-1556ff429b/img_20190430_085024_720.jpg"
+      }
+    ], 
+    "client_msg_id": "f6c2bede-f3c4-4ad0-9904-bfc25daea3b1", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556639598.020600", 
+    "display_as_bot": false, 
+    "user": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1bcada31-2c2b-4a9b-8243-ef52ddf2cebc", 
+    "text": "I'm here now, somehow I expected it to be more chaotic", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1556638798.020500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDDHX7T", 
+    "ts": "1556597421.019400", 
+    "text": "<@UCBDDHX7T> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c79272a8-2862-4d65-9776-0fd11aa1431b", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "thinking_face", 
+        "users": [
+          "UC36F4P2M", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "UC36F4P2M", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "whale", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCB8YJNBT"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "docker", 
+        "users": [
+          "UCC4RHFU5", 
+          "UCC0FMXCJ", 
+          "UCB8YJNBT"
+        ]
+      }
+    ], 
+    "text": ":drum_with_drumsticks::drums::drum_with_drumsticks::drums::drum_with_drumsticks::drums::star2::new::slack::ideograph_advantage::whale::wink:\n:docker::confetti_ball::docker::tada::docker::confetti_ball::docker::tada::docker::confetti_ball::docker:", 
+    "ts": "1556587341.016200", 
+    "user": "U1HBKMW8Y", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U1HBKMW8Y", 
+    "ts": "1556587323.016000", 
+    "text": "<@U1HBKMW8Y> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UC36F4P2M", 
+    "ts": "1556582334.015800", 
+    "text": "<@UC36F4P2M> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "7f4eae1e-b3b3-4740-bfcb-37964e25f7ac", 
+    "edited": {
+      "user": "UCC0HC7D0", 
+      "ts": "1556569449.000000"
+    }, 
+    "thread_ts": "1556564134.008800", 
+    "text": "I will be doing the same and considering sessions on Tuesday particularly. I'm interested in attending the session: \"Things I Learned Working with Docker Support\" - tomorrow from 4:40 to 5:20 I'm also thinking of possibly attending talks earlier in the day.", 
+    "ts": "1556569389.015300", 
+    "user": "UCC0HC7D0", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0HC7D0", 
+    "ts": "1556568938.015100", 
+    "text": "<@UCC0HC7D0> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "E8BF1D36-FE3C-4CAE-BED3-9506FD06A637", 
+    "text": "Registration opened at 12pm today, I\u2019d assume thats when it starts tomorrow", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556567884.014900"
+  }, 
+  {
+    "client_msg_id": "05EA73B8-457C-4BC8-BD19-E4EF677B7A3E", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCC0HC7D0", 
+          "UCB8YJNBT", 
+          "UC36F4P2M", 
+          "UCBDDHX7T"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCBQH1P6E", 
+          "UCBDDHX7T"
+        ]
+      }
+    ], 
+    "text": "Today was just early registration the main content of Dockercon starts tomorrow.  Get there early to avoid the registration lines.  There\u2019s coffee, \u201cmeals\u201d were listed, and everyone who attends gets a free docker hoodie.  The rest of the week there\u2019s talks and events as well like \u201ccompose to kubernetes and back again\u201d and \u201cretro gaming with docker\u201d.  Sorry for the lack of emojis but thats all the info I gathered", 
+    "ts": "1556567841.014000", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8e3027a6-38ff-49ee-be5d-be1057a5fec6", 
+    "thread_ts": "1556562078.004800", 
+    "text": "Yeah, I assume it will be but at the same time the regular dockercon apparently has alcohol too. If they just have a wristband thing you should be fine. I'm gonna ask tomorrow", 
+    "ts": "1556565170.008900", 
+    "user": "UCBHEGLKB", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e964e548-4f04-4dfe-b986-9f7baccc573a", 
+    "thread_ts": "1556564134.008800", 
+    "latest_reply": "1556569389.015300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0HC7D0"
+    ], 
+    "text": "I'm going to skip dockercon today and go later in the week.", 
+    "ts": "1556564134.008800", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCC0HC7D0", 
+        "ts": "1556569389.015300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FJ93L7VV2", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FJ93L7VV2/image_from_ios.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 933868, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_800.jpg", 
+        "timestamp": 1556563791, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FJ93L7VV2/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_1024.jpg", 
+        "user": "UCBDPE94Z", 
+        "image_exif_rotation": 6, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FJ93L7VV2-3ef12f9730", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDPE94Z/FJ93L7VV2/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1556563791, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FJ93L7VV2-51a473ceee/image_from_ios_720.jpg"
+      }
+    ], 
+    "client_msg_id": "73BF05CB-89F7-426B-BB56-E560BCDC3E44", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1556563798.008000", 
+    "display_as_bot": false, 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bc212fdf-b66c-41d4-ac93-c0c4ed3f39ec", 
+    "thread_ts": "1556563133.007300", 
+    "text": "I was planning on going on those days, I\u2019m about to DM Dani to let her know", 
+    "ts": "1556563785.007800", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCBQH1P6E", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBDPE94Z", 
+    "ts": "1556563780.007700", 
+    "text": "<@UCBDPE94Z> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1556563202.007500", 
+    "text": "<@UCDAJD4F8> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "42ac74d1-31b3-481a-ab04-2c6ade699507", 
+    "thread_ts": "1556563133.007300", 
+    "latest_reply": "1556563785.007800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ"
+    ], 
+    "text": "I haven't made any plans yet but I am going... are we going together tuesday and thursday instead of class?", 
+    "ts": "1556563133.007300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQH1P6E", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556563785.007800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1556563088.006600", 
+    "text": "<@UCBQH1P6E> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "316c8175-9635-43d0-97a9-9543c5bd3338", 
+    "thread_ts": "1556562078.004800", 
+    "text": "I\u2019m considering going, but I\u2019m not sure if it\u2019s 21+ given that it sounds like there\u2019ll be alcohol", 
+    "ts": "1556562690.006200", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCBHEGLKB", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1556562660.006100", 
+    "text": "<@UCCRGTD0X> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBKC02JY", 
+    "ts": "1556562429.005900", 
+    "text": "<@UCBKC02JY> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1556562409.005700", 
+    "text": "<@UCC0H4UJE> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB8YJNBT", 
+    "ts": "1556562142.005000", 
+    "text": "<@UCB8YJNBT> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "f2dafd8a-38ae-4362-b971-07277602611b", 
+    "thread_ts": "1556562078.004800", 
+    "latest_reply": "1556565170.008900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ", 
+      "UCBHEGLKB"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "whale", 
+        "users": [
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Who is going to the After Party Tomorrow is the real question lol", 
+    "ts": "1556562078.004800", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCBHEGLKB", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556562690.006200"
+      }, 
+      {
+        "user": "UCBHEGLKB", 
+        "ts": "1556565170.008900"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "3fccab0c-084b-4297-b286-83d3e6eea238", 
+    "text": "<@UCC4RHFU5> Is there right now", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1556562068.004600"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1556561936.003300", 
+    "text": "<@UCC4RHFU5> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "37c75a88-3140-436e-8141-d9552d9fa6af", 
+    "text": "Who's all there currently?", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1556561880.003100"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1556561812.002600", 
+    "text": "<@UCCTF62ET> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "c728ba32-105c-4404-ba28-46caabf08a1c", 
+    "thread_ts": "1556561641.002200", 
+    "text": "Seems like it might be a place in the building", 
+    "ts": "1556561669.002300", 
+    "user": "UCC0FMXCJ", 
+    "parent_user_id": "UCC0FMXCJ", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "39136167-6915-43d6-91cc-c01437103990", 
+    "thread_ts": "1556561641.002200", 
+    "latest_reply": "1556561669.002300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0FMXCJ"
+    ], 
+    "text": "Anyone got a clue what \u201cEcosystem Expo\u201d is?", 
+    "ts": "1556561641.002200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0FMXCJ", 
+    "replies": [
+      {
+        "user": "UCC0FMXCJ", 
+        "ts": "1556561669.002300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1556561635.002000", 
+    "text": "<@UCBQJD3NW> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1556561552.001700", 
+    "text": "<@UCDAF4FV4> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "a09f4f35-4e9f-419b-983f-21762db61174", 
+    "text": "Just created a few minutes ago", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1556561470.001500"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U6YCV95L7", 
+    "ts": "1556561438.001000", 
+    "text": "<@U6YCV95L7> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHEGLKB", 
+    "ts": "1556561427.000600", 
+    "text": "<@UCBHEGLKB> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1556561426.000400", 
+    "text": "<@UCC0FMXCJ> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1556561362.000200", 
+    "text": "<@UCC0GD5V0> has joined the channel"
+  }
+]

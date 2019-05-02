@@ -1,0 +1,1332 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1556220985.000400", 
+    "text": "<@UCC37PD6D> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCS7HWGP", 
+    "ts": "1556035898.000200", 
+    "text": "<@UCCS7HWGP> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCL1R3EZ", 
+    "ts": "1555043820.000200", 
+    "text": "<@UCCL1R3EZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8WCDTJ", 
+    "ts": "1554849022.001100", 
+    "text": "<@UCB8WCDTJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBQH1P6E", 
+    "ts": "1554397605.000800", 
+    "text": "<@UCBQH1P6E> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JVCJ3", 
+    "ts": "1554153196.000600", 
+    "text": "<@UCD1JVCJ3> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8Y9ZQ8", 
+    "ts": "1554150992.000400", 
+    "text": "<@UCB8Y9ZQ8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1554146509.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1554045325.000400", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBP3BYTW", 
+    "ts": "1553906213.000200", 
+    "text": "<@UCBP3BYTW> has left the channel"
+  }, 
+  {
+    "client_msg_id": "C26E7250-1632-41A6-9CFA-AD1BF7274EF7", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "ok_hand", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBKC02JY", 
+          "UCD53TKCN", 
+          "U6ZCE0AKG", 
+          "U6Y6KU78W", 
+          "UCB8T1AG0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCD1J9LDV", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "U6ZCE0AKG"
+        ]
+      }
+    ], 
+    "text": "Heyo thanks to everybody who came to hangout today :dizzy::foggy: Let\u2019s do something again sometime soon for those that couldn\u2019t make it!!", 
+    "ts": "1551060114.005700", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0FMXCJ", 
+    "ts": "1550791770.003900", 
+    "text": "<@UCC0FMXCJ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1550791158.003500", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "client_msg_id": "4b1cb6d5-075f-4c9e-9366-91d30d8216af", 
+    "thread_ts": "1550790971.002600", 
+    "attachments": [
+      {
+        "thumb_height": 788, 
+        "thumb_url": "https://static.canva.com/static/images/fb_cover.png", 
+        "thumb_width": 940, 
+        "original_url": "https://www.canva.com/design/DADSRVdGLVI/share?role=VIEWER&amp;token=PegFPQLC9U9JAA1KCspcLw&amp;utm_content=DADSRVdGLVI&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton", 
+        "text": "Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more.", 
+        "title": "Amazingly Simple Graphic Design Software \u2013 Canva", 
+        "title_link": "https://www.canva.com/design/DADSRVdGLVI/share?role=VIEWER&token=PegFPQLC9U9JAA1KCspcLw&utm_content=DADSRVdGLVI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton", 
+        "service_name": "canva.com", 
+        "from_url": "https://www.canva.com/design/DADSRVdGLVI/share?role=VIEWER&token=PegFPQLC9U9JAA1KCspcLw&utm_content=DADSRVdGLVI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton", 
+        "fallback": "Amazingly Simple Graphic Design Software \u2013 Canva", 
+        "service_icon": "https://static.canva.com/static/images/apple-touch-icon-152x152.png", 
+        "id": 1
+      }
+    ], 
+    "text": "gg my emojis didn't pan out haha - here's the link if y'all wanna share this with anyone -<https://www.canva.com/design/DADSRVdGLVI/share?role=VIEWER&amp;token=PegFPQLC9U9JAA1KCspcLw&amp;utm_content=DADSRVdGLVI&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton>", 
+    "ts": "1550791078.003100", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7848b88e-a86d-45c9-bc1b-bae4d67ed238", 
+    "thread_ts": "1550790971.002600", 
+    "text": "Shoutout <@UCD1J9LDV> for generated the logo with his Go utility :fire:", 
+    "ts": "1550791014.002900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "png", 
+        "thumb_800_h": 1035, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FGDGTRR5H", 
+        "thumb_480_h": 480, 
+        "original_h": 1056, 
+        "thumb_360_w": 278, 
+        "title": "delorespark.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FGDGTRR5H/delorespark.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_64.png", 
+        "thumb_720_w": 556, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_80.png", 
+        "thumb_360_h": 360, 
+        "size": 145303, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_800.png", 
+        "timestamp": 1550790963, 
+        "public_url_shared": true, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FGDGTRR5H/download/delorespark.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_1024.png", 
+        "user": "UCDAETD5L", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FGDGTRR5H-0c0820ac3b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAETD5L/FGDGTRR5H/delorespark.png", 
+        "name": "delorespark.png", 
+        "created": 1550790963, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 816, 
+        "thumb_960_w": 742, 
+        "thumb_1024_w": 791, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FGDGTRR5H-d71af06b12/delorespark_720.png"
+      }
+    ], 
+    "thread_ts": "1550790971.002600", 
+    "latest_reply": "1550791078.003100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "sunny", 
+        "users": [
+          "UCBKC02JY", 
+          "UCB3PRBME", 
+          "UCC0GD5V0", 
+          "U6ZCE0AKG"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "U6ZCE0AKG", 
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "man-surfing", 
+        "users": [
+          "UCFCGA3C1"
+        ]
+      }
+    ], 
+    "text": "<!channel> :fire::100::umbrella_on_ground:", 
+    "upload": true, 
+    "ts": "1550790971.002600", 
+    "display_as_bot": false, 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550791014.002900"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550791078.003100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1550549336.010100", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1550233518.009700", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "f26c86b0-744f-48e8-9d2f-cd2fc018a1c4", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1550210937.000000"
+    }, 
+    "thread_ts": "1550209902.008400", 
+    "text": "If you can't afford a ticket please lemme know what you could afford and we are gonna try to work things out to make this a dope experience. But if you just simply can't, no worries, we're gonna do more dope shit in the near future for free :pray::skin-tone-3::100:", 
+    "ts": "1550210913.009000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85a5bb82-2be4-41a9-8dab-1a521f4fbd4e", 
+    "thread_ts": "1550209902.008400", 
+    "text": "*Sunday March 31st* (Day before Term 4 so it's a chill time. 5:30pm so you're Sunday evening would be devoted to this) Tickets are really low for a Warriors game + 200 level seats which are bad ass ( $60-80 + ($20 tax )  depending on seat)\n\n<https://www.stubhub.com/golden-state-warriors-tickets-golden-state-warriors-oakland-oracle-arena-3-31-2019/event/103772701/?sort=price+asc&amp;sid=35492>", 
+    "ts": "1550210144.008700", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f4c6a381-49b6-4f1c-a6b5-31dba666b09f", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1550211033.000000"
+    }, 
+    "latest_reply": "1550210913.009000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "thread_ts": "1550209902.008400", 
+    "text": "<!channel> Wassap ballers :basketball:Following up on the game for those still interested!\n\nThere's enough tickets :admission_tickets: for sale still between $80-$90 *including tax (14 tickets in section 212), (2 tickets in 213), (10 tickets in 228) so like basically we'll split up into 2 groups once we get there! *Important* I wanna make sure we all get our tickets in the right spots and its tricky cuz spots are going to be more limited the more we wait so *let's buy tickets ASAP* - *tomorrow* at *noon*, hop out of your S&amp;L class and gather in the *Great Hall* so we can all hash out *buying tickets* together! Going to attach the details again on this thread - if you can't buy em tomo no worries, just hit me up before you do or if you'd rather just Venmo me and have me buy it for you that works just DM me or comment on this thread! If you're short on money hit me up and we can try working something out!", 
+    "ts": "1550209902.008400", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550210144.008700"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1550210913.009000"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "raised_hands", 
+        "users": [
+          "UCB8WCDTJ", 
+          "U6Y6KU78W"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "admission_tickets", 
+        "users": [
+          "U6Y6KU78W"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCFQ7KK", 
+    "ts": "1550093573.000400", 
+    "text": "<@UCFCFQ7KK> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1550019786.000200", 
+    "text": "<@UCCTF62ET> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD9D1YH4", 
+    "ts": "1549663184.003500", 
+    "text": "<@UCD9D1YH4> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBMZFL4U", 
+    "ts": "1549575256.003000", 
+    "text": "<@UCBMZFL4U> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS4EW59", 
+    "ts": "1549482365.002800", 
+    "text": "<@UCBS4EW59> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YMU9QCF", 
+    "ts": "1549395956.002600", 
+    "text": "<@U6YMU9QCF> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS3LMDZ", 
+    "ts": "1549394411.002400", 
+    "text": "<@UCBS3LMDZ> has left the channel"
+  }, 
+  {
+    "client_msg_id": "A591868F-1C74-41B3-8332-76837A712D95", 
+    "thread_ts": "1547938092.018500", 
+    "text": "Messaging channel about it right now <@UCBP4M9C4>!", 
+    "ts": "1549134715.002000", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "4772a460-7398-4ae2-9bbc-d62efce5d8dd", 
+    "thread_ts": "1547938092.018500", 
+    "text": "when are you planning on getting tickets.  should be sooner rather than later so people can sit together", 
+    "ts": "1548993691.001300", 
+    "user": "UCBP4M9C4", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1548872943.001100", 
+    "text": "<@UCB3PRBME> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCCRGTD0X", 
+    "ts": "1548822307.000900", 
+    "text": "<@UCCRGTD0X> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBS25XMZ", 
+    "ts": "1548447569.000400", 
+    "text": "<@UCBS25XMZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8NMLKGDU", 
+    "ts": "1548363611.000200", 
+    "text": "<@U8NMLKGDU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1548304237.000400", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAJD4F8", 
+    "ts": "1548201090.028200", 
+    "text": "<@UCDAJD4F8> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YV4A45C", 
+    "ts": "1548136540.027800", 
+    "text": "<@U6YV4A45C> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB58P2V6", 
+    "ts": "1548132805.027600", 
+    "text": "<@UCB58P2V6> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBHS9M3N", 
+    "ts": "1547974034.027200", 
+    "text": "<@UCBHS9M3N> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1547964657.026900", 
+    "text": "<@UCDAF4FV4> has left the channel"
+  }, 
+  {
+    "text": "<@UCBMZFL4U> has joined the channel", 
+    "ts": "1547949544.026700", 
+    "subtype": "channel_join", 
+    "user": "UCBMZFL4U", 
+    "type": "message", 
+    "inviter": "UCBC6K65P"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1547945244.026500", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1547942706.026100", 
+    "text": "<@UCC0GL52N> has joined the channel"
+  }, 
+  {
+    "text": "<@UCDAETD5L> set the channel topic: Student experiences", 
+    "ts": "1547940669.025800", 
+    "topic": "Student experiences", 
+    "subtype": "channel_topic", 
+    "user": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "B97D8B0F-DB0D-4DC6-9FE9-2CAB22DB69B1", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pray", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCDAETD5L", 
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "Yo lemme just say this channel was needed", 
+    "ts": "1547939140.024600", 
+    "user": "UCBDPE94Z", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d725bb57-ca5f-4330-9783-6a0f7a7a2bb8", 
+    "text": "Also would love to use this group as another avenue for us to make more friends even outside of Make School and vice versa so we can totally have little fliers going and share it around with friends!", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1547939136.024400"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1547938826.022300", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1547938726.021900", 
+    "text": "<@UCBS8JUHH> has joined the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC4U4V53", 
+    "ts": "1547938655.021700", 
+    "text": "<@UCC4U4V53> has joined the channel"
+  }, 
+  {
+    "client_msg_id": "008fb6cf-4d5d-4c10-8043-a55b6f1ed222", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547938435.000000"
+    }, 
+    "thread_ts": "1547938024.017500", 
+    "text": "Game Tickets - <https://www1.ticketmaster.com/golden-state-warriors-vs-charlotte-hornets-oakland-california-03-31-2019/event/1C005502AAEA5385?brand=warriors&amp;extcmp=gw503080&amp;wt.mc_id=NBA_TEAM_GSW_SCHED_PG_PRI#efeat6916>", 
+    "ts": "1547938385.020900", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "35cceddc-38df-40a8-b278-8271f44807b9", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547938427.000000"
+    }, 
+    "thread_ts": "1547938024.017500", 
+    "text": "Make School Calendar - <https://docs.google.com/document/d/1ng455nKrGYjxjf_MKh8lx7LDz-OsgexFEBFChPSw9Qw/preview>", 
+    "ts": "1547938376.020600", 
+    "user": "UCDAETD5L", 
+    "parent_user_id": "UCDAETD5L", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cef9ac8d-6c31-4354-91f6-cbcba4782a05", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "grin", 
+        "users": [
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "Great club idea <@UCDAETD5L> ", 
+    "ts": "1547938317.020500", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e86f053-28f5-4268-944f-fc5eb141c780", 
+    "edited": {
+      "user": "UCDAETD5L", 
+      "ts": "1547938288.000000"
+    }, 
+    "latest_reply": "1549134715.002000", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBP4M9C4", 
+      "UCDAETD5L"
+    ], 
+    "thread_ts": "1547938092.018500", 
+    "text": "For starters, some of us were thinking of going to a Warriors home game before they leave Oakland next season! Tickets are expensive so I found a game that has tickets starting at *$60* on *March 31st* a Sunday just after job search workshop. Hit a *THUMBS UP* here if you're interested, free, can afford/save enough money to attend!", 
+    "pinned_info": {
+      "pinned_ts": 1547943767, 
+      "channel": "CFJB0M90D", 
+      "pinned_by": "UCDAETD5L"
+    }, 
+    "ts": "1547938092.018500", 
+    "pinned_to": [
+      "CFJB0M90D"
+    ], 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCBP4M9C4", 
+        "ts": "1548993691.001300"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1549134715.002000"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1", 
+        "users": [
+          "UCB8WCDTJ", 
+          "UCHK87XEJ", 
+          "UCBHS9M3N", 
+          "UCBP4M9C4", 
+          "U6ZCE0AKG", 
+          "UCB3PRBME", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "43698156-7ec5-46c2-94f7-1129cbf255da", 
+    "thread_ts": "1547938024.017500", 
+    "latest_reply": "1547938385.020900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCDAETD5L"
+    ], 
+    "text": "Hey <#CFJB0M90D|recclub> this is going to be random fun large group events for us all to hang out a bit more outside of Make feel free to leave the channel if you're not interested.", 
+    "pinned_info": {
+      "pinned_ts": 1547943761, 
+      "channel": "CFJB0M90D", 
+      "pinned_by": "UCDAETD5L"
+    }, 
+    "ts": "1547938024.017500", 
+    "pinned_to": [
+      "CFJB0M90D"
+    ], 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCDAETD5L", 
+    "replies": [
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547938376.020600"
+      }, 
+      {
+        "user": "UCDAETD5L", 
+        "ts": "1547938385.020900"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "1d89aecc-4b72-412f-b7ec-a80291650d59", 
+    "text": "That said, I am confuzzled", 
+    "type": "message", 
+    "user": "UCC4S13NZ", 
+    "ts": "1547937922.016500"
+  }, 
+  {
+    "client_msg_id": "1eeb6632-8655-4293-8498-17549c515767", 
+    "edited": {
+      "user": "UCC4S13NZ", 
+      "ts": "1547937917.000000"
+    }, 
+    "text": "What an interesting idea", 
+    "ts": "1547937911.016200", 
+    "user": "UCC4S13NZ", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS25XMZ> has joined the channel", 
+    "ts": "1547937888.015700", 
+    "subtype": "channel_join", 
+    "user": "UCBS25XMZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1547937888.015500", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YBN8NJ2> has joined the channel", 
+    "ts": "1547937887.015300", 
+    "subtype": "channel_join", 
+    "user": "U6YBN8NJ2", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBHS20S0> has joined the channel", 
+    "ts": "1547937887.015100", 
+    "subtype": "channel_join", 
+    "user": "UCBHS20S0", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBS1DSF5> has joined the channel", 
+    "ts": "1547937887.014900", 
+    "subtype": "channel_join", 
+    "user": "UCBS1DSF5", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCD9D1YH4> has joined the channel", 
+    "ts": "1547937887.014700", 
+    "subtype": "channel_join", 
+    "user": "UCD9D1YH4", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCS7HWGP> has joined the channel", 
+    "ts": "1547937887.014400", 
+    "subtype": "channel_join", 
+    "user": "UCCS7HWGP", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UC7PP1PTR> has joined the channel", 
+    "ts": "1547937887.014200", 
+    "subtype": "channel_join", 
+    "user": "UC7PP1PTR", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1547937887.014000", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4TPF5K> has joined the channel", 
+    "ts": "1547937887.013800", 
+    "subtype": "channel_join", 
+    "user": "UCC4TPF5K", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YV4A45C> has joined the channel", 
+    "ts": "1547937887.013600", 
+    "subtype": "channel_join", 
+    "user": "U6YV4A45C", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1547937887.013400", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB8Y9ZQ8> has joined the channel", 
+    "ts": "1547937887.013200", 
+    "subtype": "channel_join", 
+    "user": "UCB8Y9ZQ8", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBS4EW59> has joined the channel", 
+    "ts": "1547937886.013000", 
+    "subtype": "channel_join", 
+    "user": "UCBS4EW59", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCSGECPJ> has joined the channel", 
+    "ts": "1547937886.012800", 
+    "subtype": "channel_join", 
+    "user": "UCCSGECPJ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCFCGA3C1> has joined the channel", 
+    "ts": "1547937886.012600", 
+    "subtype": "channel_join", 
+    "user": "UCFCGA3C1", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1547937886.012400", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1547937886.012200", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U1HBKMW8Y> has joined the channel", 
+    "ts": "1547937886.012000", 
+    "subtype": "channel_join", 
+    "user": "U1HBKMW8Y", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1547937886.011800", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBHLEZEY> has joined the channel", 
+    "ts": "1547937886.011600", 
+    "subtype": "channel_join", 
+    "user": "UCBHLEZEY", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4RUF4M> has joined the channel", 
+    "ts": "1547937886.011400", 
+    "subtype": "channel_join", 
+    "user": "UCC4RUF4M", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBP3BYTW> has joined the channel", 
+    "ts": "1547937885.011200", 
+    "subtype": "channel_join", 
+    "user": "UCBP3BYTW", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1547937885.011000", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBDBB3LZ> has joined the channel", 
+    "ts": "1547937885.010800", 
+    "subtype": "channel_join", 
+    "user": "UCBDBB3LZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6Y6KU78W> has joined the channel", 
+    "ts": "1547937885.010600", 
+    "subtype": "channel_join", 
+    "user": "U6Y6KU78W", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBQH1P6E> has joined the channel", 
+    "ts": "1547937885.010400", 
+    "subtype": "channel_join", 
+    "user": "UCBQH1P6E", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1547937885.010200", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YMU9QCF> has joined the channel", 
+    "ts": "1547937885.010000", 
+    "subtype": "channel_join", 
+    "user": "U6YMU9QCF", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4S13NZ> has joined the channel", 
+    "ts": "1547937884.009800", 
+    "subtype": "channel_join", 
+    "user": "UCC4S13NZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBDDHX7T> has joined the channel", 
+    "ts": "1547937884.009600", 
+    "subtype": "channel_join", 
+    "user": "UCBDDHX7T", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1547937884.009400", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1547937884.009200", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1547937884.009000", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC0FMXCJ> has joined the channel", 
+    "ts": "1547937884.008800", 
+    "subtype": "channel_join", 
+    "user": "UCC0FMXCJ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1547937884.008600", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCHK87XEJ> has joined the channel", 
+    "ts": "1547937884.008400", 
+    "subtype": "channel_join", 
+    "user": "UCHK87XEJ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U72SB0WG6> has joined the channel", 
+    "ts": "1547937883.008200", 
+    "subtype": "channel_join", 
+    "user": "U72SB0WG6", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBSELQ2F> has joined the channel", 
+    "ts": "1547937883.008000", 
+    "subtype": "channel_join", 
+    "user": "UCBSELQ2F", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1547937883.007800", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCDAJD4F8> has joined the channel", 
+    "ts": "1547937883.007600", 
+    "subtype": "channel_join", 
+    "user": "UCDAJD4F8", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6ZCE0AKG> has joined the channel", 
+    "ts": "1547937883.007400", 
+    "subtype": "channel_join", 
+    "user": "U6ZCE0AKG", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC37PD6D> has joined the channel", 
+    "ts": "1547937883.007200", 
+    "subtype": "channel_join", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCFCFQ7KK> has joined the channel", 
+    "ts": "1547937882.007000", 
+    "subtype": "channel_join", 
+    "user": "UCFCFQ7KK", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB91TXS4> has joined the channel", 
+    "ts": "1547937882.006800", 
+    "subtype": "channel_join", 
+    "user": "UCB91TXS4", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1547937882.006600", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBP4M9C4> has joined the channel", 
+    "ts": "1547937882.006400", 
+    "subtype": "channel_join", 
+    "user": "UCBP4M9C4", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1547937882.006200", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1547937882.006000", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1547937882.005700", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1547937882.005500", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBC6K65P> has joined the channel", 
+    "ts": "1547937882.005300", 
+    "subtype": "channel_join", 
+    "user": "UCBC6K65P", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBS3LMDZ> has joined the channel", 
+    "ts": "1547937882.005100", 
+    "subtype": "channel_join", 
+    "user": "UCBS3LMDZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC0HC7D0> has joined the channel", 
+    "ts": "1547937882.004900", 
+    "subtype": "channel_join", 
+    "user": "UCC0HC7D0", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6XJLPQ9Y> has joined the channel", 
+    "ts": "1547937881.004700", 
+    "subtype": "channel_join", 
+    "user": "U6XJLPQ9Y", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1547937881.004500", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCRGTD0X> has joined the channel", 
+    "ts": "1547937881.004300", 
+    "subtype": "channel_join", 
+    "user": "UCCRGTD0X", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC4SJBL5> has joined the channel", 
+    "ts": "1547937881.004100", 
+    "subtype": "channel_join", 
+    "user": "UCC4SJBL5", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBDPE94Z> has joined the channel", 
+    "ts": "1547937881.003900", 
+    "subtype": "channel_join", 
+    "user": "UCBDPE94Z", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBS25JKD> has joined the channel", 
+    "ts": "1547937881.003700", 
+    "subtype": "channel_join", 
+    "user": "UCBS25JKD", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6YCV95L7> has joined the channel", 
+    "ts": "1547937881.003500", 
+    "subtype": "channel_join", 
+    "user": "U6YCV95L7", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCD1JVCJ3> has joined the channel", 
+    "ts": "1547937881.003300", 
+    "subtype": "channel_join", 
+    "user": "UCD1JVCJ3", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCD53TKCN> has joined the channel", 
+    "ts": "1547937881.003100", 
+    "subtype": "channel_join", 
+    "user": "UCD53TKCN", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC0KLBPU> has joined the channel", 
+    "ts": "1547937880.002900", 
+    "subtype": "channel_join", 
+    "user": "UCC0KLBPU", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1547937880.002700", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB58P2V6> has joined the channel", 
+    "ts": "1547937880.002500", 
+    "subtype": "channel_join", 
+    "user": "UCB58P2V6", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBP5EN5S> has joined the channel", 
+    "ts": "1547937880.002300", 
+    "subtype": "channel_join", 
+    "user": "UCBP5EN5S", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBKC02JY> has joined the channel", 
+    "ts": "1547937880.002100", 
+    "subtype": "channel_join", 
+    "user": "UCBKC02JY", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCCL1R3EZ> has joined the channel", 
+    "ts": "1547937880.001900", 
+    "subtype": "channel_join", 
+    "user": "UCCL1R3EZ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U703HM5PY> has joined the channel", 
+    "ts": "1547937880.001700", 
+    "subtype": "channel_join", 
+    "user": "U703HM5PY", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCBHEGLKB> has joined the channel", 
+    "ts": "1547937880.001500", 
+    "subtype": "channel_join", 
+    "user": "UCBHEGLKB", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1547937879.001300", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1547937879.001100", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCB8WCDTJ> has joined the channel", 
+    "ts": "1547937879.000900", 
+    "subtype": "channel_join", 
+    "user": "UCB8WCDTJ", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U8NMLKGDU> has joined the channel", 
+    "ts": "1547937879.000700", 
+    "subtype": "channel_join", 
+    "user": "U8NMLKGDU", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1547937879.000500", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCDAETD5L"
+  }, 
+  {
+    "text": "<@UCDAETD5L> set the channel purpose: Amalgamation of students through fun experiences.", 
+    "ts": "1547937878.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "purpose": "Amalgamation of students through fun experiences."
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1547937878.000200", 
+    "text": "<@UCDAETD5L> has joined the channel"
+  }
+]

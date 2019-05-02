@@ -1,0 +1,5218 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1556385956.000200", 
+    "text": "<@UCB8U00KA> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1556006832.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1553308213.000400", 
+    "text": "<@UCB8T79UG> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1553307675.000200", 
+    "text": "<@U6XCP1NLU> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1552400039.000200", 
+    "text": "<@U6YP200VB> has left the channel"
+  }, 
+  {
+    "client_msg_id": "8161d5a8-bd45-4458-bbcd-da49ab19bbd0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": ":thumbsup_all: :thumbsup_all:  CONGRATS", 
+    "ts": "1549481973.001900", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ff2b741b-f5f3-4b9e-a812-c572f8088f37", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancing-dan", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCBQJD3NW"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCD1J9LDV", 
+          "UCBQJD3NW", 
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "clap::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "tada", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "shamrock", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Hi Friends. I have an onsite for Tulsa Feb 15th. If you are serious about Tulsa, reach out and stay in touch with the company you are excited about. :smile:", 
+    "ts": "1549481618.001600", 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "39cd1284-d759-4c3b-9f09-1dee8c4f5b26", 
+    "text": "I forgot I was in this channel", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1549481552.000800"
+  }, 
+  {
+    "client_msg_id": "90B295ED-F02D-41AE-9B1F-18B3200764BA", 
+    "text": "Hey there friend", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1549481275.000400"
+  }, 
+  {
+    "client_msg_id": "79c3e526-64e9-4ead-95f8-2655ee30806d", 
+    "text": "hi friends", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1549481268.000200"
+  }, 
+  {
+    "client_msg_id": "20abe4eb-7828-41aa-8dea-80fe90d463f6", 
+    "text": "<!here> Did anyone get David Steven's email address from Consumer affairs?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1548179811.000600"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1548030366.000200", 
+    "text": "<@UCB3PRBME> has left the channel"
+  }, 
+  {
+    "client_msg_id": "2d10d992-7891-4a21-bef1-d68433506dd0", 
+    "text": "Does anyone know the name or contact info of the interviewer at Tenstreet? He was in the room opposite of the place were we ate.", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1545180051.001400"
+  }, 
+  {
+    "client_msg_id": "22224c49-1392-4169-87fe-f881a028a17f", 
+    "text": "I'm listening to it right now and would describe it as country pop", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1544297583.001300"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "zip", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEP77KJ93", 
+        "size": 84996293, 
+        "title": "Resonate.zip", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEP77KJ93/resonate.zip", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1544297499, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEP77KJ93/download/resonate.zip", 
+        "user": "UCC0GD5V0", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Zip", 
+        "name": "Resonate.zip", 
+        "mimetype": "application/zip", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEP77KJ93-2edd3ce801", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEP77KJ93/resonate.zip", 
+        "is_external": false, 
+        "created": 1544297499, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "notes", 
+        "users": [
+          "UCB8U00KA", 
+          "UCB3PRBME", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Here are the songs from the album we were handed at the bar after the final dinner. The artist is Eric Himan and this is his previous album: Resonate.", 
+    "upload": true, 
+    "ts": "1544297505.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "af01631d-99a0-4004-8862-ef66e64d22ee", 
+    "thread_ts": "1544131600.016400", 
+    "text": "Thank you for the Photo credit haha", 
+    "ts": "1544229157.005700", 
+    "user": "UCD1J9LDV", 
+    "parent_user_id": "UCDPM021J", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2d612bc1-35ae-4a2d-9d43-983ed925e828", 
+    "text": "<!channel> Please fill out these 2 surveys for the Tulsa Team and for Make School by end of day Friday: Mike and Richard: <https://goo.gl/forms/wFEnIH4YbPyU8Vym1;> Make School: <https://goo.gl/forms/Pr5aFparMDXmxOR73>", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1544215354.004700"
+  }, 
+  {
+    "client_msg_id": "56892965-dffa-480d-b9f4-f4becc44df50", 
+    "text": "I won\u2019t be able to make it, could someone send me notes/and overview afterwards?", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1544215266.003900"
+  }, 
+  {
+    "client_msg_id": "d40266fb-1f12-4f4e-8ce2-3a433f4c065e", 
+    "text": "<!channel> We will meet in Golden Gate at 12:30pm! see ya'll soon! :make-school:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1544213849.002300"
+  }, 
+  {
+    "client_msg_id": "65c4f787-39c4-4f96-bc05-5babd67a571f", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1", 
+        "users": [
+          "UCDPM021J", 
+          "UCB8U00KA", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "<!channel> Please bring your laptops to the Tulsa Follow Up meeting today a 12:30pm! We are excited to catch up with all of you :slightly_smiling_face::tada:\n\nHappy Friday!", 
+    "ts": "1544208616.001400", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "430b5b95-8ff7-4f18-b3d0-83dacc76d5dc", 
+    "thread_ts": "1544131600.016400", 
+    "latest_reply": "1544229157.005700", 
+    "attachments": [
+      {
+        "image_bytes": 573779, 
+        "original_url": "https://medium.com/@noahwoodward2244/tulsa-oklahoma-is-on-to-something-great-f5c1011ea93e", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "7 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "Tulsa Oklahoma is on To Something Great \u2013 Noah Woodward \u2013 Medium", 
+        "ts": 1544082568, 
+        "title_link": "https://medium.com/@noahwoodward2244/tulsa-oklahoma-is-on-to-something-great-f5c1011ea93e", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/0*l71GZV6e464PlTw8.png", 
+        "image_width": 210, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@noahwoodward2244/tulsa-oklahoma-is-on-to-something-great-f5c1011ea93e", 
+        "fallback": "Medium: Tulsa Oklahoma is on To Something Great \u2013 Noah Woodward \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Being the somewhat city boy that I am these days, I have always looked to some of the major cities to assist me on my journey to\u2026", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "100", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCB8T79UG", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "star", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCB8T79UG", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "clap", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCMTPELBC", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "make-school", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCD1J9LDV"
+    ], 
+    "replies": [
+      {
+        "user": "UCD1J9LDV", 
+        "ts": "1544229157.005700"
+      }
+    ], 
+    "ts": "1544131600.016400", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCDPM021J", 
+    "text": "I finally finished my blog post for our Tulsa trip, and hope that it provides some valuable insights to others about the various opportunities in Tulsa and a little about the environment and culture. If you thought it was a good read, I would really appreciate the claps. Thanks! <https://medium.com/@noahwoodward2244/tulsa-oklahoma-is-on-to-something-great-f5c1011ea93e>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e5cee035-ace8-46f5-ad72-a3f2409adee3", 
+    "text": "I don\u2019t have her email, but here is her LinkedIn: <https://www.linkedin.com/in/celesta-smith-54751764/>", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1544120950.014600"
+  }, 
+  {
+    "client_msg_id": "2e2132b1-e493-485e-93a2-3ffe7a6390fd", 
+    "text": "Anybody have Celesta\u2019s email from tenstreet, I somehow lost her card", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1544119701.014300"
+  }, 
+  {
+    "client_msg_id": "d1f44b2a-c7b2-47df-9fd7-e0269fa3a879", 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "jeff", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCDPM021J", 
+          "UCB3PRBME", 
+          "U6YP200VB", 
+          "UCDAF4FV4", 
+          "UCBDA2GGH", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "text": "Tulsa :one::eight: - good to see you today and we'll wrap things up on Friday! :face_with_cowboy_hat::flag-us:", 
+    "ts": "1544041917.012400", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1ff21548-33ee-4b1b-8e8a-dd400fdf2eac", 
+    "thread_ts": "1543866487.010800", 
+    "text": "<mailto:rmitchell@tulsacf.org|rmitchell@tulsacf.org>", 
+    "ts": "1544041773.010700", 
+    "user": "UCMTPELBC", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "BFB085E9-FC5B-4DB0-A89C-12AEE3880C5A", 
+    "text": "Thanks...still in class ", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1544040788.008000"
+  }, 
+  {
+    "client_msg_id": "6ee71ab2-c1b9-4151-b641-2b8de25421aa", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1544040704.000000"
+    }, 
+    "text": "<@UCC4SUSHK> In front of the bathroom on the 1st level.", 
+    "ts": "1544040675.007300", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "FED3CEBF-A450-438C-AF6D-E0C0981D0B45", 
+    "text": "Where is the stone henge?", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1544040642.006800"
+  }, 
+  {
+    "client_msg_id": "9bd88543-81f3-4c1a-bc08-0adb95fe670c", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "jeff", 
+        "users": [
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "UCC4SUSHK", 
+          "UCB3PRBME", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "On my way!", 
+    "ts": "1544040361.005700", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "449cbc82-ff3d-490b-84bd-be912313eb16", 
+    "text": "Meeting in Stone Henge.", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1544040305.005300"
+  }, 
+  {
+    "client_msg_id": "4d285483-d5c3-4ca4-9373-321963ebb5db", 
+    "text": ":thumbsup_all:", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1544039733.005000"
+  }, 
+  {
+    "client_msg_id": "58e8a312-cd88-4d3a-8801-ace9a3b7a7a4", 
+    "text": "Thanks for clarifying. I can make both meetings :slightly_smiling_face:", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1544039597.004800"
+  }, 
+  {
+    "client_msg_id": "0cea662e-e9c7-408e-abd4-6cbe29c13445", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "jeff", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "Dec 5th - 12:00-12:25 is the Career Prep Q&amp;A Session w/ Jeff (mostly to answer your questions about email follow up, etc)\n\nDec 7th - 12:30-1:00 is the Tulsa Follow up with Megan, Caroline and Jeff speaking more broadly about the trip and your experience\n\nSorry for the confusion!", 
+    "ts": "1544039562.004500", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c70ecc46-e66e-4f72-9b7e-388dab1547e8", 
+    "text": "We're still on for 12 noon today! Here's the run down...", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1544039552.004200"
+  }, 
+  {
+    "client_msg_id": "2605e790-836f-47fb-9269-f910a9f9474d", 
+    "text": "oh looks like it was moved to friday?", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1544039509.003700"
+  }, 
+  {
+    "client_msg_id": "0bcdae06-2b8b-4ba2-9bb0-074aec826a51", 
+    "edited": {
+      "user": "U6YP200VB", 
+      "ts": "1544039459.000000"
+    }, 
+    "text": "I can\u2019t make the new time if it is moved. :disappointed:", 
+    "ts": "1544039443.003300", 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d5055436-2851-47fb-bcf0-d487b6f778f7", 
+    "text": "meeting moved from 12:30 - 1 correct?", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1544039296.002000"
+  }, 
+  {
+    "client_msg_id": "b8959a25-9e09-4a02-a407-051512f10f0c", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "clap", 
+        "users": [
+          "UCC0GL52N", 
+          "U9PA0BZQW"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 200478, 
+        "original_url": "https://medium.com/@nyapal/my-weekend-in-tulsa-with-the-george-kaiser-foundation-4a3fc953bb85", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "4 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "My Weekend in Tulsa with the George Kaiser Foundation", 
+        "ts": 1544038148, 
+        "title_link": "https://medium.com/@nyapal/my-weekend-in-tulsa-with-the-george-kaiser-foundation-4a3fc953bb85", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*7Xsv0yoOj-Ay_2nnVLgq_g.jpeg", 
+        "image_width": 333, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@nyapal/my-weekend-in-tulsa-with-the-george-kaiser-foundation-4a3fc953bb85", 
+        "fallback": "Medium: My Weekend in Tulsa with the George Kaiser Foundation", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "In August of 2018 I moved to San Francisco, CA to attend Make School. A two year project-based, product-focused computer science\u2026", 
+        "id": 1
+      }
+    ], 
+    "text": "I posted a medium article about my weekend in Tulsa: <https://medium.com/@nyapal/my-weekend-in-tulsa-with-the-george-kaiser-foundation-4a3fc953bb85>", 
+    "ts": "1544038466.001300", 
+    "user": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1f677388-a0d7-43c4-a835-7457f7c1ded8", 
+    "text": "I actually haven\u2019t dug into the slack stuff so i don\u2019t know how\u2026", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543981523.013200"
+  }, 
+  {
+    "client_msg_id": "3b143770-ec72-49b8-9a61-fd5a219c4f2a", 
+    "text": "<@UCCTF62ET> do you wanna try?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1543981494.012600"
+  }, 
+  {
+    "client_msg_id": "81da3f2b-0c9d-4512-a7f0-051e54d38a5b", 
+    "text": "I have the image edited, but it won't let me add the emoji", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1543981481.012200"
+  }, 
+  {
+    "client_msg_id": "7edeaba5-3932-4afb-a8b0-1a4a62978ede", 
+    "text": "Calendar invitation sent", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1543980592.011800"
+  }, 
+  {
+    "client_msg_id": "3513bd0c-4242-42ae-b0bd-4911b11ba022", 
+    "text": "lol!!!!!! Love it", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543980497.011200"
+  }, 
+  {
+    "client_msg_id": "b658d0f0-4856-4f13-82b0-68f9752cbe02", 
+    "text": "I'm gonna make him one right now", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1543980489.011000"
+  }, 
+  {
+    "client_msg_id": "46abe847-0dad-45ae-a741-fd10189b110e", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "100", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCB8U00KA", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "Jeff needs an emoji", 
+    "ts": "1543980479.010700", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "f01c9c1b-f8ec-4d20-ad31-9405075bafa5", 
+    "text": "^^^THANKSYOU", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543980465.010000"
+  }, 
+  {
+    "client_msg_id": "6463E440-2AF2-4653-B966-2B0F87643940", 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "white_check_mark", 
+        "users": [
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCC0GD5V0", 
+          "UCJ72FALU"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "thankyou", 
+        "users": [
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "jeff", 
+        "users": [
+          "UCCTF62ET", 
+          "UCDPM021J", 
+          "UCB3PRBME", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel> Q&amp;A with me 12-12:25 in Great Hall tomorrow :white_check_mark: no holds barred bring your questions re: anything Tulsa!", 
+    "ts": "1543980445.009700", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c3cef427-bf0f-4df4-80ba-29381da2af4f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pray::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "I asked him to sit down with in slack maybe he will do a sit down with all of us tomorrow? To help us resposnd", 
+    "ts": "1543980048.007500", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "af5f5ba0-1ae5-4e32-a0fd-77e65d5431a8", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1543979900.000000"
+    }, 
+    "text": "<@UCMTPELBC> What do we write back? Any tips?", 
+    "ts": "1543979894.006700", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "534c51a3-749f-4ef9-9f67-f54f46133f9f", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "clap::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "OMG! Faith,\n\nIt was great to have you in town late last week, and we appreciate you spending time with various CymSTAR staff. I hope your travel back to the Bay Area was uneventful!\n\nYour resume, supplemented with discussions throughout your time here, leads us to believe there may be a good fit for employment with CymSTAR. Hearing about your BA and how\u2019ve arrived at Make School was interesting and in our eyes valuable experience. Please let me know at your convenience if you would like to discuss a potential internship with CymSTAR upon completion of your Make School Junior year.\n\nI look forward to hearing back from you. Best Regards,", 
+    "ts": "1543979850.006300", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "b726f6c4-5ee8-4b91-9791-3b7bd99408a7", 
+    "attachments": [
+      {
+        "thumb_height": 814, 
+        "thumb_url": "https://www.pramp.com/img/prampSession.png", 
+        "thumb_width": 1300, 
+        "original_url": "https://www.pramp.com/#/", 
+        "service_name": "Pramp", 
+        "title": "Practice Live Job Interviews - For Free", 
+        "title_link": "https://www.pramp.com/#/", 
+        "text": "We match you the best practice peers and set your interviews together, including real-world interview questions, high-quality video chat, collaborative environment, and peer feedback.", 
+        "from_url": "https://www.pramp.com/#/", 
+        "fallback": "Pramp: Practice Live Job Interviews - For Free", 
+        "service_icon": "https://www.pramp.com/img/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "To practice for those interviews: <https://www.pramp.com/#/>", 
+    "ts": "1543974174.005500", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bcfe4d71-6b1f-439e-9d6c-ea1a3b951a00", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "WOAH:\nPhyllis,\n\nIt was great to have you in town late last week, and we appreciate you spending time with various CymSTAR staff. I hope your travel back to the Bay Area was uneventful!\n\nYour resume, supplemented with discussions throughout your time here, leads us to believe there is good potential for employment with CymSTAR. I\u2019ve received your application and will begin talking to a couple engineers I believe can facilitate a more in-depth discussion of CymSTAR and your skillset. Are there certain periods of time during weekdays where availability for 45 minutes to an hour is better than others?\n\n\nI look forward to hearing back from you. Best Regards,", 
+    "ts": "1543974016.005100", 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "30516eea-e7b6-41c2-8193-6298a5c16803", 
+    "text": "Check your make school email!", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543973827.004700"
+  }, 
+  {
+    "client_msg_id": "638ca672-c111-4646-bd1e-06f259cb1b5e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "Ryan,\n\nIt was great to have you in town late last week, and we appreciate you spending time with various CymSTAR staff. I hope your travel back to the Bay Area was uneventful!\n\n\n\nYour resume, supplemented with discussions throughout your time here, leads us to believe there may be a good fit for employment with CymSTAR. Your experience in the military and path to learning software provide valuable experience in our opinion. Please let me know at your convenience if you would like to discuss the potential of either an internship or full time job with CymSTAR upon completion of your Make School Junior year.\n\n\n\nI look forward to hearing back from you. Best Regards,\n\n\n\nBrandon McCullough\n\nSoftware Engineering Manager\n\nCymSTAR LLC\n\nPhone:  <tel:(918)251-8100|(918) 251-8100> Ext. 750\n\nFax:      <tel:(918)251-8200|(918) 251-8200>\nEmail:    <mailto:brandon.mccullough@cymstar.com|brandon.mccullough@cymstar.com>", 
+    "ts": "1543973814.004400", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "576ce94e-56e2-4d0d-9c81-e08f181d57df", 
+    "text": "Holy shit", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543973813.004200"
+  }, 
+  {
+    "client_msg_id": "545f1148-fe60-4ec9-8b15-4c431c24ca03", 
+    "text": "^ Dope", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543973683.003600"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "text", 
+        "lines_more": 5, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEJSBE2AU", 
+        "size": 740, 
+        "title": "Untitled", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJSBE2AU/Untitled.txt", 
+        "preview": "Seve,\r\nIt was great to have you in town late last week, and we appreciate you spending time with various CymSTAR staff. I hope your travel back to the Bay Area was uneventful!\r\n \r\nYour resume, supplemented with discussions throughout your time here, leads us to believe there may be a good fit for employment with CymSTAR. We believe your experience in C++ and tutoring would be a good fit with CymSTAR\u2019s engineering department. Please let me know at your convenience if you would like to discuss the potential of either an internship or full time job with CymSTAR upon completion of your Make School Junior year.\r\n \r", 
+        "external_type": "", 
+        "edit_link": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEJSBE2AU/Untitled.txt/edit", 
+        "username": "", 
+        "timestamp": 1543971706, 
+        "public_url_shared": false, 
+        "editable": true, 
+        "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Seve,</pre></div>\n<div><pre>It was great to have you in town late last week, and we appreciate you spending time with various CymSTAR staff. I hope your travel back to the Bay Area was uneventful!</pre></div>\n<div><pre> </pre></div>\n<div><pre>Your resume, supplemented with discussions throughout your time here, leads us to believe there may be a good fit for employment with CymSTAR. We believe your experience in C++ and tutoring would be a good fit with CymSTAR\u2019s engineering department. Please let me know at your convenience if you would like to discuss the potential of either an internship or full time job with CymSTAR upon completion of your Make School Junior year.</pre></div>\n<div><pre> </pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJSBE2AU/download/Untitled.txt", 
+        "user": "UCDAF4FV4", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "Plain Text", 
+        "is_external": false, 
+        "mimetype": "text/plain", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJSBE2AU-7659c42ffb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEJSBE2AU/Untitled.txt", 
+        "name": "Untitled.txt", 
+        "created": 1543971706, 
+        "lines": 10, 
+        "mode": "snippet", 
+        "preview_is_truncated": false
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 10, 
+        "name": "raised_hands::skin-tone-6", 
+        "users": [
+          "UCB3PRBME", 
+          "UCJ72FALU", 
+          "U9PA0BZQW", 
+          "UCB8T79UG", 
+          "UCDPM021J", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCMTPELBC", 
+          "UCBLQF0R1", 
+          "UCD1J9LDV"
+        ]
+      }, 
+      {
+        "count": 10, 
+        "name": "tada", 
+        "users": [
+          "U6XCP1NLU", 
+          "U9PA0BZQW", 
+          "UCB8T79UG", 
+          "UCDPM021J", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCMTPELBC", 
+          "UCBLQF0R1", 
+          "UCBQJD3NW", 
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "text": "AYO", 
+    "upload": true, 
+    "ts": "1543971707.001600", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b94f60c-4cb4-4882-ada0-d9d07f6fc920", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Mark @ Tenstreet: <https://www.linkedin.com/in/riddlemark/>", 
+    "ts": "1543949878.000300", 
+    "user": "UCDAKSB7Y", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "67e8c9cd-7c84-4002-957b-383fe4a3732e", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Ben @ Asemio: <https://www.linkedin.com/in/benthreadgill/>", 
+    "ts": "1543870105.015700", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2e4f690b-5723-4f00-a3b5-a3a7ef64397f", 
+    "edited": {
+      "user": "UCBC6K65P", 
+      "ts": "1543869980.000000"
+    }, 
+    "thread_ts": "1543866487.010800", 
+    "text": "Ryan from Asemio <https://www.linkedin.com/in/ryanhaight/>", 
+    "ts": "1543869958.015000", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1ef25c5d-fdc7-49a3-9501-a05af915dff3", 
+    "thread_ts": "1543866487.010800", 
+    "text": "David from ConsumerAffairs <https://www.linkedin.com/in/david-stevens-74224869/>", 
+    "ts": "1543869927.014800", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "40ccc6a4-f78d-4554-a03d-17f537db8ca2", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Founder of SeqTech\n<https://www.linkedin.com/in/hankhaines/>", 
+    "ts": "1543868107.014300", 
+    "user": "UCBLQF0R1", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "46512e8d-62e8-4c6f-993f-acab035ae116", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Curtis @ Cym*: <https://www.linkedin.com/in/curtis-l-choice-jr-b066a12a/>", 
+    "ts": "1543867995.014000", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0cd531aa-ec68-4c3f-8c9f-4da90443d578", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Micheal from cym*\n<https://www.linkedin.com/in/michael-hitz-pe-00805048/>", 
+    "ts": "1543867810.013800", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cc6228b9-aa0b-4f13-a993-2dec9ea40f11", 
+    "thread_ts": "1543866487.010800", 
+    "text": "<https://www.linkedin.com/in/scott-karr-72992688/> Scott karr from QuickTrip", 
+    "ts": "1543867609.013200", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c402c7f2-1b42-42e6-9d39-daa48657e8c7", 
+    "thread_ts": "1543866487.010800", 
+    "text": "John Thompson @ QuikTrip: <https://www.linkedin.com/in/jgt/>", 
+    "ts": "1543867489.013000", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "946a8490-594f-46fb-b275-66a5cec1d118", 
+    "edited": {
+      "user": "UCDAF4FV4", 
+      "ts": "1543867422.000000"
+    }, 
+    "thread_ts": "1543866487.010800", 
+    "text": "Se Yeon Kim @ ConsumerAffairs: <https://www.linkedin.com/in/se-yeon-kim-582311b0/>", 
+    "ts": "1543867416.012700", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9bd4d6cd-a3aa-4325-b89a-1baf26d5fc5e", 
+    "thread_ts": "1543864071.008300", 
+    "text": "Thanks a bunch jeff!", 
+    "ts": "1543867383.012500", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "cf1c1915-ba85-444b-8a4e-f9611995f13b", 
+    "thread_ts": "1543864071.008300", 
+    "text": "<@UCCTF62ET> Email is your primary b/c the message is more likely to be seen. LinkedIn is the go-to if you  don't have their email.", 
+    "ts": "1543867352.012300", 
+    "user": "UCMTPELBC", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b57bac4-537e-4ced-b7d9-1ff3bb7467ee", 
+    "thread_ts": "1543864071.008300", 
+    "text": "Hi Jeff! Would you recommend us sending a linkedin direct message to the people we connected with and are interested in working with ? or should we do it in a different type of way like say email?", 
+    "ts": "1543867219.012100", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "dcc4ca3a-191f-4d9b-978c-4e8747acc40d", 
+    "thread_ts": "1543866487.010800", 
+    "text": "Celesta from Tenstreet: <https://www.linkedin.com/in/celesta-smith-54751764/>", 
+    "ts": "1543867156.011900", 
+    "user": "UCDAF4FV4", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3dfaa215-a429-42ab-bf66-ad36f2c3c0b0", 
+    "thread_ts": "1543866487.010800", 
+    "text": "<https://www.linkedin.com/in/ronaldtimoshenko/>  Ron from community affairs", 
+    "ts": "1543867080.011700", 
+    "user": "UCCTF62ET", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "de9c8b3b-85db-4a55-98cc-da5a50a1701d", 
+    "edited": {
+      "user": "UCBQJD3NW", 
+      "ts": "1543868028.000000"
+    }, 
+    "thread_ts": "1543866487.010800", 
+    "text": "Kevin from SteeleHouse <https://www.linkedin.com/in/kevin-anderson-2391ab4/>", 
+    "ts": "1543866634.011300", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2c8c32a9-2c0c-4c2f-aef6-f95c01beb1db", 
+    "thread_ts": "1543866487.010800", 
+    "latest_reply": "1544041773.010700", 
+    "subscribed": true, 
+    "reply_users": [
+      "UCBQJD3NW", 
+      "UCCTF62ET", 
+      "UCDAF4FV4", 
+      "UCBLQF0R1", 
+      "UCBC6K65P", 
+      "UCDAKSB7Y", 
+      "UCMTPELBC"
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "+1", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCC0GL52N", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCC4SUSHK", 
+          "UCB8U00KA", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "<!channel> Let\u2019s start sharing contact info &amp; LinkedIn accounts! Just put them in the thread bellow:", 
+    "last_read": "1544044274.000000", 
+    "ts": "1543866487.010800", 
+    "type": "message", 
+    "reply_count": 14, 
+    "user": "UCDAF4FV4", 
+    "replies": [
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1543866634.011300"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1543867080.011700"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1543867156.011900"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1543867416.012700"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1543867489.013000"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1543867609.013200"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1543867810.013800"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1543867995.014000"
+      }, 
+      {
+        "user": "UCBLQF0R1", 
+        "ts": "1543868107.014300"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1543869927.014800"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1543869958.015000"
+      }, 
+      {
+        "user": "UCDAF4FV4", 
+        "ts": "1543870105.015700"
+      }, 
+      {
+        "user": "UCDAKSB7Y", 
+        "ts": "1543949878.000300"
+      }, 
+      {
+        "user": "UCMTPELBC", 
+        "ts": "1544041773.010700"
+      }
+    ], 
+    "reply_users_count": 7
+  }, 
+  {
+    "client_msg_id": "529fdf6e-4bfe-41b1-beb8-67cd231b918e", 
+    "thread_ts": "1543864071.008300", 
+    "latest_reply": "1543867383.012500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCCTF62ET", 
+      "UCMTPELBC"
+    ], 
+    "reactions": [
+      {
+        "count": 14, 
+        "name": "100", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCDPM021J", 
+          "UCBLQF0R1", 
+          "UCC0GL52N", 
+          "UCDAF4FV4", 
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCCTF62ET", 
+          "U6YP200VB", 
+          "UCD1J9LDV", 
+          "UCC4SUSHK", 
+          "UCJ72FALU", 
+          "UCDAKSB7Y", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 14, 
+        "name": "heart", 
+        "users": [
+          "UCDPM021J", 
+          "UCBLQF0R1", 
+          "UCC0GL52N", 
+          "UCDAF4FV4", 
+          "UCB8U00KA", 
+          "U9PA0BZQW", 
+          "UCCTF62ET", 
+          "UCBQJD3NW", 
+          "U6YP200VB", 
+          "UCD1J9LDV", 
+          "UCC4SUSHK", 
+          "UCJ72FALU", 
+          "UCDAKSB7Y", 
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<!channel> Great trip and incredibly proud of how you all showed up in Tulsa. Big time! You'll want to capitalize on the positive momentum of the weekend in following up with all your new connections - time sensitive for sure. Thank them for making time to meet you and that you're looking forward to staying in touch (aka you can send them updates once or twice a year when you've completed new projects, get an internship, etc). As you can tell from meeting them, things are pretty fluid - \"if we meet the right person, we'll create an internship spot for them\"....I heard that a couple times from employers. You should take advantage of that opportunity! Here are the photos I took and you can add yours as well here: <https://drive.google.com/drive/folders/1aH6MIWM7seqWvccFAgRZmjuv8-aDWVEc?usp=sharing> Big thanks to <@UCJ72FALU> and <@U9PA0BZQW> for being great teammates this weekend. Signing off! :fist::skin-tone-4:", 
+    "ts": "1543864071.008300", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCMTPELBC", 
+    "replies": [
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1543867219.012100"
+      }, 
+      {
+        "user": "UCMTPELBC", 
+        "ts": "1543867352.012300"
+      }, 
+      {
+        "user": "UCCTF62ET", 
+        "ts": "1543867383.012500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "5964F26D-3B26-4D59-A4AA-B44527778747", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1543785988.000000"
+    }, 
+    "text": "<!channel> Gate B44", 
+    "ts": "1543785947.000300", 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "16b3d934-74b2-4f97-8342-685409fa9ea9", 
+    "text": "<@U9PA0BZQW> <@UCMTPELBC> <@UCJ72FALU> I didn't see any of you in the boarding area have you gotten on the plane yet?", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1543778250.007300"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH8FA7LK", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_1927.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH8FA7LK/img_1927.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4488716, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_800.jpg", 
+        "timestamp": 1543777555, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH8FA7LK/download/img_1927.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_1024.jpg", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH8FA7LK-8c13366616", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEH8FA7LK/img_1927.jpg", 
+        "name": "IMG_1927.JPG", 
+        "created": 1543777555, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH8FA7LK-a4e2874560/img_1927_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543777566.005700", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH6HDBQC", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_1907.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6HDBQC/img_1907.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4276593, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_800.jpg", 
+        "timestamp": 1543777536, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6HDBQC/download/img_1907.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_1024.jpg", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH6HDBQC-0a14db2ca3", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEH6HDBQC/img_1907.jpg", 
+        "name": "IMG_1907.JPG", 
+        "created": 1543777536, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6HDBQC-ebd5361b1c/img_1907_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543777546.005200", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEHHB89CM", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_1897.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEHHB89CM/img_1897.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3699788, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_800.jpg", 
+        "timestamp": 1543777517, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEHHB89CM/download/img_1897.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_1024.jpg", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEHHB89CM-171801e2f0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEHHB89CM/img_1897.jpg", 
+        "name": "IMG_1897.JPG", 
+        "created": 1543777517, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB89CM-b9d7789ba1/img_1897_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543777524.004900", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEGK60G3S", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_1896.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGK60G3S/img_1896.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4690598, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_800.jpg", 
+        "timestamp": 1543777502, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGK60G3S/download/img_1896.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_1024.jpg", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGK60G3S-759b7d750f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEGK60G3S/img_1896.jpg", 
+        "name": "IMG_1896.JPG", 
+        "created": 1543777502, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGK60G3S-70f03f3f1b/img_1896_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543777512.004600", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEHHB4WQ5", 
+        "thumb_480_h": 360, 
+        "original_h": 3456, 
+        "thumb_360_w": 360, 
+        "title": "IMG_1911.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEHHB4WQ5/img_1911.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 3744997, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_800.jpg", 
+        "timestamp": 1543777487, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEHHB4WQ5/download/img_1911.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_1024.jpg", 
+        "user": "UCDAF4FV4", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEHHB4WQ5-46cef90d1f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCDAF4FV4/FEHHB4WQ5/img_1911.jpg", 
+        "name": "IMG_1911.JPG", 
+        "created": 1543777487, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4608, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHHB4WQ5-f4532eb50b/img_1911_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543777496.004300", 
+    "display_as_bot": false, 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "47279531-f5e5-4549-a7b4-0ec666244a7c", 
+    "text": ":heart: the pics! such a successful trip!!! :tada::make-school::white_check_mark:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1543777354.004200"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJP2KGR4", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "IMG_20181130_192419~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP2KGR4/img_20181130_192419_2.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 2902795, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_800.jpg", 
+        "timestamp": 1543775790, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP2KGR4/download/img_20181130_192419_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJP2KGR4-b75dc09795", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEJP2KGR4/img_20181130_192419_2.jpg", 
+        "name": "IMG_20181130_192419~2.jpg", 
+        "created": 1543775790, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2KGR4-903fb326f7/img_20181130_192419_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "513dfe7f-f9c0-4b57-9288-c9271ea2bd00", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775796.003400", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEGNWUR17", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_131630~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGNWUR17/img_20181201_131630_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2538183, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_800.jpg", 
+        "timestamp": 1543775778, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGNWUR17/download/img_20181201_131630_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGNWUR17-558653b04f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEGNWUR17/img_20181201_131630_2.jpg", 
+        "name": "IMG_20181201_131630~2.jpg", 
+        "created": 1543775778, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGNWUR17-8bcdc40522/img_20181201_131630_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "8b221c6b-c5bd-4f1f-a4ae-ef7e0f473abf", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775786.003100", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJP2GXSS", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_113719~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP2GXSS/img_20181201_113719_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2163460, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_800.jpg", 
+        "timestamp": 1543775767, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP2GXSS/download/img_20181201_113719_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJP2GXSS-d148e4ad20", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEJP2GXSS/img_20181201_113719_2.jpg", 
+        "name": "IMG_20181201_113719~2.jpg", 
+        "created": 1543775767, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP2GXSS-117644b2a2/img_20181201_113719_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "73f2bd4f-fd32-44c9-af52-3e8559610e04", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775773.002800", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH6AF9HS", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181129_210105~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6AF9HS/img_20181129_210105_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2741451, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_800.jpg", 
+        "timestamp": 1543775756, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6AF9HS/download/img_20181129_210105_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH6AF9HS-996edafe1b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEH6AF9HS/img_20181129_210105_2.jpg", 
+        "name": "IMG_20181129_210105~2.jpg", 
+        "created": 1543775756, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6AF9HS-dba12ceb5f/img_20181129_210105_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "f810b29f-aa62-435a-aae1-ae0ff6b8e60f", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775762.002500", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJP0ETKQ", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_153739~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP0ETKQ/img_20181201_153739_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4467477, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_800.jpg", 
+        "timestamp": 1543775213, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJP0ETKQ/download/img_20181201_153739_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJP0ETKQ-05a597f89a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEJP0ETKQ/img_20181201_153739_2.jpg", 
+        "name": "IMG_20181201_153739~2.jpg", 
+        "created": 1543775213, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJP0ETKQ-feba6646b1/img_20181201_153739_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "0e81e48a-f749-4940-a9f1-83983f14baea", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775221.002200", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJCPRWPR", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_153907~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPRWPR/img_20181201_153907_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2803531, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_800.jpg", 
+        "timestamp": 1543775201, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPRWPR/download/img_20181201_153907_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJCPRWPR-1896e9dbdc", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEJCPRWPR/img_20181201_153907_2.jpg", 
+        "name": "IMG_20181201_153907~2.jpg", 
+        "created": 1543775201, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPRWPR-aeb26c403c/img_20181201_153907_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "230c7307-fb2d-4032-ab2c-391a51938417", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775208.001900", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 800, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJCPREHM", 
+        "thumb_480_h": 480, 
+        "original_h": 2304, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_174850_108.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPREHM/img_20181201_174850_108.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 1392659, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_800.jpg", 
+        "timestamp": 1543775197, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPREHM/download/img_20181201_174850_108.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_1024.jpg", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJCPREHM-432aa16d3d", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEJCPREHM/img_20181201_174850_108.jpg", 
+        "name": "IMG_20181201_174850_108.jpg", 
+        "created": 1543775197, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 2304, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPREHM-8467961f10/img_20181201_174850_108_720.jpg"
+      }
+    ], 
+    "client_msg_id": "6c4114b6-3829-4538-a7d6-c8c6a6e0eccd", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775205.001600", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 450, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJCPMDPH", 
+        "thumb_480_h": 270, 
+        "original_h": 2988, 
+        "thumb_360_w": 360, 
+        "title": "20181201_155120.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPMDPH/20181201_155120.jpg", 
+        "thumb_720_h": 405, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_80.jpg", 
+        "thumb_360_h": 203, 
+        "size": 3837688, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_800.jpg", 
+        "timestamp": 1543775159, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCPMDPH/download/20181201_155120.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_1024.jpg", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJCPMDPH-e597438f6c", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEJCPMDPH/20181201_155120.jpg", 
+        "name": "20181201_155120.jpg", 
+        "created": 1543775159, 
+        "thumb_1024_h": 576, 
+        "thumb_960_h": 540, 
+        "original_w": 5312, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCPMDPH-582a7374e3/20181201_155120_720.jpg"
+      }
+    ], 
+    "client_msg_id": "237ecbd4-4776-49dd-b3c3-ed2371558990", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heartpulse", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775168.001300", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 270, 
+        "filetype": "png", 
+        "thumb_800_h": 1422, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEHB6461Y", 
+        "thumb_480_h": 480, 
+        "original_h": 1920, 
+        "thumb_360_w": 203, 
+        "title": "Screenshot_2018-12-02-12-23-23.png", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEHB6461Y/screenshot_2018-12-02-12-23-23.png", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_64.png", 
+        "thumb_720_w": 405, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_80.png", 
+        "thumb_360_h": 360, 
+        "size": 3004906, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_800.png", 
+        "timestamp": 1543775031, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEHB6461Y/download/screenshot_2018-12-02-12-23-23.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_1024.png", 
+        "user": "UCC0GD5V0", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEHB6461Y-edd9041638", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GD5V0/FEHB6461Y/screenshot_2018-12-02-12-23-23.png", 
+        "name": "Screenshot_2018-12-02-12-23-23.png", 
+        "created": 1543775031, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 1080, 
+        "thumb_960_w": 540, 
+        "thumb_1024_w": 576, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEHB6461Y-9e101a9d03/screenshot_2018-12-02-12-23-23_720.png"
+      }
+    ], 
+    "client_msg_id": "2585cad4-6edd-4292-9658-1007b076e27a", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543775037.000900", 
+    "display_as_bot": false, 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEGJW8DQQ", 
+        "thumb_480_h": 480, 
+        "original_h": 4032, 
+        "thumb_360_w": 270, 
+        "title": "IMG_20181201_154330~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGJW8DQQ/img_20181201_154330_2.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 2454161, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_800.jpg", 
+        "timestamp": 1543774968, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGJW8DQQ/download/img_20181201_154330_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGJW8DQQ-bd93dcce72", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEGJW8DQQ/img_20181201_154330_2.jpg", 
+        "name": "IMG_20181201_154330~2.jpg", 
+        "created": 1543774968, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3024, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGJW8DQQ-6759a6d233/img_20181201_154330_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "70b32d42-c97e-476f-83e0-7c87b2f27b39", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543774974.000500", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH67FXGC", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_20181201_132035~2.jpg", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH67FXGC/img_20181201_132035_2.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2083715, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_800.jpg", 
+        "timestamp": 1543774955, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH67FXGC/download/img_20181201_132035_2.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_1024.jpg", 
+        "user": "UCD1J9LDV", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH67FXGC-6aa1004c1f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCD1J9LDV/FEH67FXGC/img_20181201_132035_2.jpg", 
+        "name": "IMG_20181201_132035~2.jpg", 
+        "created": 1543774955, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH67FXGC-795952a556/img_20181201_132035_2_720.jpg"
+      }
+    ], 
+    "client_msg_id": "d6b438c0-1892-464d-ac14-1cf7cdceeede", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543774964.000200", 
+    "display_as_bot": false, 
+    "user": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "86F9BDDE-D3A1-4AB7-B8DC-476572F29C98", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "raised_hands::skin-tone-5", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<!channel> hey y\u2019all breakfast runs until 10 so if you\u2019re just now waking up and want breakfast you can still get it", 
+    "ts": "1543764411.001100", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d7e0881d-c3f0-476e-b659-525037c979f8", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "heart", 
+        "users": [
+          "U9PA0BZQW", 
+          "UCJ72FALU"
+        ]
+      }
+    ], 
+    "text": "Im putting together a medium post for the Tulsa experience and was wondering if people have any really cool pictures that describe the personality of Tulsa and I will give photo creds. Thanks :heart:", 
+    "ts": "1543738756.004900", 
+    "user": "UCDPM021J", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH6KEE3C", 
+        "thumb_480_h": 360, 
+        "original_h": 2448, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6KEE3C/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 5157888, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_800.jpg", 
+        "timestamp": 1543727828, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6KEE3C/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_1024.jpg", 
+        "user": "UCMTPELBC", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH6KEE3C-28cb11fcf8", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCMTPELBC/FEH6KEE3C/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1543727828, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 3264, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6KEE3C-9d1ceeab40/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "heart", 
+        "users": [
+          "UCC0GL52N", 
+          "U9PA0BZQW", 
+          "UCB8U00KA", 
+          "UCDAKSB7Y", 
+          "U6YP200VB", 
+          "UCCTF62ET", 
+          "UCB8T79UG", 
+          "UCBLQF0R1", 
+          "UCD1J9LDV"
+        ]
+      }
+    ], 
+    "ts": "1543727834.002100", 
+    "text": "", 
+    "upload_reply_to": "0D582E7F-F18F-4AC7-B9AC-19742247FC00", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "0BA3F818-B2AC-4787-9684-550984F0B489", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "stuck_out_tongue_closed_eyes", 
+        "users": [
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "text": "<!channel> reminder that the free hotel breakfast is served from 6:00am-9:00am tomorrow morning. We will meet in the lobby at 10:45am to leave for the airport. ", 
+    "ts": "1543723595.001900", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "09CA3FD8-388A-477D-AFE0-CC86196594D9", 
+    "text": "Same <@U6XCP1NLU> ", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1543711515.013400"
+  }, 
+  {
+    "client_msg_id": "C40171E5-5015-4BD8-9322-9D3E795C1783", 
+    "text": "A group of us are returning now from the steel house manor", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1543711505.013200"
+  }, 
+  {
+    "client_msg_id": "9EB5DF33-3971-4339-A896-7C1D1B08DB93", 
+    "text": "Train has us stuck.", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1543711502.013000"
+  }, 
+  {
+    "client_msg_id": "A47C4906-4872-4937-8ACD-B580AC06CABD", 
+    "text": "<!channel> please come meet us in the lobby to sign the cards ", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543711468.012300"
+  }, 
+  {
+    "client_msg_id": "25351A57-7ACA-4966-B321-68D1122933CE", 
+    "text": "Dinner is still at 7 <!channel> ", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543710673.011600"
+  }, 
+  {
+    "client_msg_id": "5699C5F1-1DCE-4E00-A079-AA10D2CEC8B3", 
+    "text": "Sorry about that!", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543710645.011200"
+  }, 
+  {
+    "client_msg_id": "6BFC7738-40FA-4EC9-9A16-658A7CD33EB0", 
+    "text": "Dinner is at 7. Meet to sign card 6:30-6:40", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543710634.010800"
+  }, 
+  {
+    "client_msg_id": "34B5DE55-469C-4F7C-85D1-D256ED9B86CD", 
+    "text": "Whoa! My bad!", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543710612.010200"
+  }, 
+  {
+    "client_msg_id": "5DAAAD05-4996-4CB9-9B27-21F2D7EBD5D0", 
+    "text": "So dinner is at 8 and not 7? @channel", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543710578.009100"
+  }, 
+  {
+    "client_msg_id": "582B9A3E-939C-498A-855F-B7E072CE9D5A", 
+    "text": "<!channel> Hey Crew! Please come sign the card in the lobby between 7:30-7:40. We just learned Mike\u2019s going to meet us in the lobby at 7:45 to walk over to the restaurant with us- goal is to have it done before he arrives. Lightning fast card signing! :zap:", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543710532.008700"
+  }, 
+  {
+    "client_msg_id": "C6C02D25-3566-4A8B-B2DE-C03B4D730DB7", 
+    "text": "<!channel> steelhouse info: Elizabeth Manor Building. Directly west of veterans park. 1820 S Boulder Ave Tulsa OK 74104", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543705767.002400"
+  }, 
+  {
+    "client_msg_id": "D6CC9682-E0A6-4574-BB2A-83166519FE41", 
+    "text": "<mailto:Amurphy@gatheringplace.org|Amurphy@gatheringplace.org>", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543704913.001000"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEJ5WHVQF", 
+        "size": 16011533, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJ5WHVQF/file_from_ios.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543703222, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJ5WHVQF/download/file_from_ios.mov", 
+        "user": "UCC0GL52N", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "name": "File from iOS.MOV", 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJ5WHVQF-368263527f", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FEJ5WHVQF/file_from_ios.mov", 
+        "is_external": false, 
+        "created": 1543703222, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543703224.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEJ5R9VGF", 
+        "size": 20482722, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJ5R9VGF/file_from_ios.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543701683, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJ5R9VGF/download/file_from_ios.mov", 
+        "user": "UCC0GL52N", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "name": "File from iOS.MOV", 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJ5R9VGF-7b11d6aaaa", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FEJ5R9VGF/file_from_ios.mov", 
+        "is_external": false, 
+        "created": 1543701683, 
+        "mode": "hosted"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543701686.000100", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "F2E2829A-83E5-409D-AAF2-2F37D35FF4E6", 
+    "text": "<@UCDAF4FV4> yes! Michael will take us! ", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1543691246.002600"
+  }, 
+  {
+    "client_msg_id": "D6C5C915-DC14-4E4D-A43F-FCE8B2D0E9C3", 
+    "text": "<!channel> please feel free to change out of your business casual clothes! Dress warmly ", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543690663.002200"
+  }, 
+  {
+    "client_msg_id": "dd23aeb4-57fb-4956-a9ba-d8cfca4deb39", 
+    "text": "<@UCMTPELBC> <@U9PA0BZQW> <@UCJ72FALU> any chance we can explore the library during the tour? ", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1543689833.001000"
+  }, 
+  {
+    "client_msg_id": "23daab55-c732-4e27-a213-18063e48ff49", 
+    "text": "LIMELOVESTULSA", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543677241.003600"
+  }, 
+  {
+    "client_msg_id": "eb9252d2-bcba-4549-b627-496b074eccdb", 
+    "text": "We have a promo code for Lime scooters that will give you three free unlocks in Tulsa.", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543677239.003400"
+  }, 
+  {
+    "client_msg_id": "629FCA64-F4EE-4777-A683-C6B85DC84442", 
+    "text": "Interview tip! ALWAYS answer questions with an example. How do you work in teams? \u201cLet me tell you about a time I worked in a team on X project.\u201d Don\u2019t tell them how you think you would work on a team. Tell them about a time you did it. :muscle::skin-tone-4:", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543675683.003000"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEH6G5A3X", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "IMG_7777.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6G5A3X/img_7777.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 2887645, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_800.jpg", 
+        "timestamp": 1543670853, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEH6G5A3X/download/img_7777.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_1024.jpg", 
+        "user": "U6YP200VB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEH6G5A3X-cbf3ee3d14", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YP200VB/FEH6G5A3X/img_7777.jpg", 
+        "name": "IMG_7777.JPG", 
+        "created": 1543670853, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEH6G5A3X-c766a1dc84/img_7777_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543670862.001000", 
+    "display_as_bot": false, 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEGC8FJ0Z", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "IMG_0474.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGC8FJ0Z/img_0474.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 2630186, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_800.jpg", 
+        "timestamp": 1543670833, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGC8FJ0Z/download/img_0474.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_1024.jpg", 
+        "user": "U6YP200VB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGC8FJ0Z-3d4355d134", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YP200VB/FEGC8FJ0Z/img_0474.jpg", 
+        "name": "IMG_0474.JPG", 
+        "created": 1543670833, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEGC8FJ0Z-1b7e9c1cc4/img_0474_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543670841.000700", 
+    "display_as_bot": false, 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 601, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEJCAMEP8", 
+        "thumb_480_h": 361, 
+        "original_h": 2320, 
+        "thumb_360_w": 360, 
+        "title": "IMG_0470.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCAMEP8/img_0470.jpg", 
+        "thumb_720_h": 541, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 1267699, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_800.jpg", 
+        "timestamp": 1543669980, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEJCAMEP8/download/img_0470.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_1024.jpg", 
+        "user": "U6YP200VB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEJCAMEP8-8dc81ce421", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YP200VB/FEJCAMEP8/img_0470.jpg", 
+        "name": "IMG_0470.JPG", 
+        "created": 1543669980, 
+        "thumb_1024_h": 769, 
+        "thumb_960_h": 721, 
+        "original_w": 3088, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEJCAMEP8-4a367e0ce0/img_0470_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0GL52N", 
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543670011.000300", 
+    "display_as_bot": false, 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "736D0B0C-DC71-429A-80F1-4CC7C9F335EB", 
+    "text": "Does anyone have old MacBook charger I could borrow tomorrow morning?:sweat_smile::sweat_smile:", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1543642492.006800"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mov", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEGMWQ6EQ", 
+        "size": 28356953, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEGMWQ6EQ/img_0468.mov", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543640677, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEGMWQ6EQ/download/img_0468.mov", 
+        "user": "UCC0GL52N", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "QuickTime Movie", 
+        "name": "IMG_0468.MOV", 
+        "mimetype": "video/quicktime", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEGMWQ6EQ-baab6ddafd", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCC0GL52N/FEGMWQ6EQ/img_0468.mov", 
+        "is_external": false, 
+        "created": 1543640677, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "joy", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCB3G0JKS"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCB3G0JKS"
+        ]
+      }
+    ], 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543640679.005200", 
+    "display_as_bot": false, 
+    "user": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "bef591d7-a074-4b77-b454-ac73c5ae1d5e", 
+    "thread_ts": "1543635816.000800", 
+    "text": "yup", 
+    "ts": "1543639051.004900", 
+    "user": "UCB8T79UG", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "70dc2cbe-5282-4c2c-8199-a0d63bcf6951", 
+    "text": "don't worry", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543639040.004800"
+  }, 
+  {
+    "client_msg_id": "ae00bb59-32d1-483a-9d86-56011c8644cd", 
+    "text": "nah, its gonna be fine", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543639037.004600"
+  }, 
+  {
+    "client_msg_id": "eeafc1dd-b463-4116-a647-08f824712b42", 
+    "thread_ts": "1543635816.000800", 
+    "text": "Do we have to have finished eating by then though?", 
+    "ts": "1543638905.003900", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DF49251E-4CAC-41B6-AB13-29433CABD83F", 
+    "thread_ts": "1543635816.000800", 
+    "text": ":point_up_2::skin-tone-4:", 
+    "ts": "1543636732.003000", 
+    "user": "UCMTPELBC", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7B0849CD-5A84-413F-B446-A66AE71458CD", 
+    "thread_ts": "1543635816.000800", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand::skin-tone-6", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "7:40 am at the breakfast area ", 
+    "ts": "1543636597.002700", 
+    "user": "UCB3G0JKS", 
+    "parent_user_id": "UCB3PRBME", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "abbf5014-e807-480d-8d24-3c9942dfae8f", 
+    "text": "should I be freaking out? cause this is sick", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1543636555.002300"
+  }, 
+  {
+    "client_msg_id": "72B321B5-FD61-44D0-8E49-5CE34670A9E5", 
+    "text": "Fode and I are at kohl\u2019s stuck I was just tryna get some shirts", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1543636238.001800"
+  }, 
+  {
+    "client_msg_id": "DE01C63A-F6CE-43F3-BE83-BEF164A72E16", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCB8T79UG", 
+          "UCB3PRBME", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA", 
+          "UCB3PRBME", 
+          "UCC0GL52N", 
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "tornado", 
+        "users": [
+          "UCC0GL52N", 
+          "UCB3PRBME", 
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "There\u2019s a whole tornado happening", 
+    "ts": "1543636212.001100", 
+    "user": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a13bc9f6-7a3d-4597-bfbc-1c70b01c8d18", 
+    "thread_ts": "1543635816.000800", 
+    "latest_reply": "1543639051.004900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3G0JKS", 
+      "UCMTPELBC", 
+      "UCC0GD5V0", 
+      "UCB8T79UG"
+    ], 
+    "text": "Just to clarify, are we meeting in the breakfast area tomorrow at 7am?", 
+    "ts": "1543635816.000800", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "UCB3PRBME", 
+    "replies": [
+      {
+        "user": "UCB3G0JKS", 
+        "ts": "1543636597.002700"
+      }, 
+      {
+        "user": "UCMTPELBC", 
+        "ts": "1543636732.003000"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1543638905.003900"
+      }, 
+      {
+        "user": "UCB8T79UG", 
+        "ts": "1543639051.004900"
+      }
+    ], 
+    "reply_users_count": 4
+  }, 
+  {
+    "client_msg_id": "4E1BC469-A965-4D51-8D3A-4CEF1E9C2563", 
+    "attachments": [
+      {
+        "image_bytes": 888157, 
+        "original_url": "https://medium.com/@mikebasch/so-im-moving-to-tulsa-60a9851dd60e", 
+        "fields": [
+          {
+            "short": true, 
+            "value": "7 min read", 
+            "title": "Reading time"
+          }
+        ], 
+        "title": "So I\u2019m Moving to Tulsa \u2013 Mike Basch \u2013 Medium", 
+        "ts": 1519402415, 
+        "title_link": "https://medium.com/@mikebasch/so-im-moving-to-tulsa-60a9851dd60e", 
+        "image_height": 250, 
+        "image_url": "https://cdn-images-1.medium.com/max/1200/1*bNKvINoM6C0eSHfXTYk1DA.png", 
+        "image_width": 444, 
+        "service_name": "Medium", 
+        "from_url": "https://medium.com/@mikebasch/so-im-moving-to-tulsa-60a9851dd60e", 
+        "fallback": "Medium: So I\u2019m Moving to Tulsa \u2013 Mike Basch \u2013 Medium", 
+        "service_icon": "https://cdn-images-1.medium.com/fit/c/304/304/1*8I-HPL0bfoIzGied-dzOvA.png", 
+        "text": "Or as it\u2019s known in certain circles, \u201cThe Paris of the Heartland.\u201d", 
+        "id": 1
+      }
+    ], 
+    "text": "<!channel> <https://medium.com/@mikebasch/so-im-moving-to-tulsa-60a9851dd60e>", 
+    "ts": "1543616833.000400", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7AF16A86-FAB3-4AEE-917C-CFE295B2A108", 
+    "text": "<!channel> slight agenda addition \u2014 we will be stopping by Asemio at 4:30 for a quick hello and to see the space. It is right next to the hotel. ", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543592939.002800"
+  }, 
+  {
+    "client_msg_id": "6B1D2F7D-77EA-4DA2-84DB-791E01B87D91", 
+    "text": "Uber codes: <https://docs.google.com/spreadsheets/d/1e9J5n1wb94ngpWsyi2kaMPQ3bxtiM845TIdOqaejTOU>", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543590686.000800"
+  }, 
+  {
+    "client_msg_id": "e8f967c0-8608-4c75-86d9-a354328d610d", 
+    "text": "^", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1543583681.000800"
+  }, 
+  {
+    "client_msg_id": "C5B3B6F5-D2C9-4CB5-940F-C30A1E421CEA", 
+    "text": "Hey guys it\u2019s projected to rain after 5pm just a heads up", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543581877.000600"
+  }, 
+  {
+    "client_msg_id": "60A21004-9615-4167-9932-3BEDBA80C798", 
+    "text": "<@UCC0GL52N> maybe we can go together after ?", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1543541673.015300"
+  }, 
+  {
+    "client_msg_id": "4b605462-f7ef-4a94-9979-24d256e8ba69", 
+    "reactions": [
+      {
+        "count": 6, 
+        "name": "bowling", 
+        "users": [
+          "UCC0GL52N", 
+          "UCC0GD5V0", 
+          "UCB8T79UG", 
+          "UCD1J9LDV", 
+          "UCBQJD3NW", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCB8T79UG", 
+          "UCCTF62ET", 
+          "UCBQJD3NW", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "turkey", 
+        "users": [
+          "UCB3PRBME"
+        ]
+      }
+    ], 
+    "text": "<!channel> Some of us were thinking of checking out Dust Bowl later tonight. Its a 7 minute walk from here. So that everyone has a chance to shower, change and practice their interview questions, let's meet in the lobby at about 7:30pm.", 
+    "ts": "1543535978.011600", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEFF5EMLL-4ed4e4a4d2/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEFF5EMLL", 
+        "thumb_480_h": 285, 
+        "original_h": 369, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEFF5EMLL/image_from_ios.jpg", 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEFF5EMLL-4ed4e4a4d2/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEFF5EMLL-4ed4e4a4d2/image_from_ios_64.jpg", 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEFF5EMLL-4ed4e4a4d2/image_from_ios_80.jpg", 
+        "thumb_360_h": 214, 
+        "size": 200831, 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543526238, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEFF5EMLL-4ed4e4a4d2/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEFF5EMLL/download/image_from_ios.jpg", 
+        "user": "UCB8T79UG", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEFF5EMLL-4a63d013eb", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCB8T79UG/FEFF5EMLL/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1543526238, 
+        "original_w": 622, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N", 
+          "UCB3G0JKS", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "ok_hand", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCB3G0JKS"
+        ]
+      }
+    ], 
+    "ts": "1543526238.009500", 
+    "text": "When that turbulence hit", 
+    "upload_reply_to": "52CE2EF6-B542-4933-A28E-73FEA9E3471F", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "58527D2B-A2B4-4DCA-A936-E59A4C3485DB", 
+    "text": "*B84", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543521954.009400"
+  }, 
+  {
+    "client_msg_id": "1D5B5490-079F-488F-B03D-8B987B04C5E4", 
+    "text": "We\u2019re headed to Gate 84 ", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543521921.009100"
+  }, 
+  {
+    "client_msg_id": "C91AC474-1D3F-495E-A6BA-59486F3D4A87", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "hand", 
+        "users": [
+          "U6YP200VB", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "heavy_check_mark", 
+        "users": [
+          "UCMTPELBC"
+        ]
+      }
+    ], 
+    "text": "Everyone on board?? ", 
+    "ts": "1543511632.008400", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ce827c43-774e-4d55-95dd-25328af937cb", 
+    "text": "<@U6XDGCKFF> yes! passing out now :tada:", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1543508599.008000"
+  }, 
+  {
+    "client_msg_id": "77135750-7031-4082-AADE-AE79B95889F4", 
+    "text": "Are we getting the security deposits back that we gave in a couple weeks ago?", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1543507479.007700"
+  }, 
+  {
+    "client_msg_id": "2da57901-755b-4112-a882-86629b7a9f96", 
+    "text": "Sounds good! Thanks for the gate update", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1543504069.006900"
+  }, 
+  {
+    "client_msg_id": "DCCCC346-F402-4007-A66E-244F7B5ECF29", 
+    "text": "8:40", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543504051.006600"
+  }, 
+  {
+    "client_msg_id": "49559378-248E-4EF9-898B-08FA2170FA59", 
+    "text": "Meet at gate 68 by 8:44", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543504038.006400"
+  }, 
+  {
+    "client_msg_id": "AEF7B8D7-0561-4D7D-A87B-E838A50D6F9F", 
+    "text": "I\u2019m outside at door 9", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1543502401.005600"
+  }, 
+  {
+    "client_msg_id": "C3142C7D-1845-4518-B95D-57F60B6508EA", 
+    "text": "Door 2", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543502340.005300"
+  }, 
+  {
+    "client_msg_id": "977CA1A2-791A-48E1-B384-AB6E480CC295", 
+    "edited": {
+      "user": "UCMTPELBC", 
+      "ts": "1543502151.000000"
+    }, 
+    "text": "*Departing! (Not Arrivals)", 
+    "ts": "1543502121.005000", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "01C9693B-11DC-4A0C-AE3F-7FC06CD80E54", 
+    "text": "We\u2019ll all walk into SFO together: meet curbside at Terminal 3 - United - Arrivals. ", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1543501249.004900"
+  }, 
+  {
+    "client_msg_id": "33A841E2-DF7C-4602-9AB3-9BC8147DC1D0", 
+    "thread_ts": "1543498510.001200", 
+    "text": "I\u2019m about to head there pretty soon too", 
+    "ts": "1543499594.003400", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "94AA227D-A470-4164-989F-0A0864B937B5", 
+    "thread_ts": "1543498510.001200", 
+    "text": "I can wait until the lobby", 
+    "ts": "1543499578.002900", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "eaa691d1-ae64-4902-816d-31c0ad303192", 
+    "thread_ts": "1543498510.001200", 
+    "text": "I'm gonna head to the lobby real soon so  if you need it now I can bring it to your room", 
+    "ts": "1543499315.002000", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "D8EBDA27-7E12-4D46-BD9D-44B4E9EA8C58", 
+    "thread_ts": "1543498510.001200", 
+    "text": "Thanks!!", 
+    "ts": "1543499123.001800", 
+    "user": "UCBC6K65P", 
+    "parent_user_id": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "1501163f-5a80-4df5-bae8-0d6c7e99bea4", 
+    "thread_ts": "1543498510.001200", 
+    "text": "I gotchu", 
+    "ts": "1543498855.001400", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCBC6K65P", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2CDF08C5-37BB-4F24-9F4B-F4607339ECE1", 
+    "edited": {
+      "user": "UCBC6K65P", 
+      "ts": "1543498601.000000"
+    }, 
+    "latest_reply": "1543499594.003400", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "UCBC6K65P"
+    ], 
+    "thread_ts": "1543498510.001200", 
+    "text": "Does anyone have 1 small zip loc bag I could have?", 
+    "ts": "1543498510.001200", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "UCBC6K65P", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1543498855.001400"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1543499123.001800"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1543499315.002000"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1543499578.002900"
+      }, 
+      {
+        "user": "UCBC6K65P", 
+        "ts": "1543499594.003400"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 360, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1067, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEER985PU", 
+        "thumb_480_h": 480, 
+        "original_h": 3024, 
+        "thumb_360_w": 270, 
+        "title": "IMG_0463.JPG", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEER985PU/img_0463.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_64.jpg", 
+        "thumb_720_w": 540, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 2487163, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_800.jpg", 
+        "timestamp": 1543465737, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEER985PU/download/img_0463.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_1024.jpg", 
+        "user": "U6YP200VB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEER985PU-dc440177ae", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YP200VB/FEER985PU/img_0463.jpg", 
+        "name": "IMG_0463.JPG", 
+        "created": 1543465737, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 4032, 
+        "thumb_960_w": 720, 
+        "thumb_1024_w": 768, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEER985PU-ffb746a2f4/img_0463_720.jpg"
+      }
+    ], 
+    "thread_ts": "1543457082.014000", 
+    "text": "", 
+    "upload": true, 
+    "ts": "1543465746.016500", 
+    "display_as_bot": false, 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c453ee95-c803-470b-b7cc-fe827137470a", 
+    "edited": {
+      "user": "U6YP200VB", 
+      "ts": "1543465753.000000"
+    }, 
+    "thread_ts": "1543457082.014000", 
+    "text": "I also have an extra, size large winter coat if anyone wants to use.", 
+    "ts": "1543465720.016300", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ]
+  }, 
+  {
+    "client_msg_id": "448d0ccf-2023-42d5-a492-af94f9b88dba", 
+    "thread_ts": "1543453750.011300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "herb", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<@U6XDGCKFF> Is neck pillow a euphemism for something else?", 
+    "ts": "1543465387.015900", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "12ba8511-63c3-4b64-bf8e-09f2ebe5e8ac", 
+    "thread_ts": "1543451722.009700", 
+    "text": "Same!", 
+    "ts": "1543465341.015600", 
+    "user": "U6YP200VB", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8FA9E4E2-3FD2-4A56-83EA-611742261134", 
+    "thread_ts": "1543451722.009700", 
+    "text": "I don't go anywhere without my laptop! ", 
+    "ts": "1543462043.015200", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "29188048-fd30-4808-a567-c11930dce3d7", 
+    "thread_ts": "1543457082.014000", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "can I borrow it please?", 
+    "ts": "1543461786.014300", 
+    "user": "UCB3PRBME", 
+    "parent_user_id": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "22a0ea94-f661-45b2-b33c-8715352979cc", 
+    "thread_ts": "1543457082.014000", 
+    "latest_reply": "1543465746.016500", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB3PRBME", 
+      "U6YP200VB"
+    ], 
+    "text": "I have an extra coat someone can borrow. It is very large.", 
+    "ts": "1543457082.014000", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "UCC0GD5V0", 
+    "replies": [
+      {
+        "user": "UCB3PRBME", 
+        "ts": "1543461786.014300"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1543465720.016300"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1543465746.016500"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "bf6ad29e-6749-4930-b829-4c174dfbec54", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "thankyou", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8U00KA", 
+          "U6YP200VB"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "joy", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "This concludes my weather report", 
+    "ts": "1543456537.013300", 
+    "user": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9b228444-8545-4fbc-b98b-13fed878f7a6", 
+    "text": "The highs for the weekend are 68 and the lows are 33 degrees", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543456530.013100"
+  }, 
+  {
+    "client_msg_id": "7975b050-8f2c-4a69-883e-61f342b25dc5", 
+    "text": "Hey y'all its supposed to rain on Friday in Tulsa so...be prepared", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1543456507.012500"
+  }, 
+  {
+    "client_msg_id": "996baea9-9385-48c5-b553-c31a1fe30bdd", 
+    "thread_ts": "1543453750.011300", 
+    "text": "Yeah, I'm gonna need Matthew to be more specific", 
+    "ts": "1543456261.011800", 
+    "user": "UCB8T79UG", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "197ff81e-09cc-4ba0-8fb0-f200b1b1218b", 
+    "thread_ts": "1543453750.011300", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "joy", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YP200VB", 
+          "UCBDA2GGH", 
+          "UCDAKSB7Y"
+        ]
+      }
+    ], 
+    "text": "Is it a guy who provides neck pillows, or a guy you use *as* a neck pillow?", 
+    "ts": "1543455734.011600", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "97ca73bf-3b7f-4db6-9547-b8236c936505", 
+    "thread_ts": "1543453750.011300", 
+    "text": "....you have a guy for neck pillows?", 
+    "ts": "1543454985.011400", 
+    "user": "UCB8T79UG", 
+    "parent_user_id": "U6XDGCKFF", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ace40b78-1dd0-45b8-a59d-a807fee7b7fa", 
+    "thread_ts": "1543453750.011300", 
+    "latest_reply": "1543465387.015900", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8T79UG", 
+      "UCBQJD3NW", 
+      "U6YP200VB"
+    ], 
+    "text": "Hey does anyone have a neck pillow, my neck pillow guy ran out", 
+    "ts": "1543453750.011300", 
+    "type": "message", 
+    "reply_count": 4, 
+    "user": "U6XDGCKFF", 
+    "replies": [
+      {
+        "user": "UCB8T79UG", 
+        "ts": "1543454985.011400"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1543455734.011600"
+      }, 
+      {
+        "user": "UCB8T79UG", 
+        "ts": "1543456261.011800"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1543465387.015900"
+      }
+    ], 
+    "reply_users_count": 3
+  }, 
+  {
+    "client_msg_id": "D921040D-F1BF-4328-9380-341E4570C18F", 
+    "text": "Now that you mentioned I think so too :)", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1543452285.010500"
+  }, 
+  {
+    "client_msg_id": "62337e0b-638e-4549-ba4b-726ce02effc6", 
+    "thread_ts": "1543451722.009700", 
+    "latest_reply": "1543465341.015600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N", 
+      "U6YP200VB"
+    ], 
+    "text": "<!channel> We think it's a good idea to bring your laptops with you", 
+    "ts": "1543451722.009700", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1543462043.015200"
+      }, 
+      {
+        "user": "U6YP200VB", 
+        "ts": "1543465341.015600"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 361, 
+        "filetype": "jpg", 
+        "thumb_800_h": 1065, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FEEJNHK7V", 
+        "thumb_480_h": 480, 
+        "original_h": 2320, 
+        "thumb_360_w": 270, 
+        "title": "File from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEEJNHK7V/img_0460.jpg", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_64.jpg", 
+        "thumb_720_w": 541, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_80.jpg", 
+        "thumb_360_h": 360, 
+        "size": 799147, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_800.jpg", 
+        "timestamp": 1543450402, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEEJNHK7V/download/img_0460.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_1024.jpg", 
+        "user": "U6YP200VB", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEEJNHK7V-2c00054e5b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YP200VB/FEEJNHK7V/img_0460.jpg", 
+        "name": "IMG_0460.JPG", 
+        "created": 1543450402, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 3088, 
+        "thumb_960_w": 721, 
+        "thumb_1024_w": 769, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FEEJNHK7V-35f8e89acc/img_0460_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 8, 
+        "name": "fire", 
+        "users": [
+          "U6XDGCKFF", 
+          "UCJ72FALU", 
+          "UCCTF62ET", 
+          "UCB8U00KA", 
+          "UCB8T79UG", 
+          "UCBDA2GGH", 
+          "UCC0GL52N", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "blush", 
+        "users": [
+          "UCB8U00KA", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-4", 
+        "users": [
+          "UCMTPELBC"
+        ]
+      }
+    ], 
+    "text": "Is this business casual enough? ", 
+    "upload": true, 
+    "ts": "1543450409.008600", 
+    "display_as_bot": false, 
+    "user": "U6YP200VB", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "pdf", 
+        "public_url_shared": false, 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FEE2JFE6M", 
+        "size": 318789, 
+        "thumb_pdf": "https://files.slack.com/files-tmb/T1D4KRBR8-FEE2JFE6M-a77c755a43/tulsa_agenda__1__thumb_pdf.png", 
+        "title": "Tulsa Agenda (1).pdf", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FEE2JFE6M/tulsa_agenda__1_.pdf", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1543446197, 
+        "thumb_pdf_w": 935, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FEE2JFE6M/download/tulsa_agenda__1_.pdf", 
+        "user": "U9PA0BZQW", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PDF", 
+        "is_external": false, 
+        "mimetype": "application/pdf", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FEE2JFE6M-70d2452881", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U9PA0BZQW/FEE2JFE6M/tulsa_agenda__1_.pdf", 
+        "name": "Tulsa Agenda (1).pdf", 
+        "created": 1543446197, 
+        "mode": "hosted", 
+        "thumb_pdf_h": 1210
+      }
+    ], 
+    "text": "<!channel> Here is the agenda! :make-school::tada::white_check_mark:", 
+    "upload": true, 
+    "ts": "1543446200.008300", 
+    "display_as_bot": false, 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab83aea4-4f16-4a68-bd2f-14d0a679fae3", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pray", 
+        "users": [
+          "U6YP200VB", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "text": "<!channel> Please feel free to grab a red folder from my desk to protect your resume copies from getting ruined!", 
+    "ts": "1543442995.007500", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "id": "FEDNECC7J", 
+        "mode": "tombstone"
+      }
+    ], 
+    "edited": {
+      "user": "U9PA0BZQW", 
+      "ts": "1543446153.000000"
+    }, 
+    "text": "<!channel> GET EXCITED FOR TULSA TOMORROW! :airplane:\n\nA few important reminders: :white_check_mark:\n\n*Meet at Vantaggio at 6:00am tomorrow, Thursday, November 29th* :alarm_clock:. Lyfts are ordered to take us to the airport :car:. Bring a carry-on luggage only :left_luggage:.\n\nBring your ID! :id:\n\nPrint 15-20 copies of your resume :heavy_check_mark:\n\nHere's the full agenda! :tada: we will also have printed copies for you :star2:\n\nInformation sent via email as well :envelope_with_arrow:\n\n<@UCMTPELBC> <@UCJ72FALU> and I are looking forward to it! Let us know if you have any questions! :make-school:", 
+    "upload": true, 
+    "ts": "1543433310.005800", 
+    "display_as_bot": null, 
+    "user": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8B96DE6B-5854-4084-833D-228667A321FB", 
+    "thread_ts": "1543253484.000300", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "coat", 
+        "users": [
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "text": "Good thing I washed all my sweaters", 
+    "ts": "1543376293.001200", 
+    "user": "U6XDGCKFF", 
+    "parent_user_id": "UCB8T79UG", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "3eede9bb-db42-468e-bb5d-40bcb9a02fd9", 
+    "thread_ts": "1543253484.000300", 
+    "latest_reply": "1543376293.001200", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6XDGCKFF"
+    ], 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "heart", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCCTF62ET", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "snowman", 
+        "users": [
+          "UCC0GL52N", 
+          "UCCTF62ET", 
+          "UCBLQF0R1", 
+          "U6YP200VB", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "open_mouth", 
+        "users": [
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "UCBLQF0R1", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "snow_cloud", 
+        "users": [
+          "UCC0GD5V0", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "sweat", 
+        "users": [
+          "UCC0GD5V0", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "snowflake", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Its 36 degrees in Tulsa rn", 
+    "ts": "1543253484.000300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCB8T79UG", 
+    "replies": [
+      {
+        "user": "U6XDGCKFF", 
+        "ts": "1543376293.001200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "6f203fe0-f8ef-49e2-8559-64aed3c226b2", 
+    "thread_ts": "1542323685.012600", 
+    "text": "<https://www.linkedin.com/feed/news/would-you-move-to-tulsa-for-10k-3287913/>", 
+    "ts": "1542750222.000100", 
+    "user": "UCMTPELBC", 
+    "parent_user_id": "UCD1J9LDV", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "png", 
+        "thumb_800_h": 263, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FE63WB22W", 
+        "thumb_480_h": 158, 
+        "original_h": 946, 
+        "thumb_360_w": 360, 
+        "title": "Pasted image at 2018-11-16, 4:43 PM", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE63WB22W/image.png", 
+        "thumb_720_h": 237, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_80.png", 
+        "thumb_360_h": 118, 
+        "size": 2455059, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_800.png", 
+        "timestamp": 1542415431, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_160.png", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE63WB22W/download/image.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_1024.png", 
+        "user": "UCBDA2GGH", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "PNG", 
+        "is_external": false, 
+        "mimetype": "image/png", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE63WB22W-e79343172b", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBDA2GGH/FE63WB22W/image.png", 
+        "name": "image.png", 
+        "created": 1542415431, 
+        "thumb_1024_h": 337, 
+        "thumb_960_h": 316, 
+        "original_w": 2878, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE63WB22W-4ffae0c142/image_720.png"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "pride", 
+        "users": [
+          "UCB8T79UG", 
+          "UCC0GD5V0", 
+          "UCB8U00KA", 
+          "U6YP200VB", 
+          "UCCTF62ET", 
+          "U9PA0BZQW", 
+          "U6XDGCKFF"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "thumbsup_all", 
+        "users": [
+          "UCCTF62ET", 
+          "U6XDGCKFF"
+        ]
+      }
+    ], 
+    "text": "Tulsa pride :eyes:", 
+    "upload": true, 
+    "ts": "1542415437.018400", 
+    "display_as_bot": false, 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "62b718ea-6ad0-4c8b-a8c4-0a689278996d", 
+    "text": "Done, thanks for the reminder", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1542399681.017800"
+  }, 
+  {
+    "client_msg_id": "f3dff3a2-42d0-4b86-96bb-3f6d39bbd3c9", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "+1", 
+        "users": [
+          "U6YP200VB", 
+          "UCCTF62ET", 
+          "UCB8U00KA", 
+          "UCB8T79UG"
+        ]
+      }
+    ], 
+    "text": "1) Resume due today- It's the last day to get your resume in the resume book for Tulsa employers. Submit here: <https://goo.gl/forms/Hd3lfOX8V64fZhkB2>\n\n2) Resume help- Sign up for a 15-min drop-in mtg w/ Megan or Jeff happening today via Zoom, 2-3pm. With the school closure we had to move the time to 2-3pm b/c of a staff meeting :fist::skin-tone-4: sign up sheet here <https://docs.google.com/spreadsheets/d/14Xb-cFtb4JTyyBhnhV1lk9weYXUo2ylO2hj8KPD1QXc/edit?usp=sharing> <!channel>", 
+    "ts": "1542390610.016500", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c783ecb3-1dde-4a33-944f-df9cd3673db9", 
+    "thread_ts": "1542323685.012600", 
+    "latest_reply": "1542750222.000100", 
+    "attachments": [
+      {
+        "thumb_height": 630, 
+        "thumb_url": "https://icbbmp4zdg-flywheel.netdna-ssl.com/wp-content/themes/tulsa-remote/fbog.jpg", 
+        "thumb_width": 1200, 
+        "original_url": "https://tulsaremote.com/#hero", 
+        "text": "Tulsa Remote is a one-year program that offers a $10,000 grant and additional benefits to eligible remote workers who move to and work from Tulsa.", 
+        "title": "Tulsa Remote", 
+        "title_link": "https://tulsaremote.com/#hero", 
+        "service_name": "tulsaremote.com", 
+        "from_url": "https://tulsaremote.com/#hero", 
+        "fallback": "Tulsa Remote", 
+        "service_icon": "https://icbbmp4zdg-flywheel.netdna-ssl.com/wp-content/themes/tulsa-remote/apple-touch-icon.png", 
+        "id": 1
+      }
+    ], 
+    "subscribed": false, 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCB8U00KA"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "eyes", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "reply_users": [
+      "UCMTPELBC"
+    ], 
+    "replies": [
+      {
+        "user": "UCMTPELBC", 
+        "ts": "1542750222.000100"
+      }
+    ], 
+    "ts": "1542323685.012600", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCD1J9LDV", 
+    "text": "Tulsa is really trying super hard lol <https://tulsaremote.com/#hero>", 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "f14d0372-e908-42d8-a2b7-aae6d73a18c7", 
+    "text": "<!channel> Thank you all for you filling out the hotel roommate assignment sheet!\n\nIf you have't already done so, please let me know if you have any allergies/dietary restrictions.", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1542322750.012200"
+  }, 
+  {
+    "client_msg_id": "c2275cd8-a619-4c5f-8813-298c5e1d1952", 
+    "text": "<!channel> Reminder to fill out the hotel roommate/ buddy assignment sheet! Need to send this off to the Tulsa team we are working with :slightly_smiling_face::+1:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1542223493.010100"
+  }, 
+  {
+    "client_msg_id": "e2d2c050-2754-4507-bd92-6b7cadc04ace", 
+    "text": "<!channel> For those of you who missed the meeting slack me and we will find a time to meet and get you caught up with the necessary information", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1542146168.007700"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 371, 
+        "filetype": "gdoc", 
+        "thumb_800_h": 1034, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FE2Q48XBM", 
+        "thumb_480_h": 480, 
+        "original_h": 1034, 
+        "thumb_360_w": 279, 
+        "title": "Tulsa Hotel Roommate Assignments", 
+        "url_private": "https://docs.google.com/document/d/1wsxiqTX2u45UfAUZo4z0vWL2ayC7dIC9tngQerwAEpE/edit?usp=sharing", 
+        "thumb_720_h": 720, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_64.png", 
+        "thumb_720_w": 557, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_80.png", 
+        "thumb_360_h": 360, 
+        "size": 145, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_800.png", 
+        "timestamp": 1542146103, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_160.png", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_1024.png", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_960.png", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Document", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.document", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FE2Q48XBM/tulsa_hotel_roommate_assignments", 
+        "name": "Tulsa Hotel Roommate Assignments", 
+        "created": 1542146103, 
+        "thumb_1024_h": 1024, 
+        "thumb_960_h": 960, 
+        "original_w": 800, 
+        "thumb_960_w": 743, 
+        "thumb_1024_w": 792, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1wsxiqTX2u45UfAUZo4z0vWL2ayC7dIC9tngQerwAEpE", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE2Q48XBM-330e5df203/tulsa_hotel_roommate_assignments_720.png", 
+        "external_url": "https://docs.google.com/document/d/1wsxiqTX2u45UfAUZo4z0vWL2ayC7dIC9tngQerwAEpE/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "98a7fa6a-e79b-4458-8e3d-42c025dc8746", 
+    "text": "<!channel> Please add your hotel roommate to the list below\n\n<https://docs.google.com/document/d/1wsxiqTX2u45UfAUZo4z0vWL2ayC7dIC9tngQerwAEpE/edit?usp=sharing>", 
+    "upload": false, 
+    "ts": "1542146101.006200", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "x_files": [
+      "FE2Q48XBM"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "gpres", 
+        "thumb_800_h": 450, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_480.png", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FE3TLJDT9", 
+        "thumb_480_h": 270, 
+        "original_h": 450, 
+        "thumb_360_w": 360, 
+        "title": "Tulsa Deck", 
+        "url_private": "https://docs.google.com/presentation/d/1j3wUvGJiQdQ5mhXFJW-RpC7HCMOVljXoEx4ddAxtmqw/edit?usp=sharing", 
+        "thumb_720_h": 405, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_360.png", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_64.png", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_80.png", 
+        "thumb_360_h": 203, 
+        "size": 2243, 
+        "external_type": "gdrive", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_800.png", 
+        "timestamp": 1542143794, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_160.png", 
+        "user": "UCJ72FALU", 
+        "image_exif_rotation": 1, 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "GSuite Presentation", 
+        "is_external": true, 
+        "mimetype": "application/vnd.google-apps.presentation", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCJ72FALU/FE3TLJDT9/tulsa_deck", 
+        "name": "Tulsa Deck", 
+        "created": 1542143794, 
+        "original_w": 800, 
+        "mode": "external", 
+        "has_rich_preview": true, 
+        "external_id": "1j3wUvGJiQdQ5mhXFJW-RpC7HCMOVljXoEx4ddAxtmqw", 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FE3TLJDT9-6b1b665daa/tulsa_deck_720.png", 
+        "external_url": "https://docs.google.com/presentation/d/1j3wUvGJiQdQ5mhXFJW-RpC7HCMOVljXoEx4ddAxtmqw/edit?usp=sharing"
+      }
+    ], 
+    "client_msg_id": "28ef397e-55bf-40b1-b0a8-ed1d34da0965", 
+    "text": "<!channel> Below are the Tulsa Orientation slides for your reference :slightly_smiling_face::make-school:\n\n<https://docs.google.com/presentation/d/1j3wUvGJiQdQ5mhXFJW-RpC7HCMOVljXoEx4ddAxtmqw/edit?usp=sharing>", 
+    "upload": false, 
+    "ts": "1542143792.004800", 
+    "display_as_bot": false, 
+    "user": "UCJ72FALU", 
+    "x_files": [
+      "FE3TLJDT9"
+    ], 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ab01a544-3fb3-459a-95b4-c630a79cfa2f", 
+    "text": "Personal item: 9x10x17(in)", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1542143191.003600"
+  }, 
+  {
+    "client_msg_id": "81438936-d63e-4d9d-9474-59a8a5cb3e4b", 
+    "text": "United dimensions: 9x14x22(in) for a carryon", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1542143152.003200"
+  }, 
+  {
+    "client_msg_id": "a90da02b-6a36-45a5-8244-d95886b1f400", 
+    "text": "Also, I live in Oakland, and will need an uber directly to and from SFO :slightly_smiling_face:.", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1542143105.002700"
+  }, 
+  {
+    "client_msg_id": "08703708-5b4f-4db7-aaa1-0b22a5f045ef", 
+    "text": "<@UCJ72FALU> I have a wheat allergy, so I eat gluten free", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1542143081.002200"
+  }, 
+  {
+    "client_msg_id": "8b829a54-ad72-4c67-bcc2-1368e0349427", 
+    "text": "I'm vegetarian :green_salad:", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1542141894.001800"
+  }, 
+  {
+    "client_msg_id": "f0f9e340-4bd5-497d-8544-85329c1fec66", 
+    "text": "im allergic to milk", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1542141891.001600"
+  }, 
+  {
+    "client_msg_id": "ef883a2a-5412-45f7-a8a9-04ee1906d4af", 
+    "text": "<!channel> Meeting right now in Stonehenge for the Tulsa Orientation", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1542141338.001200"
+  }, 
+  {
+    "client_msg_id": "53ce76ab-7a38-4229-81ca-2c459d916aa7", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "fire", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCB3PRBME", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 362822, 
+        "original_url": "https://www.cnbc.com/amp/2018/11/13/tulsa-oklahoma-will-pay-you-10000-to-move-there-and-work-from-home.html", 
+        "service_name": "CNBC", 
+        "title": "Tulsa, Oklahoma will pay you $10,000 to move there and work from home", 
+        "ts": 1542138017, 
+        "title_link": "https://www.cnbc.com/amp/2018/11/13/tulsa-oklahoma-will-pay-you-10000-to-move-there-and-work-from-home.html", 
+        "image_height": 250, 
+        "image_url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/04/07/104391745-GettyImages-185061784.1910x1000.jpg", 
+        "image_width": 478, 
+        "text": "Participants in this program could also live in a fully-furnished apartment with a discounted rent.\u00a0", 
+        "from_url": "https://www.cnbc.com/amp/2018/11/13/tulsa-oklahoma-will-pay-you-10000-to-move-there-and-work-from-home.html", 
+        "fallback": "CNBC: Tulsa, Oklahoma will pay you $10,000 to move there and work from home", 
+        "service_icon": "https://www.cnbc.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://www.cnbc.com/amp/2018/11/13/tulsa-oklahoma-will-pay-you-10000-to-move-there-and-work-from-home.html>", 
+    "ts": "1542141154.000500", 
+    "user": "UCCTF62ET", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "887a236e-83bf-4b3e-a0a1-9ecf315d1019", 
+    "thread_ts": "1541454104.001300", 
+    "text": "I'll be late, but I'll be there", 
+    "ts": "1542140255.000200", 
+    "user": "UCBQJD3NW", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e39c5907-98cf-4382-86a1-f4e4d1768245", 
+    "thread_ts": "1541454104.001300", 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "raised_hands::skin-tone-6", 
+        "users": [
+          "UCB3PRBME", 
+          "UCC0GD5V0", 
+          "UCB8U00KA", 
+          "U6XDGCKFF", 
+          "UCB8T79UG", 
+          "UCDAKSB7Y", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "jack_o_lantern", 
+        "users": [
+          "UCC0GL52N", 
+          "UCDAKSB7Y", 
+          "UCBLQF0R1", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "fire", 
+        "users": [
+          "UCBLQF0R1", 
+          "UCCTF62ET"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "muscle::skin-tone-5", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Who\u2019s pumped!?", 
+    "ts": "1541454189.001400", 
+    "user": "UCBDA2GGH", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "11e32123-3720-47ba-8dfb-7e65d47e6ae3", 
+    "thread_ts": "1541454104.001300", 
+    "latest_reply": "1542140255.000200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCBDA2GGH", 
+      "UCBQJD3NW"
+    ], 
+    "reactions": [
+      {
+        "count": 7, 
+        "name": "make-school", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCB8U00KA", 
+          "UCBLQF0R1", 
+          "UCBQJD3NW", 
+          "UCDAF4FV4", 
+          "UCDAKSB7Y", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "airplane", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBLQF0R1", 
+          "UCDAKSB7Y", 
+          "UCBDA2GGH", 
+          "UCB3PRBME"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCDAKSB7Y", 
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "pikachu", 
+        "users": [
+          "UCDAKSB7Y", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "<!channel> Hello Tulsa students! Wanted to share a couple updates as we're only a few weeks from the trip - flights and lodging are booked! :airplane:\n\nThere will be an orientation session for the trip on Nov 13 from 12:30-1:30 in Stonehenge. We'll share the logistics of the weekend and some best practices for making a great impression with employers. :handshake: Bring your laptop and have your resume up to date - we'll help you with last min edits before getting you in the resume book shared with Tulsa employers. The Tulsa Community Foundation is putting together a solid itinerary :tada: for us and we'll share all the details with you. The orientation is required, so please have it marked on your calendar! :white_check_mark:\n\nOrientation for Tulsa\nNov 13, 12:30-1:30\nStoneHenge", 
+    "ts": "1541454104.001300", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCMTPELBC", 
+    "replies": [
+      {
+        "user": "UCBDA2GGH", 
+        "ts": "1541454189.001400"
+      }, 
+      {
+        "user": "UCBQJD3NW", 
+        "ts": "1542140255.000200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1541435260.000200", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "client_msg_id": "a892c058-85ec-49ba-9bc9-d0a794722941", 
+    "text": "11/18/1994", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1540575604.000300"
+  }, 
+  {
+    "client_msg_id": "629F28A8-21F1-4E62-A6BD-48C4BA3F7874", 
+    "text": "January 1, 2000 Male", 
+    "type": "message", 
+    "user": "U6XDGCKFF", 
+    "ts": "1540547112.000800"
+  }, 
+  {
+    "client_msg_id": "f2042c64-7280-4a46-81bc-8a89f0b4d240", 
+    "text": "September 19th, 1975. Male", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1540525924.000300"
+  }, 
+  {
+    "client_msg_id": "4B197F7F-5887-4FEE-BA25-6CCF646EE6DB", 
+    "text": "August 2nd, 1987. Female ", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1540517184.000100"
+  }, 
+  {
+    "client_msg_id": "edd81c1d-1904-4a4d-99c4-f0dd9841c706", 
+    "text": "November 24th, 1999, Male", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1540515429.000100"
+  }, 
+  {
+    "client_msg_id": "D90522B9-7BA7-4D34-B34D-19941D758D9F", 
+    "text": "June 1st, 1991. Male", 
+    "type": "message", 
+    "user": "UCBC6K65P", 
+    "ts": "1540511840.000100"
+  }, 
+  {
+    "client_msg_id": "8f66934c-49a9-47f9-8b77-c8294c885949", 
+    "text": "June 20th, 1997. Male", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1540511089.000100"
+  }, 
+  {
+    "client_msg_id": "F2C8F253-C92F-41B2-9073-BBBBACD76B5A", 
+    "text": "February 15, 1984.  Male", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1540505021.000100"
+  }, 
+  {
+    "client_msg_id": "523FC925-F293-47C9-96C0-35CD2512E700", 
+    "text": "March 22, 1999. Female", 
+    "type": "message", 
+    "user": "UCBLQF0R1", 
+    "ts": "1540503910.000100"
+  }, 
+  {
+    "client_msg_id": "c3b44287-e530-4807-9aa5-6ad5f2b73c6e", 
+    "text": "April 12, 1993. Male", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1540503901.000200"
+  }, 
+  {
+    "client_msg_id": "7f29ab61-e174-4943-83b3-9ff7853b24a4", 
+    "text": "September 24, 1998. Female", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1540503901.000100"
+  }, 
+  {
+    "client_msg_id": "f8211095-35e1-47f8-94e9-41c3777d009f", 
+    "thread_ts": "1540503372.000100", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCDAF4FV4"
+        ]
+      }
+    ], 
+    "text": "Omg you have the same birthday as my mom.", 
+    "ts": "1540503866.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCBQJD3NW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5D042FA5-ACB4-4A18-BDF8-BDCD1BB3515D", 
+    "text": "March 22, 1999", 
+    "type": "message", 
+    "user": "UCB3G0JKS", 
+    "ts": "1540503845.000100"
+  }, 
+  {
+    "client_msg_id": "810bb59c-6db9-4e2b-b9ee-4b11e7267175", 
+    "text": "June 25, 1992. Female", 
+    "type": "message", 
+    "user": "UCB8U00KA", 
+    "ts": "1540503823.000100"
+  }, 
+  {
+    "client_msg_id": "126d2fb9-7924-41e1-b187-59f3f5262a26", 
+    "text": "February 11, 1996. Female", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1540503781.000100"
+  }, 
+  {
+    "client_msg_id": "94fff968-3139-4346-a93e-02eb132f994f", 
+    "text": "October 19, 1993. Female", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1540503579.000100"
+  }, 
+  {
+    "client_msg_id": "c4262dc3-7a59-4f21-b965-29924f7ae308", 
+    "thread_ts": "1540503372.000100", 
+    "latest_reply": "1540503866.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0"
+    ], 
+    "text": "August 5, 1990. Male.", 
+    "ts": "1540503372.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCBQJD3NW", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1540503866.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "e7566bf3-e00e-4896-9553-20e59247bc17", 
+    "text": "March 19, 1998. Male.", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1540503361.000100"
+  }, 
+  {
+    "client_msg_id": "0b60a362-755f-4839-a5ec-afb344ae7317", 
+    "text": "December 22, 1993. Male.", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1540503349.000100"
+  }, 
+  {
+    "client_msg_id": "a2b1c2f8-327b-4715-a0ad-a1154a33e733", 
+    "text": "<!channel> I also need to collect your birthdays and your gender to submit to the airline. Many thanks!", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1540503327.000100"
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1540241884.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "client_msg_id": "66af1389-17f1-4d8e-94a4-e3b0957428c3", 
+    "text": "Rushani Shawuti", 
+    "type": "message", 
+    "user": "UCDAKSB7Y", 
+    "ts": "1540241658.000100"
+  }, 
+  {
+    "client_msg_id": "4c97e42a-940a-4fa5-a1e9-fcf65599f17c", 
+    "text": "Jacob Harold Haff", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1540240919.000100"
+  }, 
+  {
+    "client_msg_id": "d9a03a43-8a07-4715-96d4-cd479a1daf5a", 
+    "text": "Nyapal Gatkuoth", 
+    "type": "message", 
+    "user": "UCB3PRBME", 
+    "ts": "1540240487.000100"
+  }, 
+  {
+    "client_msg_id": "5cfd25d6-18a7-4a82-8029-3e6ddae1e4b7", 
+    "text": "Fod\u00e9 S Diop", 
+    "type": "message", 
+    "user": "UCD1J9LDV", 
+    "ts": "1540240255.000100"
+  }, 
+  {
+    "client_msg_id": "025fd8de-0713-4dfc-9362-1d11cbd546c9", 
+    "text": "Jaeson Bartholomew Booker", 
+    "type": "message", 
+    "user": "UCBQJD3NW", 
+    "ts": "1540239212.000100"
+  }, 
+  {
+    "client_msg_id": "0e4aa867-e2e8-4566-aecd-18014097e801", 
+    "edited": {
+      "user": "UCB8U00KA", 
+      "ts": "1540239071.000000"
+    }, 
+    "text": "Faith Masego Chikwekwe", 
+    "ts": "1540239044.000100", 
+    "user": "UCB8U00KA", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2f1fb83f-8795-4fc8-92f5-c88eaa382651", 
+    "text": "Ramon Ernesto Geronimo Adames", 
+    "type": "message", 
+    "user": "UCC4SUSHK", 
+    "ts": "1540237806.000100"
+  }, 
+  {
+    "client_msg_id": "cf65a166-66ac-4470-846a-5b37acecd9ef", 
+    "text": "Stephanie Dorcas Cherubin", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1540237377.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCFCGA3C1", 
+    "ts": "1540237339.000200", 
+    "text": "<@UCFCGA3C1> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBHMLWEQ", 
+    "ts": "1540237329.000200", 
+    "text": "<@UCBHMLWEQ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1540237308.000200", 
+    "text": "<@UCB8T79UG> has left the channel"
+  }, 
+  {
+    "client_msg_id": "fcb9452b-1525-4dba-814e-28bfaff6efd9", 
+    "text": "Jasmine Humbert", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1540237237.000100"
+  }, 
+  {
+    "client_msg_id": "8f7c249b-9f6e-49f1-8d71-643b7d9a581b", 
+    "text": "Ryan Smith", 
+    "type": "message", 
+    "user": "UCCTF62ET", 
+    "ts": "1540237150.000100"
+  }, 
+  {
+    "client_msg_id": "acf0a70b-dc4f-415b-b1b9-a83a68611546", 
+    "text": "Ferdinand Cruz", 
+    "type": "message", 
+    "user": "U6XCP1NLU", 
+    "ts": "1540236794.000100"
+  }, 
+  {
+    "client_msg_id": "143BF17A-335E-42A2-8C4F-CD68B0EB8C17", 
+    "text": "Rinrada Swift ", 
+    "type": "message", 
+    "user": "UCB3G0JKS", 
+    "ts": "1540236760.000100"
+  }, 
+  {
+    "client_msg_id": "9C60D1BB-26BA-4ECE-AA34-C0F3C40DABA0", 
+    "text": "Matthew Phraxayavong ", 
+    "type": "message", 
+    "user": "UCBC6K65P", 
+    "ts": "1540236704.000100"
+  }, 
+  {
+    "client_msg_id": "8e89413c-82ac-44c4-b16a-479e27770492", 
+    "text": "Megan Elizabeth Dias", 
+    "type": "message", 
+    "user": "U9PA0BZQW", 
+    "ts": "1540236690.000100"
+  }, 
+  {
+    "client_msg_id": "d922a088-9d62-488c-9923-b81650b0673d", 
+    "text": "Phyllis M Wong", 
+    "type": "message", 
+    "user": "U6YP200VB", 
+    "ts": "1540236686.000200"
+  }, 
+  {
+    "client_msg_id": "d4a8aec8-70ff-4cc8-955d-d86448850fe6", 
+    "text": "Severiano Badajoz ", 
+    "type": "message", 
+    "user": "UCDAF4FV4", 
+    "ts": "1540236683.000100"
+  }, 
+  {
+    "client_msg_id": "120CBDD3-6D95-412B-BB76-B14F9C2F38FB", 
+    "text": "Sarinya Swift", 
+    "type": "message", 
+    "user": "UCBLQF0R1", 
+    "ts": "1540236679.000100"
+  }, 
+  {
+    "client_msg_id": "e2b68d03-480f-44fd-aaef-218b25d44906", 
+    "text": "Noah J Woodward", 
+    "type": "message", 
+    "user": "UCDPM021J", 
+    "ts": "1540236667.000100"
+  }, 
+  {
+    "client_msg_id": "47485486-AE29-4CF5-858B-9EF84CAE2A7F", 
+    "text": "Kandice A McGhee", 
+    "type": "message", 
+    "user": "UCB8T79UG", 
+    "ts": "1540236635.000100"
+  }, 
+  {
+    "client_msg_id": "bfa96b3a-5b34-4c3a-8c82-4bcddb7511bb", 
+    "text": "<!channel> Hi Tulsa team! I have been working on getting our flights secured for Tulsa, and need to give the airline a list of everybody's name. Can you please submit your full name on this Slack channel by Wednesday, October 24th EOD :calendar: The name you submit needs to match your government issued id :slightly_smiling_face:\n\nLet me know if you have any questions!", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1540236616.000100"
+  }, 
+  {
+    "client_msg_id": "7056bf41-fea8-461a-9527-55f27b96332c", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "rotating_light", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCB8U00KA", 
+          "UCC0GL52N", 
+          "UCJ72FALU"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "money_with_wings", 
+        "users": [
+          "UCB8U00KA"
+        ]
+      }
+    ], 
+    "text": "<@U6XCP1NLU> <@UCDAF4FV4> <@U6XDGCKFF> <@UCB8T79UG> <@UCC0GL52N> <@UCBLQF0R1> <@UCDAKSB7Y> <@UCB3G0JKS> :rotating_light:Last call at 2:15pm for those that haven't paid their deposit - exact cash $50 - @ Great Hall.", 
+    "ts": "1539375761.000100", 
+    "user": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "693613f6-a9c5-4418-90da-dec3f97341b0", 
+    "text": "I know I almost forgot too!!", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539375024.000100"
+  }, 
+  {
+    "client_msg_id": "4CC6C067-36ED-4E3F-AB1C-F74F5B87433C", 
+    "text": "Wow!! Thank you for the reminder", 
+    "type": "message", 
+    "user": "UCBDA2GGH", 
+    "ts": "1539374950.000100"
+  }, 
+  {
+    "client_msg_id": "7d9e9d92-ccea-4ea6-a4ce-ba7d565ffc36", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "yen", 
+        "users": [
+          "UCMTPELBC"
+        ]
+      }
+    ], 
+    "text": "No venmo? ", 
+    "ts": "1539374734.000100", 
+    "user": "UCDAF4FV4", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "887b84f7-b4d6-4c73-8674-fb2b7cce7675", 
+    "text": "<!channel> remember to give Jeff your deposit! He does need it in cash.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539374651.000100"
+  }, 
+  {
+    "client_msg_id": "659325f9-ecd6-430f-8096-ef65aac46cf8", 
+    "thread_ts": "1539215884.000100", 
+    "text": "do you need cash for this or can we paypal/venmo you?", 
+    "ts": "1539294002.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "23735faa-e57b-45aa-b056-f823382b254d", 
+    "thread_ts": "1539217627.000100", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "+1::skin-tone-5", 
+        "users": [
+          "UCB8U00KA", 
+          "UCBQJD3NW", 
+          "U6YP200VB"
+        ]
+      }
+    ], 
+    "text": "<@UCB8U00KA> Still working out details, but the goal is to not have any out of pocket expenses for students (except the refundable deposit).", 
+    "ts": "1539276876.000100", 
+    "user": "UCMTPELBC", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c0d52ccc-617a-4dbd-9033-5bc52a1ed3f1", 
+    "thread_ts": "1539217627.000100", 
+    "text": "Do we pay for our own accommodations?", 
+    "ts": "1539231567.000100", 
+    "user": "UCB8U00KA", 
+    "parent_user_id": "UCMTPELBC", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e6b9d5de-ba6d-4418-969b-dad038abe57b", 
+    "edited": {
+      "user": "UCMTPELBC", 
+      "ts": "1539217666.000000"
+    }, 
+    "latest_reply": "1539276876.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCB8U00KA", 
+      "UCMTPELBC"
+    ], 
+    "thread_ts": "1539217627.000100", 
+    "text": "<@UCC0GD5V0> Travel and food= all paid by the Foundation funding the trip", 
+    "ts": "1539217627.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCMTPELBC", 
+    "replies": [
+      {
+        "user": "UCB8U00KA", 
+        "ts": "1539231567.000100"
+      }, 
+      {
+        "user": "UCMTPELBC", 
+        "ts": "1539276876.000100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 9, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YP200VB", 
+          "UCB8U00KA", 
+          "UCC0GD5V0", 
+          "UCDPM021J", 
+          "UCCTF62ET", 
+          "UCJ72FALU", 
+          "UCB8T79UG", 
+          "UCBQJD3NW"
+        ]
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "cc7e13d7-1f71-4c3b-9a61-bbaf370667e0", 
+    "text": "Is the trip completely free? I just want to make sure it isn't just the plan ticket we're getting for free.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1539217526.000100"
+  }, 
+  {
+    "text": "<@UCMTPELBC> set the channel purpose: Tulsa Trip! Nov 29-Dec 2", 
+    "ts": "1539217483.000100", 
+    "subtype": "channel_purpose", 
+    "user": "UCMTPELBC", 
+    "type": "message", 
+    "purpose": "Tulsa Trip! Nov 29-Dec 2"
+  }, 
+  {
+    "client_msg_id": "ca79646d-4890-44f9-9448-963a61ffeecb", 
+    "edited": {
+      "user": "UCMTPELBC", 
+      "ts": "1539217172.000000"
+    }, 
+    "latest_reply": "1539294002.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0"
+    ], 
+    "thread_ts": "1539215884.000100", 
+    "text": "<!channel> Hi Tulsa bound students! :airplane_departure: Congratulations on being chosen for the trip! Me, Caroline, and Megan :make-school: will be your official points of contact. Stay tuned for details!\n\nThe next step---&gt;  *Please deliver your $50 refundable deposit (in cash...exact amount) to Jeff this Friday in Great Hall between 12-1pm. This is REQUIRED* :white_check_mark: to officially secure your spot on the trip - as long as you attend the trip, we'll give back the deposit in San Francisco after the trip.\n\nLots more details to come, but we hope you're excited about this opportunity and we look forward to supporting you en route to Tulsa! :tada::face_with_cowboy_hat:", 
+    "ts": "1539215884.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCMTPELBC", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1539294002.000100"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 15, 
+        "name": "+1", 
+        "users": [
+          "UCJ72FALU", 
+          "UCB8T79UG", 
+          "UCDAKSB7Y", 
+          "UCDAF4FV4", 
+          "UCC4SUSHK", 
+          "U6YP200VB", 
+          "UCBLQF0R1", 
+          "U9PA0BZQW", 
+          "UCB3G0JKS", 
+          "UCBDA2GGH", 
+          "UCC0GD5V0", 
+          "UCB3PRBME", 
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 8, 
+        "name": "pikachu", 
+        "users": [
+          "UCDAKSB7Y", 
+          "U6YP200VB", 
+          "UCBLQF0R1", 
+          "UCB3G0JKS", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "UCCTF62ET", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 4, 
+        "name": "sunglasses", 
+        "users": [
+          "UCBQJD3NW", 
+          "UCBDA2GGH", 
+          "UCCTF62ET", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 6, 
+        "name": "+1::skin-tone-6", 
+        "users": [
+          "UCD1J9LDV", 
+          "UCBDA2GGH", 
+          "UCB3PRBME", 
+          "UCB8U00KA", 
+          "UCCTF62ET", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "100", 
+        "users": [
+          "UCCTF62ET", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1539215655.000600", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1539215655.000400", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCB8U00KA> has joined the channel", 
+    "ts": "1539215655.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8U00KA", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCD1J9LDV> has joined the channel", 
+    "ts": "1539215654.001000", 
+    "subtype": "channel_join", 
+    "user": "UCD1J9LDV", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCB3G0JKS> has joined the channel", 
+    "ts": "1539215654.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB3G0JKS", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1539215654.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCCTF62ET> has joined the channel", 
+    "ts": "1539215654.000400", 
+    "subtype": "channel_join", 
+    "user": "UCCTF62ET", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCBC6K65P> has joined the channel", 
+    "ts": "1539215654.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBC6K65P", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1539215653.000600", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCBLQF0R1> has joined the channel", 
+    "ts": "1539215653.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBLQF0R1", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1539215653.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCB8T79UG> has joined the channel", 
+    "ts": "1539215652.001600", 
+    "subtype": "channel_join", 
+    "user": "UCB8T79UG", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCFCGA3C1> has joined the channel", 
+    "ts": "1539215652.001400", 
+    "subtype": "channel_join", 
+    "user": "UCFCGA3C1", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCBHMLWEQ> has joined the channel", 
+    "ts": "1539215652.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBHMLWEQ", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCDPM021J> has joined the channel", 
+    "ts": "1539215652.001000", 
+    "subtype": "channel_join", 
+    "user": "UCDPM021J", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCB3PRBME> has joined the channel", 
+    "ts": "1539215652.000800", 
+    "subtype": "channel_join", 
+    "user": "UCB3PRBME", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@U6XDGCKFF> has joined the channel", 
+    "ts": "1539215652.000600", 
+    "subtype": "channel_join", 
+    "user": "U6XDGCKFF", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCBQJD3NW> has joined the channel", 
+    "ts": "1539215652.000400", 
+    "subtype": "channel_join", 
+    "user": "UCBQJD3NW", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCC4SUSHK> has joined the channel", 
+    "ts": "1539215652.000200", 
+    "subtype": "channel_join", 
+    "user": "UCC4SUSHK", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1539215651.001000", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCDAF4FV4> has joined the channel", 
+    "ts": "1539215651.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAF4FV4", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1539215651.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@U6YP200VB> has joined the channel", 
+    "ts": "1539215651.000400", 
+    "subtype": "channel_join", 
+    "user": "U6YP200VB", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "text": "<@U6XCP1NLU> has joined the channel", 
+    "ts": "1539215651.000200", 
+    "subtype": "channel_join", 
+    "user": "U6XCP1NLU", 
+    "type": "message", 
+    "inviter": "UCMTPELBC"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCMTPELBC", 
+    "ts": "1539215650.000200", 
+    "text": "<@UCMTPELBC> has joined the channel"
+  }
+]

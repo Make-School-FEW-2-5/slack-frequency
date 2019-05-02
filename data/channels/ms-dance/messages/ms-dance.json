@@ -1,0 +1,1984 @@
+[
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1554796233.000200", 
+    "text": "<@UCC0H4UJE> has left the channel"
+  }, 
+  {
+    "client_msg_id": "51E4A6E9-AA92-46E0-8C97-D01A60A5D0F4", 
+    "thread_ts": "1551230263.001000", 
+    "text": "Yes!", 
+    "ts": "1551231043.001200", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "38DB428F-39BE-48A0-B0D3-D3AD2D69F798", 
+    "thread_ts": "1551230263.001000", 
+    "latest_reply": "1551231043.001200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "Confirming that Dance Club is meeting today?!", 
+    "ts": "1551230263.001000", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1551231043.001200"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "35ca9d43-4260-4e1d-816c-426e74725556", 
+    "thread_ts": "1550620288.003200", 
+    "text": "Could you next week??", 
+    "ts": "1550620770.004300", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "e4bb4d91-0138-4bdf-8731-42151cd785b6", 
+    "thread_ts": "1550620288.003200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "sob", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "scream", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "I can't make it :disappointed:", 
+    "ts": "1550620391.003700", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c985a1f6-22c2-425c-a80b-99a2c25ba69b", 
+    "thread_ts": "1550620288.003200", 
+    "latest_reply": "1550620770.004300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "U6YGZN9HD"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Hey again Salsa Dances of MS, it\u2019s tuesday!\nThis means that today we will have another salsa session from 5:30 to 6:30.\nYour instructor will be the amazing <@UCC37PD6D> :dancer: and me :man_dancing:, she is also knowledgeable in Hindu traditional moves and more.\nToday class will be going through last week and get a new dope move down.\nI got an amazing playlist and I\u2019m looking forward to see you guys.\n:chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot::chillparrot:", 
+    "ts": "1550620288.003200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "U6YGZN9HD", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1550620391.003700"
+      }, 
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1550620770.004300"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "b0c6006b-f8d3-4435-b89e-3408886907eb", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Hello people of the dance club, today will be salsa Tuesday! :dancer: :man_dancing:\nThe session will begin at 5:30 to 6:30 on the basement.\nThis will be organized on the following way:\n - First the basic steps, practice the basic 7 steps and how they loop.\n - Listen to a couple songs and pay attention to the rhythm.\n - The same two songs just heard try to follow the steps while keeping the rhythm.\n - Practice how the spins work and what you can do while dancing.\n - Then just dance with a dope playlist.\nLooking forward to seeing you there :dancing_penguin::dancing_penguin::gopher::gopher:", 
+    "ts": "1550007415.007200", 
+    "user": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a3e6653e-3561-40de-9f95-3d3579816440", 
+    "text": "Wonderful. Looking forward to it", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1550000136.001800"
+  }, 
+  {
+    "client_msg_id": "9F06859D-417D-40E7-ABAE-7F3D58D247FC", 
+    "thread_ts": "1549997075.000700", 
+    "text": "Yes <@U6YGZN9HD> will be leading salsa :)", 
+    "ts": "1549999760.001300", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d36dfda4-5288-40b1-84b5-c5082226e9e8", 
+    "thread_ts": "1549997075.000700", 
+    "latest_reply": "1549999760.001300", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "<!channel> Just checking in to see if you are still on for Dance Club today from 5:30pm-6:30pm", 
+    "ts": "1549997075.000700", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCJ72FALU", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1549999760.001300"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCD1JMBMM", 
+    "ts": "1549578246.000200", 
+    "text": "<@UCD1JMBMM> has left the channel"
+  }, 
+  {
+    "client_msg_id": "7963501e-4c36-4805-9cba-bcc8093ce06c", 
+    "thread_ts": "1549384160.002200", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "gopher", 
+        "users": [
+          "U6YGZN9HD", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Great!, I will work hard on getting this done right :slightly_smiling_face:", 
+    "ts": "1549385411.002800", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "c8f71358-3d7b-4f8b-8027-b5d66eea5d4d", 
+    "thread_ts": "1549384160.002200", 
+    "text": "I do want to learn Salsa!", 
+    "ts": "1549385384.002600", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a75f4282-5ff7-476a-bb50-c4ca01f9a5c3", 
+    "thread_ts": "1549384160.002200", 
+    "text": "<@UCC0GD5V0>  I see you there, will you able to come to this meeting??", 
+    "ts": "1549385354.002400", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U6YGZN9HD", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "5ca190c1-a51e-41e3-864e-b4f43242d97a", 
+    "thread_ts": "1549384160.002200", 
+    "latest_reply": "1549385411.002800", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YGZN9HD", 
+      "UCC0GD5V0"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "open_mouth", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Hey, people from Dance Club :gopher:, it has always been amazing seeing the amount of people that show up but this time I think it\u2019s time to make that number be twice the size at least :dancer: :man_dancing:. This Tuesday 12 we will be learning Salsa on the basement at 5:30pm. :carlton::dancing_penguin:", 
+    "ts": "1549384160.002200", 
+    "type": "message", 
+    "reply_count": 3, 
+    "user": "U6YGZN9HD", 
+    "replies": [
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1549385354.002400"
+      }, 
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1549385384.002600"
+      }, 
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1549385411.002800"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1549068666.000200", 
+    "text": "<@UCC0GL52N> has left the channel"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1548959438.003600", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "client_msg_id": "2CE9D3AF-0983-4A25-965A-CDBF4F05DADE", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "gopher", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chillparrot", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "waddle", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "rancor", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "showme", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "megan", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "chompy", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "<!channel> If you want to be a part of dance club, thumbs up this post. I really need a headcount of who wants to be a part of it, guys. Please thumbs up by the end of Friday if you\u2019re interested. Thanks!", 
+    "ts": "1548958183.003400", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "2F9059CE-7C46-418A-B7B2-070D2CBBE1AD", 
+    "text": "<!channel> Meeting now by the ping pong tables.", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1548957111.000800"
+  }, 
+  {
+    "client_msg_id": "91207e66-cf40-480b-9dd4-dc3d2cf9994d", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "<!here> hey everyone, we\u2019ll hold a quick 10minute meet for this term\u2019s dance club goals/what you guys want to do this term *tomorrow after huddles 9:50am in the great hall.* Come by if you\u2019re interested at all. I would really like to know how many people are interested this term, and we might (maybe) do a short bollywood thing this term if enough people are interested!", 
+    "ts": "1548889317.002400", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "disappointed", 
+        "users": [
+          "U9PA0BZQW", 
+          "UCDAETD5L"
+        ]
+      }
+    ], 
+    "text": "<@U6YMF5THV> has left the channel", 
+    "ts": "1546992241.002400", 
+    "subtype": "channel_leave", 
+    "user": "U6YMF5THV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "06d3021d-6d9f-4dc9-b9ee-2013d806f866", 
+    "text": ":+1:", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1546991755.002200"
+  }, 
+  {
+    "client_msg_id": "A8F8A63D-6C97-4B58-AE92-FD1EE985FD05", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "dancer", 
+        "users": [
+          "U9PA0BZQW", 
+          "UCC0H4UJE", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<!channel> There is no meeting today for dance club. Let\u2019s regroup in a week or two to figure out a good time for this year\u2019. Good luck on your intensives!", 
+    "ts": "1546989867.002000", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1546988425.000100"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCC4RHFU5", 
+    "ts": "1546906377.000200", 
+    "text": "<@UCC4RHFU5> has left the channel"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1546383624.000100"
+  }, 
+  {
+    "client_msg_id": "A4B69323-8A8E-4D89-8A08-FAA13BE80D93", 
+    "text": "Ah I\u2019m sorry about the bot guys. I don\u2019t know how to make it stop.", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1546064409.000800"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1545778816.000100"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1545174028.000100"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1544569202.000100"
+  }, 
+  {
+    "client_msg_id": "74ae5660-76ad-4685-ae45-3ea3bf66cdd3", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "+1", 
+        "users": [
+          "UCC0H4UJE", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "<!channel> Wanted to give you the heads up that staff can't stay for Dance Club this week. Let's reconvene in January and we can discuss the best day and time moving forward. Have a great day!", 
+    "ts": "1544474670.002100", 
+    "user": "UCJ72FALU", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "534aba7c-ba78-4a5b-ae3a-e31d39276895", 
+    "thread_ts": "1543939639.003700", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "Of course!", 
+    "ts": "1543966292.005000", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "21300aee-dd86-45f5-a470-afa242549bc7", 
+    "text": "I can't make it tonight", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1543964792.004800"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1543964426.004600"
+  }, 
+  {
+    "client_msg_id": "3b8959d3-88ed-4fe4-a448-a81a806b3fda", 
+    "thread_ts": "1543939639.003700", 
+    "text": "<@UCJ72FALU> that\u2019s perfectly fine, thanks for making time for us.", 
+    "ts": "1543961594.004400", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "596c5960-e8d3-4645-8ce3-89f557e73bd3", 
+    "thread_ts": "1543939639.003700", 
+    "text": "<@U6YGZN9HD> I have to leave 10 minutes early. I hope that is ok!", 
+    "ts": "1543958298.004200", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "069c5c19-8772-4f49-aa63-201bc99aee83", 
+    "thread_ts": "1543939639.003700", 
+    "text": "ok, sounds good! See you at 5:30", 
+    "ts": "1543954603.004000", 
+    "user": "UCJ72FALU", 
+    "parent_user_id": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a17a56df-c050-4de3-80cc-bdd4c3c2fa07", 
+    "thread_ts": "1543939639.003700", 
+    "text": "Hi,\nThanks <@UCJ72FALU> for staying, we will meet today.", 
+    "ts": "1543951973.003800", 
+    "user": "U6YGZN9HD", 
+    "parent_user_id": "U9PA0BZQW", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "8B949BCA-B718-41FB-B919-BAC9B1994DC6", 
+    "thread_ts": "1543939639.003700", 
+    "latest_reply": "1543966292.005000", 
+    "subscribed": false, 
+    "reply_users": [
+      "U6YGZN9HD", 
+      "UCJ72FALU"
+    ], 
+    "text": "I hope you feel better <@UCC37PD6D> ! \n\nThanks <@UCJ72FALU> for offering to stay if the group meets! <@U6YGZN9HD> can you let us know today if you still wanted to meet? Thank you! ", 
+    "ts": "1543939639.003700", 
+    "type": "message", 
+    "reply_count": 5, 
+    "user": "U9PA0BZQW", 
+    "replies": [
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1543951973.003800"
+      }, 
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1543954603.004000"
+      }, 
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1543958298.004200"
+      }, 
+      {
+        "user": "U6YGZN9HD", 
+        "ts": "1543961594.004400"
+      }, 
+      {
+        "user": "UCJ72FALU", 
+        "ts": "1543966292.005000"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "baab6246-a25d-4ac5-b85b-b24a753b650b", 
+    "text": "I can plan on staying if people are interested!", 
+    "type": "message", 
+    "user": "UCJ72FALU", 
+    "ts": "1543888843.002600"
+  }, 
+  {
+    "client_msg_id": "EC34FA47-655C-4792-85F2-7EA931389FD7", 
+    "text": "I\u2019m still a bit under the weather, so I won\u2019t be at dance club tomorrow. If you guys still want to meet and anyone wants to lead tomorrow, let me or egon know and we can make that happen. ", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1543883192.002000"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCBLQTD7V", 
+    "ts": "1543542093.000200", 
+    "text": "<@UCBLQTD7V> has left the channel"
+  }, 
+  {
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "bot_id": "B01", 
+    "type": "message", 
+    "user": "USLACKBOT", 
+    "ts": "1543359601.000100"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "tumbleweed", 
+        "users": [
+          "UCC0GL52N", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "Reminder: \u2018Meeting at 5:30pm downstairs\u2019", 
+    "ts": "1542754803.000100", 
+    "user": "USLACKBOT", 
+    "type": "message", 
+    "bot_id": "B01"
+  }, 
+  {
+    "client_msg_id": "DEC0FDA8-2D4E-48DE-874E-8AE172C04A4C", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "U6YMF5THV"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/vRvCUKZwSPE/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/canadianbisdak", 
+        "service_name": "YouTube", 
+        "original_url": "https://youtu.be/vRvCUKZwSPE", 
+        "video_html_width": 400, 
+        "author_name": "canadianbisdak", 
+        "title_link": "https://youtu.be/vRvCUKZwSPE", 
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/vRvCUKZwSPE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>", 
+        "video_html_height": 300, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://youtu.be/vRvCUKZwSPE", 
+        "title": "Bamboo Dance", 
+        "fallback": "YouTube Video: Bamboo Dance", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Another cool dance form: <https://youtu.be/vRvCUKZwSPE>", 
+    "ts": "1542436010.000500", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "filetype": "mp4", 
+        "display_as_bot": false, 
+        "has_rich_preview": false, 
+        "id": "FE4ATP2JD", 
+        "size": 32651266, 
+        "title": "dance-club.mp4", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FE4ATP2JD/dance-club.mp4", 
+        "external_type": "", 
+        "username": "", 
+        "timestamp": 1542314621, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FE4ATP2JD/download/dance-club.mp4", 
+        "user": "U6YMF5THV", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "MPEG 4 Video", 
+        "name": "dance-club.mp4", 
+        "mimetype": "video/mp4", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FE4ATP2JD-ff8c7c1966", 
+        "permalink": "https://makeschoolstudents.slack.com/files/U6YMF5THV/FE4ATP2JD/dance-club.mp4", 
+        "is_external": false, 
+        "created": 1542314621, 
+        "mode": "hosted"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Megan\u2019s Jazz Dance", 
+    "upload": true, 
+    "ts": "1542314624.000700", 
+    "display_as_bot": false, 
+    "user": "U6YMF5THV", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7CAC6FF6-6202-47E7-8D37-1B1790A8AED4", 
+    "thread_ts": "1542246536.001200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "slightly_frowning_face", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "<@UCC0GL52N> yes", 
+    "ts": "1542250036.002200", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "686d048d-aa5b-48d1-9bbd-413e2f649fe8", 
+    "thread_ts": "1542246536.001200", 
+    "text": "The 19th?", 
+    "ts": "1542246909.001300", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "A404EA96-B382-4D36-835E-7029F823A134", 
+    "thread_ts": "1542246536.001200", 
+    "latest_reply": "1542250036.002200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N", 
+      "UCC37PD6D"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "pineapple", 
+        "users": [
+          "U6YMF5THV"
+        ]
+      }
+    ], 
+    "text": "We\u2019re going to have to push the dance meeting to Monday for next week. Emoji this if that works for you guys. ", 
+    "ts": "1542246536.001200", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC37PD6D", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1542246909.001300"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1542250036.002200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "text": "<@U6YMF5THV> has joined the channel", 
+    "ts": "1542163336.003000", 
+    "subtype": "channel_join", 
+    "user": "U6YMF5THV", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCJ72FALU> has joined the channel", 
+    "ts": "1542163336.002800", 
+    "subtype": "channel_join", 
+    "user": "UCJ72FALU", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@U9PA0BZQW> has joined the channel", 
+    "ts": "1542163336.002600", 
+    "subtype": "channel_join", 
+    "user": "U9PA0BZQW", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": " set up a reminder to \u201c\u2018Meeting at 5:30pm downstairs\u2019\u201d in this channel at 3PM every Tuesday, Pacific Standard Time.", 
+    "ts": "1542156387.002400", 
+    "subtype": "reminder_add", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7637A9CE-EED3-4742-82F9-3E0F43B60786", 
+    "thread_ts": "1542154708.001600", 
+    "text": "Thanks :blush: ", 
+    "ts": "1542156332.002200", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "a46a036b-c059-4aed-923f-c58730c4a3ae", 
+    "thread_ts": "1542154708.001600", 
+    "text": "Type /remind", 
+    "ts": "1542154812.001800", 
+    "user": "UCC0GL52N", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "C72AB079-D301-45BE-BAF5-5BE4F7E9D7F3", 
+    "edited": {
+      "user": "UCC37PD6D", 
+      "ts": "1542154740.000000"
+    }, 
+    "latest_reply": "1542156332.002200", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GL52N", 
+      "UCC37PD6D"
+    ], 
+    "thread_ts": "1542154708.001600", 
+    "text": "Sorry about yesterday\u2019s wrong reminder. I need to figure out how to do bot reminders. Regardless, there\u2019s a meeting today *downstairs at 5:30pm* and Megan will be teaching us jazz. I hope you can make it! <!channel> ", 
+    "ts": "1542154708.001600", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC37PD6D", 
+    "replies": [
+      {
+        "user": "UCC0GL52N", 
+        "ts": "1542154812.001800"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1542156332.002200"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "6978CD99-0099-4F18-8489-2A17F633DFC2", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "UCBDA2GGH"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "zzz", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "My bad :joy: Imm half asleep. Ignore that", 
+    "ts": "1542071778.003300", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d868fcd8-f874-4510-a18b-2108ea88e616", 
+    "text": "Yea I def can't make it tonight ", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1542069234.002900"
+  }, 
+  {
+    "client_msg_id": "62acebdf-7739-45f8-a9f8-ab4ffd9f58a0", 
+    "text": "Isn\u2019t this supposed to be tuesday?", 
+    "type": "message", 
+    "user": "U6YGZN9HD", 
+    "ts": "1542069183.002300"
+  }, 
+  {
+    "client_msg_id": "22C275F4-DFD8-49E4-AF99-578F1341675A", 
+    "text": "<!channel> Rehearsal downstairs in 5. Come show your support for Megan! She took time out of her schedule to choreograph for us.", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1541553981.004800"
+  }, 
+  {
+    "client_msg_id": "f6876860-08bb-4349-9da7-d210b13f4b4a", 
+    "thread_ts": "1541541009.002200", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "joy", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "We just might! I did talk to Dan and he is down to be a guest choreographer as well.", 
+    "ts": "1541545100.002600", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "9366ed60-3d49-408c-ba09-bac5e18cd624", 
+    "thread_ts": "1541541009.002200", 
+    "latest_reply": "1541545100.002600", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "We should have a future session with dancing Dan. :dancing-dan:", 
+    "ts": "1541541009.002200", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1541545100.002600"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "ba957163-493b-4bd0-abfa-188039178cbe", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "megan", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YGZN9HD", 
+          "UCD1JMBMM"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YGZN9HD", 
+          "UCD1JMBMM"
+        ]
+      }, 
+      {
+        "count": 3, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GL52N", 
+          "U6YGZN9HD", 
+          "UCD1JMBMM"
+        ]
+      }
+    ], 
+    "text": "<!channel> Megan\u2019s going to be leading today\u2019s meeting (@5:30pm downstairs). Drop by to learn something cool from her!", 
+    "ts": "1541527634.000900", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8MP28D9S", 
+    "ts": "1541435300.000200", 
+    "text": "<@U8MP28D9S> has left the channel"
+  }, 
+  {
+    "client_msg_id": "50596950-d5fa-442b-afed-b1a64994bdb0", 
+    "text": "sorry missed dance practice. could anyone fill me in on what I missed?", 
+    "type": "message", 
+    "user": "UCBD9KCQH", 
+    "ts": "1541088422.000400"
+  }, 
+  {
+    "client_msg_id": "00A2E8CF-8017-4459-97A5-44E8BA66800D", 
+    "text": "<!channel> we\u2019re starting soon so get down here if you\u2019re coming", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540946317.002100"
+  }, 
+  {
+    "client_msg_id": "F1EF42F7-65FD-4D3E-8330-6598218FE107", 
+    "text": "Ok", 
+    "type": "message", 
+    "user": "UCBS8JUHH", 
+    "ts": "1540945358.001500"
+  }, 
+  {
+    "client_msg_id": "F9EBC96E-E401-4758-ACC2-81F908CA182E", 
+    "text": "<!channel> meeting downstairs in 10", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540945092.001300"
+  }, 
+  {
+    "client_msg_id": "B6709DB9-2D48-45E6-9F3A-F62E831D8CB3", 
+    "edited": {
+      "user": "UCC37PD6D", 
+      "ts": "1540945073.000000"
+    }, 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "100", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "There will be a meeting at 5:30pm today!", 
+    "ts": "1540922278.000400", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U6X9L8VAN", 
+    "ts": "1540780719.000200", 
+    "text": "<@U6X9L8VAN> has left the channel"
+  }, 
+  {
+    "client_msg_id": "fe8a23b8-56fe-44a8-b6db-7245c9a41c2a", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "pumpkin", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 2, 
+        "name": "ok_hand", 
+        "users": [
+          "UCC37PD6D", 
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "Also I might do crazy makeup...", 
+    "ts": "1540691524.005100", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7F627C8C-330C-4689-8A89-DA5E87FC4377", 
+    "text": "yeah it is", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540691482.004000"
+  }, 
+  {
+    "client_msg_id": "44b54813-0cab-4cbe-af7a-f49fa1d12860", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "money_with_wings", 
+        "users": [
+          "UCC0GL52N"
+        ]
+      }
+    ], 
+    "text": "You gotta do that btw otherwise tickets are like $300", 
+    "ts": "1540691143.003500", 
+    "user": "UCC0GD5V0", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "d0a1b545-231d-47fa-ab97-9556332ee8c3", 
+    "text": "Yea I got that too.", 
+    "type": "message", 
+    "user": "UCC0GD5V0", 
+    "ts": "1540691104.002700"
+  }, 
+  {
+    "client_msg_id": "31030171-dab8-43e8-8c34-cd4fb74dc0a3", 
+    "text": "Hey <@UCC37PD6D> They texted me that it is $10 before 10pm is that what you have?", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1540691000.002400"
+  }, 
+  {
+    "client_msg_id": "0ccd1655-3571-4ef6-8c8a-1946ab6d9ba0", 
+    "text": "yass!", 
+    "type": "message", 
+    "user": "UCC0GL52N", 
+    "ts": "1540690681.001500"
+  }, 
+  {
+    "client_msg_id": "BB786B8D-4728-42A9-9B9E-66066AD18051", 
+    "text": "also if you text CITYNIGHTS to 95577 you\u2019ll get a free ticket to enter before 10", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540690681.001400"
+  }, 
+  {
+    "client_msg_id": "86F19013-B91C-4F4B-80CB-9329532DA20A", 
+    "text": "haha come to rm 107 around 8.30/9 if you wanna go to city nights tonight and feel free to bring some drinks  <!channel> ", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1540690592.001100"
+  }, 
+  {
+    "client_msg_id": "EFF679D4-829B-4CBC-9AA6-CE8158F3958A", 
+    "thread_ts": "1540600151.001300", 
+    "text": "haha sure why not. Just to chill though. ", 
+    "ts": "1540690487.000800", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "36a9f33e-2604-4bee-8d2d-44f91b63a928", 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "rolling_on_the_floor_laughing", 
+        "users": [
+          "UCBLQTD7V", 
+          "UCC0GD5V0", 
+          "UCC0H4UJE", 
+          "UCC0GL52N"
+        ]
+      }, 
+      {
+        "count": 5, 
+        "name": "fire", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCBD9KCQH", 
+          "UCC0H4UJE", 
+          "UCC0GL52N", 
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Fair warning: I get _down_", 
+    "ts": "1540600683.001800", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "ac9235ee-1f66-4f39-b47b-862e19c5ae43", 
+    "edited": {
+      "user": "UCC0GL52N", 
+      "ts": "1540601100.000000"
+    }, 
+    "latest_reply": "1540690487.000800", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "thread_ts": "1540600151.001300", 
+    "text": "To practice our dance? :thinking_face: #FlashMob", 
+    "ts": "1540600151.001300", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1540690487.000800"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "D4B0B444-BD0F-4F2F-A9B0-86EB1BF7B98A", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCBD9KCQH"
+        ]
+      }
+    ], 
+    "text": "Do any of you guys wanna go to city nights tomorrow? <http://sfclubs.com/city-nights|sfclubs.com/city-nights>", 
+    "ts": "1540599002.000800", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "004a45a8-8646-428f-86dd-9d22ece4c5eb", 
+    "attachments": [
+      {
+        "thumb_height": 360, 
+        "thumb_url": "https://i.ytimg.com/vi/-Nu2lmHltIs/hqdefault.jpg", 
+        "thumb_width": 480, 
+        "author_link": "https://www.youtube.com/user/DanceTutorialsLIVE", 
+        "service_name": "YouTube", 
+        "original_url": "https://www.youtube.com/watch?v=-Nu2lmHltIs", 
+        "video_html_width": 400, 
+        "author_name": "DANCE TUTORIALS", 
+        "title_link": "https://www.youtube.com/watch?v=-Nu2lmHltIs", 
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-Nu2lmHltIs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>", 
+        "video_html_height": 225, 
+        "service_url": "https://www.youtube.com/", 
+        "from_url": "https://www.youtube.com/watch?v=-Nu2lmHltIs", 
+        "title": "\"CONTROLLA\" - Drake Dance TUTORIAL | @MattSteffanina Choreography | DANCE TUTORIALS LIVE", 
+        "fallback": "YouTube Video: \"CONTROLLA\" - Drake Dance TUTORIAL | @MattSteffanina Choreography | DANCE TUTORIALS LIVE", 
+        "service_icon": "https://a.slack-edge.com/2089/img/unfurl_icons/youtube.png", 
+        "id": 1
+      }
+    ], 
+    "text": "Recap from last meeting for those of you that couldn\u2019t make it. We started this tutorial: <https://www.youtube.com/watch?v=-Nu2lmHltIs> and made it up to around 4.38. We will be reviewing more next week and move forward once we all feel comfortable with this first part. Try to practice a bit if you guys find the time! :slightly_smiling_face:", 
+    "ts": "1540434418.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@U6X9L8VAN> has joined the channel", 
+    "ts": "1540413638.000200", 
+    "subtype": "channel_join", 
+    "user": "U6X9L8VAN", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCB8YJNBT> has joined the channel", 
+    "ts": "1540404635.000200", 
+    "subtype": "channel_join", 
+    "user": "UCB8YJNBT", 
+    "type": "message", 
+    "inviter": "UCBS8JUHH"
+  }, 
+  {
+    "client_msg_id": "9E73BF4A-CB10-47B4-A3AF-45E3E57B936A", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "ok_hand", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "text": "Oh sorry I missed this one! See you next time :sunglasses: ", 
+    "ts": "1540364651.000100", 
+    "user": "UCBDA2GGH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDLU1UCP4", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDLU1UCP4/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4202731, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_800.jpg", 
+        "timestamp": 1540346039, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDLU1UCP4/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_1024.jpg", 
+        "user": "UCBS8JUHH", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDLU1UCP4-55d5344631", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS8JUHH/FDLU1UCP4/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1540346039, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLU1UCP4-f2278632ca/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 5, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBLQTD7V", 
+          "UCBDA2GGH", 
+          "UCC0GD5V0", 
+          "UCD1JMBMM"
+        ]
+      }
+    ], 
+    "ts": "1540346048.000100", 
+    "text": "", 
+    "upload_reply_to": "8489E1A8-D87F-4832-A051-1377A71C85EB", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDLP0TSUU", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDLP0TSUU/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4373499, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_800.jpg", 
+        "timestamp": 1540346024, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDLP0TSUU/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_1024.jpg", 
+        "user": "UCBS8JUHH", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDLP0TSUU-49d494a12a", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS8JUHH/FDLP0TSUU/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1540346024, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLP0TSUU-a0fb2a46cf/image_from_ios_720.jpg"
+      }
+    ], 
+    "reactions": [
+      {
+        "count": 4, 
+        "name": "ok_hand", 
+        "users": [
+          "UCC37PD6D", 
+          "UCBLQTD7V", 
+          "UCBDA2GGH", 
+          "UCD1JMBMM"
+        ]
+      }
+    ], 
+    "ts": "1540346030.000100", 
+    "text": "", 
+    "upload_reply_to": "77B2B8FC-E76B-4168-8533-C05850DF77B2", 
+    "upload": true, 
+    "display_as_bot": false, 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "files": [
+      {
+        "thumb_480_w": 480, 
+        "filetype": "jpg", 
+        "thumb_800_h": 600, 
+        "thumb_480": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_480.jpg", 
+        "display_as_bot": false, 
+        "thumb_800_w": 800, 
+        "id": "FDLA8KKED", 
+        "thumb_480_h": 360, 
+        "original_h": 3024, 
+        "thumb_360_w": 360, 
+        "title": "Image from iOS", 
+        "url_private": "https://files.slack.com/files-pri/T1D4KRBR8-FDLA8KKED/image_from_ios.jpg", 
+        "thumb_720_h": 540, 
+        "thumb_360": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_360.jpg", 
+        "thumb_64": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_64.jpg", 
+        "thumb_720_w": 720, 
+        "thumb_80": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_80.jpg", 
+        "thumb_360_h": 270, 
+        "size": 4176244, 
+        "external_type": "", 
+        "username": "", 
+        "thumb_800": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_800.jpg", 
+        "timestamp": 1540346011, 
+        "public_url_shared": false, 
+        "editable": false, 
+        "thumb_160": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_160.jpg", 
+        "url_private_download": "https://files.slack.com/files-pri/T1D4KRBR8-FDLA8KKED/download/image_from_ios.jpg", 
+        "thumb_1024": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_1024.jpg", 
+        "user": "UCBS8JUHH", 
+        "image_exif_rotation": 1, 
+        "thumb_960": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_960.jpg", 
+        "is_public": true, 
+        "is_starred": false, 
+        "pretty_type": "JPEG", 
+        "is_external": false, 
+        "mimetype": "image/jpeg", 
+        "permalink_public": "https://slack-files.com/T1D4KRBR8-FDLA8KKED-be4bc004a0", 
+        "permalink": "https://makeschoolstudents.slack.com/files/UCBS8JUHH/FDLA8KKED/image_from_ios.jpg", 
+        "name": "Image from iOS.jpg", 
+        "created": 1540346011, 
+        "thumb_1024_h": 768, 
+        "thumb_960_h": 720, 
+        "original_w": 4032, 
+        "thumb_960_w": 960, 
+        "thumb_1024_w": 1024, 
+        "mode": "hosted", 
+        "has_rich_preview": false, 
+        "thumb_720": "https://files.slack.com/files-tmb/T1D4KRBR8-FDLA8KKED-3056431ab3/image_from_ios_720.jpg"
+      }
+    ], 
+    "text": "", 
+    "upload_reply_to": "640CD649-10E1-4B7B-85F2-6D4C6A1D28BC", 
+    "ts": "1540346017.000100", 
+    "display_as_bot": false, 
+    "upload": true, 
+    "user": "UCBS8JUHH", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCDAETD5L", 
+    "ts": "1540334134.000200", 
+    "text": "<@UCDAETD5L> has left the channel"
+  }, 
+  {
+    "client_msg_id": "77A09673-E6B2-4445-A9E0-9A809F5507D9", 
+    "reactions": [
+      {
+        "count": 3, 
+        "name": "carlton", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0H4UJE", 
+          "UCBDA2GGH"
+        ]
+      }
+    ], 
+    "text": "First rehearsal at 5:30 today downstairs <!channel> ", 
+    "ts": "1540330459.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "7A4DEA2B-7782-4155-B239-5FDA822844E3", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "+1::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }
+    ], 
+    "text": "We\u2019ll be meeting Tuesdays at 5:30pm for now (starting tomorrow). Let me know if that doesn\u2019t work for you.", 
+    "ts": "1540237456.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "UCB8T1AG0", 
+    "ts": "1540236221.000200", 
+    "text": "<@UCB8T1AG0> has left the channel"
+  }, 
+  {
+    "client_msg_id": "42d6b86f-4bd8-418a-97a9-2e002bc7aa8b", 
+    "text": "<!channel> reminder we are meeting in the great hall in 10 minutes!", 
+    "type": "message", 
+    "user": "UCC0H4UJE", 
+    "ts": "1540236011.000100"
+  }, 
+  {
+    "client_msg_id": "87a1e1f7-9730-44a1-bd04-184adcf4a414", 
+    "thread_ts": "1540172198.000100", 
+    "text": "<@UCC0GD5V0> aw, no worries. Thanks for letting me know. I hope you feel better!", 
+    "ts": "1540180425.000100", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "85f82535-fc0b-4bdb-9291-d5774cb06e3e", 
+    "thread_ts": "1540172198.000100", 
+    "text": "I'm sick and probably won't make it :(", 
+    "ts": "1540173542.000100", 
+    "user": "UCC0GD5V0", 
+    "parent_user_id": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "177D1FA6-9BC2-49D4-B45C-628B77A8BA18", 
+    "thread_ts": "1540172198.000100", 
+    "latest_reply": "1540180425.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC0GD5V0", 
+      "UCC37PD6D"
+    ], 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "pikachu", 
+        "users": [
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "<!channel> *mandatory* meeting tomorrow at 12:30pm in the Great Hall. It will last around 5-10mins. We\u2019re going to decide on a meeting time that works for everyone. \n\nYou\u2019re still welcome to come to rehearsals if you don\u2019t show up to this meeting, but I need a head count for who really wants to be a part of this and I want to make sure the rehearsal day/time works for you if you\u2019re interested.\n\nUpdates from the Friday meeting: Megan\u2019s going to be one of our choreographers. Our rehearsal will *not* be over an hour, and will be only once a week.\n\nI apologize for the amount of messages sent in this channel. It will be geared more towards dance related events/club trips starting tomorrow. ", 
+    "ts": "1540172198.000100", 
+    "type": "message", 
+    "reply_count": 2, 
+    "user": "UCC37PD6D", 
+    "replies": [
+      {
+        "user": "UCC0GD5V0", 
+        "ts": "1540173542.000100"
+      }, 
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1540180425.000100"
+      }
+    ], 
+    "reply_users_count": 2
+  }, 
+  {
+    "client_msg_id": "0be842d4-31ca-4b01-82ac-65a34ef6fe11", 
+    "text": "Also, today\u2019s meeting is cancelled.", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1539896433.000100"
+  }, 
+  {
+    "client_msg_id": "f49309cc-9350-4137-bffd-082fba473b13", 
+    "text": "<!channel> Hey guys. I have good news: _we got the downstairs space_. However, we need to figure out a time to meet regularly. Let\u2019s meet in the Great Hall for *10 minutes* to figure out what works with all of your schedules at *12:30pm*!", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1539896411.000100"
+  }, 
+  {
+    "client_msg_id": "05756716-678F-4E4E-9446-33B6CEAB960B", 
+    "text": "<!channel> if you\u2019re available Thursday at 6 for a meeting, emoji up this post", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1539715279.000100"
+  }, 
+  {
+    "client_msg_id": "38eb35d7-dbe0-4e8e-9a1f-b11b41079d2c", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "heart_eyes", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "thumb_height": 728, 
+        "thumb_url": "https://i.imgur.com/MfORvtXh.jpg", 
+        "thumb_width": 720, 
+        "video_url": "https://i.imgur.com/MfORvtX.mp4", 
+        "title": "Woah dude, save some for the rest of us", 
+        "service_name": "Imgur", 
+        "original_url": "https://i.imgur.com/MfORvtX.gifv", 
+        "video_html_width": 720, 
+        "title_link": "https://i.imgur.com/MfORvtX.gifv", 
+        "video_html": "<video poster=\"https://i.imgur.com/MfORvtXh.jpg\" src=\"https://i.imgur.com/MfORvtX.mp4\" width=\"720\" height=\"728\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline></video>", 
+        "video_html_height": 728, 
+        "from_url": "https://i.imgur.com/MfORvtX.gifv", 
+        "fallback": "Imgur: Woah dude, save some for the rest of us", 
+        "service_icon": "https://i.imgur.com/favicon.ico", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://i.imgur.com/MfORvtX.gifv>", 
+    "ts": "1538767101.000100", 
+    "user": "UCC0H4UJE", 
+    "type": "message"
+  }, 
+  {
+    "subtype": "channel_leave", 
+    "type": "message", 
+    "user": "U8M6VPKUZ", 
+    "ts": "1538161369.000200", 
+    "text": "<@U8M6VPKUZ> has left the channel"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "U8NHWGBGW", 
+    "ts": "1538150578.000200", 
+    "text": "<@U8NHWGBGW> has joined the channel"
+  }, 
+  {
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "UCC37PD6D"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 1718635, 
+        "footer": "Posted using /giphy", 
+        "title": "dance class", 
+        "image_width": 400, 
+        "title_link": "https://giphy.com/gifs/hulu-fox-the-mindy-project-26uf68LgjAMAj2a9a", 
+        "image_height": 275, 
+        "image_url": "https://media3.giphy.com/media/26uf68LgjAMAj2a9a/giphy-downsized.gif", 
+        "fallback": "giphy: https://giphy.com/gifs/hulu-fox-the-mindy-project-26uf68LgjAMAj2a9a", 
+        "id": 1, 
+        "is_animated": true
+      }
+    ], 
+    "text": "", 
+    "ts": "1538115004.000100", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "bot_id": "B29P0SV09"
+  }, 
+  {
+    "client_msg_id": "65fe8b41-4242-4c89-a5ed-65f861087f76", 
+    "reactions": [
+      {
+        "count": 2, 
+        "name": "dancer::skin-tone-2", 
+        "users": [
+          "UCC0GD5V0", 
+          "UCC0H4UJE"
+        ]
+      }
+    ], 
+    "text": "Meeting summary: We\u2019re going to have a lot of fun. We\u2019ll learn different dance forms from each other and/or with each other. Megan might teach us some jazz dancing. We can go to events/clubs/etc. We might get Dan to join us sometimes, too. Also, I\u2019m still figuring out location logistics, but I\u2019ll hit you guys up when that\u2019s sorted out. :slightly_smiling_face:", 
+    "ts": "1538114754.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "05d1c59c-687f-4b91-809e-a895e88eb5c5", 
+    "text": "<!channel> let\u2019s meet at 6:30 at vantaggio instead!", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1538090056.000100"
+  }, 
+  {
+    "client_msg_id": "0F9BDDB1-2AD3-424E-B2B1-20B76789C425", 
+    "thread_ts": "1538089538.000100", 
+    "text": "<@UCC0GL52N> There is actually class until 5:20... are you sure its closing at 5?", 
+    "ts": "1538089857.000100", 
+    "user": "UCC37PD6D", 
+    "parent_user_id": "UCC0GL52N", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "11DBA48F-E963-4192-BD40-9DC1EFF79ABB", 
+    "thread_ts": "1538089538.000100", 
+    "latest_reply": "1538089857.000100", 
+    "subscribed": false, 
+    "reply_users": [
+      "UCC37PD6D"
+    ], 
+    "text": "Hey, today it's closing at 5pm. We can't meet at the school. Stacy says we should meet at the dorms ", 
+    "ts": "1538089538.000100", 
+    "type": "message", 
+    "reply_count": 1, 
+    "user": "UCC0GL52N", 
+    "replies": [
+      {
+        "user": "UCC37PD6D", 
+        "ts": "1538089857.000100"
+      }
+    ], 
+    "reply_users_count": 1
+  }, 
+  {
+    "client_msg_id": "9208f9b3-e841-4a77-a3b0-9cad61f9acc0", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing-dan", 
+        "users": [
+          "UCC0GD5V0"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }, 
+      {
+        "count": 1, 
+        "name": "carlton", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "<!channel> Alright guys lets meet Thursday 5:30pm in the new, quiet room downstairs (ask <@U6YGZN9HD> if you can\u2019t find it)", 
+    "ts": "1537911064.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "DFDEEAE0-ED92-49DD-B660-1C967F91F4F0", 
+    "text": "Yo guys please fill out the poll by tomorrow night!", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1537843004.000100"
+  }, 
+  {
+    "client_msg_id": "6c7628f0-8a56-4321-b33f-f29c9093a41e", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "attachments": [
+      {
+        "image_bytes": 6864, 
+        "original_url": "https://doodle.com/poll/ifz2q54vvxfsrhxd", 
+        "text": "This is just for the 1st meeting.", 
+        "title": "Doodle: Dance Club 1st Meeting", 
+        "image_width": 300, 
+        "title_link": "https://doodle.com/poll/ifz2q54vvxfsrhxd", 
+        "image_height": 200, 
+        "image_url": "https://doodle.com/graphics/static/facebookSharingThumbnail.png", 
+        "service_name": "doodle.com", 
+        "from_url": "https://doodle.com/poll/ifz2q54vvxfsrhxd", 
+        "fallback": "Doodle: Dance Club 1st Meeting", 
+        "service_icon": "https://cdn2.doodle.com/dist/i/7479b568749fca315a2969e30cbee4f5.png", 
+        "id": 1
+      }
+    ], 
+    "text": "<https://doodle.com/poll/ifz2q54vvxfsrhxd>", 
+    "ts": "1537496982.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "client_msg_id": "92fab26e-cfa3-4b4e-99a7-1ef8440b4725", 
+    "reactions": [
+      {
+        "count": 1, 
+        "name": "dancing_penguin", 
+        "users": [
+          "U6YGZN9HD"
+        ]
+      }
+    ], 
+    "text": "Hey guys, just an update. Megan\u2019s trying to figure out what location we all can have to do this thing. Meanwhile, I\u2019ll be making a poll so we can decide a time for our first meeting and decide what we all want this club to be. So just keep thinking about what you want this club to be/what you want to get out of it.", 
+    "ts": "1537496833.000100", 
+    "user": "UCC37PD6D", 
+    "type": "message"
+  }, 
+  {
+    "text": "<@UCBS8JUHH> has joined the channel", 
+    "ts": "1537473539.000200", 
+    "subtype": "channel_join", 
+    "user": "UCBS8JUHH", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@U6YGZN9HD> has joined the channel", 
+    "ts": "1537315391.000200", 
+    "subtype": "channel_join", 
+    "user": "U6YGZN9HD", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@U8MP28D9S> has joined the channel", 
+    "ts": "1536963824.000200", 
+    "subtype": "channel_join", 
+    "user": "U8MP28D9S", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCB8T1AG0> has joined the channel", 
+    "ts": "1536963823.002000", 
+    "subtype": "channel_join", 
+    "user": "UCB8T1AG0", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@U6XA0UA10> has joined the channel", 
+    "ts": "1536963823.001800", 
+    "subtype": "channel_join", 
+    "user": "U6XA0UA10", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCBD9KCQH> has joined the channel", 
+    "ts": "1536963823.001600", 
+    "subtype": "channel_join", 
+    "user": "UCBD9KCQH", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCC0GL52N> has joined the channel", 
+    "ts": "1536963823.001400", 
+    "subtype": "channel_join", 
+    "user": "UCC0GL52N", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCBLQTD7V> has joined the channel", 
+    "ts": "1536963823.001200", 
+    "subtype": "channel_join", 
+    "user": "UCBLQTD7V", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCBDS5T0R> has joined the channel", 
+    "ts": "1536963823.001000", 
+    "subtype": "channel_join", 
+    "user": "UCBDS5T0R", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCC0H4UJE> has joined the channel", 
+    "ts": "1536963823.000800", 
+    "subtype": "channel_join", 
+    "user": "UCC0H4UJE", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCC4RHFU5> has joined the channel", 
+    "ts": "1536963823.000600", 
+    "subtype": "channel_join", 
+    "user": "UCC4RHFU5", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCC0GD5V0> has joined the channel", 
+    "ts": "1536963823.000400", 
+    "subtype": "channel_join", 
+    "user": "UCC0GD5V0", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@U8M6VPKUZ> has joined the channel", 
+    "ts": "1536963823.000200", 
+    "subtype": "channel_join", 
+    "user": "U8M6VPKUZ", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCDAKSB7Y> has joined the channel", 
+    "ts": "1536963822.000800", 
+    "subtype": "channel_join", 
+    "user": "UCDAKSB7Y", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCBDA2GGH> has joined the channel", 
+    "ts": "1536963822.000600", 
+    "subtype": "channel_join", 
+    "user": "UCBDA2GGH", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCDAETD5L> has joined the channel", 
+    "ts": "1536963822.000400", 
+    "subtype": "channel_join", 
+    "user": "UCDAETD5L", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCD1JMBMM> has joined the channel", 
+    "ts": "1536963822.000200", 
+    "subtype": "channel_join", 
+    "user": "UCD1JMBMM", 
+    "type": "message", 
+    "inviter": "UCC37PD6D"
+  }, 
+  {
+    "text": "<@UCC37PD6D> set the channel purpose: Dance Like There\u2019s No Tomorrow", 
+    "ts": "1536963681.000300", 
+    "subtype": "channel_purpose", 
+    "user": "UCC37PD6D", 
+    "type": "message", 
+    "purpose": "Dance Like There\u2019s No Tomorrow"
+  }, 
+  {
+    "subtype": "channel_join", 
+    "type": "message", 
+    "user": "UCC37PD6D", 
+    "ts": "1536963681.000200", 
+    "text": "<@UCC37PD6D> has joined the channel"
+  }
+]
