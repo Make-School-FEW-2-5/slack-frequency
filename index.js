@@ -1,5 +1,5 @@
 import * as d3 from 'd3'
-import * as data from './data/ux-words.json'
+import * as data from './data.json'
 import Controller from './controller'
 
 const canvasWidth = 910,
@@ -107,6 +107,8 @@ init()
 draw()
 
 function init() {
+  console.log('init');
+  
     d3.select('#word-button')
         .on('click', function() {
             parseWord()
@@ -248,7 +250,7 @@ function topic(topic) {
     topic.count = 0;
     topic.mentions = [];
 
-    data.articles.forEach(function(article, idx) {
+    data.channels.forEach(function(article, idx) {
         var text = article.text,
             match,
             localCount = 0;
@@ -262,7 +264,7 @@ function topic(topic) {
 
         if(localCount > 0) {
             topic.mentions.push({
-                title: article.title,
+                channel: article.channel,
                 index: idx,
                 count: localCount
             });
